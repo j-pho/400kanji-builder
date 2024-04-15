@@ -7,7 +7,7 @@ import (
 )
 
 // $ go build
-// $ ./400kanji
+// $ ./400kanji-builder
 
 func main() {
 	const (
