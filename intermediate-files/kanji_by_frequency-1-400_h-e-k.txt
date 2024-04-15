@@ -1,0 +1,4018 @@
+#separator:tab
+#html:false
+どうじつ	the same day	同日	
+にちべい	Japan-America	日米	
+にほんじん, にっぽんじん	Japanese person, Japanese people	日本人	
+まいにち	every day	毎日	
+ぜんじつ, まえび	previous day, the day before	前日	
+ぜんじつ	all days	全日	
+にってい	schedule, program, programme, agenda	日程	
+にほんご, にっぽんご	Japanese (language)	日本語	
+こんにち, きょう, こんち, こんじつ	today, this day	今日	
+ひとつ	one; for one thing (often used in itemized lists); (after a noun) only; (with a verb in negative form) (not) even; just (i.e. "just try it")	一つ	
+いちがつ	January	一月	
+いっぱん	general, liberal, universal, ordinary, average	一般	
+いちばん	best, first, number one; game, round, bout, fall, event (in a meet)	一番	
+いちぶ	one part, one portion, one section, some; one copy (e.g. of a document)	一部	
+いっぽう	one (esp. of two), the other, one way, the other way, one direction, the other direction, one side, the other side, one party, the other party; on the one hand, on the other hand; whereas, although, but at the same time, meanwhile, in turn; (after noun, adjective-stem or plain verb) just keeps, being inclined to ..., tending to be ..., tending to do ..., ntinuously ..., just keeps on ...ing, only	一方	
+じゅういち, ジュウイチ	11, eleven; Hodgson's hawk-cuckoo (Cuculus fugax)	十一	
+じゅういちがつ	November	十一月	
+とういつ	unity, consolidation, uniformity, unification, compatible	統一	
+いちじ, いっとき	one hour, short time, once, a time, temporarily, at one time, twelfth part of a day	一時	
+くに	country, (the) state; region; province (of Japan); home (i.e. hometown, home country); land, earth	国	
+がいこく	foreign country	外国	
+がいこくじん	foreigner	外国人	
+かんこく	(South) Korea	韓国	
+こっか	state, country, nation	国家	
+こっかい	National Diet, parliament, congress	国会	
+こくさい	international	国際	
+こくない	internal, domestic	国内	
+こくみん	nation, nationality, people, citizen	国民	
+こくれん	UN, United Nations	国連	
+いいんかい	committee, commission, board, panel, committee meeting	委員会	
+かいいん	member, the membership	会員	
+かいぎ	meeting, conference, session, assembly, council, convention, congress	会議	
+かいけん	interview, audience	会見	
+かいしゃ	company, corporation; workplace	会社	
+かいだん	conversation, conference, discussion, interview	会談	
+かいちょう	president (of a society), chairman	会長	
+ぎかい	Diet, congress, parliament	議会	
+きょうかい	association, society, organization, organisation	協会	
+こっかい	National Diet, parliament, congress	国会	
+がいこくじん	foreigner	外国人	
+こじん	individual, private person, personal, private	個人	
+さんにん, みたり	three people	三人	
+にんげん	human being, man, person; character (of a person)	人間	
+にんき	popular, popular feeling, business conditions	人気	
+じんこう	population; common talk	人口	
+にほんじん, にっぽんじん	Japanese person, Japanese people	日本人	
+ひとびと, にんにん	each person, people, men, human, everybody	人々	
+ふたり, ににん	two persons, two people, pair, couple	二人	
+しょうにん	witness	証人	
+とし	year; age	年	
+さくねん	last year	昨年	
+ぜんねん	the preceding year, the previous year, last year	前年	
+ねんかん	year (period of)	年間	
+らいねん	next year	来年	
+ことし, こんねん	this year	今年	
+しゅうねん	whole year, anniversary	周年	
+しょうねん	boys, juveniles	少年	
+ねんきん	annuity, pension	年金	
+ねんせい	pupil in ... year, student in ... year	年生	
+おおきな	big, large, great	大きな	
+かくだい	magnification, enlargement, expansion	拡大	
+さいだい	greatest, largest, maximum	最大	
+おおいに	very, much, greatly, a lot of	大いに	
+たいかい	convention, tournament, mass meeting, rally	大会	
+だいがく	post-secondary education institution, incl. university, college, etc.; the Great Learning - one of the Four Books	大学	
+おおて, おおで	front castle gate; both arms open, outstretched arms; major companies	大手	
+おおくらしょう	(former) Ministry of Finance (succeeded by zaimushou in 2000)	大蔵省	
+だいとうりょう	president, chief executive	大統領	
+おおはば	full width, large scale, drastic	大幅	
+じゅう, と, とお	10, ten	十	
+じゅういち, ジュウイチ	11, eleven; Hodgson's hawk-cuckoo (Cuculus fugax)	十一	
+じゅういちがつ	November	十一月	
+じゅうきゅう	19, nineteen	十九	
+じゅうがつ	October	十月	
+じゅうご	15, fifteen	十五	
+じゅうさん	13, thirteen	十三	
+じゅうに	12, twelve	十二	
+じゅうにがつ	December	十二月	
+じゅうはち	18, eighteen	十八	
+に, ふた, ふ, ふう	two	二	
+ふたつ	two	二つ	
+じゅうに	12, twelve	十二	
+じゅうにがつ	December	十二月	
+にがつ	February	二月	
+ふたり, ににん	two persons, two people, pair, couple	二人	
+にひゃく	two hundred, 200	二百	
+にし	two out (e.g. in baseball), two down (and one to go)	二死	
+にるい	second base	二塁	
+にるいだ	two-base hit, double	二塁打	
+きほん	foundation, basis, standard	基本	
+にほんじん, にっぽんじん	Japanese person, Japanese people	日本人	
+ほんしゃ, ほんじゃ	head office, main office, headquarters; main shrine; this company, this shrine	本社	
+ほんぶ	headquarters	本部	
+ほんの	mere, only, just	本の	
+にほんご, にっぽんご	Japanese (language)	日本語	
+ほんかいぎ	plenary session, regular session	本会議	
+ほんにん	the person himself	本人	
+ほんとう, ほんと	truth, reality	本当	
+ほんるいだ	home run (baseball)	本塁打	
+ちゅうおう	centre, central, center, middle	中央	
+ちゅうごく	China; South-west most region of Honshu, middle of a country, the Hiroshima area	中国	
+ちゅうしん	center, centre, middle, heart, core, focus, pivot, emphasis, balance	中心	
+なかでも	among (other things), inter alia; above all (else)	中でも	
+ちゅうかん	middle, midway, interim	中間	
+ちゅうとう	Middle East	中東	
+とちゅう	on the way, en route; in the middle of, midway	途中	
+しゅうちゅう	concentration, convergence, centralization, integration, gathering together	集中	
+ちゅうがく	middle school, junior high school	中学	
+ちゅうがくせい	junior high school student, middle school pupil	中学生	
+ちょう, おさ	chief, head	長	
+いいんちょう	committee chairman	委員長	
+かいちょう	president (of a society), chairman	会長	
+ぎちょう	chairman, speaker (e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup)	議長	
+しゃちょう	company president, manager, director	社長	
+せいちょう	growth, grow to adulthood	成長	
+ちょうかん	secretary (government), director, chief	長官	
+ちょうなん	eldest son	長男	
+ぶちょう	head (chief, director) of a section or department; head of a (school) club, head of a (school) team	部長	
+えんちょう	extension, elongation, prolongation, lengthening; Enchou era (923.4.11-931.4.26)	延長	
+だす	to take out, to get out; to put out, to reveal, to show; to submit (e.g. thesis), to turn in; to publish, to make public; to send (e.g. letter); to produce (a sound), to start (fire); to serve (food); to begin	出す	
+しゅっしん	person's origin (town, city, country, etc.); institution from which one graduated; director in charge of employee relations	出身	
+ゆしゅつ, しゅしゅつ	export; efferent (medical)	輸出	
+しゅつじょう	(stage) appearance, participation, performance	出場	
+しんしゅつ	advance, step forward	進出	
+で	coming out, going out, outflow, efflux, rising (of the sun or moon); attending (work), appearing (on stage), one's turn to go on; start, beginning; origins, background, person (or item) originating from ..., graduate of ..., native of ..., member of ... (lineage); architectural member that projects outward; highest point of the stern of a ship; amount (comprising something), amount of time or effort required to do something	出	
+えんしゅつ	production (e.g. play), direction	演出	
+しゅつえん	performance, stage appearance; to act (in a play)	出演	
+しゅっせき	attendance, presence, appearance; to attend, to be present, to appear	出席	
+しゅつば	going on horseback; going in person; running for election	出馬	
+さん, み	three	三	
+みっつ	three	三つ	
+さんがつ	March	三月	
+さんにん, みたり	three people	三人	
+じゅうさん	13, thirteen	十三	
+さんじゅう, みそ	thirty	三十	
+さんぜん	3000; many	三千	
+さんびゃく	300, three hundred; 300 mon, trifling amount, two-bit item; shyster	三百	
+みそか, つごもり, みそ	last day of month	三十日	
+さんるい	third base	三塁	
+どうじ	simultaneous(ly), concurrent, same time, synchronous, together	同時	
+どうしゃ	the same firm	同社	
+どうじつ	the same day	同日	
+きょうどう	doing together (as equals), sharing, common (land, etc.), joint (statement, etc.), cooperation, co-operation, collaboration, association	共同	
+どうし	same city	同市	
+きょうどうたい	cooperative body, cooperative system, collective, community	共同体	
+どうけん	the same prefecture	同県	
+どうこく	the same country, the same province, the said country	同国	
+どうしょう	the said ministry, the same ministry	同省	
+どうとう	the same political party	同党	
+とき	time, hour; occasion, moment	時	
+じかん	time; hours	時間	
+じき	time, season, period; soon, shortly	時期	
+じだい	period, epoch, era, age; the times, those days; oldness, ancientness, antiquity; antique, period piece	時代	
+とうじ	at that time, in those days	当時	
+どうじ	simultaneous(ly), concurrent, same time, synchronous, together	同時	
+いちじ, いっとき	one hour, short time, once, a time, temporarily, at one time, twelfth part of a day	一時	
+じじ	events of the day, current affairs	時事	
+じはん	about an hour, short time; half past (the hour)	時半	
+りんじ	temporary, special, extraordinary	臨時	
+まつりごと	rule, government	政	
+ぎょうせい	administration	行政	
+ざいせい	financial affairs, public finance	財政	
+せいかい	political world	政界	
+せいけん	(political) administration, political power	政権	
+せいさく	political measures, policy	政策	
+せいじ	politics, government	政治	
+せいじか	politician, statesman	政治家	
+せいとう	(member of) political party	政党	
+せいふ	government, administration	政府	
+こと	thing, matter, fact, circumstances, business, reason, experience	事	
+かんじ	executive secretary, coordinator, organizer, person in charge of making arrangements	幹事	
+きじ	article, news story, report, account	記事	
+ぐんじ	military affairs	軍事	
+しごと	work, job, business, occupation, employment, vocation, task; work	仕事	
+じぎょう	project, enterprise, business, industry, operations	事業	
+じけん	event, affair, incident, case, plot, trouble, scandal	事件	
+じこ	accident, incident, trouble; circumstances, reasons	事故	
+じじつ	fact, truth, reality	事実	
+じじょう	circumstances, consideration, conditions, situation, reasons	事情	
+みずから	for one's self, personally	自ら	
+じえいたい	self-defence force, self-defense force; Japan Self-Defence Force, JSDF	自衛隊	
+じしん	by oneself, personally	自身	
+しぜん	nature, spontaneity; naturally, spontaneously	自然	
+じたく	one's home	自宅	
+じどうしゃ	automobile	自動車	
+じぶん	myself, yourself, oneself, himself, herself; I, me	自分	
+じゆう	freedom, liberty, as it pleases you	自由	
+じみんとう	Liberal Democratic Party, LDP	自民党	
+じみん	Liberal Democratic Party, LDP	自民	
+おこなう	to perform, to do, to conduct oneself, to carry out	行う	
+ぎょう	line (i.e. of text), row, verse; carya (austerities); samskara (formations); running script (a semi-cursive style of kanji)	行	
+ぎんこう	bank	銀行	
+ぎょうせい	administration	行政	
+こうどう	action, conduct, behaviour, behavior, mobilization, mobilisation	行動	
+げんこう	present, current, in operation	現行	
+こうい	act, deed, conduct	行為	
+ゆくえ	(one's) whereabouts; course, direction	行方	
+はっこう	issue (publications), publishing; raising an event (software)	発行	
+りょこう	travel, trip	旅行	
+かいしゃ	company, corporation; workplace	会社	
+しゃかい	society, public	社会	
+しゃかいとう	Socialist Party	社会党	
+しゃちょう	company president, manager, director	社長	
+どうしゃ	the same firm	同社	
+ほんしゃ, ほんじゃ	head office, main office, headquarters; main shrine; this company, this shrine	本社	
+しゃいん	company employee; company stockholders (esp. in legal contexts), members of a corporation	社員	
+ふくしゃちょう	executive vice-president	副社長	
+みんしゃとう	Democratic Socialist Party	民社党	
+じしゃ	one's company, company one works for; in-house, belonging to the company	自社	
+いけん	opinion, view	意見	
+かいけん	interview, audience	会見	
+みなおし	review, reconsideration, revision	見直し	
+みかた	viewpoint	見方	
+みとおし	perspective, unobstructed view, outlook, forecast, prospect, insight, foresight, visibility	見通し	
+けんかい	opinion, point of view	見解	
+みこみ	forecast, prospects, expectation, hope	見込み	
+はっけん	discovery, detection, finding	発見	
+みごと	splendid, magnificent, beautiful, admirable; praiseworthy act, feat, commendable deed	見事	
+みつかる	to be found, to be discovered	見つかる	
+いちがつ	January	一月	
+くがつ	September	九月	
+ごがつ	May	五月	
+こんげつ	this month	今月	
+さんがつ	March	三月	
+しがつ	April	四月	
+しちがつ	July	七月	
+じゅういちがつ	November	十一月	
+じゅうがつ	October	十月	
+じゅうにがつ	December	十二月	
+わけ	sharing, division; draw, tie	分け	
+わける	to divide, to separate, to make distinctions, to differentiate (between)	分ける	
+じぶん	myself, yourself, oneself, himself, herself; I, me	自分	
+ぶぶん	portion, section, part	部分	
+ぶんや	field, sphere, realm, division, branch	分野	
+じゅうぶん	plenty, enough, sufficient, satisfactory, adequate; division into ten; perfectly, thoroughly, fully, in full	十分	
+しょぶん	disposal, dealing, punishment	処分	
+はんぶん	half	半分	
+のこったぶん	amount left over	残った分	
+きぶん	feeling, mood	気分	
+かいぎ	meeting, conference, session, assembly, council, convention, congress	会議	
+ぎいん	member of the Diet, congress or parliament	議員	
+ぎかい	Diet, congress, parliament	議会	
+ぎちょう	chairman, speaker (e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup)	議長	
+きょうぎ	conference, consultation, discussion, negotiation	協議	
+けつぎ	resolution, vote, decision	決議	
+しんぎ	deliberation	審議	
+ろんぎ	discussion, argument, debate	論議	
+かくぎ	cabinet meeting	閣議	
+ぎせき	parliamentary seat	議席	
+あと	behind, rear; after, later; after one's death; remainder, the rest; descendant, successor, heir; past/previous; more (i.e. five more minutes)	後	
+ごご	afternoon, p.m.	午後	
+うしろ	back, behind, rear	後ろ	
+こんご	from now on, hereafter	今後	
+さいご	last, end, conclusion; (after -tara form or -ta form followed by "ga") no sooner than, right after (often having negative consequences); one's final moments	最後	
+せんご	postwar period, period after Second World War	戦後	
+こうはん	second half, latter half	後半	
+ちょくご	immediately following	直後	
+こうえん	support, backing	後援	
+こうけい	successor	後継	
+ごぜん	morning, a.m.	午前	
+ぜんねん	the preceding year, the previous year, last year	前年	
+ぜんかい	last time, last installment, last instalment, last session	前回	
+ぜんてい	preamble, premise, reason, prerequisite, condition, assumption, hypothesis	前提	
+ぜんじつ, まえび	previous day, the day before	前日	
+ちょくぜん	just before	直前	
+なまえ	name, full name; given name, first name	名前	
+ぜんはん, ぜんぱん	first half	前半	
+いぜん	ago, since, before, previous	以前	
+じぜん	prior, beforehand, in advance	事前	
+たみ	nation, people	民	
+こくみん	nation, nationality, people, citizen	国民	
+しみん	citizen, townspeople	市民	
+じゅうみん	citizens, inhabitants, residents, population	住民	
+みんかん	private, civilian, civil, popular, folk, unofficial	民間	
+みんしゅ	democracy, popular sovereignty; democratic	民主	
+みんぞく	people, race, nation	民族	
+じみんとう	Liberal Democratic Party, LDP	自民党	
+じみん	Liberal Democratic Party, LDP	自民	
+じんみん	people, public	人民	
+いきる	to live, to exist	生きる	
+がくせい	student (esp. a university student)	学生	
+せいかつ	living, life (one's daily existence), livelihood	生活	
+せいさん	production, manufacture	生産	
+こうせいしょう	Ministry of Health and Welfare (now Ministry of Health, Labour and Welfare)	厚生省	
+しんせい	rebirth, new birth, nascent	新生	
+じんせい	(human) life (i.e. conception to death)	人生	
+せいと	pupil	生徒	
+せんせい	teacher, master, doctor; with names of teachers, etc. as an honorific	先生	
+ねんせい	pupil in ... year, student in ... year	年生	
+れん	(taxonomical) tribe; quinella (quiniela); party, company, group; two reams (i.e. 1000 sheets of paper)	連	
+かんれん	relation, connection, relevance	関連	
+こくれん	UN, United Nations	国連	
+れんごう	union, alliance, combination	連合	
+れんぞく	serial, consecutive, continuity, occurring in succession, continuing	連続	
+れんぽう	commonwealth, federation of states	連邦	
+れんりつ	alliance, coalition	連立	
+れんめい	league, union, alliance	連盟	
+れんらく	to contact, to get in touch; contacting, getting in touch, communication, call, message; connection, coordination, junction; intercalary, intercalaris, internuncial	連絡	
+いちれん	series, chain, sequence; two reams (i.e. 1000 sheets of paper); verse, stanza	一連	
+ご, いつ, い	five	五	
+ごがつ	May	五月	
+じゅうご	15, fifteen	十五	
+ごりん	the Olympics	五輪	
+ごじゅう, いそ, い	fifty	五十	
+いつつ	five	五つ	
+ごぶ	half, 50%, tie, evenness; 5 parts, 5%	五分	
+ごじゅうさんつぎ	the 53 Toukaidou stages	五十三次	
+ごかん	the five senses	五感	
+ごじゅうおん	the Japanese syllabary	五十音	
+はつ	departure, departing (from ...), departing (at time ...); beginning; issued by (e.g. document); counter for gunshots, counter for blows (punches)	発	
+かいはつ	development, exploitation	開発	
+はつげん	utterance, speech, proposal	発言	
+はっこう	issue (publications), publishing; raising an event (software)	発行	
+はってん	development, growth	発展	
+はっぴょう	announcement, publication	発表	
+はんぱつ	to repel, to oppose, to revolt, to react sharply (against); opposition, rebellion, resistance, backlash; rally, recovery (e.g. in stock prices), rebound; to rally, to recover, to rebound	反発	
+かっぱつ	vigor, vigour, active, lively	活発	
+げんぱつ	nuclear power plant, nuclear power supply	原発	
+せんぱつ	forerunner, advance party, going on ahead; being in a (team sports) match or game from the start, starting	先発	
+あいだ	space (between), gap, interval, distance; time (between), pause, break; span (temporal or spatial), stretch, period (while); relationship (between, among); members (within, among); due to, because of	間	
+まもなく	soon, before long, in a short time; (after verb) lacking time to ..., without time to ...	間もなく	
+きかん	period, term, interval	期間	
+じかん	time; hours	時間	
+にんげん	human being, man, person; character (of a person)	人間	
+ねんかん	year (period of)	年間	
+みんかん	private, civilian, civil, popular, folk, unofficial	民間	
+ちゅうかん	middle, midway, interim	中間	
+なかま	company, fellow, colleague, associate, comrade, mate, group, circle of friends, partner	仲間	
+くうかん	space, room, airspace	空間	
+たいおう	interaction, correspondence, coping with, dealing with, support	対応	
+たいさく	counter-plan, counter-measure	対策	
+たいしょう	target, object (of worship, study, etc.), subject (of taxation, etc.)	対象	
+はんたい	opposition, resistance, antagonism, hostility, contrast, objection, dissension, reverse, opposite, vice versa	反対	
+たいりつ	confrontation, opposition, antagonism	対立	
+たいわ	interactive, interaction, conversation, dialogue	対話	
+たいにち	with respect to Japan, with Japan	対日	
+こくたい	Committee of the National Diet	国対	
+ぜったい	absolutely, unconditionally; absolute, unconditional, unmistakable; absoluteness	絶対	
+たいがい	external, foreign	対外	
+あがったり	doomed, in a bad state, poor (e.g. business)	上がったり	
+しじょう	historical	史上	
+じじつじょう	(as a) matter of fact, actually, in reality	事実上	
+あげ	rise in price, making a tuck	上げ	
+じょうしょう	rising, ascending, climbing	上昇	
+こうじょう	elevation, rise, improvement, advancement, progress	向上	
+あがり	ascent, rise, slope; freshly-drawn green tea (esp. in sushi shops); advance income, crop yield; death, spinning, completion, stop, finish; after (rain), ex (official, etc.); (end) results (e.g. of crafts like painting, pottery, etc.), how something comes out	上がり	
+じょうい	superior (rank not class); higher order (e.g. byte); host computer (of connected device)	上位	
+ちじょう	above ground	地上	
+とじょうこく	developing country	途上国	
+いちぶ	one part, one portion, one section, some; one copy (e.g. of a document)	一部	
+かんぶ	management, (executive) staff, leaders, leadership, top brass, upper echelons	幹部	
+ぶちょう	head (chief, director) of a section or department; head of a (school) club, head of a (school) team	部長	
+ぶぶん	portion, section, part	部分	
+ぶもん	class, group, category, department, field, branch	部門	
+ほんぶ	headquarters	本部	
+がくぶ	department of a university; undergraduate (course, program, etc.)	学部	
+ないぶ	interior, inside, internal	内部	
+へや	room; sumo stable	部屋	
+ぶたい	force, unit, corps, echelon, element	部隊	
+ひがし, ひむかし, ひんがし	east	東	
+とうきょう	Tokyo (current capital of Japan)	東京	
+ちゅうとう	Middle East	中東	
+とうかい	region south of Tokyo on Pacific Ocean side of Japan, eastern sea	東海	
+とうほく, ひがしきた	north-east; Northern most six prefectures of Honshu	東北	
+とうおう	Eastern Europe	東欧	
+とうざい	East and West; whole country; Orient and Occident, Western and Eastern; Your attention, please!	東西	
+とうなん, ひがしみなみ	south-east	東南	
+とうしば	Toshiba (company)	東芝	
+とうよう	Orient	東洋	
+かんじゃ	(a) patient	患者	
+かんけいしゃ	authorized people, authorised people, person(s) concerned	関係者	
+きしゃ	reporter	記者	
+ぎょうしゃ	trader, merchant	業者	
+ようぎしゃ	suspect (person)	容疑者	
+わかもの	young man, youth, lad	若者	
+しょうひしゃ	consumer	消費者	
+ろうどうしゃ	laborer (labourer), blue-collar worker	労働者	
+がくしゃ	scholar	学者	
+けいえいしゃ	manager, proprietor	経営者	
+とう	party (political); faction, -ite	党	
+きょうさんとう	Communist Party	共産党	
+しゃかいとう	Socialist Party	社会党	
+しんとう	new (political) party	新党	
+せいとう	(member of) political party	政党	
+やとう	opposition party, political opposition, opposition	野党	
+よとう	government party, (ruling) party in power, government	与党	
+じみんとう	Liberal Democratic Party, LDP	自民党	
+とうしゅ	party leader	党首	
+とうない	party-internal	党内	
+ち	earth, ground, land, soil; place; territory; bottom (of a package, book, etc.)	地	
+げんち	actual place, local	現地	
+ちいき	area, region	地域	
+ちきゅう	the earth	地球	
+ちく	district, section, sector	地区	
+じもと	home area, home town; local	地元	
+ちほう, じかた	area, locality, district, region, province; countryside, rural area; coast (esp. as seen from the water); person singing ballads in Noh, person in charge of music in a Japanese dance performance	地方	
+とち	plot of land, lot, soil	土地	
+きち	base	基地	
+ちけん	District Public Prosecutor's Office	地検	
+ごう	0.18039 litres (liters); 0.3306 metres square (meters); one-tenth of the way from the base to the summit of a mountain; (astronomical) conjunction; counter for covered containers; counter for matches, battles, etc.	合	
+ごうい	agreement, consent, mutual understanding	合意	
+しあい	match, game, bout, contest	試合	
+れんごう	union, alliance, combination	連合	
+そうごう	synthesis, coordination, putting together, integration, composite; comprehensive	総合	
+といあわせ	enquiry, inquiry, ENQ, query, interrogation	問い合わせ	
+かいごう	meeting, assembly; association; (astronomical) conjunction	会合	
+くみあい	association, union	組合	
+とうごう	integration, unification, synthesis; integrated, built-in	統合	
+あう, おう	to come together, to merge, to unite, to meet; to fit, to match, to suit, to agree with, to be correct; to be profitable, to be equitable; (after the -masu stem of a verb) to do ... to each other, to do ... together	合う	
+いちば	(town) market; (the) marketplace	市場	
+しない	(within a) city, local	市内	
+しみん	citizen, townspeople	市民	
+とし	town, city, municipal, urban	都市	
+どうし	same city	同市	
+しちょう	mayor	市長	
+しちょうそん	cities, towns and villages, municipalities	市町村	
+しりつ, いちりつ	municipal, city	市立	
+しぎ	city councillor, city councilor, city assemblyman	市議	
+しちゅう	in the city	市中	
+ごう	karma (i.e. actions committed in a former life)	業	
+きぎょう	enterprise, undertaking, corporation, business	企業	
+ぎょうかい	industry, business	業界	
+ぎょうしゃ	trader, merchant	業者	
+さぎょう	work, operation, manufacturing, fatigue duty	作業	
+さんぎょう	industry	産業	
+じぎょう	project, enterprise, business, industry, operations	事業	
+のうぎょう	agriculture	農業	
+えいぎょう	business, trade, sales, operations	営業	
+ぎょうむ	business, affairs, duties, work, procedure, task, action, function	業務	
+うち	inside, within; while; among, amongst, between; we (referring to one's in-group, i.e. company, etc.); my spouse; imperial palace grounds; emperor; I (primarily used by women and children), me	内	
+こくない	internal, domestic	国内	
+しない	(within a) city, local	市内	
+とない	metropolitan area	都内	
+ないかく	cabinet, (government) ministry	内閣	
+ないよう	subject, contents, matter, substance, detail, import	内容	
+いない	within, inside of, less than	以内	
+とうない	party-internal	党内	
+ないぶ	interior, inside, internal	内部	
+けんない	within the prefecture	県内	
+がいしょう	Foreign Minister	外相	
+しゅしょう	Prime Minister, Chancellor (Germany, Austria, etc.), Premier	首相	
+あいて	companion, partner, company; other party, addressee; opponent (sports, etc.)	相手	
+そうだん	consultation, discussion	相談	
+ぞうしょう	Minister of Finance	蔵相	
+そうご	mutual, reciprocal	相互	
+そうば	market price, speculation, estimation	相場	
+そうとう	befitting, becoming, worthy of, proportionate, in keeping with, suitable; considerable, substantial; to be worthy of, to be proportionate to; to correspond to (in meaning, function, etc.), to be equivalent; extremely, considerably	相当	
+すもう, すまい	sumo wrestling; sumo wrestler, rikishi	相撲	
+しんそう	truth, real situation	真相	
+いっぽう	one (esp. of two), the other, one way, the other way, one direction, the other direction, one side, the other side, one party, the other party; on the one hand, on the other hand; whereas, although, but at the same time, meanwhile, in turn; (after noun, adjective-stem or plain verb) just keeps, being inclined to ..., tending to be ..., tending to do ..., ntinuously ..., just keeps on ...ing, only	一方	
+みかた	viewpoint	見方	
+ちほう, じかた	area, locality, district, region, province; countryside, rural area; coast (esp. as seen from the water); person singing ballads in Noh, person in charge of music in a Japanese dance performance	地方	
+ほうこう	direction, orientation, bearing, way; course (e.g. of action)	方向	
+ほうしん	objective, plan, policy	方針	
+ほうほう	method, process, manner, way, means, technique	方法	
+かんがえかた	way of thinking	考え方	
+ゆくえ	(one's) whereabouts; course, direction	行方	
+そうほう	two way, both parties, mutual, both	双方	
+ほう	side, direction, way	方	
+よん, し, よ	four	四	
+よっつ	four	四つ	
+しがつ	April	四月	
+じゅうし, じゅうよん	14, fourteen	十四	
+よんじゅう, しじゅう, よそ	forty	四十	
+よんひゃく	four hundred	四百	
+しきゅう	four balls, base on balls (baseball), a walk	四球	
+よんせん	four thousand	四千	
+しじゅうしちし	The 47 Ronin	四十七士	
+しはんき	quarter (of a year)	四半期	
+きょうてい	arrangement, pact, agreement	協定	
+けってい	decision, determination	決定	
+よてい	plans, arrangement, schedule, program, programme, expectation, estimate	予定	
+あんてい	stability, equilibrium	安定	
+ざんてい	tentative, temporary	暫定	
+ていすう	constant; literal	定数	
+いってい, いちじょう	fixed, settled, constant, definite, uniform, regularized, regularised, defined, standardized, standardised, certain, prescribed	一定	
+きてい	regulation, provisions	規定	
+してい	designation, specification, assignment, appointment, pointing at	指定	
+ていき	fixed term; fixed-term commutation pass; fixed-term deposit	定期	
+いま	now, the present time, just now, soon, immediately, (one) more	今	
+いまや	now	今や	
+こんかい	now, this time, lately	今回	
+こんげつ	this month	今月	
+こんご	from now on, hereafter	今後	
+ことし, こんねん	this year	今年	
+こんど	now, this time, next time, another time	今度	
+こんにち, きょう, こんち, こんじつ	today, this day	今日	
+こんき	this season	今季	
+こんしゅん	this spring, spring this year	今春	
+かい	counter for occurrences; counter for innings (baseball)	回	
+かいふく	recovery (from illness), improvement, rehabilitation, restoration, convalescence	回復	
+こんかい	now, this time, lately	今回	
+かいとう	reply, answer	回答	
+ぜんかい	last time, last installment, last instalment, last session	前回	
+かいせん	match, game	回戦	
+いっかい	once, one time, one round, one game, one bout, one heat, one inning	一回	
+かいしゅう	collection, recovery	回収	
+かいすう	number of times, frequency, count	回数	
+じかい	next time (occasion)	次回	
+あらた	new, fresh, novel; newly, freshly, re-	新た	
+しんとう	new (political) party	新党	
+しんぶん	newspaper	新聞	
+しんじん	new face, newcomer; modern humans (from Cro-Magnon man onwards)	新人	
+しんせい	rebirth, new birth, nascent	新生	
+あたらしい	new	新しい	
+しんかんせん	bullet train (very high speed), Shinkansen	新幹線	
+かくしん	reform, innovation	革新	
+さいしん	latest, newest, late-breaking (news)	最新	
+しんき	new, fresh; new customer; new rules or regulations	新規	
+げんば, げんじょう	actual spot, scene, scene of the crime	現場	
+いちば	(town) market; (the) marketplace	市場	
+ばしょ	place, location	場所	
+たちば	standpoint, position, situation	立場	
+こうじょう, こうば	factory, plant, mill, workshop	工場	
+かいじょう	assembly hall, meeting place, the grounds	会場	
+げきじょう	theatre, theater, playhouse	劇場	
+しゅつじょう	(stage) appearance, participation, performance	出場	
+ばめん	scene, setting (e.g. of novel)	場面	
+しょくば	one's post, place of work, workplace	職場	
+おかね	money	お金	
+きんゆう	financing, credit transacting, loaning of money, circulation of money	金融	
+きんり	interest rates	金利	
+けんきん	donation, contribution, offering	献金	
+しきん	funds, capital	資金	
+ききん	fund, foundation	基金	
+ねんきん	annuity, pension	年金	
+りょうきん	fee, charge, fare	料金	
+きんがく	amount of money	金額	
+きんゆうきかん	financial institutions, banking facilities	金融機関	
+いいん	committee member	委員	
+いいんかい	committee, commission, board, panel, committee meeting	委員会	
+いいんちょう	committee chairman	委員長	
+かいいん	member, the membership	会員	
+ぎいん	member of the Diet, congress or parliament	議員	
+しょくいん	staff member, personnel	職員	
+こっかいぎいん	member of National Diet, Diet member	国会議員	
+しゃいん	company employee; company stockholders (esp. in legal contexts), members of a corporation	社員	
+ぜんいん	all members (unanimity), all hands, the whole crew, everyone, everybody	全員	
+やくいん	officer, official, executive, staff	役員	
+きゅう, く, ここの, この, ここ	nine	九	
+くがつ	September	九月	
+じゅうきゅう	19, nineteen	十九	
+きゅうしゅう	Kyushu (southernmost of the four main islands of Japan)	九州	
+きゅうじゅう, くじゅう	ninety	九十	
+くく	multiplication table, times table	九九	
+ここのつ	nine	九つ	
+ひゃくじゅうきゅうばん	ambulance and fire brigade emergency tel. no. (in Japan)	一一九番	
+せんきゅうひゃくねんだい	the 1900s	千九百年代	
+ここのえ	ninefold, imperial palace, the Court	九重	
+いり	entering; setting (of the sun); containing, content, audience; income; beginning	入り	
+ゆにゅう, しゅにゅう	importation, import, introduction	輸入	
+こうにゅう	purchase, buy	購入	
+しゅうにゅう	income, receipts, revenue	収入	
+どうにゅう	introduction, bringing in, leading in, installation	導入	
+かいにゅう	intervention	介入	
+うけいれ	receiving, acceptance	受け入れ	
+にゅうさつ	bid, bidding	入札	
+かにゅう	becoming a member, joining, entry, admission, subscription, affiliation, adherence, signing	加入	
+さんにゅう	coming, visiting, going	参入	
+せん	selection, choice, election; compilation, editing	選	
+えらぶ	to choose, to select	選ぶ	
+せんきょ	election	選挙	
+せんしゅ	player (in game), team member	選手	
+せんしゅけん	championship, title (of champion)	選手権	
+そうせんきょ	general election (of the lower house)	総選挙	
+とうせん	being elected; being selected (to win a prize, etc.); winning (in a lottery, raffle, etc.)	当選	
+よせん	nomination, primary, preliminary contest	予選	
+しょうせんきょく	small electoral district, single-member constituency	小選挙区	
+せんこう	selection, screening	選考	
+たちば	standpoint, position, situation	立場	
+れんりつ	alliance, coalition	連立	
+こくりつ	national	国立	
+せいりつ	coming into existence, arrangements, establishment, conclusion, completion	成立	
+たいりつ	confrontation, opposition, antagonism	対立	
+どくりつ	independence (e.g. Independence Day), self-support	独立	
+しりつ, わたくしりつ	private (establishment)	私立	
+せつりつ	establishment, foundation, incorporation (of a business)	設立	
+へいりつ	standing abreast	並立	
+かくりつ	establishment	確立	
+かいはつ	development, exploitation	開発	
+かいさい	holding a meeting, open an exhibition	開催	
+かいし	start, commencement, beginning, initiation	開始	
+かいほう	open, throw open, liberalization, liberalisation	開放	
+こうかい	open to the public	公開	
+てんかい	development; expansion (opposite of compression)	展開	
+かいまく	raising the curtain	開幕	
+さいかい	reopening, resumption, restarting	再開	
+ひらき	opening, gap; dried and opened fish	開き	
+かいかい	opening of a meeting	開会	
+て	hand, arm; forepaw, foreleg; handle; hand, worker, help; trouble, care, effort; means, way, trick, move, technique, workmanship; hand, handwriting; kind, type, sort; one's hands, one's possession; ability to cope; hand (of cards)	手	
+せんしゅ	player (in game), team member	選手	
+せんしゅけん	championship, title (of champion)	選手権	
+あいて	companion, partner, company; other party, addressee; opponent (sports, etc.)	相手	
+おおて, おおで	front castle gate; both arms open, outstretched arms; major companies	大手	
+とうしゅ	(baseball) pitcher	投手	
+わかて	young person	若手	
+てつづき	procedure, (legal) process, formalities	手続き	
+とって, はしゅ	handle, grip, knob	取っ手	
+かしゅ	singer	歌手	
+にちべい	Japan-America	日米	
+べいこく	America, USA	米国	
+ぜんべい	all-America, pan-American	全米	
+たいべい	relating to the USA, toward America, with America	対米	
+ほうべい	visit to America	訪米	
+ちゅうなんべい	Central and South America	中南米	
+なんべい	South America	南米	
+べいか	rice price	米価	
+はんべい	anti-American	反米	
+べいこく	rice	米穀	
+せいりょく	influence, power, might, strength, potency, force, energy	勢力	
+どりょく	great effort, exertion, endeavour, endeavor, effort	努力	
+きょうりょく	cooperation, collaboration	協力	
+けんりょく	(political) power, authority, influence	権力	
+げんしりょく	atomic energy	原子力	
+じつりょく	(real) ability, true strength, merit, efficiency, competency; arms, force	実力	
+のうりょく	ability, faculty	能力	
+ぶりょく	armed might, military power, the sword, force	武力	
+ぼうりょくだん	gangster organization (organisation), crime syndicate, yakuza (Japanese mafia), band of thugs, group of hoodlums	暴力団	
+ゆうりょく	influential, prominent; strong, likely, plausible, potent	有力	
+がっこう	school	学校	
+がくせい	student (esp. a university student)	学生	
+だいがく	post-secondary education institution, incl. university, college, etc.; the Great Learning - one of the Four Books	大学	
+いがく	medical science, medicine	医学	
+かがく	science	科学	
+がくぶ	department of a university; undergraduate (course, program, etc.)	学部	
+ぶんがく	literature	文学	
+がく	learning, scholarship, erudition, knowledge	学	
+がくえん	academy, campus	学園	
+がくしゃ	scholar	学者	
+とう	to ask, to question, to inquire; to charge (i.e. with a crime), to accuse; to care (about); without regard to (with negative verb)	問う	
+もん	counter for questions	問	
+しつもん	question, inquiry, enquiry	質問	
+ほうもん	call, visit	訪問	
+もんだい	problem, question	問題	
+といあわせ	enquiry, inquiry, ENQ, query, interrogation	問い合わせ	
+かんもん	summons	喚問	
+ぎもん	question, problem, doubt, guess	疑問	
+こもん	adviser, advisor, consultant	顧問	
+とい	question, query	問い	
+たかさ	height	高さ	
+こうこう	senior high school	高校	
+さいこう	highest, supreme, the most	最高	
+えんだか	high-valued yen, exchange in favor (favour) of the yen	円高	
+たか, だか	quantity, amount, volume, number, amount of money	高	
+たかい	high, tall; expensive	高い	
+たかまる	to rise, to swell, to be promoted	高まる	
+こうかん	high official	高官	
+こうこうせい	senior high school student	高校生	
+こうれい	advanced (old) age	高齢	
+かわり, がわり	substitute, deputy, proxy, alternate, relief, compensation, second helping; in place of, as a substitute for	代わり	
+じだい	period, epoch, era, age; the times, those days; oldness, ancientness, antiquity; antique, period piece	時代	
+だいひょう	representative, representation, delegation, type, example, model	代表	
+げんだい	nowadays, modern era, modern times, present-day	現代	
+せだい	generation, the world, the age	世代	
+きんだい	present day, modern times	近代	
+だいり	representation, agency, proxy, deputy, agent, attorney, substitute, alternate, acting (principal, etc.)	代理	
+こうたい	alternation, change, relief, relay, shift, substitution (sports, etc.)	交代	
+だいぎ	representing others in a conference	代議	
+だいこう	acting as agent	代行	
+あきらか	obvious, evident, clear, plain	明らか	
+せいめい	declaration, statement, proclamation	声明	
+せつめい	explanation, exposition	説明	
+ふめい	unknown, obscure, indistinct, uncertain, ambiguous, ignorant, lack of wisdom, anonymous, unidentified	不明	
+めいかく	clear up, clarify, define	明確	
+こうめいとう	New Komeito (Japanese political party), New Clean Government Party, Justice Party	公明党	
+かいめい	clarification, elucidation, explication	解明	
+こうめい	fairness, justice	公明	
+ひょうめい	declaration, indication, representation, manifestation, demonstration, expression, announcement, assertion	表明	
+みめい	early dawn, grey of morning, gray of morning	未明	
+じつ, じち	truth, reality; sincerity, honesty, fidelity; content, substance; (good) result	実	
+じつは	as a matter of fact, by the way, to tell you the truth, to be honest, frankly	実は	
+じつに, まことに, げに, しんに	indeed, really, absolutely, truly, actually, very, quite	実に	
+げんじつ	reality	現実	
+じじつ	fact, truth, reality	事実	
+じっし	enforcement, implementation, putting into practice (practise), carrying out, operation, working (e.g. working parameters), enactment	実施	
+かくじつ	certainty, reliability, soundness	確実	
+じじつじょう	(as a) matter of fact, actually, in reality	事実上	
+じっけん	experiment	実験	
+じつげん	implementation (e.g. of a system), materialization, materialisation, realization, realisation	実現	
+えん, まる	Yen, money; circle	円	
+えんだか	high-valued yen, exchange in favor (favour) of the yen	円高	
+えんやす	cheap yen	円安	
+えんそうば	yen exchange rate	円相場	
+いちえん	whole district, one yen, throughout	一円	
+えんかつ, えんこつ	smooth, undisturbed, uninterrupted, harmonious	円滑	
+えんけい, まるがた	round shape, circle; circular form	円形	
+えんたく	round table	円卓	
+えんまん	perfection, harmony, peace, smoothness, completeness, satisfaction, integrity	円満	
+えんとう	cylinder	円筒	
+せき	barrier, gate	関	
+かんけい	relation, connection	関係	
+かんけいしゃ	authorized people, authorised people, person(s) concerned	関係者	
+かんしん	concern, interest	関心	
+かんれん	relation, connection, relevance	関連	
+きかん	mechanism, facility, engine; agency, organisation, institution, organ	機関	
+かんさい, かんせい	Kansai (south-western half of Japan, including Osaka)	関西	
+かんぜい	customs, duty, tariff	関税	
+きんゆうきかん	financial institutions, banking facilities	金融機関	
+かんよ	participation, taking part in, participating in, being concerned in	関与	
+きまって	always, without fail, usually, regularly	決まって	
+けっして, けして	never, by no means, decidedly, indisputably	決して	
+かいけつ	settlement, solution, resolution	解決	
+けつぎ	resolution, vote, decision	決議	
+けってい	decision, determination	決定	
+はんけつ	judicial decision, judgement, judgment, sentence, decree	判決	
+けっさん	balance sheet, settlement of accounts	決算	
+けっしょう	decision of a contest, finals (in sports)	決勝	
+けつい	decision, determination	決意	
+けつだん	decision, determination	決断	
+こ	child; young (animal); young woman, young geisha; offshoot; interest; new shares; bird egg; (after a noun or -masu stem) -er (often of young women)	子	
+こども	child, children	子供	
+じょし, おなご	woman, girl	女子	
+だんし	youth, young man	男子	
+げんしりょく	atomic energy	原子力	
+ようす	aspect, state, appearance	様子	
+むすこ, そく	son; penis	息子	
+きんす	money, funds	金子	
+かっし	first of the sexagenary cycle	甲子	
+いでんし	gene, genetic	遺伝子	
+どう	motion, change, confusion	動	
+うごき	movement, activity, trend, development, change	動き	
+うんどう	motion, exercise	運動	
+かつどう	action, activity	活動	
+こうどう	action, conduct, behaviour, behavior, mobilization, mobilisation	行動	
+じどうしゃ	automobile	自動車	
+どうぶつ	animal	動物	
+ふどうさん	real estate	不動産	
+どうこう	trend, tendency, movement, attitude	動向	
+いどう	removal, migration, movement; mobile (e.g. communications)	移動	
+きょう, けい	imperial capital (esp. Kyoto); final word of an iroha-uta; 10^16, 10,000,000,000,000,000, ten quadrillion (American), (obs) ten thousand billion (British)	京	
+とうきょう	Tokyo (current capital of Japan)	東京	
+ぺきん	Beijing (China), Peking	北京	
+きょうと	Kyoto	京都	
+とうきょうしょうけんとりひきじょ	Tokyo Stock Exchange, TSE	東京証券取引所	
+ていきょう	the capital	帝京	
+ちゅうきょう	Nagoya and environs	中京	
+ざいきょう	being in Tokyo	在京	
+じょうきょう	proceeding to the capital (Tokyo)	上京	
+けいせい	train line Tokyo - Narita	京成	
+あんぜん	safety; security	安全	
+ぜんたい	whole, entirety, whatever (is the matter)	全体	
+ぜんこく, ぜんごく	country-wide, nation-wide, whole country, national	全国	
+あんぜんほしょう	security guarantee (e.g. military security, network security, etc.)	安全保障	
+ぜんいん	all members (unanimity), all hands, the whole crew, everyone, everybody	全員	
+ぜんじつ	all days	全日	
+ぜんめん	whole surface, entire	全面	
+しんふぜん	heart failure	心不全	
+ぜんぶ	all, entire, whole, altogether	全部	
+ぜんりょく	all one's power, whole energy	全力	
+もくてき	purpose, goal, aim, objective, intention	目的	
+もくひょう	mark, objective, target	目標	
+ちゅうもく	notice, attention, observation	注目	
+こうもく	(data) item, entry	項目	
+めいもく, みょうもく	name, title, appellation, (something) nominal; (under the) pretext (of), pretense	名目	
+しゅもく	event, item of business	種目	
+めだま	eyeball; special feature, centerpiece, showpiece, drawcard; special program, loss leader	目玉	
+もくぜん	before one's very eyes, under one's nose, imminence, close at hand	目前	
+めのまえ	before one's eyes, immediate, imminent	目の前	
+ひんもく	list of articles	品目	
+おもて	surface; face (i.e. the visible side of an object); front (of a building, etc.), obverse side (i.e. "head") of a coin; outside, exterior; appearance; public; first half (of an innings), top (of an inning); cover (for tatami mats, etc.); foreground	表	
+だいひょう	representative, representation, delegation, type, example, model	代表	
+はっぴょう	announcement, publication	発表	
+ひょうげん	expression, presentation; representation, notation	表現	
+ひょうじょう	facial expression	表情	
+ひょうめい	declaration, indication, representation, manifestation, demonstration, expression, announcement, assertion	表明	
+あらわれ	embodiment, manifestation, materialization, materialisation, expression, indication	表れ	
+ひょうじ	indication, expression, display, presentation	表示	
+ひょうめん	surface, outside, face, appearance	表面	
+こうひょう	official announcement, proclamation	公表	
+たたかい	battle, fight, struggle, conflict	戦い	
+せんそう	war	戦争	
+せんご	postwar period, period after Second World War	戦後	
+さくせん	tactics, strategy; military or naval operations	作戦	
+せんとう	battle, fight, combat	戦闘	
+せんりゃく	strategy, tactics	戦略	
+ていせん	armistice, ceasefire	停戦	
+れいせん	cold war	冷戦	
+かいせん	match, game	回戦	
+ちょうせん	challenge, defiance	挑戦	
+きょう	sutra, Buddhist scriptures	経	
+けいえい	management, administration	経営	
+けいざい	economics, business, finance, economy	経済	
+けいけん	experience	経験	
+けいえいしゃ	manager, proprietor	経営者	
+けいだんれん	Federation of Economic Organizations (Organisation)	経団連	
+けいひ	expenses, cost, outlay	経費	
+けいい, いきさつ	details, whole story, sequence of events, chronology, particulars, how it started, how things got this way; complications, position	経緯	
+けいざいてき	economic, economical	経済的	
+けいじょう	ordinary	経常	
+どおり	in accordance with ..., following ...; .. Street, .. Avenue	通り	
+つうしん	correspondence, communication, transmission, news, signal	通信	
+みとおし	perspective, unobstructed view, outlook, forecast, prospect, insight, foresight, visibility	見通し	
+きょうつう	commonness, community	共通	
+こうつう	communication, transportation, traffic, intercourse	交通	
+つうか	currency	通貨	
+つうじょう	common, general, normal, usual	通常	
+ふつう	general, ordinary, usual; normally, generally, usually; train that stops at every station	普通	
+つうさんしょう	(former) Ministry of International Trade and Industry (now Ministry of Economy, Trade and Industry), MITI	通産省	
+つうさん	total	通算	
+ほか	other (esp. places and things), the rest	外	
+かいがい	foreign, abroad, overseas	海外	
+がいこう	diplomacy	外交	
+がいこく	foreign country	外国	
+がいこくじん	foreigner	外国人	
+がいしょう	Foreign Minister	外相	
+がいむしょう	Ministry of Foreign Affairs	外務省	
+がいむ	foreign affairs	外務	
+ないがい, うちそと	inside and outside, domestic and foreign, approximately, interior and exterior	内外	
+いがい	unexpected, surprising	意外	
+もっとも	most, extremely	最も	
+さいきん	latest, most recent, nowadays	最近	
+さいご	last, end, conclusion; (after -tara form or -ta form followed by "ga") no sooner than, right after (often having negative consequences); one's final moments	最後	
+さいこう	highest, supreme, the most	最高	
+さいしゅう	last, final, closing	最終	
+さいしょ	beginning, outset, first, onset	最初	
+さいだい	greatest, largest, maximum	最大	
+さいこうさい	Supreme Court	最高裁	
+さいてい	least, lowest, worst; nasty, disgusting, horrible, yuck!	最低	
+さいしゅうてき	finally	最終的	
+いわば	so to speak, so to call it, as it were	言わば	
+いう, ゆう	to say; to call (i.e. to give a name)	言う	
+げん, こと	word, remark, statement	言	
+ことば, けとば	language, dialect; word, words, phrase, term, expression, remark; speech, (manner of) speaking	言葉	
+せんげん	declaration, proclamation, announcement	宣言	
+はつげん	utterance, speech, proposal	発言	
+しょうげん	evidence, testimony	証言	
+ていげん	proposal, motion	提言	
+げんご, ごんご	language	言語	
+ひとこと, いちげん, いちごん	single word	一言	
+うじ	family name, lineage, birth	氏	
+しめい	full name, identity	氏名	
+どうし	the said person, he, she, same person	同氏	
+りょうし	both persons	両氏	
+げんじ	Genji (the character in the Genji Monogatari); the Minamoto family	源氏	
+しぞく	clan, family	氏族	
+うじこ	shrine parishioner	氏子	
+かれし	boyfriend	彼氏	
+し	Mr; clan; he, him; Mr; counter for people	氏	
+うじがみ	Shinto god, patron god	氏神	
+げんざい	now, current, present, present time, as of	現在	
+げんじつ	reality	現実	
+げんば, げんじょう	actual spot, scene, scene of the crime	現場	
+げんち	actual place, local	現地	
+げんこう	present, current, in operation	現行	
+げんじょう	present condition, existing state, status quo	現状	
+げんだい	nowadays, modern era, modern times, present-day	現代	
+じつげん	implementation (e.g. of a system), materialization, materialisation, realization, realisation	実現	
+ひょうげん	expression, presentation; representation, notation	表現	
+げんきん	cash, ready money, mercenary, self-interested	現金	
+り	reason, principle, logic; general principle (as opposed to individual concrete phenomenon); (in neo-Confucianism) the underlying principles of the cosmos	理	
+かんり	control, management (e.g. of a business)	管理	
+りじ	director, board of directors	理事	
+りゆう	reason, pretext, motive	理由	
+しょり	processing, dealing with, treatment, disposition, disposal	処理	
+そうり	prime minister, leader, overseer (of national affairs), president	総理	
+りかい	understanding, comprehension	理解	
+りょうり	cooking, cookery, cuisine; dealing with something, handling, administration, management	料理	
+だいり	representation, agency, proxy, deputy, agent, attorney, substitute, alternate, acting (principal, etc.)	代理	
+りねん	idea	理念	
+しらべ	investigation, inspection, examination; tune, note, melody	調べ	
+ちょうさ	investigation, examination, inquiry, enquiry, survey	調査	
+ちょうせい	regulation, adjustment, tuning, modification, alteration	調整	
+きょうちょう	cooperation, conciliation, harmony; firm (market) tone	協調	
+こうちょう	favourable, favorable, promising, satisfactory, in good shape	好調	
+ちょうたつ	supply, provision, raising	調達	
+じゅんちょう	favourable, favorable, doing well, OK, all right	順調	
+ちょういん	signature, signing, sealing	調印	
+きちょう	basis, keynote	基調	
+うわっちょうし	flippant, frivolous, shallow	上っ調子	
+からだ, しんたい	body; health	体	
+ぐたいてき	concrete, tangible, definite, specific	具体的	
+ぜんたい	whole, entirety, whatever (is the matter)	全体	
+たいせい	order, system, structure, set-up, organization, organisation	体制	
+だんたい	organization, organisation, association	団体	
+きょうどうたい	cooperative body, cooperative system, collective, community	共同体	
+じちたい	self-governing body, municipality, autonomous entity	自治体	
+たいけん	personal experience	体験	
+いたい	corpse, remains	遺体	
+ぐたい	concrete, tangible, material	具体	
+きょうか	strengthen, intensify, reinforce, solidify, enhancement	強化	
+ぶんか	culture, civilization, civilisation; Bunka era (1804.2.11-1818.4.22)	文化	
+へんか	change, variation, alteration, mutation, transition, transformation, transfiguration, metamorphosis; variety, diversity; inflection, declension, conjugation; sidestepping (sumo)	変化	
+あっか	(suffer) deterioration, growing worse, aggravation, degeneration, corruption	悪化	
+かがく, ばけがく	chemistry; chemical company (e.g. Acme Chemical Co.)	化学	
+さんか	oxidation	酸化	
+けしょう, けわい, けそう	make-up, cosmetics	化粧	
+ごうりか	rationalization, rationalisation, rationalize, rationalise	合理化	
+こくさいか	internationalization, internationalisation, i18n (in IT)	国際化	
+ほんかくか	regularization, regularisation, getting up speed, proceeding at full tilt	本格化	
+じょうでん	high rice field, very fertile rice field	上田	
+すいでん	(water-filled) paddy field	水田	
+ゆでん	oil field	油田	
+いなか	rural area, countryside, the sticks; hometown	田舎	
+そうでん	mulberry plantation	桑田	
+でんえん, でんおん	country, rural districts; cultivated land, fields	田園	
+たはた, でんぱた, たはたけ	fields (of rice and other crops)	田畑	
+たうえ	rice planting	田植え	
+ひょうでん	(favorable voting) constituency (favourable)	票田	
+しんでん	a new rice field	新田	
+とうきょく	authorities; this office	当局	
+とうじ	at that time, in those days	当時	
+とうしょ	at first	当初	
+たんとう	(in) charge	担当	
+あたり	hit, success, reaching the mark, per ..., vicinity, neighborhood, neighbourhood	当たり	
+とうせん	being elected; being selected (to win a prize, etc.); winning (in a lottery, raffle, etc.)	当選	
+とうめん	current, urgent, pressing, impending; to confront (an issue), to face (up to something); for the meantime, at present	当面	
+ほんとう, ほんと	truth, reality	本当	
+そうとう	befitting, becoming, worthy of, proportionate, in keeping with, suitable; considerable, substantial; to be worthy of, to be proportionate to; to correspond to (in meaning, function, etc.), to be equivalent; extremely, considerably	相当	
+たんとうしゃ	person in charge, person responsible, one in charge, responsible party, contact (person)	担当者	
+はち, や	eight	八	
+じゅうはち	18, eighteen	十八	
+はちがつ	August	八月	
+はちじゅう, やそ	eighty	八十	
+さんじゅうはちどせん	the Thirty-eighth Parallel	三十八度線	
+ひゃくはちじゅうど	180 degrees, complete change	百八十度	
+はちまん	Hachiman (God of War); Hachiman shrine; certainly	八幡	
+じゅうはちばん, おはこ	No. 18, eighteenth; repertoire of 18 kabuki plays; one's favourite stunt (favorite), one's specialty	十八番	
+やえ	multilayered, doubled	八重	
+はちぶおんぷ	8th note	八分音符	
+ろく, む, むう	six	六	
+ろくがつ	June	六月	
+ろくじゅう, むそ	sixty	六十	
+ろくじゅうしぶおんぷ	64th note	六十四分音符	
+じゅうろく	16, sixteen	十六	
+ろっかく	hexagon	六角	
+しろくじちゅう	around the clock, day and night (Note: 4 x 6 = 24)	四六時中	
+むっつ, むつ	six	六つ	
+いちろくぎんこう	pawnshop	一六銀行	
+いちろくしょうぶ	gambling, speculation	一六勝負	
+けいやく	contract, compact, agreement	契約	
+じょうやく	treaty, pact	条約	
+こうやく	public commitment or promise	公約	
+やくそく	arrangement, promise, appointment, pact, engagement; convention, rule	約束	
+よやく	reservation, appointment, booking, advance order; contract, subscription, pledge	予約	
+せいやく	limitation, restriction, condition, constraints	制約	
+きやく	agreement, rules, code, protocol, convention	規約	
+こんやく	engagement, betrothal	婚約	
+ていやく	conclusion of a treaty	締約	
+かいやく	cancellation of contract	解約	
+おもに	mainly, primarily	主に	
+もしゅ	chief mourner	喪主	
+みんしゅ	democracy, popular sovereignty; democratic	民主	
+しゅぎ	doctrine, rule, principle	主義	
+しゅさい	organization, organisation, sponsorship	主催	
+しゅせき	head, chief; chairman, governor, president; top student, head of the class; top seat, first desk (in orchestra)	主席	
+しゅちょう	claim, request, insistence, assertion, advocacy, emphasis, contention, opinion, tenet	主張	
+しゅふ	housewife, mistress (of the house), homemaker	主婦	
+しゅよう	chief, main, principal, major	主要	
+ちょうせんみんしゅしゅぎじんみんきょうわこく	Democratic People's Republic of Korea (North Korea), DPRK	朝鮮民主主義人民共和国	
+かだい	subject, theme, task, challenge, issue	課題	
+もんだい	problem, question	問題	
+わだい	topic, subject	話題	
+だい	title, subject, theme, topic; problem (on a test), question; counter for questions (on a test)	題	
+もんだいてん	the point at issue	問題点	
+ぎだい	topic of discussion, agenda	議題	
+だいざい	subject, theme	題材	
+しゃかいもんだい	social problem	社会問題	
+しゅだい	subject, theme, motif	主題	
+しゅくだい	homework	宿題	
+もと	under (esp. influence or guidance)	下	
+さげる	to hang, to lower, to move back, to wear, to dismiss, to grant	下げる	
+ひきさげ	reduction, cut	引き下げ	
+くだり	down-train (going away from Tokyo); down-slope, downward going	下り	
+かいん	lower house, lower (legislative) body	下院	
+げしゃ	alighting (from train, bus, etc.), getting off	下車	
+ちか	basement, cellar, underground place; underground, below ground; secret, under cover; underground (railway), subway, metro	地下	
+ていか	fall, decline, lowering, deterioration, degradation	低下	
+いか, いげ	not exceeding, and downward, ... and below; below (e.g. standard), under (e.g. a level); the below-mentioned, the following, the rest	以下	
+でんか, てんが	your Highness, his (or her) Highness	殿下	
+くび, クビ	neck; head; unemployed person	首	
+しゅしょう	Prime Minister, Chancellor (Germany, Austria, etc.), Premier	首相	
+しゅのう	head, brains, leading spirit	首脳	
+しゅと	capital city, metropolis	首都	
+とうしゅ	party leader	党首	
+しゅとけん	the capital city (often Tokyo) area (typically within 50 km of city's centre) (center)	首都圏	
+しゅい	first place, head position, leading position	首位	
+いっしゅ	tanka, poem	一首	
+げんしゅ	ruler, sovereign	元首	
+しゅちょう	head (of organization, organisation), chief	首長	
+いけん	opinion, view	意見	
+いみ	meaning, significance	意味	
+ごうい	agreement, consent, mutual understanding	合意	
+いこう	intention, idea, inclination	意向	
+いし	intention, purpose	意思	
+いしき	consciousness; awareness, sense; mano-vijnana (mental consciousness, cognizer of sensory information)	意識	
+いよく	will, desire, ambition	意欲	
+けつい	decision, determination	決意	
+いがい	unexpected, surprising	意外	
+いぎ	meaning, significance	意義	
+けんぽう	constitution	憲法	
+ほうほう	method, process, manner, way, means, technique	方法	
+ほうあん	bill (law)	法案	
+ほうじん	corporate body, corporation, (legal) person, (juridical) person	法人	
+ほうりつ	law	法律	
+しほう	administration of justice	司法	
+しゅほう	technique	手法	
+ほうてい	courtroom	法廷	
+ほうてき	legality	法的	
+りっぽう	legislation, lawmaking	立法	
+</tbody></table></li>
+</ul>
+                
+<div id="main-copy">
+<p style="text-align:center"><a href="https://kanjicards.org/cgi-bin/list_no_member.cgi?type=2&amp;news=100&amp;rvar=freq&amp;number=100&amp;start=0&amp;rlim=1-500">&lt;- Previous</a> | <a href="https://kanjicards.org/cgi-bin/list_no_member.cgi?type=2&amp;news=100&amp;rvar=freq&amp;number=100&amp;start=200&amp;rlim=1-500">Next -&gt;</a></p>
+<h1>Kanji List</h1>
+                <!-- ##### Search Result ##### -->
+ふきょう	recession, depression, slump	不況	
+ふあん	anxiety, uneasiness, insecurity, suspense	不安	
+ふそく	insufficiency, shortage, deficiency, lack, dearth	不足	
+ふどうさん	real estate	不動産	
+ふまん	dissatisfaction, displeasure, discontent, complaints, unhappiness, disgruntled	不満	
+ふめい	unknown, obscure, indistinct, uncertain, ambiguous, ignorant, lack of wisdom, anonymous, unidentified	不明	
+しんふぜん	heart failure	心不全	
+ふしん	unfaithfulness, insincerity, perfidy, mistrust, distrust, discredit	不信	
+ふしょうじ	scandal, deplorable event	不祥事	
+ふしん	dullness, depression, slump, stagnation	不振	
+らい	next (year, etc.); since (last month, etc.)	来	
+いらい	since, henceforth	以来	
+じゅうらい	up to now, so far, traditional, existing (e.g. equipment)	従来	
+しょうらい	future (usually near), prospects	将来	
+らいねん	next year	来年	
+ほんらい	essentially, naturally, by nature, in (and of) itself, originally	本来	
+らいげつ	next month	来月	
+らいにち	arrival in Japan, coming to Japan, visit to Japan	来日	
+みらい	the future (usually distant); future tense; the world to come	未来	
+らいしゅん, らいはる	next spring	来春	
+さく	a work, a harvest	作	
+つくる	to make, to produce, to manufacture, to build, to construct; to prepare (food), to brew (alcohol); to raise, to grow, to cultivate, to train; to till; to draw up (a document), to make out, to prepare, to write; to create (an artistic work, etc.), to compose; to coin (a phrase), to organize, to organise, to establish, to found; to have (a child); to make up (one's face, etc.); to fabricate (an excuse, etc.); to form (a line, etc.); to set (a record); to commit (a sin, etc.)	作る	
+つくり	making, producing, manufacturing, building, construction, make, structure; appearance (i.e. attire, make-up); build (i.e. physique); sashimi; forced (smile, etc.)	作り	
+さぎょう	work, operation, manufacturing, fatigue duty	作業	
+さくひん	work (e.g. book, film, composition, etc.), opus, performance, production	作品	
+さっか	author, writer, novelist, artist	作家	
+さくせん	tactics, strategy; military or naval operations	作戦	
+せいさく	work (film, book)	制作	
+こうさく	work, construction, handicraft, maneuvering, manoeuvering	工作	
+さっきょく	composition, setting (of music)	作曲	
+かのうせい	potentiality, likelihood, possibility, availability	可能性	
+じょせい	woman, female; feminine gender	女性	
+だんせい	man, male; masculine gender	男性	
+せいかく	character, personality	性格	
+ひつようせい	necessity	必要性	
+かっせい	activity	活性	
+こせい	individuality, personality, idiosyncrasy	個性	
+きゅうせい	acute (e.g. illness)	急性	
+ほうしゃせい	radioactive	放射性	
+かんせい	sensitivity, sensitiveness, sense	感性	
+ぐたいてき	concrete, tangible, definite, specific	具体的	
+せっきょくてき	assertive, positive, active, proactive	積極的	
+もくてき	purpose, goal, aim, objective, intention	目的	
+こくさいてき	international	国際的	
+きほんてき	fundamental, standard, basic	基本的	
+こうてき	public, official	公的	
+せいじてき	political	政治的	
+ほんかくてき	full-blown, regular, genuine, earnest, normal, typical, fundamental, real	本格的	
+さいしゅうてき	finally	最終的	
+あっとうてき	overwhelming	圧倒的	
+じゅうよう	important, momentous, essential, principal, major	重要	
+ひつよう	necessary, needed, essential, indispensable; necessity, need, requirement	必要	
+ようきゅう	demand, firm request, requisition, requirement, desire	要求	
+しゅよう	chief, main, principal, major	主要	
+じゅよう	demand, request	需要	
+ようせい	claim, demand, request, application	要請	
+ひつようせい	necessity	必要性	
+よういん	main cause, primary factor	要因	
+よういん	essential member, necessary person, personnel	要員	
+ようそ	component, factor, item (e.g. in list); element (e.g. in array), member (e.g. data structure)	要素	
+こよう	employment (long term), hire	雇用	
+さいよう	use, adoption, acceptance; appointment, employment, engagement	採用	
+しよう	use, application, employment, utilization, utilisation	使用	
+ひよう	cost, expense	費用	
+りよう	use, utilization, utilisation, application	利用	
+うんよう	making use of, application, investment, practical use	運用	
+じょうようしゃ	passenger vehicle, automobile	乗用車	
+しんよう	confidence, dependence, credit, faith, reliance, belief, credence	信用	
+てきよう	applying	適用	
+りようしゃ	user, end-user, consumer	利用者	
+せい	system, organization, organisation, imperial command, laws, regulation, control, government, suppression, restraint, holding back, establishment	制	
+きせい	regulation, (traffic) policing, control, restriction	規制	
+せいど	system, institution, organization, organisation	制度	
+たいせい	order, system, structure, set-up, organization, organisation	体制	
+せいさい	restraint, sanctions, punishment	制裁	
+ぜいせい	tax system	税制	
+きょうせい	obligation, coercion, compulsion, enforcement	強制	
+せいげん	restriction, restraint, limitation, limit	制限	
+せいさく	work (film, book)	制作	
+せいてい	enactment, establishment, creation	制定	
+せいじ	politics, government	政治	
+せいじか	politician, statesman	政治家	
+ちりょう	medical treatment, cure	治療	
+じち	self-government, autonomy	自治	
+じちたい	self-governing body, municipality, autonomous entity	自治体	
+せいじてき	political	政治的	
+めいじ	Meiji era (1868.9.8-1912.7.30)	明治	
+ちあん	public order	治安	
+とうち, とうじ	rule, reign, government, governing	統治	
+じちしょう	Ministry of Home Affairs	自治省	
+せいど	system, institution, organization, organisation	制度	
+ていど	degree, amount, grade, standard, of the order of (following a number)	程度	
+こんど	now, this time, next time, another time	今度	
+たいど	attitude, manner, behaviour	態度	
+なんど	how many times?, how often?	何度	
+ぜんねんど	preceding fiscal year	前年度	
+ねんど	year, fiscal year, school year, term	年度	
+いちど, ひとたび	once, one time, on one occasion; temporarily, for a moment; one degree, one tone, one musical interval	一度	
+こんねんど	this year	今年度	
+にど	two times, twice; two degrees	二度	
+がいむしょう	Ministry of Foreign Affairs	外務省	
+つとめる	to work (for), to be employed (at), to serve (in); to serve (as), to act (as), to fill (the position of), to play the role (of); to conduct a religious service	務める	
+じむ	business, office work	事務	
+じむきょく	secretariat, executive office	事務局	
+じむしょ	office	事務所	
+ぎょうむ	business, affairs, duties, work, procedure, task, action, function	業務	
+じょうむ	managing director, executive director; routine business, regular business	常務	
+せんむ	managing director, special duty, conductor	専務	
+そうむ	general business (affairs), manager, director, adjutant general (mil)	総務	
+がいむ	foreign affairs	外務	
+つよさ	strength, power	強さ	
+きょうか	strengthen, intensify, reinforce, solidify, enhancement	強化	
+きょうせい	obligation, coercion, compulsion, enforcement	強制	
+べんきょう	study; diligence; discount, reduction	勉強	
+つよめる	to strengthen, to emphasize, to emphasise	強める	
+きょうこう	firm, vigorous, unbending, unyielding, strong, stubborn	強硬	
+きょうりょく	powerful, strong	強力	
+ごうとう	robber, mugger; robbery, burglary	強盗	
+つよみ	forte	強み	
+つよき	firm, strong	強気	
+き	spirit, mind, heart; nature, disposition; motivation, intention; mood, feelings; atmosphere, essence	気	
+けいき	condition, state, business (condition)	景気	
+にんき	popular, popular feeling, business conditions	人気	
+きもち	feeling, sensation, mood	気持ち	
+でんき	electricity; (electric) light	電気	
+びょうき	illness, disease, sickness	病気	
+いっき	drink! (said repeatedly as a party cheer)	一気	
+きぶん	feeling, mood	気分	
+くうき	air, atmosphere	空気	
+ふんいき	atmosphere (e.g. musical), mood, ambience, ambiance	雰囲気	
+しょうせんきょく	small electoral district, single-member constituency	小選挙区	
+しょうがっこう	primary school, elementary school, grade school	小学校	
+しょうせつ	novel, (short) story	小説	
+しょうがくせい	elementary school student, primary school student, grade school student	小学生	
+ちゅうしょうきぎょう	small to medium enterprises, smaller companies	中小企業	
+しょうがく	elementary school, primary school, grade school	小学	
+こがた	small size, tiny	小型	
+しゅくしょう	reduction, curtailment	縮小	
+おがわ	streamlet, brook	小川	
+こじま	small island, islet	小島	
+しち, なな, な	seven	七	
+しちがつ	July	七月	
+じゅうしち, じゅうなな	17, seventeen	十七	
+しちじゅう, ななじゅう, ななそ	seventy	七十	
+しじゅうしちし	The 47 Ronin	四十七士	
+ななつ	seven	七つ	
+しちしちにち, なななぬか, なななのか	49th day after death	七七日	
+ふたなぬか, ふたなのか	second week's memorial services	二七日	
+たなばた, しちせき	Festival of the Weaver (July 7th), Star Festival	七夕	
+しちかいき	seventh anniversary of a death	七回忌	
+せいちょう	growth, grow to adulthood	成長	
+さんせい	approval, agreement, support, favour, favor	賛成	
+せいか	results, fruits	成果	
+せいりつ	coming into existence, arrangements, establishment, conclusion, completion	成立	
+へんせい	composition, formation, organization, organisation, compilation	編成	
+けっせい	formation	結成	
+こうせい	organization, organisation, configuration, composition	構成	
+せいこう	success, hit	成功	
+せいせき	results, record, grades	成績	
+かんせい	complete, completion; perfection, accomplishment	完成	
+きかん	period, term, interval	期間	
+きたい	expectation, anticipation, hope	期待	
+じき	time, season, period; soon, shortly	時期	
+そうき	early stage	早期	
+ちょうき	long time period	長期	
+きげん	term, period, time frame; time limit, deadline, cutoff (date)	期限	
+じき	next term, next period; next version, next release	次期	
+ていき	fixed term; fixed-term commutation pass; fixed-term deposit	定期	
+にんき	term of office	任期	
+かいき	session (of a legislature)	会期	
+こうえん	(public) park	公園	
+こうえん	public performance; sumo exhibition in a foreign country	公演	
+こうかい	open to the public	公開	
+こうきょう	public, community, public service, society, communal	公共	
+こうしき	formality, formal, official; formula	公式	
+こうめいとう	New Komeito (Japanese political party), New Clean Government Party, Justice Party	公明党	
+こうてき	public, official	公的	
+こうはん	public hearing, trial	公判	
+こうみん	citizen, freemen	公民	
+こうめい	fairness, justice	公明	
+いじ	maintenance, preservation, improvement	維持	
+しじ	support, maintenance	支持	
+きもち	feeling, sensation, mood	気持ち	
+もち	hold, charge, keep possession, in charge; wear, durability, life, draw; usage	持ち	
+もつ	to hold, to carry; to possess	持つ	
+もちこむ	to lodge, to take something into ..., to bring in	持ち込む	
+ほじ	retention, maintenance, preservation	保持	
+じぞく	continuation	持続	
+もちあじ	inherent flavor, inherent flavour, distinctive characteristic	持ち味	
+かねもち	rich man	金持ち	
+の, や, ぬ	plain, field; hidden (structural) member; wild; lacking a political post	野	
+ぶんや	field, sphere, realm, division, branch	分野	
+やきゅう	baseball	野球	
+やとう	opposition party, political opposition, opposition	野党	
+よやとう	(political) parties in and out of power, majority and minority parties	与野党	
+やさい	vegetable	野菜	
+うえの	section of Tokyo	上野	
+しや	field of vision, outlook	視野	
+やせい	wild, growing wild; I	野生	
+おおの	large field	大野	
+きょう	cooperation	協	
+きょうかい	association, society, organization, organisation	協会	
+きょうぎ	conference, consultation, discussion, negotiation	協議	
+きょうてい	arrangement, pact, agreement	協定	
+きょうりょく	cooperation, collaboration	協力	
+きょうちょう	cooperation, conciliation, harmony; firm (market) tone	協調	
+だきょう	compromise, giving in	妥協	
+のうきょう	agricultural cooperative	農協	
+きょうさん	support, mutual aid, cooperation, approval, authorization, authorisation	協賛	
+せいきょう	cooperative association, co-op store	生協	
+とる	to take, to pick up, to harvest, to earn, to choose; to steal; to eat, to have (a meal); to remove (one's glasses, etc.)	取る	
+とりひき	transactions, dealings, business	取引	
+しゅざい	collecting data (e.g. for a newspaper article), covering an event	取材	
+とって, はしゅ	handle, grip, knob	取っ手	
+とりしまりやく	company director, board member	取締役	
+ちょうしゅ	listening, hearing, audition, radio reception	聴取	
+とりくみ	bout (in sports, etc.), match; effort, initiative, dealing with, grappling with, wrestling with	取り組み	
+しゅとく	acquisition	取得	
+とうどり	(bank) president	頭取	
+とりしまりやくかい	board of directors; board of directors' meeting	取締役会	
+みやこ	capital, metropolis	都	
+とし	town, city, municipal, urban	都市	
+とない	metropolitan area	都内	
+きょうと	Kyoto	京都	
+しゅと	capital city, metropolis	首都	
+しゅとけん	the capital city (often Tokyo) area (typically within 50 km of city's centre) (center)	首都圏	
+とどうふけん	administrative divisions of Japan: Tokyo-to, Hokkai-do, Osaka-fu, Kyoto-fu and remaining prefectures	都道府県	
+としん	city centre (center) (esp. capital city), urban centre, heart of city a metropolis	都心	
+とぎ	Metropolitan assemblyman	都議	
+とかい	city	都会	
+へいわ	peace, harmony	平和	
+わへい	peace	和平	
+グアテマラきょうわこく	Republic of Guatemala	グアテマラ共和国	
+かんわ	relief, mitigation, alleviation, relaxation, softening	緩和	
+ちょうせんみんしゅしゅぎじんみんきょうわこく	Democratic People's Republic of Korea (North Korea), DPRK	朝鮮民主主義人民共和国	
+わかい, わげ	reconciliation, settlement, accommodation, compromise, mediation, rapprochement; (legal) settlement; translation of a foreign language into Japanese	和解	
+きょうわ	republicanism, cooperation	共和	
+しょうわ	Showa era (1926.12.25-1989.1.7)	昭和	
+きょうわとう	Republican Party	共和党	
+やまと	ancient Japan	大和	
+だいとうりょう	president, chief executive	大統領	
+とういつ	unity, consolidation, uniformity, unification, compatible	統一	
+でんとう	tradition, convention	伝統	
+とうごう	integration, unification, synthesis; integrated, built-in	統合	
+とうけい	statistics	統計	
+とうち, とうじ	rule, reign, government, governing	統治	
+でんとうてき	traditional, conventional	伝統的	
+とうせい	regulation, control	統制	
+けいとう	system, family line, geological formation, lineage, ancestry	系統	
+そうとう	supreme ruler, generalissimo; president (of Taiwan); fuhrer, fuehrer	総統	
+いらい	since, henceforth	以来	
+いない	within, inside of, less than	以内	
+いぜん	ago, since, before, previous	以前	
+いか, いげ	not exceeding, and downward, ... and below; below (e.g. standard), under (e.g. a level); the below-mentioned, the following, the rest	以下	
+いご	after this, from now on, hereafter; thereafter, since (verb) (after -te form of verb), after (time), since (then)	以後	
+いじょう	not less than, ... and more, ... and upwards; beyond ... (e.g. one's means), further (e.g. nothing further to say), more than ... (e.g. cannot pay more than that); above-mentioned, foregoing; since ..., seeing that ...; this is all, that is the end, the end	以上	
+いこう	on and after, as from, hereafter, thereafter, since	以降	
+いがい	with the exception of, excepting	以外	
+いえん	beyond, further than	以遠	
+いしんでんしん	telepathy, tacit understanding, communion of mind with mind, sympathy	以心伝心	
+きき	crisis	危機	
+きかん	mechanism, facility, engine; agency, organisation, institution, organ	機関	
+きこう	mechanism, organization, organisation	機構	
+きのう	function, facility, faculty, feature	機能	
+きかい	chance, opportunity	機会	
+きかい	machine, mechanism; instrument, appliance, apparatus	機械	
+きき	machinery and tools	機器	
+きんゆうきかん	financial institutions, banking facilities	金融機関	
+こうくうき	aircraft, aeroplane, airplane	航空機	
+でんき	electrical machinery, appliances	電機	
+へいわ	peace, harmony	平和	
+わへい	peace	和平	
+へいきん, へいぎん	average, mean; balance, equilibrium	平均	
+たいへいよう	Pacific Ocean	太平洋	
+へいせい	Heisei era (1989.1.8- )	平成	
+へいじょう	Pyongyang	平壌	
+びょうどう	equality, impartiality, evenness	平等	
+へいねん	non-leap year; normal year (esp. as pertains to weather patterns, vegetative growth, harvest yields, etc.)	平年	
+たいへいようせんそう	the Pacific War	太平洋戦争	
+へいあん	peace, tranquility, tranquillity; Heian era (794-1185)	平安	
+そうかい	general meeting	総会	
+そうさい	president	総裁	
+そうせんきょ	general election (of the lower house)	総選挙	
+そうごう	synthesis, coordination, putting together, integration, composite; comprehensive	総合	
+そうがく	sum total, total amount	総額	
+そうちょう	(college) president, secretary-general	総長	
+そうむ	general business (affairs), manager, director, adjutant general (mil)	総務	
+そうり	prime minister, leader, overseer (of national affairs), president	総理	
+そうかいや	extortionist that threatens to disrupt stock-holder meetings	総会屋	
+そうかつ	synthesis, recap, generalize, generalise	総括	
+か	addition, increase; Canada	加	
+かめい	participation, affiliation	加盟	
+さんか	participation	参加	
+ぞうか	increase, increment, addition	増加	
+さんかしゃ	participant, entrant	参加者	
+ついか	addition, supplement, append (e.g. to a file), appendix	追加	
+かにゅう	becoming a member, joining, entry, admission, subscription, affiliation, adherence, signing	加入	
+かこう	manufacturing, processing, treatment, machining	加工	
+かそく	acceleration, speed up; accelerator	加速	
+ふか	addition, annexation, appendage	付加	
+やま	mountain; pile, heap; climax, critical point; speculated area covered by an examination	山	
+かざん	volcano	火山	
+せいざん	blue or green mountain; grave, burial place	青山	
+やまがた	mountain-shaped	山形	
+とざん	mountain climbing	登山	
+さんがく	mountains	山岳	
+こやま	hill, knoll	小山	
+ふじさん	Mt Fuji	富士山	
+たいざん	great mountain	大山	
+さんそん	mountain village	山村	
+おもわず	unintentionally, reflexively, spontaneously, involuntarily, instinctively	思わず	
+おもい	thought, mind, heart, feelings, emotion, sentiment, love, affection, desire, wish, hope, expectation, imagination, experience	思い	
+おもう	to think, to consider, to believe; to think (of doing), to plan (to do); to judge, to assess, to regard; to imagine, to suppose, to dream; to expect, to look forward to; to feel, to desire, to want; to recall, to remember	思う	
+いし	intention, purpose	意思	
+しそう	thought, idea, ideology	思想	
+おもわく	expectation, prediction, forecast; anticipation, speculation	思惑	
+おもいきって	resolutely, boldly, daringly	思い切って	
+おもいで	memories, recollections, reminiscence	思い出	
+おもいやり	consideration, sympathy	思いやり	
+しこう	thought, consideration, thinking	思考	
+かぞく	family, members of a family	家族	
+かてい	home, family, household	家庭	
+こっか	state, country, nation	国家	
+せいじか	politician, statesman	政治家	
+さっか	author, writer, novelist, artist	作家	
+せんもんか	specialist	専門家	
+のうか	farmer, farm family	農家	
+ひょうろんか	critic	評論家	
+いっか, いっけ	a house, a home, a family, a household, one's family, one's folks, a style	一家	
+かでん	consumer electronics	家電	
+はなし	talk, speech, chat, story, conversation; discussions, negotiation, argument	話	
+でんわ	telephone	電話	
+たいわ	interactive, interaction, conversation, dialogue	対話	
+わだい	topic, subject	話題	
+はなしあい	discussion, conference	話し合い	
+かいわ	conversation	会話	
+せわ	looking after, help, aid, assistance	世話	
+だんわ	a talk, conversation	談話	
+つうわ	telephone call, talking, calling; counter for telephone calls	通話	
+しんわ	myth, legend	神話	
+よ	world, society, age, generation	世	
+せかい	the world, society, the universe	世界	
+せだい	generation, the world, the age	世代	
+せろん, よろん	public opinion	世論	
+せかいてき	global, international, world-famous	世界的	
+せいき	century, era	世紀	
+せたい, しょたい	household, home, family, housekeeping	世帯	
+せわ	looking after, help, aid, assistance	世話	
+よのなか	society, the world, the times	世の中	
+せけん	world, society	世間	
+うけ	popularity, favour, favor, reception; defense, defence, reputation; agreement; submissive partner of a homosexual relationship	受け	
+じゅけん	taking an examination	受験	
+うけいれ	receiving, acceptance	受け入れ	
+じゅしょう	winning (a prize)	受賞	
+じゅちゅう	accepting orders	受注	
+うけとめる	to catch, to stop the blow, to react to, to take	受け止める	
+うけいれる	to accept, to receive	受け入れる	
+じゅこう	taking (attending) lectures	受講	
+じゅしん	reception (e.g. radio), receipt	受信	
+じゅじゅ	give and receive	授受	
+く	ward, district, section	区	
+ちく	district, section, sector	地区	
+しょうせんきょく	small electoral district, single-member constituency	小選挙区	
+くない	in the ward or borough	区内	
+くいき	limits, boundary, domain, zone, sphere, territory; area (e.g. in programming languages)	区域	
+くかん	section (of track, etc.), segment, dimension	区間	
+くちょう	ward headman	区長	
+くりつ	established by the ward	区立	
+くべつ	distinction, differentiation, classification	区別	
+くみん	ward residents	区民	
+だいとうりょう	president, chief executive	大統領	
+りょうど	dominion, territory, possession	領土	
+せんりょう	occupation, capture, possession, have a room to oneself	占領	
+りょういき	area, domain, territory, field, range, region, regime	領域	
+こうりょう	general plan, main points, summary, platform (e.g. for a campaign), mission statement	綱領	
+りょうない	(within a) territory, domains	領内	
+りょうゆう	possession	領有	
+おうりょう	usurpation, embezzlement, misappropriation	横領	
+じゅりょう	receipt (of letter), acknowledgement, acceptance	受領	
+そうりょうじ	consul general	総領事	
+たすう	great number; countless, majority	多数	
+たよう	diverse, varied	多様	
+たかく	many-sided, versatile, polygonal, diversified	多角	
+さいた	the most	最多	
+たがく	large amount of money	多額	
+たさい	variegated, varicoloured, multi-colored, diverse	多彩	
+たしょう	more or less, somewhat, a little, some	多少	
+かずおおく	in great numbers	数多く	
+たようか	diversification	多様化	
+ただい	heavy, much	多大	
+けんけい	prefectural police	県警	
+どうけん	the same prefecture	同県	
+けんちじ	prefectural governor	県知事	
+けんない	within the prefecture	県内	
+とどうふけん	administrative divisions of Japan: Tokyo-to, Hokkai-do, Osaka-fu, Kyoto-fu and remaining prefectures	都道府県	
+けんぎ	prefectural assembly	県議	
+けんりつ	prefectural (institution)	県立	
+けんみん	citizens of a prefecture	県民	
+けんちょう	prefectural office	県庁	
+ふけん	prefecture	府県	
+れんぞく	serial, consecutive, continuity, occurring in succession, continuing	連続	
+てつづき	procedure, (legal) process, formalities	手続き	
+けいぞく	continuation	継続	
+つづき	sequel, continuation, (also suffix) continuation (in time and space), second series, succession, spell	続き	
+じぞく	continuation	持続	
+そんぞく	duration, continuance	存続	
+ぞくぞく	successively, one after another	続々	
+ひきつづき	continuing for a long time, in succession, without a break	引き続き	
+そうぞく	succession, inheritance	相続	
+そうぞくぜい	inheritance tax, death duty	相続税	
+すいしん	propulsion, driving force; implementation, promotion (e.g. of a government policy)	推進	
+しんしゅつ	advance, step forward	進出	
+せんしんこく	advanced (developed) country, advanced nations	先進国	
+しんてん	progress, development	進展	
+そくしん	promotion, acceleration, encouragement, facilitation, spurring on	促進	
+せんしん	seniority, advance, leadership	先進	
+しんがく	entering a higher-level school, esp. going on to university	進学	
+しんろ	route, course; career, university choices, course (of future life)	進路	
+ぜんしん	advance, drive, progress	前進	
+しょうしん	promotion	昇進	
+せい	(logical) true, regular; 10^40; original	正	
+かいせい	revision, amendment, alteration	改正	
+しゅうせい	amendment, correction, revision, modification, alteration, retouching, update, fix	修正	
+せいしき	due form, official, formality	正式	
+せいじょう	normalcy, normality, normal	正常	
+ぜせい	correction, revision	是正	
+せいぎ	justice, right, righteousness, correct meaning	正義	
+しょうご	noon, mid-day	正午	
+しょうめん	front, frontage, facade, main	正面	
+ふせい	injustice, unfairness, iniquity, impropriety, irregularity, dishonesty, illegality, fraud	不正	
+あんぜん	safety; security	安全	
+あんぽ	US-Japan Security Treaty, safety, security	安保	
+あんぜんほしょう	security guarantee (e.g. military security, network security, etc.)	安全保障	
+あんてい	stability, equilibrium	安定	
+ふあん	anxiety, uneasiness, insecurity, suspense	不安	
+いあん	solace, relaxation	慰安	
+あんだ	safe hit (baseball)	安打	
+ちあん	public order	治安	
+あんしん	relief, peace of mind	安心	
+ふあんてい	instability, insecurity, crankiness	不安定	
+けんせつ	construction, establishment	建設	
+しせつ	institution, establishment, facility; (army) engineer	施設	
+せっち	establishment, institution	設置	
+せつび	equipment, device, facilities, installation	設備	
+せっけい	plan, design, layout	設計	
+せつりつ	establishment, foundation, incorporation (of a business)	設立	
+せってい	establishment, creation; options or preference settings (in computer software), configuration, assignment, setup	設定	
+そうせつ	establishment, founding, organization, organisation	創設	
+けんせつしょう	Ministry of Construction	建設省	
+かいせつ	establishment, opening	開設	
+ほする, ほうする	to guarantee	保する	
+あんぽ	US-Japan Security Treaty, safety, security	安保	
+ほご	care, protection, shelter, safeguard, guardianship, favor, favour, patronage	保護	
+あんぜんほしょう	security guarantee (e.g. military security, network security, etc.)	安全保障	
+かくほ	guarantee, maintain, ensure, insure, secure, reservation	確保	
+ほけん	insurance, guarantee	保険	
+ほしゅ	maintenance, conservation	保守	
+ほぜん	preservation, integrity, conservation, maintenance	保全	
+ほしょう	guarantee, security, assurance, pledge, warranty	保証	
+たんぽ	security, collateral (e.g. mortgage)	担保	
+かいかく	reform, reformation, innovation	改革	
+かいせい	revision, amendment, alteration	改正	
+かいぜん	betterment, improvement, incremental and continuous improvement	改善	
+かいぞう	remodeling, remodelling, restructuring; modding	改造	
+あらためる	to change, to alter, to revise, to replace; to reform, to correct, to mend, to improve; to examine, to check, to inspect; to do properly, to do formally	改める	
+かいてい	reform	改定	
+かいけん	constitutional change	改憲	
+かいりょう	improvement, reform	改良	
+かいせん	re-election	改選	
+かいしゅう	repair, improvement	改修	
+かず	number, amount	数	
+すうじ	numeral, figure, digit, numeric character	数字	
+たすう	great number; countless, majority	多数	
+ていすう	constant; literal	定数	
+しょうすう	minority, few	少数	
+ふくすう	several, plural, plurality, multiple	複数	
+かはんすう	majority	過半数	
+はんすう	half the number; haploid	半数	
+かいすう	number of times, frequency, count	回数	
+しすう	index, index number, exponent (e.g. in floating-point representation), characteristic	指数	
+きじ	article, news story, report, account	記事	
+きしゃ	reporter	記者	
+きろく	record, minutes, document; a record (e.g. in sports), results, score; to record, to document; to set a record (e.g. in sports), to show a result, to reach a value	記録	
+しょき	clerk, secretary	書記	
+きねん	commemoration, memory	記念	
+きおく	memory, recollection, remembrance; storage	記憶	
+しるす, きす	to write down, to note; to remember	記す	
+きじゅつ	description, descriptor	記述	
+きねんび	holiday, anniversary, memorial day	記念日	
+にっき	diary, journal	日記	
+さんいん	House of Councillors	参院	
+しゅういん	lower house of the Diet	衆院	
+びょういん	hospital	病院	
+かいん	lower house, lower (legislative) body	下院	
+じょういん	Upper House, Senate, Lords	上院	
+がくいん	institute, academy	学院	
+だいがくいん	graduate school	大学院	
+にゅういん	hospitalization, hospitalisation	入院	
+りょういん	both Houses of Parliament	両院	
+いんちょう	director	院長	
+おんな	woman	女	
+じょし, おなご	woman, girl	女子	
+じょせい	woman, female; feminine gender	女性	
+だんじょ	man and woman, men and women	男女	
+かのじょ	she, her; girl friend, girlfriend, sweetheart	彼女	
+じょゆう	actress	女優	
+ちょうじょ	eldest daughter	長女	
+しょうじょ, おとめ	young lady, little girl, virgin, maiden, daughter	少女	
+じょしだい	women's college, women's university	女子大	
+おんなのこ, おんなのコ, おんにゃのこ	girl	女の子	
+はつ	first, new	初	
+さいしょ	beginning, outset, first, onset	最初	
+とうしょ	at first	当初	
+しょにち	first or opening day	初日	
+しょき	early (days), initial stage; initial	初期	
+しょだい	first generation, founder	初代	
+しょせん	first match (in a series)	初戦	
+しょえん	first performance	初演	
+しょじゅん	first 10 days of the month	初旬	
+はつばしょ	New Year's (January) sumo tournament, held in Tokyo	初場所	
+きた	north	北	
+ほっかいどう	Hokkaido (northernmost of the four main islands of Japan)	北海道	
+ぺきん	Beijing (China), Peking	北京	
+きたちょうせん	North Korea	北朝鮮	
+とうほく, ひがしきた	north-east; Northern most six prefectures of Honshu	東北	
+なんぼく	south and north	南北	
+ほっぽう	northern (district), northward	北方	
+ほくぶ	north, northern part	北部	
+ほくとう, きたひがし	northeast	北東	
+はいぼく	defeat; to be defeated	敗北	
+ごご	afternoon, p.m.	午後	
+ごぜん	morning, a.m.	午前	
+しょうご	noon, mid-day	正午	
+うま	seventh sign of Chinese zodiac (The Horse, 11am-1pm, south, May)	午	
+ひる	noon, midday; daytime; lunch	午	
+しごせん	the meridian	子午線	
+たんご	Boy's Day celebration (May 5th)	端午	
+ひるすぎ	after noon	午過ぎ	
+ごご	afternoon, p.m.	午后	
+ごごじゅう	throughout the afternoon	午後中	
+ゆび, および, おゆび	finger, toe, digit	指	
+しどう	leadership, guidance, coaching; shido (disciplinary action for a minor infringement of the rules of judo)	指導	
+しき	command, direction	指揮	
+してい	designation, specification, assignment, appointment, pointing at	指定	
+しめい	name, nominate, designate	指名	
+しじ	indication, instruction, designation, directions	指示	
+してき	pointing out, identification	指摘	
+しすう	index, index number, exponent (e.g. in floating-point representation), characteristic	指数	
+しひょう	index, indices, indicator	指標	
+ししん	compass needle (cursor), guideline, pointer	指針	
+せいけん	(political) administration, political power	政権	
+せんしゅけん	championship, title (of champion)	選手権	
+けんり	right, privilege	権利	
+けんりょく	(political) power, authority, influence	権力	
+じんけん	human rights, civil liberties	人権	
+けんげん	power, authority, jurisdiction	権限	
+さいけん	credit, claim	債権	
+ゆうけんしゃ	voter, constituent, (electoral) franchise-holder, (the) electorate, eligible voters	有権者	
+しゅけん	sovereignty, supremacy, dominion	主権	
+けん	authority, right (to do something)	権	
+かんしん	concern, interest	関心	
+ちゅうしん	center, centre, middle, heart, core, focus, pivot, emphasis, balance	中心	
+しんふぜん	heart failure	心不全	
+しんから, こころから	from the bottom of one's heart, heart and soul, by nature	心から	
+しんぞう	heart	心臓	
+しんぱい	worry, concern, anxiety; care, help, aid, assistance	心配	
+しんり	mentality	心理	
+あんしん	relief, peace of mind	安心	
+としん	city centre (center) (esp. capital city), urban centre, heart of city a metropolis	都心	
+ねっしん	zeal, enthusiasm	熱心	
+ぎょうかい	industry, business	業界	
+せかい	the world, society, the universe	世界	
+せいかい	political world	政界	
+ざいかい	financial world	財界	
+げんかい	limit, bound	限界	
+せかいてき	global, international, world-famous	世界的	
+けいざいかい	economic world, financial circles	経済界	
+さんぎょうかい	the industrial world	産業界	
+せかいいち	best in the world	世界一	
+きょうかい	boundary	境界	
+しえん	support, backing, aid, assistance	支援	
+しじ	support, maintenance	支持	
+しきょく	branch office	支局	
+してん	branch store (office)	支店	
+しはい	rule, control, direction	支配	
+しぶ	branch, subdivision	支部	
+しゅうし	income and expenditure	収支	
+しはらい	payment	支払い	
+ししゅつ	expenditure, expenses	支出	
+しきゅう	provision, supply, payment, allowance, grant	支給	
+しだいに	gradually (progress into a state); in sequence, in order, in turn	次第に	
+だいいっぽ	first step	第一歩	
+だいさんしゃ	third person, outsider, disinterested person	第三者	
+だいいちにんしゃ	leading person	第一人者	
+だいにじせかいたいせん	World War II	第二次世界大戦	
+だいいっせん	the front (of a battlefield), forefront	第一線	
+だいいっせい	first tone, first speech	第一声	
+だいさんごく	a third country	第三国	
+しだい	dependent upon; as soon as, immediately (upon); circumstances; order, precedence, program, programme, agenda	次第	
+だいいちぎ	first principle, original or greatest import	第一義	
+きょうさんとう	Communist Party	共産党	
+さんぎょう	industry	産業	
+せいさん	production, manufacture	生産	
+しさん	property, fortune, means, assets	資産	
+ふどうさん	real estate	不動産	
+つうさんしょう	(former) Ministry of International Trade and Industry (now Ministry of Economy, Trade and Industry), MITI	通産省	
+きょうさん	communism; Communist Party	共産	
+ざいさん	property, fortune, assets	財産	
+こくさん	domestic products	国産	
+しゅっさん	(child)birth, delivery, production (of goods)	出産	
+けっか	result, consequence	結果	
+けっきょく	after all, eventually	結局	
+けっこん	marriage	結婚	
+けつろん	conclusion	結論	
+むすぶ	to tie, to bind, to link; to bear (fruit)	結ぶ	
+けっせい	formation	結成	
+しゅうけつ	end, close	終結	
+とうけつ	freeze (e.g. program)	凍結	
+むすび	ending, conclusion, union	結び	
+ていけつ	conclusion, execution (of a contract), entering (into treaty)	締結	
+ひゃく, もも	100, hundred	百	
+にひゃく	two hundred, 200	二百	
+さんびゃく	300, three hundred; 300 mon, trifling amount, two-bit item; shyster	三百	
+ひゃっかてん	(department) store(s)	百貨店	
+ひゃくまん	1,000,000, one million; many	百万	
+よんひゃく	four hundred	四百	
+ひゃくおく	10,000,000,000, ten billion (American), (obs) ten milliard (British)	百億	
+すうひゃく	several hundreds	数百	
+ひゃくはちじゅうど	180 degrees, complete change	百八十度	
+ゆり, ユリ	lily, Lilium; comics and novels about female homosexuality	百合	
+はけん	dispatch, despatch, send	派遣	
+はばつ	clique, faction	派閥	
+りっぱ	splendid, fine, handsome, elegant, imposing, prominent, legal, legitimate	立派	
+うは	right wing	右派	
+さは	left wing	左派	
+とくはいん	correspondent	特派員	
+こうは	tough elements, hard-liners, stalwart(s)	硬派	
+とうは	faction	党派	
+はで	showy, loud, gay, flashy, gaudy	派手	
+はへい	dispatch of troops, despatch of troops	派兵	
+てん	spot, mark; point, dot; mark (e.g. in exam), score, points; counter for goods or items	点	
+しょうてん	focus (e.g. photographic), focal point	焦点	
+きょてん	position, location, base, point	拠点	
+じてん	point in time, occasion	時点	
+とくてん	score, points made, marks obtained, runs	得点	
+してん	opinion, point of view, visual point	視点	
+しってん	run charged to the pitcher	失点	
+じゅうてん	important point, lay stress on, colon, emphasis	重点	
+どうてん	deadlock, tie, draw	同点	
+もんだいてん	the point at issue	問題点	
+きょういく	training, education	教育	
+きょうじゅ	professor; teaching, instruction	教授	
+きょうし	teacher (classroom)	教師	
+しゅうきょう	religion	宗教	
+きょうしつ	classroom	教室	
+きょうと	believer, adherent	教徒	
+きょうかしょ	textbook, text book	教科書	
+きょうゆ	teacher	教諭	
+じょきょうじゅ	assistant professor	助教授	
+きょうかい	church	教会	
+じょうほう	news, gossip, (military) intelligence; information (data contained in characters, signals, code, etc.)	情報	
+ほうこく	report, information	報告	
+ほうどう	information, report, journalism	報道	
+ほうこくしょ	(written) report	報告書	
+こうほう	PR, public relations, publicity, information	広報	
+ほうしゅう	remuneration, recompense, reward, toll	報酬	
+ほうどうじん	press corps	報道陣	
+そくほう	prompt report, quick announcement	速報	
+にっぽう	daily report	日報	
+ほうふく	retribution	報復	
+けいざい	economics, business, finance, economy	経済	
+きゅうさい	relief, aid, rescue, salvation, help	救済	
+へんさい	repayment, reimbursement, refund, redemption	返済	
+けいざいてき	economic, economical	経済的	
+けいざいかい	economic world, financial circles	経済界	
+けいざいきかくちょう	Economic Planning Agency	経済企画庁	
+きょうさい	mutual aid	共済	
+けっさい	settlement, payment of account	決済	
+しようずみ	already finished being used, second-hand, no longer used	使用済み	
+けいざいけんきゅうしょ	economics research centre, economics research center	経済研究所	
+しょき	clerk, secretary	書記	
+ひしょ	(private) secretary	秘書	
+ほうこくしょ	(written) report	報告書	
+ぶんしょ, もんじょ	document, writing, letter, paperwork, note, records, archives	文書	
+きょうかしょ	textbook, text book	教科書	
+しょてん	bookshop, bookstore	書店	
+ちょしょ	literary work, book	著書	
+はくしょ	white paper	白書	
+しょるい	documents, official papers	書類	
+としょかん, ずしょかん	library	図書館	
+せいふ	government, administration	政府	
+とどうふけん	administrative divisions of Japan: Tokyo-to, Hokkai-do, Osaka-fu, Kyoto-fu and remaining prefectures	都道府県	
+そうりふ	Prime Minister's office, PMO	総理府	
+ふけい	prefectural police	府警	
+ふりつ	managed by an urban prefecture	府立	
+ふちゅう	Fuchuu (in Tokyo)	府中	
+しゅうせいふ	state government	州政府	
+ばくふ	bakufu, shogunate	幕府	
+ふけん	prefecture	府県	
+りっぽうふ	assize, court; legislature	立法府	
+かつどう	action, activity	活動	
+せいかつ	living, life (one's daily existence), livelihood	生活	
+かっぱつ	vigor, vigour, active, lively	活発	
+かっせい	activity	活性	
+かつやく	activity (esp. energetic), great efforts, conspicuous service; to flourish, to participate actively, to play an active role	活躍	
+ふっかつ	revival (e.g. musical), come-back; restoration, rebirth, resurrection	復活	
+かつよう	practical use, application; conjugation, declension, inflection	活用	
+かつりょく	vitality, energy	活力	
+かつどうか	(anti-war) activist	活動家	
+しょくせいかつ	eating habits	食生活	
+げんいん	cause, origin, source	原因	
+げんそく	principle, general rule	原則	
+げんしりょく	atomic energy	原子力	
+げんこく	plaintiff, accuser, prosecutor	原告	
+げんぱつ	nuclear power plant, nuclear power supply	原発	
+げんゆ	crude oil	原油	
+げんり	principle, theory, fundamental truth	原理	
+げんてん	origin (coordinates), starting point	原点	
+げんばく	atomic bomb, A-bomb	原爆	
+げんあん	original plan, original bill, motion, draft, draught	原案	
+さきに	before, earlier than, ahead, beyond, away, previously, recently	先に	
+せんげつ	last month	先月	
+せんしんこく	advanced (developed) country, advanced nations	先進国	
+せんせい	teacher, master, doctor; with names of teachers, etc. as an honorific	先生	
+せんぱつ	forerunner, advance party, going on ahead; being in a (team sports) match or game from the start, starting	先発	
+ゆうせん	preference, priority, precedence	優先	
+せんしん	seniority, advance, leadership	先進	
+せんとう	head, lead, vanguard, first	先頭	
+せんこう	preceding, going first, leading, going ahead, taking priority	先行	
+せんしゅう	last week, the week before	先週	
+きょうさんとう	Communist Party	共産党	
+きょうどう	doing together (as equals), sharing, common (land, etc.), joint (statement, etc.), cooperation, co-operation, collaboration, association	共同	
+グアテマラきょうわこく	Republic of Guatemala	グアテマラ共和国	
+ともに	sharing with, participate in, both, alike, together, along with, with, including	共に	
+きょうつう	commonness, community	共通	
+きょうどうたい	cooperative body, cooperative system, collective, community	共同体	
+こうきょう	public, community, public service, society, communal	公共	
+ちょうせんみんしゅしゅぎじんみんきょうわこく	Democratic People's Republic of Korea (North Korea), DPRK	朝鮮民主主義人民共和国	
+きょうわ	republicanism, cooperation	共和	
+きょうさん	communism; Communist Party	共産	
+しょとく	income, earnings	所得	
+とく	profit, advantage, benefit, gain; rebirth in paradise, entering nirvana	得	
+しょとくぜい	income tax	所得税	
+とくてん	score, points made, marks obtained, runs	得点	
+かくとく	acquisition, possession	獲得	
+せっとく	persuasion	説得	
+とくひょう	number of votes polled, poll votes	得票	
+しゅとく	acquisition	取得	
+とくい	triumph, prosperity; pride; one's strong point, one's forte, one's specialty; frequent customer (client, etc.)	得意	
+なっとく	consent, assent, understanding, agreement, comprehension, grasp	納得	
+かいけつ	settlement, solution, resolution	解決	
+かいさん	breakup, dissolution	解散	
+けんかい	opinion, point of view	見解	
+りかい	understanding, comprehension	理解	
+かいじょ	cancellation, rescinding, release, calling off, lifting (sanctions), delisting	解除	
+かいほう	release, unleashing, liberation, emancipation, setting free; deallocation (of computer memory)	解放	
+かいめい	clarification, elucidation, explication	解明	
+わかい, わげ	reconciliation, settlement, accommodation, compromise, mediation, rapprochement; (legal) settlement; translation of a foreign language into Japanese	和解	
+かいしょう	cancellation, liquidation, resolution, reduction (e.g. of stress)	解消	
+かいせつ	explanation, commentary, exposition, elucidation	解説	
+な	name, reputation	名	
+なまえ	name, full name; given name, first name	名前	
+めいよ	honor, honour, credit, prestige	名誉	
+しめい	name, nominate, designate	指名	
+しめい	full name, identity	氏名	
+ゆうめい	famous; fame	有名	
+しょめい	signature	署名	
+ほんみょう, ほんめい	real name	本名	
+めいじん	master, expert	名人	
+めいぼ	register of names	名簿	
+がいこう	diplomacy	外交	
+こうしょう	negotiations, discussions; connection	交渉	
+こうりゅう	intercourse, (cultural) exchange, intermingling; alternating current, AC	交流	
+こうかん	exchange, interchange, switching, reciprocity, barter, substitution, replacement, clearing (of checks, cheques)	交換	
+こうつう	communication, transportation, traffic, intercourse	交通	
+こっこう	diplomatic relations	国交	
+こうたい	alternation, change, relief, relay, shift, substitution (sports, etc.)	交代	
+こうふ	delivering, handing over, furnishing (e.g. with copies), issuance, issuing	交付	
+がいこうかん	diplomat	外交官	
+こうつうじこ	traffic accident	交通事故	
+しきん	funds, capital	資金	
+とうし	investment	投資	
+ゆうし	financing, loan	融資	
+しさん	property, fortune, means, assets	資産	
+しりょう	materials, data, document	資料	
+しかく	qualifications, requirements, capabilities	資格	
+しげん	resources	資源	
+しほん	funds, capital	資本	
+ぶっし	goods, materials	物資	
+しゅっし	investment, contribution, financing	出資	
+よさん	estimate, budget	予算	
+よてい	plans, arrangement, schedule, program, programme, expectation, estimate	予定	
+よせん	nomination, primary, preliminary contest	予選	
+よそう	expectation, anticipation, prediction, forecast	予想	
+よそく	prediction, estimation	予測	
+よび	preparation, preliminaries, reserve, spare	予備	
+よぼう	prevention, precaution, protection against	予防	
+ほせいよさん	revised or supplementary budget	補正予算	
+よやく	reservation, appointment, booking, advance order; contract, subscription, pledge	予約	
+よほう	forecast, prediction	予報	
+かわ, がわ	river, stream; the .... river, (suffix used with the names of rivers)	川	
+おがわ	streamlet, brook	小川	
+かせん	rivers	河川	
+たにがわ	mountain stream	谷川	
+えどがわ	Edo River	江戸川	
+かわぐち, かこう	mouth of river, estuary	川口	
+かわかみ	upper reaches of a river	川上	
+せんりゅう	comic haiku	川柳	
+かわばた	riverbank	川端	
+かせんしき, かせんじき	(dry) riverbed	河川敷	
+ほうこう	direction, orientation, bearing, way; course (e.g. of action)	方向	
+いこう	intention, idea, inclination	意向	
+けいこう	tendency, trend, inclination	傾向	
+むき	direction, orientation, aspect, situation, exposure, suitability, tendency	向き	
+こうじょう	elevation, rise, improvement, advancement, progress	向上	
+どうこう	trend, tendency, movement, attitude	動向	
+むかい	facing, opposite, across the street, other side	向い	
+むかってひだり	on the left as one faces (it)	向かって左	
+しこう	intention, aim	志向	
+まえむき	facing forward, front-facing, positive	前向き	
+さい	on the occasion of, circumstances	際	
+こくさい	international	国際	
+こくさいてき	international	国際的	
+じっさい	practicality, practical; reality, actuality, actual conditions; bhutakoti (limit of reality)	実際	
+こくさいか	internationalization, internationalisation, i18n (in IT)	国際化	
+こくさいほう	international laws	国際法	
+こうさい	company, friendship, association, society, acquaintance	交際	
+こうさいひ	entertainment expenses	交際費	
+こくさいじん	international celebrity, cosmopolitan, citizen of the world	国際人	
+こくさいきょうりょくじぎょうだん	Japan International Cooperation Agency (1974), JICA	国際協力事業団	
+そうさ	search (esp. in criminal investigations), investigation, inquiry, enquiry	捜査	
+ちょうさ	investigation, examination, inquiry, enquiry, survey	調査	
+けんさ	inspection (e.g. customs, factory), examination	検査	
+ささつ	inspection (for compliance), investigation (tax, etc.)	査察	
+しんさ	judging, inspection, examination, investigation	審査	
+じったいちょうさ	factual investigation	実態調査	
+かんさやく	auditor, inspector	監査役	
+じゅんさ	police, policeman	巡査	
+かんさ	inspection, audit, judgement, judgment	監査	
+たんさ	probe, inquiry, enquiry, investigation	探査	
+まさる	to excel, to surpass, to exceed, to have an edge, to be superior, to outrival; to outweigh, to preponderate	勝る	
+かち	win, victory	勝ち	
+ゆうしょう	overall victory, championship	優勝	
+けっしょう	decision of a contest, finals (in sports)	決勝	
+しょうり	victory, triumph, conquest, success, win	勝利	
+しょうぶ	victory or defeat, match, contest, game, bout	勝負	
+れんしょう	consecutive victories, series of victories	連勝	
+じゅんけっしょう	semifinal (in sports)	準決勝	
+かちこし	more wins than losses (sport)	勝ち越し	
+ぜんしょう	complete victory, winning the sumo tournament with no losses	全勝	
+つら	face (often derog. or vulg.), mug; surface; surrounding area; cheek(s)	面	
+ぜんめん	whole surface, entire	全面	
+とうめん	current, urgent, pressing, impending; to confront (an issue), to face (up to something); for the meantime, at present	当面	
+ばめん	scene, setting (e.g. of novel)	場面	
+がめん	terminal screen, scene, picture, the field (in TV), photo	画面	
+きょくめん	checkerboard, aspect, situation	局面	
+しゃかいめん	society or local news page	社会面	
+しょうめん	front, frontage, facade, main	正面	
+ぜんめんてき	all-out, general, over-all, complete, extensive, full-scale	全面的	
+ひょうめん	surface, outside, face, appearance	表面	
+いいん	committee member	委員	
+いいんかい	committee, commission, board, panel, committee meeting	委員会	
+いいんちょう	committee chairman	委員長	
+こうとりい	Fair Trade Commission	公取委	
+いたく	consign (goods (for sale) to a firm), entrust (person with something), commit	委託	
+きょういくいいんかい	Board of Education	教育委員会	
+しっこういいん	executive committee	執行委員	
+こうあんいいんかい	public safety commission	公安委員会	
+ぎいんうんえいいいんかい	Committee on Rules and Administration (Diet)	議院運営委員会	
+いしゅく	withering, atrophy, contraction, dwarf	委縮	
+こくべつ	farewell, leave-taking	告別	
+ひこく	defendant, the accused	被告	
+ほうこく	report, information	報告	
+こうこく	advertisement	広告	
+ほうこくしょ	(written) report	報告書	
+げんこく	plaintiff, accuser, prosecutor	原告	
+かんこく	advice, counsel, remonstrance, recommendation	勧告	
+しんこく	report, statement, filing a return, notification	申告	
+けいこく	warning, advice	警告	
+こくじ	notice, bulletin	告示	
+ぐん	army, force, troops	軍	
+ぐんじ	military affairs	軍事	
+かいぐん	navy	海軍	
+ぐんしゅく	disarmament, limitation of arms	軍縮	
+くうぐん	Air Force	空軍	
+ぐんじん	military personnel, soldier	軍人	
+ぐんぶ	military authorities, army circles	軍部	
+じゅうぐん	campaign	従軍	
+ぐんたい	army, troops	軍隊	
+しょうぐん	general, shogun	将軍	
+ふみ	letter, writings	文	
+ぶんか	culture, civilization, civilisation; Bunka era (1804.2.11-1818.4.22)	文化	
+ぶんがく	literature	文学	
+ぶんしょ, もんじょ	document, writing, letter, paperwork, note, records, archives	文書	
+もじ, もんじ	letter (of alphabet), character; literal	文字	
+もんぶしょう	Ministry of Education, Culture, Sports, Science and Technology	文部省	
+ちゅうもん	order, request	注文	
+ろんぶん	thesis, essay, treatise, paper, article	論文	
+ぶんこ	library, book collection; paperback book	文庫	
+ぶんしょう	sentence, article, composition; (writing) style	文章	
+いはん	violation (of law), transgression, infringement, breach	違反	
+はんたい	opposition, resistance, antagonism, hostility, contrast, objection, dissension, reverse, opposite, vice versa	反対	
+はんぱつ	to repel, to oppose, to revolt, to react sharply (against); opposition, rebellion, resistance, backlash; rally, recovery (e.g. in stock prices), rebound; to rally, to recover, to rebound	反発	
+はんのう	reaction, response	反応	
+はんせい	reflection, reconsideration, introspection, meditation, contemplation	反省	
+たん	variable measure of fabric (28.8 cm in width), for kimonos: at least 10 m in length, for haori: at least 7.27 m in length, for other clothes: at least 6.06 m in length; 300 tsubo (991.74 meters square, 0.24506 acres); six ken (10.91 m)	反	
+はんきょう	echo, reverberation, repercussion, reaction, influence	反響	
+はんげき	counterattack, counteroffensive, counterblow	反撃	
+げんたん	reduction (of crop size), reduction of acreage (under cultivation)	減反	
+はんせん	anti-war	反戦	
+もと	origin, source; base, foundation; cause; ingredient; (somebody's) side, (somebody's) location; original cost (or capital, principal, etc.); trunk; first section of a waka; counter for blades of grass, tree trunks, etc., and for falcons (in falconry)	元	
+じもと	home area, home town; local	地元	
+げんしゅ	ruler, sovereign	元首	
+げんき	health(y), robust, vigor, vigour, energy, vitality, vim, stamina, spirit, courage, pep	元気	
+がんじつ, がんにち	New Year's Day	元日	
+みもと	person's identity, ID, past, background	身元	
+あしもと, そっか	at one's feet, underfoot; gait, pace, step; you, thou	足元	
+かんげん	resolution, reduction, return to origins	還元	
+がんねん	first year (of a specific reign)	元年	
+じげん	dimension; perspective, point of reference, level (of something)	次元	
+おもさ	weight	重さ	
+じゅうよう	important, momentous, essential, principal, major	重要	
+じゅうだい	serious, important, significant, grave, weighty	重大	
+おもみ	importance, weight, dignity, emphasis	重み	
+きちょう	precious, valuable	貴重	
+かさねる	to pile up, to put something on another, to heap up, to add, to repeat	重ねる	
+じゅうし	importance, stress, serious consideration	重視	
+じゅうてん	important point, lay stress on, colon, emphasis	重点	
+しんちょう	discretion, prudence, caution, care	慎重	
+たいじゅう	one's body weight	体重	
+さいきん	latest, most recent, nowadays	最近	
+きんだい	present day, modern times	近代	
+ふきん	neighbourhood, neighborhood, vicinity, environs; approaching	付近	
+きんてつ	Kinki Nippon Tetsudou (railway co.)	近鉄	
+そっきん	close associate, close aide, brains-truster	側近	
+きんじょ	neighbourhood, neighborhood	近所	
+きんねん	recent years	近年	
+きんき	Kinki (region around Osaka, Kyoto, Nara)	近畿	
+きんこう	suburbs, outskirts	近郊	
+きんりん	neighbourhood, neighborhood, vicinity	近隣	
+せん, ち	1,000, thousand	千	
+さんぜん	3000; many	三千	
+よんせん	four thousand	四千	
+せんだい, ちよ	thousand years; very long period, forever	千代	
+せんり	1000 ri, (a) long distance	千里	
+せんしゅうらく	concluding festivities, final day of a sumo tournament, concluding program, concluding programme	千秋楽	
+ちしま	Kurile Islands	千島	
+ちとせ, せんねん	millennium, one thousand years	千歳	
+せんきゅうひゃくねんだい	the 1900s	千九百年代	
+なんぜん	many thousands	何千	
+かんがえ	thinking, thought, ideas, intention	考え	
+かんがえかた	way of thinking	考え方	
+さんこう	reference, consultation	参考	
+せんこう	selection, screening	選考	
+かんがえる	to consider, to think about	考える	
+しこう	thought, consideration, thinking	思考	
+こうこがく	archaeology, archeology	考古学	
+こうりょ	consideration, taking into account	考慮	
+さいこう	reconsideration	再考	
+こうさつ	consideration, inquiry, enquiry	考察	
+さいばん	trial, judgement, judgment	裁判	
+はんけつ	judicial decision, judgement, judgment, sentence, decree	判決	
+はんだん	judgement, judgment, decision, adjudication, conclusion, decipherment, divination	判断	
+ひはん	criticism, judgement, judgment, comment	批判	
+こうはん	public hearing, trial	公判	
+さいばんしょ	court, courthouse	裁判所	
+しんぱん, しんばん	refereeing, trial, judgement, judgment, umpire, referee	審判	
+はんてい	judgement, judgment, decision, award, verdict	判定	
+ひょうばん	fame, reputation, popularity; rumour (rumor), talk	評判	
+はんじ	judge, judiciary	判事	
+しょうにん	recognition, acknowledgement, acknowledgment, approval, consent, agreement	承認	
+にんしき	recognition, cognizance, cognisance	認識	
+かくにん	affirmation, confirmation, validation	確認	
+こうにん	official recognition, authorization, authorisation, licence, license, accreditation	公認	
+にんてい	authorization, authorisation, acknowledgment, acknowledgement, certification, recognition	認定	
+にんか	approval, license, licence, permission	認可	
+ようにん	approval	容認	
+にんち	acknowledgement, acknowledgment, recognition	認知	
+にんしょう	certification, attestation, authentication, confirmation; Imperial attestation	認証	
+みとめ	approval, final seal (of approval)	認め	
+かく	stroke (of a kanji, etc.)	画	
+えいが	movie, film	映画	
+けいかく	plan, project, schedule, scheme, program, programme	計画	
+きかく	planning, project, plan, design	企画	
+かいが	picture, painting	絵画	
+がめん	terminal screen, scene, picture, the field (in TV), photo	画面	
+がか	painter, artist	画家	
+まんが	comic, cartoon	漫画	
+がぞう	image, picture, portrait	画像	
+けいざいきかくちょう	Economic Planning Agency	経済企画庁	
+うみ, み, わた, わだ	sea, beach	海	
+かいがい	foreign, abroad, overseas	海外	
+ほっかいどう	Hokkaido (northernmost of the four main islands of Japan)	北海道	
+とうかい	region south of Tokyo on Pacific Ocean side of Japan, eastern sea	東海	
+かいぐん	navy	海軍	
+かいじょう	(by, at, on) sea, maritime, marine	海上	
+かいがん	coast, beach	海岸	
+かいよう	ocean	海洋	
+そうかい	sweeping the sea for mines, dragging for mines	掃海	
+にほんかい, にっぽんかい	Sea of Japan	日本海	
+</tbody></table></li>
+</ul>
+                <div id="main-copy">
+<p style="text-align:center"><a href="https://kanjicards.org/cgi-bin/list_no_member.cgi?type=2&amp;news=100&amp;rvar=freq&amp;number=100&amp;start=100&amp;rlim=1-500">&lt;- Previous</a> | <a href="https://kanjicards.org/cgi-bin/list_no_member.cgi?type=2&amp;news=100&amp;rvar=freq&amp;number=100&amp;start=300&amp;rlim=1-500">Next -&gt;</a></p>
+<h1>Kanji List</h1>
+さんいん	House of Councillors	                <!-- ##### Search Result ##### -->参院	
+さんか	participation	参加	
+さんかしゃ	participant, entrant	参加者	
+さんこう	reference, consultation	参考	
+さんにゅう	coming, visiting, going	参入	
+さんぎいん	House of Councillors	参議院	
+さんぱい	visit to a shrine or temple, paying homage at a shrine or temple	参拝	
+さんぼう	staff officer, participating in planning	参謀	
+さんしょう	reference, bibliographical reference, consultation, browsing (e.g. when selecting a file to upload on a computer), checking out	参照	
+さんじかん	councillor, councilor	参事官	
+はんばい	sales, selling, marketing	販売	
+うり	sale, selling; selling point, gimmick	売り	
+うる	to sell	売る	
+ばいばい	trade, buying and selling	売買	
+はつばい	sale, offering for sale, release (for sale), launch (product)	発売	
+うりあげ	amount sold, proceeds	売り上げ	
+ばいきゃく	sale, disposal by sale	売却	
+うりあげだか	sales, amount sold, proceeds	売上高	
+しょうばい	trade, business, commerce, transaction, occupation	商売	
+うりば	place where things are sold, point of sale, POS, sales floor, counter (in shop)	売り場	
+り	advantage, benefit, profit, interest	利	
+きんり	interest rates	金利	
+けんり	right, privilege	権利	
+しょうり	victory, triumph, conquest, success, win	勝利	
+りえき, りやく	profit, gains; benefit, advantage, interest (of the public, etc.); grace (of God, Buddha, etc.) (esp. as attained through rightful actions, prayer, adherence to one's faith, etc.), blessing, miracle	利益	
+りよう	use, utilization, utilisation, application	利用	
+りようしゃ	user, end-user, consumer	利用者	
+ゆうり	advantageous, better, profitable, lucrative	有利	
+けいじょうりえき	current profits, ordinary profit, income before income taxes	経常利益	
+りさげ	decrease in interest rates	利下げ	
+くみ	set (of items); group (of people), class (of students), company (esp. construction), family (i.e. mafia), team; typesetting, composition	組	
+そしき	organization, organisation; structure, construction; tissue; system	組織	
+ばんぐみ	program (e.g. TV), programme	番組	
+くみあい	association, union	組合	
+ろうそ, ろうくみ	labor union, labour union	労組	
+しくみ	structure, construction, arrangement, contrivance; plan, plot, contrivance	仕組み	
+わくぐみ	frame, framework	枠組み	
+とりくみ	bout (in sports, etc.), match; effort, initiative, dealing with, grappling with, wrestling with	取り組み	
+ろうどうくみあい	labor union, labour union	労働組合	
+くみちょう	boss (yakuza)	組長	
+しる	to know, to understand, to be acquainted with, to feel	知る	
+ちじ	prefectural governor	知事	
+しらんかお	unconcerned air, indifference, feigned ignorance, pretending not to recognize (somebody)	知らん顔	
+けんちじ	prefectural governor	県知事	
+ちしき	knowledge, information	知識	
+ちじん	friend, acquaintance	知人	
+ちえ	wisdom, wit, sagacity, sense, intelligence; prajna (insight leading to enlightenmen)	知恵	
+ちてき	intellectual	知的	
+つうち	notice, notification, report, posting	通知	
+ふくちじ	lieutenant governor	副知事	
+ほうあん	bill (law)	法案	
+ていあん	proposal, proposition, suggestion	提案	
+はいあん	rejected bill (project)	廃案	
+けんあん	pending question, pending problem	懸案	
+げんあん	original plan, original bill, motion, draft, draught	原案	
+あんない	information, guidance, leading; to guide, to show (around), to conduct	案内	
+そうあん	draft, draught	草案	
+あんけん	matter in question, subject	案件	
+しあん	tentative	試案	
+りつあん	draft, draught, (rough) design	立案	
+みち	road, street, way, path, course, route, lane; distance, ways (e.g. "a long ways"); the way (of proper conduct, etc.), one's way, morals; teachings (esp. Confucian or Buddhist), dogma; field (of medicine, etc.), subject; way, method, means	道	
+ほうどう	information, report, journalism	報道	
+ほっかいどう	Hokkaido (northernmost of the four main islands of Japan)	北海道	
+どうろ	road, highway	道路	
+てつどう	railroad	鉄道	
+とどうふけん	administrative divisions of Japan: Tokyo-to, Hokkai-do, Osaka-fu, Kyoto-fu and remaining prefectures	都道府県	
+きどう	orbit, trajectory; railroad track	軌道	
+じゅうどう	judo	柔道	
+ほうどうじん	press corps	報道陣	
+こうそくどうろ	highway, freeway, expressway, motorway	高速道路	
+しん	honesty, fidelity; trust, reliance; (religious) faith; counter for received messages	信	
+つうしん	correspondence, communication, transmission, news, signal	通信	
+じしん	self-confidence	自信	
+しんよう	confidence, dependence, credit, faith, reliance, belief, credence	信用	
+しんらい	reliance, trust, faith, confidence	信頼	
+ふしん	unfaithfulness, insincerity, perfidy, mistrust, distrust, discredit	不信	
+しんたく	trust, entrusting	信託	
+ふしんにん	non-confidence, lack of confidence	不信任	
+しんごう	traffic lights, signal, semaphore	信号	
+じゅしん	reception (e.g. radio), receipt	受信	
+せいさく	political measures, policy	政策	
+たいさく	counter-plan, counter-measure	対策	
+さく	plan, policy	策	
+さくてい	decision, settling on	策定	
+しさく	policy, measure	施策	
+ほうさく	plan, policy	方策	
+しっさく	blunder, slip, error	失策	
+とくさく	profitable plan, good plan	得策	
+くにくのさく	last resort, desperate measure taken under pressure of necessity	苦肉の策	
+こくさく	national policy	国策	
+あつめる	to collect, to assemble, to gather	集める	
+しゅうかい	meeting, assembly	集会	
+しゅうだん	group, mass	集団	
+へんしゅう	editing, compilation, editorial (e.g. committee)	編集	
+しゅうちゅう	concentration, convergence, centralization, integration, gathering together	集中	
+ぼしゅう	recruiting, taking applications	募集	
+あつまり	gathering, meeting, assembly, collection	集まり	
+しゅうしゅう	gathering up, collection, accumulation	収集	
+しゅう	collection, compilation	集	
+とくしゅう	feature (e.g. newspaper), special edition, report	特集	
+ある	to be (usu. of inanimate objects), to exist, to live; to have; to be located; to be equipped with; to happen, to come about	在る	
+げんざい	now, current, present, present time, as of	現在	
+そんざい	existence, being	存在	
+ざいじゅう	resident	在住	
+ざいにち	in Japan; people in Japan (esp. Koreans living in Japan, often used as a slur)	在日	
+たいざい	stay, sojourn	滞在	
+ざいこ	inventory, stockpile, stock	在庫	
+ありしひ	days of yore, the olden days; during one's lifetime	在りし日	
+ざいたく	being in, being at home	在宅	
+ふざい	absence	不在	
+けん	matter, case, item	件	
+じけん	event, affair, incident, case, plot, trouble, scandal	事件	
+じょうけん	condition(s), term(s), requirement(s)	条件	
+けんすう	number (of things)	件数	
+じんけんひ	personnel expenses, labor cost, labour cost; indirect labour costs, indirect labor costs	人件費	
+ほんけん	this matter or case	本件	
+じょうけんつき	conditionally, with conditions attached	条件付き	
+ぶっけん	article, thing	物件	
+ようけん	requirement, important matter	要件	
+あんけん	matter in question, subject	案件	
+だんたい	organization, organisation, association	団体	
+しゅうだん	group, mass	集団	
+ぼうりょくだん	gangster organization (organisation), crime syndicate, yakuza (Japanese mafia), band of thugs, group of hoodlums	暴力団	
+けいだんれん	Federation of Economic Organizations (Organisation)	経団連	
+きゅうだん	baseball team	球団	
+ざいだん	foundation	財団	
+だんちょう	leader of a delegation (body, party)	団長	
+げきだん	troupe, theatrical company	劇団	
+ざいだんほうじん	incorporated foundation, juridical foundation	財団法人	
+こうだん	public corporation	公団	
+べつに	(not) particularly, nothing; separately, apart	別に	
+こくべつ	farewell, leave-taking	告別	
+とくべつ	special	特別	
+こべつ	particular case, discrete, individual, separate	個別	
+さべつ	discrimination, distinction, differentiation	差別	
+わかれ	parting, separation, farewell, (lateral) branch, fork, offshoot, division, section	別れ	
+べっそう	holiday house, villa	別荘	
+べっぴょう	annexed (statistical) table	別表	
+せいべつ	distinction by sex, sex, gender	性別	
+くべつ	distinction, differentiation, classification	区別	
+じんぶつ	character, personality, person, man, personage, talented man	人物	
+どうぶつ	animal	動物	
+たてもの	building	建物	
+ぶっか	prices of commodities, prices (in general), cost-of-living	物価	
+ものがたり	tale, story, legend	物語	
+ぶっしつ	material, substance	物質	
+しょくぶつ	plant, vegetation	植物	
+せいぶつ	living things, creature	生物	
+はくぶつかん	museum	博物館	
+ぶっし	goods, materials	物資	
+そば, そく, はた	near, close, beside, vicinity, proximity, besides, while; third person	側	
+にしがわ	west side, west bank	西側	
+そっきん	close associate, close aide, brains-truster	側近	
+そくめん	side, flank, sidelight, lateral	側面	
+きたがわ, ほくそく	north side, north bank	北側	
+うちがわ	inside, interior, inner part	内側	
+ひがしがわ, とうそく	east side, east bank	東側	
+みなみがわ, なんそく	south side	南側	
+うらがわ	the reverse, other side, lining	裏側	
+そとがわ, がいそく	exterior, outside	外側	
+せきにん	duty, responsibility; liability, onus	責任	
+じにん	to resign; resignation	辞任	
+しゅうにん	inauguration, assumption of office	就任	
+じょうにん	standing, regular, permanent	常任	
+にんき	term of office	任期	
+こうにん	successor	後任	
+せきにんしゃ	responsible party	責任者	
+にん	obligation, duty, charge, responsibility	任	
+しゅにん	person in charge, responsible official	主任	
+にんむ	duty, function, office, mission, task	任務	
+とりひき	transactions, dealings, business	取引	
+ひきさげ	reduction, cut	引き下げ	
+ひきあげ	pulling up, drawing up, salvage, re-floatation; raising, increase, upward revision	引き上げ	
+いんたい	retire	引退	
+かくしひきだし	secret withdrawal	隠し引き出し	
+ごういん	overbearing, coercive, pushy, forcible, high-handed	強引	
+かけひき	bargaining, haggling; tactics, strategy	駆け引き	
+ひきがね	trigger, gunlock	引き金	
+ひきつづき	continuing for a long time, in succession, without a break	引き続き	
+わりびき	discount, reduction, rebate, tenths discounted	割引	
+つかわす	to send, to dispatch, to despatch	使わす	
+つかう	to use (a thing, method, etc.), to make use of, to put to use; to use (a person, animal, puppet, etc.), to employ, to handle, to manage, to manipulate; to use (time, money, etc.), to spend, to consume; to use (language), to speak; to take (one's lunch), to circulate (bad money)	使う	
+しよう	use, application, employment, utilization, utilisation	使用	
+たいし	ambassador	大使	
+こうし	use, exercise	行使	
+たいしかん	embassy	大使館	
+つかい	errand, message, messenger, bearer, use, usage, trainer, tamer, mission, familiar spirit, going as envoy	使い	
+しと	purpose for which money is spent, the way money is spent	使途	
+とくし	special envoy	特使	
+ろうし	labour and management, labor and management	労使	
+ようきゅう	demand, firm request, requisition, requirement, desire	要求	
+せいきゅう	claim, demand, charge, application, request, billing (for a service)	請求	
+きゅうけい	prosecution	求刑	
+きゅうじん	offer of job (situation)	求人	
+きゅうしんりょく	centripetal force, cohesive power, unifying force	求心力	
+みのしろきんようきゅう	ransom demand	身代金要求	
+せいきゅうけん	claim rights	請求権	
+よっきゅう	desire	欲求	
+ついきゅう	pursuing (goal), pursuit, seeking, search; to pursue (e.g. goal), to seek	追求	
+きゅうしょく	job hunting, seeking employment	求職	
+じむしょ	office	事務所	
+ばしょ	place, location	場所	
+けんきゅうしょ, けんきゅうじょ	research establishment (institute, laboratory, etc.)	研究所	
+しょとく	income, earnings	所得	
+じゅうしょ	address (e.g. of house), residence, domicile	住所	
+しょちょう	chief, head	所長	
+しょとくぜい	income tax	所得税	
+さいばんしょ	court, courthouse	裁判所	
+しょぞく	attached to, belong to, member	所属	
+むしょぞく	independent	無所属	
+じかん	vice-minister, undersecretary	次官	
+じむじかん	permanent vice-president, undersecretary, vice-minister	事務次官	
+じき	next term, next period; next version, next release	次期	
+じちょう	vice-, assistant director, vice-director	次長	
+つぎつぎ	in succession, one by one	次々	
+じかい	next time (occasion)	次回	
+しだいに	gradually (progress into a state); in sequence, in order, in turn	次第に	
+にじ	secondary, subordinate	二次	
+せいむじかん	parliamentary vice-minister	政務次官	
+ごじゅうさんつぎ	the 53 Toukaidou stages	五十三次	
+みず	water (cold, fresh)	水	
+すいじゅん	level, standard; water level	水準	
+すいどう	water service, water supply	水道	
+すいめん, みなも, みのも	water's surface	水面	
+すいえい	swimming	水泳	
+すいでん	(water-filled) paddy field	水田	
+みなまたびょう	Minamata disease	水俣病	
+すいさん	marine products, fisheries	水産	
+すいしつ	water quality	水質	
+げすいどう	drain, sewer, drainage system	下水道	
+はん	half	半	
+じはん	about an hour, short time; half past (the hour)	時半	
+こうはん	second half, latter half	後半	
+なかば	middle, half, semi, halfway, partly	半ば	
+はんぶん	half	半分	
+ぜんはん, ぜんぱん	first half	前半	
+たいはん	majority, mostly, generally	大半	
+かはんすう	majority	過半数	
+ちょうせんはんとう	Korean peninsula	朝鮮半島	
+はんすう	half the number; haploid	半数	
+さくひん	work (e.g. book, film, composition, etc.), opus, performance, production	作品	
+しょうひん	commodity, article of commerce, goods, stock, merchandise	商品	
+せいひん	manufactured goods, finished goods, product	製品	
+しょくひん	commodity, foodstuff	食品	
+ぶひん	parts, accessories	部品	
+いやくひん	medical supplies	医薬品	
+ひんしつ	(material) quality	品質	
+ようひん	articles, supplies, parts	用品	
+ひんしゅ	kind (of goods), brand; (taxonomical) form; breed, cultivar	品種	
+ひんもく	list of articles	品目	
+さくねん	last year	昨年	
+いっさくねん, おととし	year before last	一昨年	
+さくしゅう	autumn of last year, fall of last year	昨秋	
+さくねんど	previous fiscal year	昨年度	
+さくしゅん	last spring, the spring of last year	昨春	
+さくじつ, きのう	yesterday	昨日	
+さっこん, さくこん	nowadays, recently	昨今	
+さくねんらい	since last year	昨年来	
+ゆう, ゆうべ, さくや	evening; last night	昨夜	
+さくとう	last winter	昨冬	
+ろんぎ	discussion, argument, debate	論議	
+ぎろん	argument, discussion, dispute, controversy	議論	
+けつろん	conclusion	結論	
+せろん, よろん	public opinion	世論	
+ひょうろんか	critic	評論家	
+ろんぶん	thesis, essay, treatise, paper, article	論文	
+とうろん	debate, discussion	討論	
+りろん	theory	理論	
+ろんそう	controversy, dispute	論争	
+ろんり	logic; logical	論理	
+けい	plan; meter, measuring device; (in) total, total (of)	計	
+けいかく	plan, project, schedule, scheme, program, programme	計画	
+ごうけい	sum total, total amount	合計	
+せっけい	plan, design, layout	設計	
+けいさん	calculation, reckoning, count; forecast	計算	
+とうけい	statistics	統計	
+かいけい	account, finance, accountant, treasurer, paymaster, reckoning, bill	会計	
+とけい, ときはかり	watch, clock, timepiece	時計	
+しゅうけい	totalization, totalisation, aggregate	集計	
+かけい	household economy, family finances	家計	
+し	death, decease; death penalty (by strangulation or decapitation)	死	
+ししゃ	casualty, deceased	死者	
+のうし	brain death	脳死	
+しぼう	death, mortality	死亡	
+にし	two out (e.g. in baseball), two down (and one to go)	二死	
+しきょ	death	死去	
+しけい	death penalty, capital punishment	死刑	
+ひっし	frantic, desperate; inevitable death; brinkmate (inevitable checkmate) (shogi)	必死	
+しご	after death	死後	
+したい	dead body, corpse, cadaver	死体	
+ちょうかん	secretary (government), director, chief	長官	
+かんてい	official residence	官邸	
+かんぼうちょうかん	Chief Cabinet Secretary	官房長官	
+かんりょう	bureaucrat, bureaucracy	官僚	
+じかん	vice-minister, undersecretary	次官	
+こうかん	high official	高官	
+しれいかん	commandant, commanding officer, general	司令官	
+じむじかん	permanent vice-president, undersecretary, vice-minister	事務次官	
+かんぼう	government secretariat	官房	
+こくむちょうかん	Secretary of State	国務長官	
+ぞうか	increase, increment, addition	増加	
+ぞうぜい	tax increase	増税	
+ぞうしょく	increase, multiplication, propagation	増殖	
+きゅうぞう	explosion, proliferation, surge	急増	
+ぞうだい	enlargement, increase	増大	
+ぞうきょう	augment, reinforce, increase	増強	
+まし, マシ	better, less objectionable, preferable; more, increase, extra; increase, growth	増し	
+ぞうしゅう	increase in yield	増収	
+ぞうえき	increased (profit)	増益	
+ぞうがく	increased amount	増額	
+かかり	official, duty, person in charge	係	
+かんけい	relation, connection	関係	
+かんけいしゃ	authorized people, authorised people, person(s) concerned	関係者	
+にんげんかんけい	human relations	人間関係	
+かかりちょう	chief clerk	係長	
+むかんけい	unrelated	無関係	
+かかりかん	official in charge	係官	
+かかりいん	official (e.g. customs), clerk in charge	係員	
+けいそう	contention, dispute	係争	
+れんけいプレー	good teamwork play (baseball)	連係プレー	
+かんじ	feeling, sense, impression	感じ	
+かんかく	sense, sensation, feeling	感覚	
+かんせん	infection, contagion	感染	
+かんじる	to feel, to sense, to experience	感じる	
+かんじょう	emotion, feeling, feelings, sentiment	感情	
+かんそう	impressions, thoughts	感想	
+かんどう	being deeply moved emotionally, excitement, passion, deep emotion, impression	感動	
+かんしゃ	thanks, gratitude	感謝	
+かんせい	sensitivity, sensitiveness, sense	感性	
+じっかん	feelings (actual, true)	実感	
+とくに	particularly, especially	特に	
+とくべつ	special	特別	
+とくちょう	feature, trait, characteristic, pecularity	特徴	
+とくてい	specific, special, particular	特定	
+とくそう	special investigation	特捜	
+とくしゅ	special, unique	特殊	
+とくれい	special case, exception	特例	
+どくとく	peculiarity, uniqueness, characteristic	独特	
+とくし	special envoy	特使	
+とくしゅう	feature (e.g. newspaper), special edition, report	特集	
+じょう	feelings, emotion, passion	情	
+じじょう	circumstances, consideration, conditions, situation, reasons	事情	
+じょうせい	state of things, state of affairs, condition, situation, circumstances	情勢	
+じょうほう	news, gossip, (military) intelligence; information (data contained in characters, signals, code, etc.)	情報	
+ひょうじょう	facial expression	表情	
+かんじょう	emotion, feeling, feelings, sentiment	感情	
+じつじょう	real condition, actual circumstances, actual state of affairs	実情	
+くじょう	complaint, troubles, objection, grievance	苦情	
+じょうねつ	passion, enthusiasm, zeal	情熱	
+あいじょう	love, affection	愛情	
+とうし	investment	投資	
+とうしゅ	(baseball) pitcher	投手	
+とうひょう	voting, poll	投票	
+こくみんとうひょう	national referendum	国民投票	
+とうきゅう	pitching, throwing a ball, bowling (in cricket), pitched ball	投球	
+かんとう	going the whole distance, pitching a whole game	完投	
+けいとう	relieving the (starting) pitcher	継投	
+こうとう	good (nice) pitching	好投	
+とうき	speculation, venture, stockjobbing, gambling (on stocks)	投機	
+とうき	abandonment, giving up, throwing away	投棄	
+しめす	to denote, to show, to point out, to indicate, to exemplify	示す	
+しじ	indication, instruction, designation, directions	指示	
+ひょうじ	indication, expression, display, presentation	表示	
+てんじ	exhibition, display	展示	
+かいじ	disclosure (legal)	開示	
+こくじ	notice, bulletin	告示	
+こうじ, こうし	edict, public announcement	公示	
+しめし	discipline, revelation	示し	
+ていじ	presentation, exhibit, suggest, citation	提示	
+いしひょうじ	declaration of intention	意思表示	
+かわった	another, different, various, particular, unusual, novel, peculiar	変わった	
+かわらない	constant, invariant	変わらない	
+かわる	to change, to be transformed, to vary, to be revised, to be different, to move location	変わる	
+かわり	change, alteration; unusual state or event, accident, abnormality; difference, distinction	変わり	
+へんか	change, variation, alteration, mutation, transition, transformation, transfiguration, metamorphosis; variety, diversity; inflection, declension, conjugation; sidestepping (sumo)	変化	
+たいへん	very, greatly; immense, enormous, great; serious, grave, dreadful, terrible; difficult, hard; major incident, disaster	大変	
+へんこう	change, modification, alteration, revision, amendment	変更	
+へんどう	change, fluctuation	変動	
+へん	strange, odd, peculiar, weird, curious, queer, eccentric, funny, suspicious, fishy; unexpected; change; incident, disturbance, disaster, accident; flat (music)	変	
+へんかく	change, reform, revolution, upheaval; Reformation	変革	
+うつ	to hit (something inanimate), to strike, to beat (on something); to type, to tap (e.g. a key); to inject; to indulge in gambling; to visit (on a pilgrimage)	打つ	
+ほんるいだ	home run (baseball)	本塁打	
+だげき	blow, shock, strike, damage; batting (baseball)	打撃	
+だせん	baseball lineup	打線	
+あんだ	safe hit (baseball)	安打	
+だしゃ	batter (baseball)	打者	
+にるいだ	two-base hit, double	二塁打	
+だせき	batter's box (baseball), one's turn at bat	打席	
+うちあげ	launch	打ち上げ	
+だかい	break in the deadlock	打開	
+おとこ	man	男	
+だんし	youth, young man	男子	
+だんせい	man, male; masculine gender	男性	
+ちょうなん	eldest son	長男	
+だんじょ	man and woman, men and women	男女	
+おとこのこ, おとこのコ	boy, male child, baby boy	男の子	
+さんなん	three men, third son	三男	
+だんじ	boy, son, man	男児	
+いちなん	boy, eldest son	一男	
+だんゆう	actor	男優	
+きほん	foundation, basis, standard	基本	
+きじゅん	standard, basis, criterion, norm, reference, datum	基準	
+ききん	fund, foundation	基金	
+きそ	foundation, basis	基礎	
+きち	base	基地	
+きばん	foundation, basis, base, footing	基盤	
+きほんてき	fundamental, standard, basic	基本的	
+きちょう	basis, keynote	基調	
+きかん	mainstay, nucleus, key	基幹	
+きじく	key, yardstick, criterion, standard	基軸	
+わたし, わたくし	I, me; private affairs, personal matter, secrecy; selfishness	私	
+しりつ, わたくしりつ	private (establishment)	私立	
+してい	private residence	私邸	
+してき	personal, private, proprietary	私的	
+してつ	private railway	私鉄	
+こうし	public and private, official and personal, government and people	公私	
+しゆう	private ownership	私有	
+しがく	private (non-governmental) school (college, university)	私学	
+しぶんしょ	private document	私文書	
+しせつ	private	私設	
+かくじ	individual, each	各自	
+かくしゅがっこう	vocational school	各種学校	
+かくい	everyone, ladies and gentlemen; attention media representatives (e.g. heading on a press release)	各位	
+おのおの, それぞれ	each, every, either, respectively, severally	各々	
+かくめん	all phases	各面	
+かく	each, every	各	
+おのおの, それぞれ	each, every, either, respectively, severally	各	
+かくシェルフ	each shelf, shelves (in practice, practise)	各シェルフ	
+かくいん	each one	各員	
+かくえき	every station	各駅	
+かいし	start, commencement, beginning, initiation	開始	
+はじまり	origin, beginning	始まり	
+しゅうし	beginning and end, from beginning to end, doing a thing from beginning to end; consistently, the whole time	終始	
+はじめる	to start, to begin, to commence, to initiate, to originate; to open (e.g. a store), to start up, to establish (business. etc.); to start (doing something), to begin to ...	始める	
+はじめ	beginning, start, origin	始め	
+ねんし	New Year's call, beginning of the year, New Year's greetings	年始	
+しまつ	management, dealing, settlement; cleaning up, getting rid of; end result (usu. bad)	始末	
+げんし	origin, primeval	原始	
+しはつ	first train	始発	
+てはじめ	outset	手始め	
+しま	island; territory (of a prostitute, organized crime gang, etc.), turf	島	
+ちょうせんはんとう	Korean peninsula	朝鮮半島	
+なかじま	island in a pond or river	中島	
+こじま	small island, islet	小島	
+はんとう	peninsula	半島	
+れっとう	archipelago, chain of islands	列島	
+しまね	island country	島根	
+ちしま	Kurile Islands	千島	
+しまぐに, とうごく	island country (sometimes used as a metaphor for Japan)	島国	
+りとう	isolated (outlying) island, departure from an island	離島	
+じき	soon, in a moment, before long, shortly; nearby, close; direct; spot transaction, cash transaction	直	
+ただちに	at once, immediately, directly, in person	直ちに	
+みなおし	review, reconsideration, revision	見直し	
+ちょくご	immediately following	直後	
+ちょくせつ	direct, immediate, personal, firsthand	直接	
+ちょくぜん	just before	直前	
+ちょくめん	confrontation	直面	
+そっちょく	frankness, candour, candor, openheartedness	率直	
+しょうじき	honesty, integrity, frankness; honestly, frankly	正直	
+すなお	obedient, meek, docile, unaffected; honest, frank	素直	
+りょうこく, りょうごく	both countries	両国	
+りょうとう	both political parties	両党	
+りょうしん, ふたおや	parents, both parents	両親	
+しゃりょう	rolling stock, railroad cars, vehicles	車両	
+りょういん	both Houses of Parliament	両院	
+りょうし	both persons	両氏	
+りょうじつ	both days, two days	両日	
+りょうしゃ	pair, the two, both persons, both things	両者	
+りょうほう	both sides, both parties	両方	
+りょうめん	both sides, two sides, double-sided	両面	
+あさ, あした	morning	朝	
+きたちょうせん	North Korea	北朝鮮	
+ちょうせん	Korea	朝鮮	
+ちょうせんみんしゅしゅぎじんみんきょうわこく	Democratic People's Republic of Korea (North Korea), DPRK	朝鮮民主主義人民共和国	
+ちょうせんはんとう	Korean peninsula	朝鮮半島	
+そうちょう	early morning	早朝	
+あさひ	morning sun	朝日	
+ちょうかん	morning newspaper	朝刊	
+ちょうしょく	breakfast	朝食	
+まいあさ, まいちょう	every morning	毎朝	
+かわ	skin, hide, leather, fur, pelt, bark, shell	革	
+かいかく	reform, reformation, innovation	改革	
+かくめい	revolution; 58th year of the sexagenary cycle (in onmyou-dou)	革命	
+かくしん	reform, innovation	革新	
+へんかく	change, reform, revolution, upheaval; Reformation	変革	
+ぎょうかく	administrative reform	行革	
+ほかく	conservatism and progressivism, conservatives and reformists	保革	
+ひかく	leather, hide	皮革	
+のうちかいかく	agrarian reform	農地改革	
+かわぐつ	leather shoes	革靴	
+かかく	price, value, cost	価格	
+かぶか	stock prices	株価	
+ひょうか	valuation, estimation, assessment, evaluation; to value, to assess, to estimate value; to appreciate, to value highly, to acknowledge the value (of something)	評価	
+かち	value, worth, merit	価値	
+ちか	the price of land	地価	
+ぶっか	prices of commodities, prices (in general), cost-of-living	物価	
+かちかん	values	価値観	
+ゆうかしょうけん	marketable securities, stocks and bonds	有価証券	
+べいか	rice price	米価	
+じか	current value, price, market value	時価	
+かぶしき	stock (company)	株式	
+こうしき	formality, formal, official; formula	公式	
+せいしき	due form, official, formality	正式	
+ほうしき	form, method, system, formula	方式	
+けいしき	form (as opposed to substance), formality; method, system, style; format, mode, appearance, form (something takes); math expression	形式	
+ひこうしき	informal	非公式	
+しきてん	ceremony, rites	式典	
+けっこんしき	marriage ceremony, wedding	結婚式	
+かぶしきがいしゃ	public company, corporation, KK, formula for an incorporated public company	株式会社	
+ぎしき	ceremony, rite, ritual, service	儀式	
+たしか	certain, sure, definite; if I'm not mistaken, if I remember correctly	確か	
+かくじつ	certainty, reliability, soundness	確実	
+かくほ	guarantee, maintain, ensure, insure, secure, reservation	確保	
+めいかく	clear up, clarify, define	明確	
+かくにん	affirmation, confirmation, validation	確認	
+かくりつ	establishment	確立	
+かくてい	decision, settlement; definition	確定	
+てきかく, てっかく	precise, accurate	的確	
+かくりつ	probability, likelihood, chances	確率	
+かくしつ	discord, antagonism	確執	
+むら	village	村	
+しちょうそん	cities, towns and villages, municipalities	市町村	
+のうそん	agricultural community, farm village, rural	農村	
+さんそん	mountain village	山村	
+そんちょう	village headman	村長	
+ちょうそん	towns and villages	町村	
+むらびと	villager	村人	
+せんしゅむら	athlete's village (during Olympics)	選手村	
+そんみん	villager	村民	
+そんぎかい	village assembly	村議会	
+ぜんてい	preamble, premise, reason, prerequisite, condition, assumption, hypothesis	前提	
+ていあん	proposal, proposition, suggestion	提案	
+ていきょう	offer, tender, program sponsoring, programme sponsoring, furnishing	提供	
+ていしゅつ	to present, to submit (e.g. a report or a thesis), to hand in, to file, to turn in; presentation, submission, filing	提出	
+ていげん	proposal, motion	提言	
+ていけい	cooperation, tie-up, joint business, link-up	提携	
+ていそ	presenting a case, suing	提訴	
+ていじ	presentation, exhibit, suggest, citation	提示	
+ていきょうしゃ	donor, contributer, provider	提供者	
+ていき	bring suit, file a claim, raise a question	提起	
+うん	fortune, luck	運	
+はこぶ	to carry, to transport, to move, to convey; to come, to go; to wield (a tool, etc.), to use; to go (well, etc.), to proceed, to progress	運ぶ	
+うんどう	motion, exercise	運動	
+うんえい	management, administration, operation	運営	
+うんてん	operation, motion, driving	運転	
+うんゆ	transportation	運輸	
+うんゆしょう	Ministry of Transport	運輸省	
+うんよう	making use of, application, investment, practical use	運用	
+はこび	progress, pace, carriage, step, stage	運び	
+うんてんしゅ	driver, chauffeur	運転手	
+おわり	the end	終わり	
+さいしゅう	last, final, closing	最終	
+おえる	to finish	終える	
+しゅうけつ	end, close	終結	
+さいしゅうてき	finally	最終的	
+おわりね	closing price (stock exchange, etc.)	終値	
+しゅうりょうご	after the end (of something)	終了後	
+しゅうせん	end of war, cessation of hostilities	終戦	
+しゅうじつ, ひねもす, ひめもす, ひもすがら	all day, for a whole day	終日	
+しゅうばん	endgame, final stage	終盤	
+あげる	to raise, to elevate; to do up (one's hair); to fly (a kite, etc.), to launch (fireworks, etc.), to surface (a submarine, etc.); to land (a boat); to deep-fry; to show someone (into a room); (uk) to summon (for geishas, etc.); to send someone (away); to enrol (one's child in school) (enroll); to increase (price, quality, status, etc.); to make (a loud sound), to raise (one's voice); to earn (something desirable); to praise; to give (an example, etc.), to cite; to summon up (all of one's energy, etc.); to arrest; to nominate; to give; to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.); to bear (a child); to conduct (a ceremony, esp. a wedding); (of the tide) to come in; to vomit; (after the -te form of a verb) to do for (the sake of someone else); (after the -masu stem of a verb) to complete; used after the -masu stem of a humble verb to increase the level of humility	挙げる	
+せんきょ	election	選挙	
+そうせんきょ	general election (of the lower house)	総選挙	
+しょうせんきょく	small electoral district, single-member constituency	小選挙区	
+いっきょ	one effort, one action	一挙	
+せんきょせん	election campaign	選挙戦	
+あがる	to rise, to go up, to come up, to ascend, to be raised; to enter (esp. from outdoors), to come in, to go in; to enter (a school), to advance to the next grade; to get out (of water), to come ashore; to increase; to improve, to make progress; to be promoted, to advance; to be made (of profit, etc.); to occur (esp. of a favourable result); to be adequate (to cover expenses, etc.); to be finished, to be done, to be over; (of rain) to stop, to lift; to stop (working properly), to cut out, to give out, to die; to win (in a card game, etc.); to be arrested; to turn up (of evidence, etc.); to be deep fried; to be spoken loudly; to get stage fright; to be offered (to the gods, etc.); to go, to visit; to eat, to drink; to be listed (as a candidate); to serve (in one's master's home); (in Kyoto) to go north; (after the -masu stem of a verb) indicates completion	挙がる	
+せんきょうんどう	participation in election campaign	選挙運動	
+かいきょ	brilliant achievement	快挙	
+せんきょけん	suffrage	選挙権	
+けっか	result, consequence	結果	
+こうか	effect, effectiveness, efficacy, result	効果	
+はたして	as was expected, just as one thought, sure enough, as a result; really? (in questions), ever?	果たして	
+せいか	results, fruits	成果	
+こうかてき	effective, successful	効果的	
+くだもの, かぶつ	fruit	果物	
+はて	the end, the extremity, the limit(s), the result	果て	
+いんが	cause and effect, karma, fate	因果	
+かじつ	fruit, nut, berry	果実	
+かかん	resolute, determined, bold	果敢	
+にし	west	西	
+かんさい, かんせい	Kansai (south-western half of Japan, including Osaka)	関西	
+にしがわ	west side, west bank	西側	
+とうざい	East and West; whole country; Orient and Occident, Western and Eastern; Your attention, please!	東西	
+せいおう	Western Europe	西欧	
+たいせいよう	Atlantic Ocean	大西洋	
+せいぶ	the west, western part, the West	西部	
+なんせい, みなみにし	southwest	南西	
+にしにほん, にしにっぽん	western Japan	西日本	
+せいよう	the west, Western countries	西洋	
+いきおい	force, vigor, vigour, energy, spirit, life; influence, authority, power, might; impetus, momentum, course (of events); naturally, necessarily	勢い	
+はずみ	bounce, spring, rebound; momentum, inertia; spur of the moment, impulse	勢み	
+しせい	attitude, posture	姿勢	
+じょうせい	state of things, state of affairs, condition, situation, circumstances	情勢	
+せいりょく	influence, power, might, strength, potency, force, energy	勢力	
+たいせい	attitude, conditions, preparations	態勢	
+おおぜい, たいぜい	many, crowd, great number of people	大勢	
+こうせい	offensive (movement), aggression	攻勢	
+いせたん	Isetan (department store)	伊勢丹	
+ゆうせい	superiority, superior power, predominance, preponderance	優勢	
+さくげん	cut, reduction, curtailment	削減	
+げんぜい	tax reduction	減税	
+げんしょう	decrease, reduction, decline	減少	
+げんえき	decrease in profits	減益	
+げんそく	deceleration	減速	
+けいげん	abatement, reduction	軽減	
+げんしゅう	fall, decrease (in income)	減収	
+げんたん	reduction (of crop size), reduction of acreage (under cultivation)	減反	
+げんがく	reduction, diminution, abatement	減額	
+げんさん	reduction in production	減産	
+だい	stand, rack, table; support; belt; counter for machines, incl. vehicles; setting (e.g. in jewellery)	台	
+たいわん	Taiwan	台湾	
+ぶたい	stage (theatre, theater); scene or setting (e.g. of novel, play, etc.)	舞台	
+たいふう	typhoon, hurricane	台風	
+だいどころ, だいどこ	kitchen	台所	
+おおだい	(stock) 100-yen unit, high level (of stock prices)	大台	
+たいとう	rise of, appearance of, (in the) forefront, prominence	台頭	
+だいほん	script, libretto, scenario	台本	
+どだい	foundation, base, basis	土台	
+やたい	cart, esp. food cart; (festival) float	屋台	
+ひろい	spacious, vast, wide	広い	
+ひろがり	spread, span	広がり	
+こうこく	advertisement	広告	
+ひろげる	to spread, to extend, to expand, to enlarge, to widen, to broaden, to unfold, to open, to unroll	広げる	
+ひろがったえだ	spreading branches	広がった枝	
+ひろさ	extent	広さ	
+こうほう	PR, public relations, publicity, information	広報	
+ひろば	plaza	広場	
+はばひろい	extensive, wide, broad	幅広い	
+こうだい	huge, very large, vast, extensive, magnificent, grand	広大	
+ないよう	subject, contents, matter, substance, detail, import	内容	
+ようぎしゃ	suspect (person)	容疑者	
+ようぎ	suspect, charge	容疑	
+ようい	easy, simple, plain	容易	
+ようにん	approval	容認	
+ようき	container, vessel	容器	
+しゅうよう	accommodation, reception, housing; seating; custody; admission; entering (in a dictionary)	収容	
+しゅうようじょ	home, asylum, camp	収容所	
+ぜんよう	full portrait, whole aspect, full story	全容	
+ようりょう	capacity, electrical capacitance	容量	
+かならず	necessarily, certainly, without fail, positively, invariably	必ず	
+かならずしも	(not) always, (not) necessarily, (not) all, (not) entirely	必ずしも	
+ひつよう	necessary, needed, essential, indispensable; necessity, need, requirement	必要	
+ひつようせい	necessity	必要性	
+ひっし	frantic, desperate; inevitable death; brinkmate (inevitable checkmate) (shogi)	必死	
+ひっちゃく	must arrive, must be received	必着	
+ひつじゅ	necessary	必需	
+ふひつよう	unnecessary, undesired	不必要	
+ひっしょう	certain victory	必勝	
+ひつぜんてき	inevitable, necessary	必然的	
+おうじる	to respond, to satisfy, to accept, to comply with, to apply for	応じる	
+たいおう	interaction, correspondence, coping with, dealing with, support	対応	
+こたえる	to respond, to live up to, to reward; to take its toll, to strike home	応える	
+おうえん	aid, assistance, help, reinforcement, rooting, barracking, support, cheering	応援	
+おうぼ	subscription, application	応募	
+はんのう	reaction, response	反応	
+いちおう	once, tentatively, in outline, for the time being, just in case	一応	
+おうよう	application, put to practical use	応用	
+てきおう	adaptation, accommodation, conformity	適応	
+おうとう	reply, answer, response	応答	
+えんぜつ	speech, address	演説	
+こうえん	public performance; sumo exhibition in a foreign country	公演	
+こうえん	lecture, address, speech	講演	
+えんしゅつ	production (e.g. play), direction	演出	
+しゅつえん	performance, stage appearance; to act (in a play)	出演	
+えんそう	musical performance	演奏	
+えんげき	play (theatrical)	演劇	
+えんぎ	acting, performance	演技	
+えんしゅう	practice, practise, exercises, manoeuvres, maneuvers, practicum	演習	
+しゅえん	starring, playing the leading part	主演	
+でんわ	telephone	電話	
+でんき	electricity; (electric) light	電気	
+でんりょく	electric power	電力	
+でんし	electron; (esp. as a prefix) electronic, electronics	電子	
+でんしゃ	(electric) train	電車	
+かでん	consumer electronics	家電	
+でんき	electrical machinery, appliances	電機	
+でんぱ	electro-magnetic wave, radio wave; nonsense	電波	
+はつでん	generation (e.g. power)	発電	
+はつでんしょ	power plant, power station	発電所	
+さいしゅつ	annual expenditure	歳出	
+さいにゅう	annual revenue or income	歳入	
+さい	-years-old; ability, gift, talent, aptitude, genius	歳	
+さいげつ, としつき	time, years	歳月	
+ちとせ, せんねん	millennium, one thousand years	千歳	
+せいぼ	end of the year, year-end gift	歳暮	
+ばんざい, ばんぜい	crying "banzai" (or raising one's hands in the banzai gesture); something worthy of celebration; giving up; long time; eternal life (and prosperity); banzai (a celebratory cheer), hurrah (hooray, hurray)	万歳	
+さいひ	annual expenditure	歳費	
+さいまつ	year end	歳末	
+さいじき	almanac of seasonal words (for haiku poets)	歳時記	
+じゅう	dwelling, living	住	
+じゅうたく	residence, housing, residential building	住宅	
+じゅうみん	citizens, inhabitants, residents, population	住民	
+じゅうしょ	address (e.g. of house), residence, domicile	住所	
+ざいじゅう	resident	在住	
+きょじゅう	residence	居住	
+すみごこち	comfort (in living place)	住み心地	
+せんじゅう	previous priest or resident	先住	
+じゅうたくち	housing district, residential district	住宅地	
+すみとも	Sumitomo (company)	住友	
+あらそい	dispute, strife, quarrel, dissension, conflict, rivalry, contest	争い	
+せんそう	war	戦争	
+きょうそう	competition, contest; to compete	競争	
+ふんそう	dispute, trouble, strife	紛争	
+とうそう	strife, conflict	闘争	
+こうそう	dispute, resistance	抗争	
+そうてん	point at issue	争点	
+ろんそう	controversy, dispute	論争	
+あらそう	to compete, to contest, to contend; to quarrel, to argue, to dispute, to be at variance, to oppose; (usu. in negative form) to deny (e.g. evidence)	争う	
+たいへいようせんそう	the Pacific War	太平洋戦争	
+かいだん	conversation, conference, discussion, interview	会談	
+そうだん	consultation, discussion	相談	
+こんだん	informal talk	懇談	
+だんごう	consultation, discussion, conference; collusion, bid-rigging	談合	
+そうだんやく	counselor, counsellor, adviser, advisor	相談役	
+だんわ	a talk, conversation	談話	
+じょうだん	jest, joke	冗談	
+しょうだん	business discussion, negotiation	商談	
+たいだん	talk, dialogue, conversation	対談	
+ざだんかい	symposium, round-table discussion	座談会	
+のう	talent, gift, function; noh (theatre)	能	
+かのう	possible, practicable, feasible	可能	
+かのうせい	potentiality, likelihood, possibility, availability	可能性	
+きのう	function, facility, faculty, feature	機能	
+のうりょく	ability, faculty	能力	
+げいのう	public entertainment, accomplishments, attainments	芸能	
+ふかのう	impossible	不可能	
+ほうしゃのう	radioactivity	放射能	
+さいのう	talent, ability	才能	
+せいのう	ability, performance, efficiency	性能	
+むりょう	free, no charge	無料	
+むしょく	without an occupation	無職	
+むしょぞく	independent	無所属	
+むざい	innocence	無罪	
+むり	unreasonable, impossible, overdoing	無理	
+むせん	wireless, radio	無線	
+むこう	invalid, no effect, unavailable, illegal	無効	
+むしょう	no compensation, free of charge	無償	
+うむ, ゆうむ	existence or nonexistence, presence or absence; consent or refusal, yes or no; flag indicator, presence or absence marker	有無	
+むし	baseball with no outs	無死	
+ふたたび	again, once more, a second time	再び	
+さいかい	reopening, resumption, restarting	再開	
+さいけん	rebuilding, reconstruction, rehabilitation	再建	
+さいへん	reorganization, reorganisation, reshuffle	再編	
+さいせい	playback, regeneration, resuscitation, return to life, rebirth, reincarnation, refresh, narrow escape, reclamation, regrowth	再生	
+さいさん	again and again, repeatedly	再三	
+さいはつ	return, relapse, reoccurrence	再発	
+さいせん	re-election	再選	
+さいけんとう	re-examination, review, reappraisal	再検討	
+さいど	twice, again, second time	再度	
+じょうい	superior (rank not class); higher order (e.g. byte); host computer (of connected device)	上位	
+たんい	unit, denomination; credit (in school)	単位	
+ちい	(social) position, status	地位	
+しゅい	first place, head position, leading position	首位	
+いちい, イチイ	first place, first rank, unit's position; Japanese yew (Taxus cuspidata)	一位	
+いち	place, situation, position, location	位置	
+じゅんい	order, rank, position (e.g. in a race), precedence	順位	
+かい	low rank, subordinate, lower order (e.g. byte), low-end	下位	
+ほんい	standard, basis, principle	本位	
+ゆうい	predominance, ascendancy, superiority	優位	
+そち	measure, step	措置	
+せっち	establishment, institution	設置	
+そうち	equipment, installation, apparatus, device	装置	
+いち	place, situation, position, location	位置	
+はいち	arrangement (of resources), deployment, stationing, posting, disposition	配置	
+こうち	detention, confinement, arrest	拘置	
+しょち	treatment, measure, step	処置	
+こうちしょ	prison, detention house	拘置所	
+すえおき	deferment (e.g. of savings), leaving (a thing) as it stands	据え置き	
+いちづけ, いちつけ	placement, fixed position, mapping out, location	位置付け	
+きぎょう	enterprise, undertaking, corporation, business	企業	
+きかく	planning, project, plan, design	企画	
+ちゅうしょうきぎょう	small to medium enterprises, smaller companies	中小企業	
+だいきぎょう	large company, enterprise	大企業	
+けいきちょう	Economic Planning Agency	経企庁	
+けいざいきかくちょう	Economic Planning Agency	経済企画庁	
+きぎょうか	industrialist, entrepreneur	企業家	
+きかくしつ	planning office	企画室	
+しきぎょう	private enterprise	私企業	
+ちゅうしょうきぎょうちょう	(Japanese) Small and Medium Enterprise Agency	中小企業庁	
+しゃしん	photograph, photo; movie	写真	
+しんの	true, real, genuine, proper, utter	真の	
+しんそう	truth, real situation	真相	
+しんじつ, さな, さね	truth, reality	真実	
+まんなか, まなか	middle, centre, center, mid-way	真ん中	
+しんい	real intention, true motive, true meaning	真意	
+しゃしんしゅう	collection of photographs, photoalbum	写真集	
+しんり	truth	真理	
+まっくら	total darkness, pitch dark; bleak future, poor prospects	真っ暗	
+しんじゅわん	Pearl Harbor	真珠湾	
+ながれ	stream, current, flow	流れ	
+こうりゅう	intercourse, (cultural) exchange, intermingling; alternating current, AC	交流	
+ながす	to drain, to pour, to spill, to shed (blood, tears); to wash away; to distribute (e.g. electricity over wires, music over a PA system, etc.), to circulate, to broadcast, to beam; to cruise (e.g. taxi); to float, to set adrift	流す	
+りゅうつう	circulation of money or goods, flow of water or air, distribution; negotiable (e.g. shares)	流通	
+しゅりゅう	main current (stream), mainline, mainstream	主流	
+りゅうしゅつ	discharge, outward flow, efflux, effluence; leak of (private) information or pictures	流出	
+りゅうこう, はやり	fashion, fad, vogue, craze	流行	
+いちりゅう	first-class, top grade, school (of art), foremost, top-notch, unique	一流	
+りゅうどう	flow	流動	
+かさいりゅう	pyroclastic flow (type of volcanic eruption), stone wind	火砕流	
+かかく	price, value, cost	価格	
+かくさ	qualitative difference, disparity	格差	
+しかく	qualifications, requirements, capabilities	資格	
+せいかく	character, personality	性格	
+ほんかく	original method or procedure; serious, orthodox, classical, genuine	本格	
+ほんかくてき	full-blown, regular, genuine, earnest, normal, typical, fundamental, real	本格的	
+かっこう, カッコ	shape, form, posture, appearance, manner; suitability, moderateness (in price)	格好	
+ごうかく	success, passing (e.g. exam), eligibility	合格	
+ほんかくか	regularization, regularisation, getting up speed, proceeding at full tilt	本格化	
+きかく	standard, norm	規格	
+ゆう	existence; possession, having; limited company	有	
+ゆうこう	validity, legality, availability, effectiveness	有効	
+ゆうりょく	influential, prominent; strong, likely, plausible, potent	有力	
+ゆうけんしゃ	voter, constituent, (electoral) franchise-holder, (the) electorate, eligible voters	有権者	
+ゆうめい	famous; fame	有名	
+ほゆう	possession, retention, maintenance	保有	
+ゆうり	advantageous, better, profitable, lucrative	有利	
+しょゆう	one's possessions, ownership	所有	
+ゆうざい	guilt, culpability	有罪	
+ゆうかしょうけん	marketable securities, stocks and bonds	有価証券	
+うたがい	doubt, question, uncertainty, skepticism, scepticism, suspicion, distrust	疑い	
+ようぎしゃ	suspect (person)	容疑者	
+ぎもん	question, problem, doubt, guess	疑問	
+ぎわく	doubt, misgivings, distrust, suspicion	疑惑	
+ようぎ	suspect, charge	容疑	
+しつぎ	question; interpellation	質疑	
+うたがう	to doubt, to distrust, to be suspicious of, to suspect	疑う	
+ぎねん	doubt, suspicion, misgivings, scruples	疑念	
+かいぎ	doubt, skepticism, scepticism, disbelief	懐疑	
+うたがわしい	doubtful, questionable, uncertain, disputable, suspicious	疑わしい	
+くち	mouth; opening, hole, gap, orifice; mouth (of a bottle), spout, nozzle, mouthpiece; gate, door, entrance, exit; speaking, speech, talk (i.e. gossip); taste, palate; mouth (to feed); opening (i.e. vacancy), available position; invitation, summons; kind, sort, type; opening (i.e. beginning); counter for mouthfuls, shares (of money), and swords	口	
+じんこう	population; common talk	人口	
+まどぐち	ticket window, teller window, counter; contact person, point of contact	窓口	
+こうざ	account (e.g. bank)	口座	
+いりぐち, いりくち, はいりぐち, はいりくち	entrance, entry, gate, approach, mouth	入り口	
+おおぐち	large amount, big mouth, tall talk	大口	
+くちょう	tone (e.g. of voice, etc.), (verbal) expression	口調	
+でぐち	exit, gateway, way out, outlet, leak, vent	出口	
+かわぐち, かこう	mouth of river, estuary	川口	
+てぐち	modus operandi, criminal technique, trick	手口	
+すぎ	past, after; too (much), over (e.g. eating)	過ぎ	
+かこ	the past, bygone days, the previous	過去	
+かてい	process	過程	
+かはんすう	majority	過半数	
+かげき	extreme, radical	過激	
+けいか	passage, expiration, progress	経過	
+つうか	passage through, transit, passing	通過	
+かしつ	error, blunder, accident; fault, defect	過失	
+かじょう	excess, over-	過剰	
+あやまち	fault, error, indiscretion, faux pas	過ち	
+きょく	channel (i.e. TV or radio), station, department; affair, situation	局	
+じむきょく	secretariat, executive office	事務局	
+とうきょく	authorities; this office	当局	
+きょくちょう	bureau director, office chief	局長	
+けっきょく	after all, eventually	結局	
+しきょく	branch office	支局	
+せいきょく	political situation	政局	
+きょくめん	checkerboard, aspect, situation	局面	
+ゆうびんきょく	post office	郵便局	
+たいきょく	(playing) a game of go, shogi or chess, etc.	対局	
+すこし	small quantity, little, few, something; little while; short distance	少し	
+すくなくとも	at least	少なくとも	
+しょうねん	boys, juveniles	少年	
+げんしょう	decrease, reduction, decline	減少	
+しょうすう	minority, few	少数	
+しょうじょ, おとめ	young lady, little girl, virgin, maiden, daughter	少女	
+せいしょうねん	youth, young person	青少年	
+たしょう	more or less, somewhat, a little, some	多少	
+すくない	few, a little, scarce, insufficient, seldom	少ない	
+すくなからず	considerably, not a little, in no small numbers	少なからず	
+ほうる, ほる	to let go, to abandon, to leave undone; to throw, to toss, to fling	放る	
+ほうそう	broadcast, broadcasting	放送	
+かいほう	open, throw open, liberalization, liberalisation	開放	
+かいほう	release, unleashing, liberation, emancipation, setting free; deallocation (of computer memory)	解放	
+みんぽう	commercial broadcast	民放	
+ついほう	exile, banishment	追放	
+ほうしゃせい	radioactive	放射性	
+ほうしゃせん	radiation	放射線	
+ほうしゃのう	radioactivity	放射能	
+ほうえい	televising	放映	
+かんぜい	customs, duty, tariff	関税	
+げんぜい	tax reduction	減税	
+しょうひぜい	consumption tax (incl. sales tax, VAT, excise duty, etc.)	消費税	
+ぜいせい	tax system	税制	
+かぜい	taxation	課税	
+しょとくぜい	income tax	所得税	
+ぜいりつ	tariff; tax rate	税率	
+ぞうぜい	tax increase	増税	
+ぜいきん	tax, duty	税金	
+ぜいしゅう	tax yields, revenue	税収	
+けんさ	inspection (e.g. customs, factory), examination	検査	
+けんさつ	examination, prosecutor	検察	
+けんとう	consideration, examination, investigation, study, scrutiny, discussion	検討	
+ちけん	District Public Prosecutor's Office	地検	
+けんじ	public prosecutor	検事	
+けんてい	official certification, approval, inspection	検定	
+てんけん	inspection, examination, checking	点検	
+けんしょう	verification, inspection	検証	
+けんしん	medical examination	検診	
+けんもん	inspection, examination	検問	
+ふじ	wisteria, Wisteria floribunda	藤	
+かっとう	conflict, complication, troubles, discord	葛藤	
+ふじいろ	light purple	藤色	
+ふじだな	wisteria trellis (arbor, arbour)	藤棚	
+ふじづる	wisteria vine	藤蔓	
+とうし	Fujiwara family	藤氏	
+とうほん	climbing trees, liana	藤本	
+のぼりふじ	lupine	上り藤	
+ふじわらしのしゅつ	of Fujiwara descent	藤原氏の出	
+ふじばかま, フジバカマ	thoroughwort, Eupatorium fortunei (species of boneset), Eupatorium japonicum	藤袴	
+まち, ちょう	town, block, neighbourhood, neighborhood; street, road; 109.09 m; 0.99 hectares	町	
+しちょうそん	cities, towns and villages, municipalities	市町村	
+どうちょう	the same town, that town	同町	
+ちょうちょう	town headman, town mayor	町長	
+ちょうない	neighborhood, neighbourhood, street, block, town	町内	
+したまち	Shitamachi, lower parts of town	下町	
+ちょうそん	towns and villages	町村	
+ちょうみん	townspeople	町民	
+まちなみ	street (of stores and houses), townscape, (look of) stores and houses on street	町並み	
+むろまち	Muromachi (era 1392-1573, or 1333-1573, or 1336-1573)	室町	
+とこ	ever, endless	常	
+つねに	always, constantly	常に	
+じょうむ	managing director, executive director; routine business, regular business	常務	
+せいじょう	normalcy, normality, normal	正常	
+つうじょう	common, general, normal, usual	通常	
+ひじょう	emergency, extraordinary, unusual	非常	
+じょうにん	standing, regular, permanent	常任	
+にちじょう	ordinary, regular, everyday, usual	日常	
+けいじょう	ordinary	経常	
+いじょう	strangeness, abnormality, disorder	異常	
+がっこう	school	学校	
+こうこう	senior high school	高校	
+こうちょう	principal, headmaster	校長	
+こうこうせい	senior high school student	高校生	
+しょうがっこう	primary school, elementary school, grade school	小学校	
+ちゅうがっこう	junior high school, middle school, lower secondary school	中学校	
+とうこう	attendance (at school), going to school	登校	
+こうしゃ	school building	校舎	
+どうこう	same school	同校	
+せんもんがっこう, せんもんガッコウ, せんもんガッコ	vocational school, technical school	専門学校	
+しりょう	materials, data, document	資料	
+むりょう	free, no charge	無料	
+りょうきん	fee, charge, fare	料金	
+りょうり	cooking, cookery, cuisine; dealing with something, handling, administration, management	料理	
+ざいりょう	ingredients, material	材料	
+ねんりょう	fuel	燃料	
+しょくりょう	food	食料	
+てすうりょう	handling charge, commission	手数料	
+きゅうりょう	salary, wages	給料	
+いんりょう	(a) drink	飲料	
+さわ	swamp, marsh; mountain stream, valley, dale	沢	
+こうたく	brilliance, polish, lustre, luster, glossy finish (of photographs)	光沢	
+さわべ	edge of a swamp	沢辺	
+じゅんたく	luster, lustre, favor, favour, abundance, plenty	潤沢	
+さわち	marshy land	沢地	
+たくあん	pickled daikon radish	沢庵	
+たくさん	many, a lot, much	沢山	
+ぜいたく	luxury, extravagance; to live in luxury	贅沢	
+しょうたく	marsh, swamp	沼沢	
+おんたく, おんだく	favour, favor, benefit	恩沢	
+さいばん	trial, judgement, judgment	裁判	
+そうさい	president	総裁	
+せいさい	restraint, sanctions, punishment	制裁	
+ちさい	district court	地裁	
+さいこうさい	Supreme Court	最高裁	
+さいばんしょ	court, courthouse	裁判所	
+こうさい	High Court	高裁	
+どくさい	dictatorship, despotism	独裁	
+さいばんかん	judge	裁判官	
+さいりょう	admeasure, discretion	裁量	
+じょうきょう	state of affairs (around you), situation, circumstances	状況	
+じょうたい	current status, condition, situation, circumstances, state	状態	
+げんじょう	present condition, existing state, status quo	現状	
+しょうじょう	symptoms, condition	症状	
+しょうじょう	honorable certificate, honourable certificate	賞状	
+そじょう	petition, complaint, (legal) brief	訴状	
+びょうじょう	condition of a disease (patient)	病状	
+ねんがじょう	New Year's card	年賀状	
+けいじょう	shape, form	形状	
+きゅうじょう	distress, wretched condition	窮状	
+こうじょう, こうば	factory, plant, mill, workshop	工場	
+こうぎょう	(manufacturing) industry	工業	
+こうじ	construction work	工事	
+こうさく	work, construction, handicraft, maneuvering, manoeuvering	工作	
+かこう	manufacturing, processing, treatment, machining	加工	
+くふう	scheme, device, scheming, devising, figuring out, coming up with, solving ingeniously; dedication to spiritual improvement (esp. through Zen meditation)	工夫	
+じんこう	artificial, manmade, human work, human skill, artificiality	人工	
+こうがく	engineering	工学	
+しょうこう	commerce and industry	商工	
+だいく	carpenter	大工	
+けんせつ	construction, establishment	建設	
+けんちく	construction, architecture	建築	
+たてもの	building	建物	
+さいけん	rebuilding, reconstruction, rehabilitation	再建	
+けんせつしょう	Ministry of Construction	建設省	
+にかいだて	two-storied building	二階建て	
+たてまえ, てまえ	face, official stance, public position or attitude (as opposed to private thoughts); ceremony for the erection of the framework of a house; tea ceremony procedures, tea ceremony etiquette	建前	
+けんこく	founding of a nation	建国	
+けんぞうぶつ	structure	建造物	
+たつ	to be erected, to be built	建つ	
+</tbody></table></li>
+</ul>
+   <div id="main-copy">
+<p style="text-align:center"><a href="https://kanjicards.org/cgi-bin/list_no_member.cgi?type=2&amp;news=100&amp;rvar=freq&amp;number=100&amp;start=200&amp;rlim=1-500">&lt;- Previous</a> | <a href="https://kanjicards.org/cgi-bin/list_no_member.cgi?type=2&amp;news=100&amp;rvar=freq&amp;number=100&amp;start=400&amp;rlim=1-500">Next -&gt;</a></p>
+<h1>Kanji List</h1>
+えいご	English (language)	                <!-- ##### Search Result ##### -->英語	
+にほんご, にっぽんご	Japanese (language)	日本語	
+ものがたり	tale, story, legend	物語	
+かたらう	to talk, to tell, to recite, to pledge, to conspire with	語らう	
+かたる	to talk, to tell, to recite	語る	
+げんご, ごんご	language	言語	
+かたり	talking	語り	
+ようご	term, terminology	用語	
+こくご	Japanese (language); national language; native Japanese words (as opposed to loanwords)	国語	
+がいこくご	foreign language	外国語	
+きゅう, たま	globe, sphere, ball	球	
+ちきゅう	the earth	地球	
+やきゅう	baseball	野球	
+きゅうじょう	baseball stadium	球場	
+きゅうだん	baseball team	球団	
+しきゅう	four balls, base on balls (baseball), a walk	四球	
+とうきゅう	pitching, throwing a ball, bowling (in cricket), pitched ball	投球	
+そっきゅう	fastball	速球	
+せいきゅう	(pitcher's) control (baseball)	制球	
+ちょくきゅう, ちょっきゅう	straight ball (pitch); straight, frank	直球	
+けいえい	management, administration	経営	
+うんえい	management, administration, operation	運営	
+えいぎょう	business, trade, sales, operations	営業	
+けいえいしゃ	manager, proprietor	経営者	
+こくえい	state management	国営	
+じんえい	camp (group of same ideological beliefs)	陣営	
+みんえい	private management	民営	
+えいぎょうしょ	business office, place of business	営業所	
+こうえい	public management	公営	
+しえい	municipal management	市営	
+から	emptiness, vacuum, blank	空	
+くうこう	airport	空港	
+こうくう	aviation, flying	航空	
+くうき	air, atmosphere	空気	
+こうくうき	aircraft, aeroplane, airplane	航空機	
+くうかん	space, room, airspace	空間	
+くうばく	aerial bombing	空爆	
+くうぐん	Air Force	空軍	
+じょうくう	sky, the skies, high-altitude sky, upper air	上空	
+かくう	aerial, overhead, fiction, fanciful	架空	
+しょく	employment	職	
+しょくいん	staff member, personnel	職員	
+おしょく	corruption	汚職	
+げんしょく	present post, current office, (an) incumbent	現職	
+しゅうしょく	finding employment, inauguration	就職	
+しょくぎょう	occupation, business	職業	
+しょくば	one's post, place of work, workplace	職場	
+じしょく	resignation	辞職	
+たいしょく	retirement (from office)	退職	
+むしょく	without an occupation	無職	
+しょうけん	securities, bonds, certificates	証券	
+しょうにん	witness	証人	
+しょうげん	evidence, testimony	証言	
+ほしょう	guarantee, security, assurance, pledge, warranty	保証	
+しょうこ	evidence, proof	証拠	
+しょうめい	proof, verification	証明	
+ゆうかしょうけん	marketable securities, stocks and bonds	有価証券	
+しょうしょ	bond, deed, certificate	証書	
+けんしょう	verification, inspection	検証	
+あかし	proof, evidence, testimony; to testify (usu. Christian religious context)	証	
+つち, つし	earth, soil, dirt; the earth (historically, esp. as opposed to the heavens), the ground, the land; low-quality torinoko-gami (containing mud); (period of) refraining from construction in the direction of the god of the earth (in On'youdou)	土	
+とち	plot of land, lot, soil	土地	
+りょうど	dominion, territory, possession	領土	
+どよう	Saturday	土曜	
+こくど	country, territory, domain, realm	国土	
+どひょう	arena, esp. in sumo; forum (e.g. for discussion); sandbag, gabion	土俵	
+どぼく	public works	土木	
+ぜんど	the whole nation (land, country)	全土	
+どじょう	soil	土壌	
+ふうど	natural features, topography, climate, spiritual features	風土	
+よとう	government party, (ruling) party in power, government	与党	
+よやとう	(political) parties in and out of power, majority and minority parties	与野党	
+かんよ	participation, taking part in, participating in, being concerned in	関与	
+きゅうよ	pay, salary, wages, allowance, grant, supply	給与	
+きょうよ	giving, provision, furnishing	供与	
+とうよ	prescribing medicine, administering (medicine)	投与	
+ふよ	grant, allowance, endowment, bestowal, assignment, conferment	付与	
+さんよ	participation, taking part; consultant, councillor, adviser	参与	
+しょうよ	reward, prize, bonus	賞与	
+ぞうよ	donation, presentation	贈与	
+きゅう	urgent, sudden, abrupt; sharp, steep, precipitous; rapid, swift, fast; emergency, crisis	急	
+いそいで	hurriedly	急いで	
+きゅうきょ	hurriedly, in a hurry	急きょ	
+きんきゅう	urgent, pressing, emergency	緊急	
+きゅうそく	rapid (e.g. progress)	急速	
+さっきゅう, そうきゅう	urgent	早急	
+きゅうげき	sudden, precipitous, radical	急激	
+きゅうせい	acute (e.g. illness)	急性	
+きゅうしん	rapid progress, radical	急進	
+きゅうぞう	explosion, proliferation, surge	急増	
+きんし	prohibition, inhibition, ban	禁止	
+ていし	suspension, interruption, stoppage, ban, standstill, halt, hang-up, deadlock, stalemate, abeyance	停止	
+ぼうし	prevention, check	防止	
+ちゅうし	suspension, stoppage, discontinuance, interruption	中止	
+はいし	abolition, repeal	廃止	
+はどめ	brake, skid, pawl; restraint, curtailment, self-imposed limit, check	歯止め	
+うけとめる	to catch, to stop the blow, to react to, to take	受け止める	
+そし	obstruction, check, hindrance, prevention, interdiction	阻止	
+とまる, とどまる	to stop, to halt; to remain, to abide, to stay (in the one place); to come to a halt; to be limited to	止まる	
+さしとめ	prohibition, ban, suspension	差し止め	
+おくる	to send (a thing), to dispatch, to despatch; to take or escort (a person somewhere), to see off (a person); to bid farewell (to the departed), to bury; to spend (time), to live one's life; to pass (down the line); to affix okurigana	送る	
+ほうそう	broadcast, broadcasting	放送	
+ゆそう	transport, transportation	輸送	
+おくり	seeing off, sending off; funeral; escapement	送り	
+さきおくり	postpone	先送り	
+みおくり	seeing one off, farewell, escort	見送り	
+みおくる	to see off (e.g. to the station, an airport, etc.), to escort (e.g. home), to farewell; to see out, to send off; to let pass, to wait and see, to continue (e.g. in legal contexts); to let a pitch go by (baseball), to watch a batted ball go into the stands	見送る	
+うんそう	transport, freight, shipping	運送	
+そうきん	remittance, sending money	送金	
+ゆうそう	mailing	郵送	
+えんじょ	assistance, aid, support	援助	
+しえん	support, backing, aid, assistance	支援	
+おうえん	aid, assistance, help, reinforcement, rooting, barracking, support, cheering	応援	
+きゅうえん	relief, rescue, reinforcement	救援	
+こうえん	support, backing	後援	
+えんご	covering, protection, backing, relief	援護	
+せいえん	encouragement, cheering, support	声援	
+ぎえんきん	donation money, contribution	義援金	
+えんぐん	reinforcement	援軍	
+むえん	helpless, unsupporting	無援	
+こども	child, children	子供	
+きょうきゅう	supply, provision	供給	
+ていきょう	offer, tender, program sponsoring, programme sponsoring, furnishing	提供	
+きょうよ	giving, provision, furnishing	供与	
+きょうじゅつ	affidavit, deposition, testimony	供述	
+とも	companion, follower, attendant, retinue	供	
+ていきょうしゃ	donor, contributer, provider	提供者	
+くよう	memorial service for the dead, holding a service	供養	
+きょうきゅうげん	source of supply	供給源	
+じきょう	confession	自供	
+か	passable, acceptable, tolerable, fair	可	
+かのう	possible, practicable, feasible	可能	
+かのうせい	potentiality, likelihood, possibility, availability	可能性	
+きょか	permission, approval, authorization	許可	
+おかしい	strange, funny, amusing, ridiculous	可笑しい	
+にんか	approval, license, licence, permission	認可	
+ふかけつ	indispensable, essential	不可欠	
+ふかのう	impossible	不可能	
+かけつ	approval, adoption (e.g. motion, bill), passage	可決	
+ふかぶん	atomic, indivisibility	不可分	
+やく	use, service, role, position	役	
+やくわり	part, assigning (allotment of) parts, role, duties	役割	
+やくいん	officer, official, executive, staff	役員	
+とりしまりやく	company director, board member	取締役	
+ちょうえき	penal servitude, imprisonment with hard labor (hard labour)	懲役	
+げんえき	active duty, active service	現役	
+さんやく	three highest ranks (wrestling, unions, etc.)	三役	
+しゅやく	leading part, leading actor (actress)	主役	
+とりしまりやくかい	board of directors; board of directors' meeting	取締役会	
+やくしょ	government office, public office	役所	
+きこう	mechanism, organization, organisation	機構	
+こうぞう	structure, construction	構造	
+こうそう	plan, plot, idea, conception	構想	
+こうせい	organization, organisation, configuration, composition	構成	
+こうちく	construction	構築	
+こうず	composition	構図	
+けっこう	splendid, nice, wonderful, delicious, sweet; sufficient, fine (in the sense of "I'm fine"), (by implication) no thank you; well enough, OK, tolerable; reasonably, fairly, tolerably; construction, architecture	結構	
+かまう	to mind, to care about, to be concerned about; to care for, to look after; to prepare for; to intefere with, to meddle in; to tease	構う	
+こうない	premises, grounds, campus, in-house	構内	
+こころがまえ	preparedness, readiness	心構え	
+き	tree, wood, timber	木	
+あおき, アオキ	Japanese laurel, spotted laurel, Aucuba japonica; live tree	青木	
+もくぞう	wooden, made of wood	木造	
+どぼく	public works	土木	
+もくざい	lumber, timber, wood	木材	
+あらき	logs in bark, rough wood	荒木	
+じゅもく	trees and shrubs, arbour, arbor	樹木	
+もくよう	Thursday	木曜	
+もくせい	Jupiter (planet)	木星	
+もくせい	wooden, made of wood	木製	
+わり	rate, ratio, proportion, percentage; profit; assignment; 10%, unit of ten percent; sumo match, schedule of sumo matches; diluted with (of drinks), mixed with	割り	
+やくわり	part, assigning (allotment of) parts, role, duties	役割	
+わりあい	rate, ratio, percentage, proportion; comparatively; contrary to expectations	割合	
+ぶんかつ	partition, division, separation, segmenting, splitting	分割	
+わりびき	discount, reduction, rebate, tenths discounted	割引	
+わりだか	comparatively high, fairly expensive	割高	
+わりやす	economical, comparatively cheap	割安	
+わりびきさい	discount bond	割引債	
+わりあて, かっとう	allotment, assignment, allocation, quota, rationing; binding	割り当て	
+わりだす	to calculate, to compute, to infer	割り出す	
+きかす	to inform about, to read to, to sing for	聞かす	
+しんぶん	newspaper	新聞	
+しんぶんしゃ	newspaper company	新聞社	
+ききて	hearer, listener, audience; interviewer, questioner	聞き手	
+しんぶんし	newsprint, newspaper	新聞紙	
+ぜんだいみもん	unheard-of, unprecedented, unparalleled in history (unparallelled), record-breaking	前代未聞	
+しんぶんきじ	newspaper story (article, account)	新聞記事	
+ききがき	account of what one hears	聞き書き	
+きこえる	to be heard, to be audible; to be said to be, to be reputed	聞こえる	
+ききとり	listening comprehension	聞き取り	
+み	body; oneself; one's place, one's position; main part, meat (as opposed to bone, skin, etc.), wood (as opposed to bark), blade (as opposed to its handle), container(as opposed to its lid)	身	
+じしん	by oneself, personally	自身	
+しゅっしん	person's origin (town, city, country, etc.); institution from which one graduated; director in charge of employee relations	出身	
+なかみ	contents, interior, substance, filling, (sword) blade	中身	
+しんちょう	height (of body), stature	身長	
+ぜんしん	whole (body), full-length (e.g. portrait); systemic	全身	
+しゅっしんしゃ	alumnus (alumnae), graduate, old boy (girl); former member of an organization; former inhabitant (country, region, etc.)	出身者	
+たんしん	alone, unaided, away from home	単身	
+みもと	person's identity, ID, past, background	身元	
+どくしん	bachelorhood, single, unmarried, celibate	独身	
+しょうひ	consumption, expenditure	消費	
+しょうひしゃ	consumer	消費者	
+しょうひぜい	consumption tax (incl. sales tax, VAT, excise duty, etc.)	消費税	
+ひよう	cost, expense	費用	
+けいひ	expenses, cost, outlay	経費	
+じんけんひ	personnel expenses, labor cost, labour cost; indirect labour costs, indirect labor costs	人件費	
+かいひ	membership fee	会費	
+こうひ	public expenditure	公費	
+こうさいひ	entertainment expenses	交際費	
+こうひ	construction cost	工費	
+ふきん	neighbourhood, neighborhood, vicinity, environs; approaching	付近	
+きふ	contribution, donation	寄付	
+ふぞく	attached, belonging (to), included, enclosed, affiliated, annexed, associated, subordinate, incidental, dependent, auxiliary	付属	
+こうふ	delivering, handing over, furnishing (e.g. with copies), issuance, issuing	交付	
+つきあい	association, socializing, socialising, fellowship	付き合い	
+かしつけ	loan	貸付	
+ひづけ	date, dating	日付	
+つき, づき, ツキ	furnished with, including; attached to; impression, appearance; luck; sociality; under, assistant (e.g. to a manager); soup base	付き	
+きゅうふ	payment, provision, benefit, present, delivery; performance	給付	
+じょうけんつき	conditionally, with conditions attached	条件付き	
+しせつ	institution, establishment, facility; (army) engineer	施設	
+じっし	enforcement, implementation, putting into practice (practise), carrying out, operation, working (e.g. working parameters), enactment	実施	
+ふせ	alms, offerings	布施	
+しさく	policy, measure	施策	
+しこう, せぎょう, せこう, しぎょう	execution, enforcing, carrying out; giving alms, giving food to the poor or monks	施行	
+しせい	government, administration, statesmanship	施政	
+せこう, しこう	execution (building contract), carrying out	施工	
+ほどこす	to donate, to give, to conduct, to apply, to perform	施す	
+ぼうえいしせつちょう	(Japanese) Defense Facilities Administration Agency (Defence)	防衛施設庁	
+せじょう	locking	施錠	
+たいせつ	important, valuable, worthy of care	大切	
+きっかけ	chance, start, cue, excuse, motive, impetus, occasion	切っ掛け	
+いっさい	all, everything, without exception, the whole, entirely, absolutely	一切	
+てきせつ	pertinent, appropriate, adequate, relevance	適切	
+きり	limits, end, bounds, period, place to leave off, closing sentence, all there is, only, since	切り	
+おもいきって	resolutely, boldly, daringly	思い切って	
+きらす	to be out of, to run out of, to be short of, to be out of stock	切らす	
+きる	to cut (usu. to cut through); to sever (connections, ties); to turn off (i.e. the light); to terminate (i.e. a conversation), to hang up (the phone), to disconnect; to punch (a ticket), to tear off (a stub); to open (something sealed); to start; to set (a limit); to reduce, to decrease, to discount; to shake off (water, etc.), to let drip-dry (or drain); to cross; to do (something noticeable); to turn (a vehicle); to cut (the ball); to shuffle (cards); to trump; (in Go) to isolate (an opponent's stone); (after the -masu stem of a verb) to finish, to complete	切る	
+しめきり	closing, cut-off, end, deadline, Closed, No Entrance	締め切り	
+きって	stamp (postage), merchandise certificate	切手	
+よし	reason, significance, cause	由	
+じゆう	freedom, liberty, as it pleases you	自由	
+りゆう	reason, pretext, motive	理由	
+けいゆ	go by the way, via	経由	
+ふじゆう	discomfort, inconvenience; poverty, want, destitution; disability, impairment (physical, mental, etc.)	不自由	
+じゆうか	liberalization, liberalisation, freeing	自由化	
+じゆうがた	freestyle (e.g. swimming event)	自由形	
+じゆうしゅぎ	liberalism	自由主義	
+ゆらい	origin, source, history, derivation, reason, destiny	由来	
+じゆうけいざい	free economy	自由経済	
+えんぜつ	speech, address	演説	
+せつめい	explanation, exposition	説明	
+しょうせつ	novel, (short) story	小説	
+かいせつ	explanation, commentary, exposition, elucidation	解説	
+せっとく	persuasion	説得	
+でんせつ	tradition, legend, folklore	伝説	
+ゆうぜい	election tour, election campaign, stumping	遊説	
+りきせつ	insistence, (major) emphasis, stress	力説	
+しゃせつ	editorial, leading article	社説	
+ろんせつ	editorial, dissertation	論説	
+うんてん	operation, motion, driving	運転	
+てんかん	convert, divert	転換	
+ぎゃくてん	(sudden) change, reversal, turn-around, coming from behind (baseball)	逆転	
+いてん	moving, transfer, demise	移転	
+うんてんしゅ	driver, chauffeur	運転手	
+じてんしゃ, じでんしゃ	bicycle	自転車	
+かいてん	rotation (usu. around something), revolution, turning	回転	
+てんじる	to turn, to shift, to alter, to distract	転じる	
+ぎゃくてんがち	winning after defeat seems certain, coming from behind to win	逆転勝ち	
+てんきん	job transfer, job relocation, intra-company transfer	転勤	
+しょく	meal, (one's) diet, food, foodstuff(s); eclipse (solar, lunar, etc.)	食	
+しょくじ	meal; to eat	食事	
+しょくひん	commodity, foodstuff	食品	
+しょくりょう	food	食料	
+しょくりょう	provisions, rations, food supply	食糧	
+ちゅうしょく, ちゅうじき, ひるげ	lunch, midday meal; food served at a tea party (tea ceremony)	昼食	
+いんしょく	food and drink, eating and drinking	飲食	
+きゅうしょく	school lunch, providing a meal	給食	
+ゆうしょく	evening meal, dinner	夕食	
+たべもの	food	食べ物	
+くらべる	to compare, to make a comparison; to compete, to vie	比べる	
+ひれい	proportion	比例	
+ひりつ	ratio, proportion, percentage	比率	
+ひかく	comparison	比較	
+くらべ	contest, comparison, competition	比べ	
+ひ	ratio, proportion; match, equal; explicit comparison (style of the Shi Jing); Philippines	比	
+ひじゅう	specific gravity, weight, part; relative weight, relative importance	比重	
+えびす, ゑびす, えべす, ひるこ	Ebisu (god of fishing and commerce)	恵比寿	
+たいひ	contrast, comparison	対比	
+はんぴれい	inverse proportion	反比例	
+なん	difficulty, hardships, defect	難	
+むずかしい, むつかしい	difficult	難しい	
+なんみん	refugees	難民	
+こんなん	difficulty, distress	困難	
+ひなん	taking refuge, finding shelter, evacuation, escape	避難	
+ひなん	blame, attack, criticism	非難	
+なんしょく	disapproval	難色	
+ひなんみん	refugees, evacuees	避難民	
+なんもん	perplexity, difficult question, difficult problem	難問	
+なんこう	difficult voyage, hard flight; rough going, rough passage, running into trouble, stormy passage	難航	
+ぼうえい	defense, defence, protection, self-defense, self-defence	防衛	
+こくぼう	national defence, national defense	国防	
+ぼうし	prevention, check	防止	
+ぼうえいちょう	Japan Defense Agency (Defence) (became Japanese Ministry of Defense in Jan. 2007)	防衛庁	
+よぼう	prevention, precaution, protection against	予防	
+こうぼう	offense and defense, offence and defence	攻防	
+しょうぼう	fire fighting, fire department	消防	
+ぼうさい	disaster prevention	防災	
+ぼうぎょ	defense, defence, safeguard, protection	防御	
+ぼうご	protection	防護	
+こうほ	candidate, contender, prospect, pick, choice, list; candidacy, candidature, nomination	候補	
+ほじょ	assistance, support, aid, auxiliary	補助	
+ほしょう	compensation, reparation	補償	
+りっこうほ	announcing candidacy	立候補	
+ほせいよさん	revised or supplementary budget	補正予算	
+ほさ	aid, help, assistance, assistant, counselor, counsellor, adviser, advisor	補佐	
+ほきゅう	supply, supplying, replenishment	補給	
+ほきょう	compensation, reinforcement	補強	
+ほせい	correction	補正	
+ほけつ	filling a vacancy, supplementation; substitute, deputy, alternate, spare	補欠	
+くるま	car, automobile, vehicle; wheel	車	
+じどうしゃ	automobile	自動車	
+げしゃ	alighting (from train, bus, etc.), getting off	下車	
+じょうようしゃ	passenger vehicle, automobile	乗用車	
+じてんしゃ, じでんしゃ	bicycle	自転車	
+しゃりょう	rolling stock, railroad cars, vehicles	車両	
+でんしゃ	(electric) train	電車	
+れっしゃ	train (ordinary)	列車	
+ちゅうしゃじょう	parking lot, parking place	駐車場	
+せんしゃ	tank (military vehicle)	戦車	
+ゆうしょう	overall victory, championship	優勝	
+はいゆう	actor, actress, player, performer	俳優	
+ゆうせん	preference, priority, precedence	優先	
+じょゆう	actress	女優	
+ゆうしゅう	superiority, excellence	優秀	
+ゆうぐう	favorable treatment, favourable treatment, hospitality, warm reception, good treatment, hearty welcome	優遇	
+やさしい	tender, kind, gentle, graceful, affectionate, amiable, suave	優しい	
+ゆうい	predominance, ascendancy, superiority	優位	
+ゆうりょう	superior, excellent, fine	優良	
+ゆうせい	superiority, superior power, predominance, preponderance	優勢	
+おっと	husband	夫	
+ふじん, ぶにん, はしかし	wife, Mrs, madam; wife of a nobleman (aristocrat, etc.); consort of the emperor	夫人	
+ふうふ, めおと, みょうと	married couple, spouses, husband and wife, couple, pair	夫婦	
+ふさい	man and wife, married couple	夫妻	
+くふう	scheme, device, scheming, devising, figuring out, coming up with, solving ingeniously; dedication to spiritual improvement (esp. through Zen meditation)	工夫	
+だいじょうぶ	safe, all right, OK, okay	大丈夫	
+じょうぶ	healthy, robust, strong, solid, durable	丈夫	
+ぎだゆう	gidayuu (form of ballad drama)	義太夫	
+ろうふうふ	an old couple	老夫婦	
+ぼうふ	my deceased husband, my late husband	亡夫	
+けんきゅう	study, research, investigation	研究	
+けんきゅうしょ, けんきゅうじょ	research establishment (institute, laboratory, etc.)	研究所	
+けんしゅう	training (esp. in-service), induction course	研修	
+けんきゅうしゃ	researcher	研究者	
+けんきゅういん	researcher	研究員	
+けんきゅうしつ	laboratory; seminar room; professor's office	研究室	
+けんきゅうか	researcher, student (of)	研究家	
+けいざいけんきゅうしょ	economics research centre, economics research center	経済研究所	
+けんきゅうかん	research officer	研究官	
+こくりつよぼうえいせいけんきゅうしょ	National Institute of Health	国立予防衛生研究所	
+しゅうにゅう	income, receipts, revenue	収入	
+しゅうし	income and expenditure	収支	
+かいしゅう	collection, recovery	回収	
+しゅうえき	earnings, proceeds, returns	収益	
+しゅうわい	accepting bribes, corruption, graft	収賄	
+ぜいしゅう	tax yields, revenue	税収	
+ばいしゅう	buying, purchase; corruption, bribery	買収	
+しゅうしゅう	gathering up, collection, accumulation	収集	
+しゅうかく	harvest, crop, ingathering	収穫	
+ねんしゅう	annual income	年収	
+だん	failure	断	
+はんだん	judgement, judgment, decision, adjudication, conclusion, decipherment, divination	判断	
+けつだん	decision, determination	決断	
+しんだん	diagnosis	診断	
+ことわる	to refuse, to reject, to dismiss, to turn down, to decline; to inform, to give notice; to ask leave, to excuse oneself (from)	断る	
+ことわらず	without permission	断らず	
+だんねん	abandoning (hope, plans), giving up	断念	
+おうだん	crossing; transverse	横断	
+だんげん	assertion, declaration, affirmation	断言	
+よだん	guessing, prediction, conclusion	予断	
+い	well	井	
+てんじょう	ceiling, ceiling price	天井	
+いど	water well	井戸	
+ゆせい	oil well	油井	
+つつい	round well	筒井	
+いどほり	well digging, well digger	井戸掘り	
+いづつ	well crib	井筒	
+しせい	the street, the town	市井	
+いどみず	well water	井戸水	
+いどばたかいぎ	content-free chat, idle gossip	井戸端会議	
+なに, なん	what; how many (some counter); euph. for genitals or sex	何	
+なにか, なんか	something	何か	
+なにも	nothing (with neg. verbs), not any; and everything else (with noun plus "mo"), all	何も	
+なんとか	something, something or other, so-and-so; somehow, anyhow, one way or another	何とか	
+どの	which, what (way)	何の	
+なにより	most, best, above all	何より	
+なんでも	any, whatever one likes, by all means, anything, everything	何でも	
+なんど	how many times?, how often?	何度	
+なんと	what, how, whatever	何と	
+なんとも	nothing (with neg. verb), quite, not a bit	何とも	
+みなみ	south	南	
+みなみアフリカ	South Africa	南アフリカ	
+なんぼく	south and north	南北	
+とうなん, ひがしみなみ	south-east	東南	
+なんぶ	southern part	南部	
+なんせい, みなみにし	southwest	南西	
+ちゅうなんべい	Central and South America	中南米	
+なんべい	South America	南米	
+なんきょく	South Pole; the Antarctic, Antarctica	南極	
+なんとう, みなみひがし	southeast	南東	
+こく	measure of volume (approx. 180.39 liters, 6.37 cub. ft.); measure of a Japanese-style boat's loading capacity (approx. 278.26 liters)	石	
+せきゆ	oil, petroleum, kerosene	石油	
+かせき	fossil, petrifaction, fossilization, fossilisation	化石	
+せきたん	coal	石炭	
+いしばし, せっきょう	stone bridge	石橋	
+ほうせき	gem, jewel	宝石	
+いしがき	stone wall	石垣	
+どせき	earth and stones	土石	
+ふせき	strategic arrangement of go stones, preparation	布石	
+しゃくじん, いしがみ	stone which is worshipped, image of a god in stone	石神	
+あし	foot; leg; gait; pace; bottom structural component (i.e. radical) of a kanji; means of transportation	足	
+ふそく	insufficiency, shortage, deficiency, lack, dearth	不足	
+ほっそく, はっそく	starting, inauguration, launch, founding, establishment, start-up	発足	
+まんぞく	satisfaction; sufficiency	満足	
+あしなみ	pace, step	足並み	
+あしもと, そっか	at one's feet, underfoot; gait, pace, step; you, thou	足元	
+てあし	one's hands and feet, limbs	手足	
+あしあと, そくせき	footprints	足跡	
+であし	start, turnout; constant forward movement (sumo)	出足	
+あしば	scaffold, footing, foothold	足場	
+ちがい	difference, discrepancy	違い	
+いはん	violation (of law), transgression, infringement, breach	違反	
+いけん	unconstitutionality	違憲	
+いほう	illegal, illegality, invalid, unlawfulness	違法	
+まちがい	mistake	間違い	
+そうい	difference, discrepancy, variation	相違	
+いわかん	uncomfortable feeling, feeling out of place, sense of discomfort; malaise, physical unease	違和感	
+くいちがい	discrepancy, different or conflicting opinions	食い違い	
+まちがいない	I have no doubt, You can depend on it, certain	間違いない	
+ちがう	to differ (from), to vary; to not be in the usual condition; to not match the correct (answer, etc.); to be different from promised	違う	
+しょうひ	consumption, expenditure	消費	
+しょうひしゃ	consumer	消費者	
+しょうひぜい	consumption tax (incl. sales tax, VAT, excise duty, etc.)	消費税	
+かいしょう	cancellation, liquidation, resolution, reduction (e.g. of stress)	解消	
+しょうきょくてき	negative, half-hearted, passive, unmotivated	消極的	
+しょうぼう	fire fighting, fire department	消防	
+けしゴム	eraser, India rubber	消しゴム	
+けしいん	postmark, (postal) cancellation mark	消印	
+とりけし	cancellation, cancel, CAN	取り消し	
+しょうそくすじ	informed circles	消息筋	
+さかい	border, boundary, mental state	境	
+かんきょう	environment, circumstance	環境	
+こっきょう, くにざかい	national or state border	国境	
+かんきょうちょう	Environment Agency	環境庁	
+しんきょう	mental state	心境	
+きょうかい	boundary	境界	
+くきょう	trouble, crisis, predicament, squeeze, pinch	苦境	
+けいだい	compound, grounds	境内	
+えっきょう	border transgression	越境	
+きょうち	one's lot, circumstance, situation in life	境地	
+かみ	god, deity, divinity, spirit, kami	神	
+せいしん	mind, soul, heart, spirit, intention	精神	
+はんしん	Osaka-Kobe; Hanshin (company name: railway, dept. store, baseball team, etc.)	阪神	
+しんけい	nerve, sensitivity	神経	
+じんじゃ	Shinto shrine	神社	
+せいしんてき	mental, emotional	精神的	
+じんぐう	Shinto shrine	神宮	
+しんわ	myth, legend	神話	
+かみさま	God	神様	
+かぐら	ancient Shinto music and dancing	神楽	
+いちばん	best, first, number one; game, round, bout, fall, event (in a meet)	一番	
+ばんぐみ	program (e.g. TV), programme	番組	
+ばんごう	number, series of digits	番号	
+ほんばん	performance, take, going before an audience or on-air; game, season, crucial moment; actual sexual intercourse (i.e. not simulated)	本番	
+ばんて	(yarn) count; n-th place (e.g. in a race), n-th in position (e.g. a starting lineup)	番手	
+でばん	one's turn	出番	
+にばん	second, number two, runner-up	二番	
+じゅんばん	turn (in line), order of things, sequential order	順番	
+ばんづけ	ranking of entertainers, sumo wrestlers, etc.	番付	
+せばんごう	number on player's back	背番号	
+きせい	regulation, (traffic) policing, control, restriction	規制	
+きぼ	scale, scope, plan, structure	規模	
+きてい	regulation, provisions	規定	
+だいきぼ	large-scale	大規模	
+しんき	new, fresh; new customer; new rules or regulations	新規	
+きそく	rules, regulations, conventions	規則	
+きかく	standard, norm	規格	
+せいき	regular, legal, formal, established, legitimate	正規	
+きやく	agreement, rules, code, protocol, convention	規約	
+しょうきぼ	small scale	小規模	
+ぎじゅつ	art, craft, technique, technology, engineering, skill	技術	
+げいじゅつ	(fine) art, the arts	芸術	
+びじゅつ	art, fine arts	美術	
+しゅじゅつ	surgical operation	手術	
+びじゅつかん	art gallery, art museum	美術館	
+せんじゅつ	tactics	戦術	
+ぎじゅつしゃ	engineer, technical expert, technician, crafts-person	技術者	
+がくじゅつ	science, learning, scholarship	学術	
+かがくぎじゅつちょう	Science and Technology Agency	科学技術庁	
+ぎじゅつてき	technical, practical	技術的	
+ほご	care, protection, shelter, safeguard, guardianship, favor, favour, patronage	保護	
+べんごし	lawyer, attorney	弁護士	
+かんごふ	(female) nurse	看護婦	
+かいご	nursing	介護	
+かんご	nursing, (army) nurse	看護	
+べんご	defense, defence, pleading, advocacy	弁護	
+ごけん	protecting the constitution	護憲	
+ぼうご	protection	防護	
+えんご	covering, protection, backing, relief	援護	
+ようご	protection, advocacy, support, defence, championship, vindication; to protect (e.g. rights, etc.), to advocate (e.g. free trade, etc.), to support	擁護	
+てんかい	development; expansion (opposite of compression)	展開	
+はってん	development, growth	発展	
+しんてん	progress, development	進展	
+てんじ	exhibition, display	展示	
+てんぼう	view, outlook, prospect	展望	
+てんらんかい	exhibition	展覧会	
+こてん	one-man exhibition, one-woman exhibition	個展	
+てんじかい	exhibition	展示会	
+しゅってん	exhibit, display	出展	
+びじゅつてん	art exhibition	美術展	
+じょうたい	current status, condition, situation, circumstances, state	状態	
+じたい	situation, (present) state of affairs, circumstances	事態	
+じったい	true state, actual condition, reality	実態	
+たいど	attitude, manner, behaviour	態度	
+ざま	mess, sorry state, plight, sad sight; way, manner	態	
+たいせい	attitude, conditions, preparations	態勢	
+けいたい	form, shape, figure	形態	
+じったいちょうさ	factual investigation	実態調査	
+せいたいけい	ecosystem	生態系	
+せいたい	mode of life, ecology; (animal) territory	生態	
+しどう	leadership, guidance, coaching; shido (disciplinary action for a minor infringement of the rules of judo)	指導	
+どうにゅう	introduction, bringing in, leading in, installation	導入	
+しゅどう	main leadership	主導	
+はんどうたい	semiconductor, solid-state	半導体	
+しゅどうけん	hegemony, leadership, initiative	主導権	
+ゆうどう	guidance, leading, induction, introduction, incitement, inducement	誘導	
+ちょうでんどう	superconductivity	超電導	
+がくしゅうしどうようりょう	government course (curriculum) guidelines	学習指導要領	
+もうどうけん	guide dog for the blind, seeing eye dog	盲導犬	
+せんどう	guidance, leadership	先導	
+きたちょうせん	North Korea	北朝鮮	
+あざやか	vivid, clear, brilliant	鮮やか	
+ちょうせん	Korea	朝鮮	
+ちょうせんみんしゅしゅぎじんみんきょうわこく	Democratic People's Republic of Korea (North Korea), DPRK	朝鮮民主主義人民共和国	
+ちょうせんはんとう	Korean peninsula	朝鮮半島	
+せんめい	vivid, clear, distinct	鮮明	
+しんせん	fresh	新鮮	
+せいせん	fresh	生鮮	
+せんど	(degree of) freshness	鮮度	
+しんせんさ	freshness	新鮮さ	
+じゅんび	preparation, setup, arrangements, provision, reserve	準備	
+せいび	maintenance, servicing, outfitting	整備	
+せつび	equipment, device, facilities, installation	設備	
+そなえる	to furnish, to provide for, to equip, to install; to have ready, to prepare for; to possess, to have, to be endowed with, to be armed with	備える	
+けいび	defense, defence, guard, policing, security	警備	
+しゅび	defense, defence	守備	
+よび	preparation, preliminaries, reserve, spare	予備	
+そうび	equipment	装備	
+ぐんび	armaments, military preparations	軍備	
+びちく	emergency stores, stored, reserved	備蓄	
+たく	house, home, husband	宅	
+じたく	one's home	自宅	
+じゅうたく	residence, housing, residential building	住宅	
+ざいたく	being in, being at home	在宅	
+かたく	domicile, premises	家宅	
+じゅうたくち	housing district, residential district	住宅地	
+たくち	building lot, residential land	宅地	
+きたく	returning home	帰宅	
+たくはい	home delivery	宅配	
+じゅうたくがい	residential area	住宅街	
+しょうがい, しょうげ	obstacle, impediment, hindrance, difficulty, barrier; handicap, impairment, disability, disorder, malfunction	障害	
+ひがい	damage	被害	
+さいがい	calamity, disaster, misfortune	災害	
+そんがい	damage, injury, loss	損害	
+しょうがいしゃ	(physically) handicapped person, disabled person	障害者	
+こうがい	pollution, public nuisance, contamination	公害	
+ひがいしゃ	victim, injured party, sufferer	被害者	
+しんがい	infringement, violation, trespass, impairment	侵害	
+がい	injury, harm, evil influence, damage	害	
+さつがい, せつがい, せちがい	killing, murder	殺害	
+しはい	rule, control, direction	支配	
+しんぱい	worry, concern, anxiety; care, help, aid, assistance	心配	
+はいぶん	distribution, allotment	配分	
+はいりょ	consideration, concern, forethought	配慮	
+はいとう	dividend, share	配当	
+けはい, きはい	indication, sign, hint, presence, trend; quotation (esp. stock market)	気配	
+はいち	arrangement (of resources), deployment, stationing, posting, disposition	配置	
+くばる	to distribute, to deliver, to deal (cards)	配る	
+はいきゅう	distribution (e.g. films, rice)	配給	
+たくはい	home delivery	宅配	
+ふくしゃちょう	executive vice-president	副社長	
+ふくさよう	reaction, secondary effect, side effect	副作用	
+ふくちじ	lieutenant governor	副知事	
+ふくしょう	extra prize	副賞	
+ふくだい	subtitle, subheading	副題	
+ふくさんぶつ	byproduct, side line	副産物	
+ふくそうひん	burial accessories	副葬品	
+ふくぎょう	side job, sideline, subsidiary business	副業	
+ふくしょう	second in command	副将	
+ふくとくほん, ふくどくほん	supplementary reader	副読本	
+よさん	estimate, budget	予算	
+けっさん	balance sheet, settlement of accounts	決算	
+つうさん	total	通算	
+けいさん	calculation, reckoning, count; forecast	計算	
+ほせいよさん	revised or supplementary budget	補正予算	
+こうさん	probability, likelihood	公算	
+がいさん	approximation, rough estimate	概算	
+しさん	trial calculation, preliminary calculation	試算	
+さいさん	profit	採算	
+せいさん	liquidation, settlement	清算	
+かんし	observation, guarding, inspection, surveillance	監視	
+けいしちょう	police headquarters	警視庁	
+してん	opinion, point of view, visual point	視点	
+じゅうし	importance, stress, serious consideration	重視	
+しちょうりつ	ratings (of a television program) (programme)	視聴率	
+しや	field of vision, outlook	視野	
+しさつ	inspection, observation	視察	
+しちょうしゃ	viewer, (television) audience	視聴者	
+しせん	one's eyes, glance, look	視線	
+しかく	sense of sight, vision	視覚	
+じょうけん	condition(s), term(s), requirement(s)	条件	
+じょうやく	treaty, pact	条約	
+じょうこう	clause, article, stipulations	条項	
+じょうれい	regulations, rules, laws, acts, ordinance	条例	
+じょうけんつき	conditionally, with conditions attached	条件付き	
+むじょうけん	unconditional	無条件	
+ろうどうじょうけん	working conditions	労働条件	
+じょうぶん	text, provisions (act, treaty)	条文	
+しんじょう	creed, belief, article of faith	信条	
+いちじょう	streak, matter, quotation	一条	
+みき, かん	(tree) trunk, (arrow) shaft, (tool) handle, backbone, base	幹	
+かんじ	executive secretary, coordinator, organizer, person in charge of making arrangements	幹事	
+かんぶ	management, (executive) staff, leaders, leadership, top brass, upper echelons	幹部	
+しんかんせん	bullet train (very high speed), Shinkansen	新幹線	
+こんかん	basis, nucleus, root and branch	根幹	
+かんせん	main line, trunk line	幹線	
+しゅかん	chief editor, managing editor; manager, person in charge	主幹	
+きかん	mainstay, nucleus, key	基幹	
+から	trunk, stem, stalk; shaft (of an arrow); handle	幹	
+かんじかい	board of governors	幹事会	
+どくじ	original, peculiar, characteristic, proprietary	独自	
+どくりつ	independence (e.g. Independence Day), self-support	独立	
+たんどく	sole, independence, single, solo (flight)	単独	
+どくとく	peculiarity, uniqueness, characteristic	独特	
+どくりつこく	independent state or nation	独立国	
+とうどく	East Germany	東独	
+どくさい	dictatorship, despotism	独裁	
+どくせん	monopoly; to monopolize, to hog	独占	
+どっきんほう	antitrust law, Antitrust Act	独禁法	
+どくしん	bachelorhood, single, unmarried, celibate	独身	
+けいさつ	police	警察	
+けいしちょう	police headquarters	警視庁	
+けんけい	prefectural police	県警	
+けいかい	vigilance, precaution, watch, lookout, altertness; to be vigilant, to be cautious, to guard (against)	警戒	
+けいさつちょう	National Police Agency	警察庁	
+けいび	defense, defence, guard, policing, security	警備	
+けいかん	policeman	警官	
+けいこく	warning, advice	警告	
+ふけい	prefectural police	府警	
+けいほう	alarm, warning	警報	
+きゅうじょう	Imperial Palace	宮城	
+くないちょう	Imperial Household Agency	宮内庁	
+じんぐう	Shinto shrine	神宮	
+きゅうでん	palace	宮殿	
+しきゅう	womb, uterus	子宮	
+きゅうちゅう	imperial court	宮中	
+とうぐう	crown prince	東宮	
+おうきゅう	royal palace	王宮	
+きゅうてい	imperial court, royal court	宮廷	
+にぐう	the Two Ise Shrines	二宮	
+けんきゅう	study, research, investigation	研究	
+けんきゅうしょ, けんきゅうじょ	research establishment (institute, laboratory, etc.)	研究所	
+けんきゅうしゃ	researcher	研究者	
+きゅうめい	investigation (esp. in academic and scientific contexts)	究明	
+けんきゅういん	researcher	研究員	
+けんきゅうしつ	laboratory; seminar room; professor's office	研究室	
+けんきゅうか	researcher, student (of)	研究家	
+けいざいけんきゅうしょ	economics research centre, economics research center	経済研究所	
+きゅうきょく	ultimate, extreme, final, eventual	究極	
+けんきゅうかん	research officer	研究官	
+きょういく	training, education	教育	
+たいいく	physical education, gymnastics, athletics	体育	
+いくじ	childcare, nursing, upbringing	育児	
+ほいく	nursing, nurturing, rearing, lactation, suckling	保育	
+いくせい	rearing, training, nurture, cultivation, promotion	育成	
+そだち	breeding, growth	育ち	
+しいく	breeding, raising, rearing	飼育	
+いくえい	education	育英	
+きょういくいいんかい	Board of Education	教育委員会	
+ほいくしょ, ほいくじょ	nursery school, nursery	保育所	
+せき	seat; location (of a gathering, etc.), place; position, post	席	
+ぎせき	parliamentary seat	議席	
+しゅせき	head, chief; chairman, governor, president; top student, head of the class; top seat, first desk (in orchestra)	主席	
+しゅっせき	attendance, presence, appearance; to attend, to be present, to appear	出席	
+だせき	batter's box (baseball), one's turn at bat	打席	
+せきじょう	at the meeting	席上	
+どうせき	presence, sitting with, being with	同席	
+ざせき	seat	座席	
+しゅせき	head, chief; chairman, governor, president; top student, head of the class; top seat, first desk (in orchestra)	首席	
+しゅっせきしゃ	those present, attendance	出席者	
+ゆしゅつ, しゅしゅつ	export; efferent (medical)	輸出	
+ゆにゅう, しゅにゅう	importation, import, introduction	輸入	
+ゆそう	transport, transportation	輸送	
+うんゆ	transportation	運輸	
+うんゆしょう	Ministry of Transport	運輸省	
+きんゆ	embargo	禁輸	
+みつゆ	smuggling, contraband trade	密輸	
+ゆしゅつにゅう	export and import	輸出入	
+ゆけつ	blood transfusion	輸血	
+くうゆ	air transport	空輸	
+たずねる	to visit	訪ねる	
+ほうもん	call, visit	訪問	
+ほうにち	visit to Japan	訪日	
+ほうちゅう	visit to China	訪中	
+ほうべい	visit to America	訪米	
+れきほう	round of calls, tour of visitation	歴訪	
+おとずれ	visit, call, advent, arrival	訪れ	
+こべつほうもん	door-to-door visit, door-to-door canvassing, door-to-door canvasing	戸別訪問	
+ほうおう	visit to Europe	訪欧	
+らいほう	visit, call	来訪	
+たのしみ	enjoyment, pleasure, diversion, amusement, hobby; anticipation, looking forward to	楽しみ	
+おんがく	music, musical movement	音楽	
+らく	comfort, ease	楽	
+がっき	musical instrument	楽器	
+くらぶ, クラブ	club, fraternity, sorority, clubhouse	倶楽部	
+ごらく	pleasure, amusement	娯楽	
+のうがく	Noh play	能楽	
+らっかん	optimism	楽観	
+たのしい	enjoyable, fun	楽しい	
+たのしむ	to enjoy oneself	楽しむ	
+きそ	prosecution, indictment	起訴	
+おこす	to raise, to cause, to wake someone	起こす	
+きよう	appointment (to a position, job, etc.), being used for a role, promotion	起用	
+おこる	to occur, to happen	起こる	
+ていき	bring suit, file a claim, raise a question	提起	
+やっき	desperation, eagerness	躍起	
+けっき	jump to one's feet, stand up against, rising to action	決起	
+ほっきにん	originator, promoter	発起人	
+きそう	drafting, draughting, drawing up a bill	起草	
+ふきそ	nonprosecution or indictment	不起訴	
+じゅうまん	100,000, hundred thousand	十万	
+ひゃくまん	1,000,000, one million; many	百万	
+ばんぜん	perfection, flawlessness	万全	
+すうまん	tens of thousands	数万	
+ばんり	thousands of miles	万里	
+ばんのう, まんのう	all-purpose, utility; almighty, omnipotent	万能	
+まんいち, まんいつ	by some chance, by some possibility, if by any chance, 10,000 to 1 odds	万一	
+ばんこく	all countries, the whole world, universal, all nations	万国	
+ばんにん, ばんじん, まんにん	all people, everybody; ten thousand people	万人	
+ばんざい, ばんぜい	crying "banzai" (or raising one's hands in the banzai gesture); something worthy of celebration; giving up; long time; eternal life (and prosperity); banzai (a celebratory cheer), hurrah (hooray, hurray)	万歳	
+けっちゃく	conclusion, decision, end, settlement	決着	
+ちゃくじつ	steady, sound, trustworthy, solid	着実	
+おちついた	quiet, calm, composed	落ち着いた	
+ゆちゃく	adhesion	癒着	
+きる	to wear (in modern Japanese, from the shoulders down), to put on; to bear (guilt, etc.)	着る	
+ちゃっこう	start of (construction) work	着工	
+ちゃくりく	landing, alighting, touch down	着陸	
+とうちゃく	arrival	到着	
+きもの	clothing, clothes; kimono (or other trad. Japanese clothing)	着物	
+したぎ	underwear	下着	
+のり	riding, ride; spread (of paints); (two)-seater; mood (as in to pick up on and join in with someone's mood)	乗り	
+じょうようしゃ	passenger vehicle, automobile	乗用車	
+じょうきゃく, じょうかく	passenger	乗客	
+のせる	to place on (something), to take on board, to give a ride, to let (one) take part, to impose on, to record, to mention, to load (luggage), to publish, to run (an ad)	乗せる	
+じょういん	crew	乗員	
+のりくみいん	crew	乗組員	
+あいのり	riding together	相乗り	
+なのり	name readings of kanji; self-introduction; announcement of candidature	名乗り	
+とうじょう	embarkation, boarding (an aeroplane, airplane)	搭乗	
+じょうしゃ	taking a train, bus, etc., entraining	乗車	
+してん	branch store (office)	支店	
+ひゃっかてん	(department) store(s)	百貨店	
+しょてん	bookshop, bookstore	書店	
+てんぽ	shop, store	店舗	
+しょうてん	shop, small store, business, firm	商店	
+てんとう	shop front, counter, shop, over-the-counter (financial)	店頭	
+ほんてん	head office	本店	
+してんちょう	branch manager, manager of a branch office	支店長	
+だいりてん	agent, agency	代理店	
+てんいん	shop assistant, employee, clerk, salesperson	店員	
+きょうじゅつ	affidavit, deposition, testimony	供述	
+きじゅつ	description, descriptor	記述	
+ちんじゅつ	statement, declaration	陳述	
+こうじゅつ	speaking at a public hearing	公述	
+ちょじゅつ	writing, literary work	著述	
+ぜんじゅつ	aforementioned, above-mentioned	前述	
+しょうじゅつ	detailed explanation	詳述	
+こうじゅつ	dictation, verbal statement	口述	
+のべる	to state, to express, to mention	述べる	
+じょじゅつ	description	叙述	
+のこり	remnant, residue, remaining, left-over	残り	
+のこす	to leave (behind, over), to bequeath, to save, to reserve	残す	
+のこったぶん	amount left over	残った分	
+ざんねん	deplorable, bad luck, regret, disappointment	残念	
+ざんりゅう	residual, residue; stay behind, stay back	残留	
+ざんだか	(bank) balance, remainder	残高	
+ざんぎょう	overtime (work)	残業	
+いきのこり	survivor	生き残り	
+のこる	to remain, to be left	残る	
+とりのこす	to leave behind	取り残す	
+こうそう	plan, plot, idea, conception	構想	
+よそう	expectation, anticipation, prediction, forecast	予想	
+しそう	thought, idea, ideology	思想	
+かんそう	impressions, thoughts	感想	
+はっそう	expression (e.g. in music), idea, conception	発想	
+りそう	ideal, dream	理想	
+そうぞう	imagination, guess	想像	
+げんそう	illusions	幻想	
+よそうがい	unexpected, unforeseen, strange	予想外	
+そうてい	hypothesis, supposition, assumption	想定	
+せん	line (also telephone, railway), wire, beam	線	
+ろせん	route, line, alignment	路線	
+しんかんせん	bullet train (very high speed), Shinkansen	新幹線	
+だせん	baseball lineup	打線	
+せんせん	(war) front	戦線	
+さんじゅうはちどせん	the Thirty-eighth Parallel	三十八度線	
+むせん	wireless, radio	無線	
+いっせん	line	一線	
+かいせん	circuit, line	回線	
+しせん	one's eyes, glance, look	視線	
+ひりつ	ratio, proportion, percentage	比率	
+こうりつ	efficiency, efficacy, performance, utility factor	効率	
+ぜいりつ	tariff; tax rate	税率	
+しちょうりつ	ratings (of a television program) (programme)	視聴率	
+のびりつ	growth rate, coefficient of extension	伸び率	
+そっちょく	frankness, candour, candor, openheartedness	率直	
+だりつ	batting average	打率	
+かくりつ	probability, likelihood, chances	確率	
+ばいりつ	magnification, leverage, amplification, scaling factor, scale factor	倍率	
+りりつ	interest rate	利率	
+びょういん	hospital	病院	
+びょうき	illness, disease, sickness	病気	
+みなまたびょう	Minamata disease	水俣病	
+とうにょうびょう	diabetes mellitus, sugar diabetes	糖尿病	
+はっけつびょう	leukemia	白血病	
+びょうじょう	condition of a disease (patient)	病状	
+びょうとう	(hospital) ward	病棟	
+なんびょう	incurable disease	難病	
+せいじんびょう	adult diseases	成人病	
+しんぞうびょう	heart trouble, heart disease	心臓病	
+のう	farming, agriculture	農	
+のうぎょう	agriculture	農業	
+のうか	farmer, farm family	農家	
+のうきょう	agricultural cooperative	農協	
+のうそん	agricultural community, farm village, rural	農村	
+のうみん	farmers, peasants	農民	
+のうやく	agricultural chemical (i.e. pesticide, herbicide, fungicide, etc.), agrochemical, agrichemical	農薬	
+のうさんぶつ	agricultural produce	農産物	
+のうち	agricultural land	農地	
+のうりん	agriculture and forestry	農林	
+しゅう	state, province, county (UK), department (of ancient China); continent; (after someone's name) dear	州	
+おうしゅう	Europe	欧州	
+きゅうしゅう	Kyushu (southernmost of the four main islands of Japan)	九州	
+しゅうと	capital (city) of a state	州都	
+しゅうせいふ	state government	州政府	
+こうしゅう	Guangzhou (China), Canton	広州	
+えんかいしゅう	(Russian) maritime provinces	沿海州	
+す	sandbank, sandbar	州	
+たいようしゅう	Oceania, Pacific Ocean countries	大洋州	
+かしゅう	State of California	加州	
+ぶき	weapon, arms, ordinance	武器	
+ぶそう	arms, armament, armed	武装	
+ぶりょく	armed might, military power, the sword, force	武力	
+ぶどう	martial arts, military arts, Bushido	武道	
+ぶし, ぶふ, もののふ	warrior, samurai	武士	
+かくぶそう	nuclear arms	核武装	
+むしゃ	warrior	武者	
+ぶしょう	military commander	武将	
+ぶけ	samurai, warrior, military family	武家	
+ぶんぶ	literary and military arts, the pen and the sword	文武	
+こえ	voice	声	
+せいめい	declaration, statement, proclamation	声明	
+おんせい, おんじょう	voice, (the concept of) sound	音声	
+かんせい	cheer, shout of joy	歓声	
+せいえん	encouragement, cheering, support	声援	
+せいがく	vocal music	声楽	
+だいいっせい	first tone, first speech	第一声	
+かけごえ	yell used to time or encourage activity (e.g. "Heave ho!", "On three ... One, two, three!" in English), enthusiastic shout from the audience (e.g. in kabuki), shouting (in concerts)	掛け声	
+うたごえ	singing voice	歌声	
+こわだか	with a loud voice	声高	
+しつ	quality	質	
+しつもん	question, inquiry, enquiry	質問	
+じっしつ	substance, essence	実質	
+ぶっしつ	material, substance	物質	
+じっしつてき	substantial	実質的	
+たいしつ	constitution (physical), genetic make-up, predisposition (to disease)	体質	
+しつぎ	question; interpellation	質疑	
+ほんしつ	essence, true nature, substance, reality	本質	
+ひとじち	hostage, prisoner	人質	
+ひんしつ	(material) quality	品質	
+ねん	sense, idea, thought, feeling, desire, concern, attention, care	念	
+きねん	commemoration, memory	記念	
+けねん	worry, fear, anxiety, concern	懸念	
+ざんねん	deplorable, bad luck, regret, disappointment	残念	
+りねん	idea	理念	
+ねんとう	mind	念頭	
+がいねん	general idea, concept, notion	概念	
+きねんび	holiday, anniversary, memorial day	記念日	
+しんねん	belief, faith, conviction	信念	
+だんねん	abandoning (hope, plans), giving up	断念	
+きたい	expectation, anticipation, hope	期待	
+しょうたい	invitation	招待	
+たいぐう	treatment, reception	待遇	
+まち	waiting, waiting time	待ち	
+せったい	reception, welcome, serving (food); business entertainment	接待	
+きたいかん	feeling of expectation	期待感	
+ぎゃくたい	ill-treatment, oppression	虐待	
+まつ	to wait; to await, to look forward to, to anticipate; (usu. in negative form) to depend on, to need	待つ	
+たいき	alert, standby, await an opportunity, wait for orders	待機	
+たいぼう	expectant waiting; long-awaited	待望	
+こころみ	trial, experiment	試み	
+しあい	match, game, bout, contest	試合	
+しけん	examination, test, study, trial	試験	
+にゅうし	entrance examination	入試	
+しさん	trial calculation, preliminary calculation	試算	
+しあん	tentative	試案	
+しれん	test, trial, probation, ordeal, tribulation	試練	
+ためす	to attempt, to test	試す	
+しさく	trial manufacture, experiment, test piece, prototype	試作	
+しきんせき	touchstone, test case	試金石	
+かぞく	family, members of a family	家族	
+ぞく	tribe, clan, band; (taxonomical) tribe; group (of the periodic table)	族	
+みんぞく	people, race, nation	民族	
+いぞく	bereaved family	遺族	
+みんぞくしゅぎ	nationalism	民族主義	
+しんぞく	relatives	親族	
+いちぞく	family, relatives, dependents; household	一族	
+ぶぞく	tribe, clan, house	部族	
+かぞくけいかく	family planning	家族計画	
+きぞく	noble, aristocrat	貴族	
+たいしょう	target, object (of worship, study, etc.), subject (of taxation, etc.)	対象	
+いんしょう	impression	印象	
+げんしょう	phenomenon	現象	
+しょう	phenomenon	象	
+きしょうちょう	Meteorological Agency	気象庁	
+きしょう	weather, climate	気象	
+しょうちょう	symbol	象徴	
+いんしょうてき	impressive	印象的	
+しょうちょうてき	symbolic	象徴的	
+ちゅうしょう	abstract	抽象	
+ぎん, しろがね	silver, silver coin, silver paint; silver general (shogi)	銀	
+ぎんこう	bank	銀行	
+ぎんざ	Ginza (shopping district in Tokyo); (Edo period) silver mint	銀座	
+すみともぎんこう	Sumitomo Bank	住友銀行	
+にっぽんぎんこう, にほんぎんこう	Bank of Japan, BOJ, BoJ	日本銀行	
+せかいぎんこう	World Bank	世界銀行	
+すいぎん	mercury	水銀	
+せぎん	World Bank	世銀	
+ぎんが	Milky Way; galaxy	銀河	
+ゆぎん	import-export bank	輸銀	
+ちいき	area, region	地域	
+くいき	limits, boundary, domain, zone, sphere, territory; area (e.g. in programming languages)	区域	
+いきない	inside the area	域内	
+かいいき	area of ocean	海域	
+ぜんいき	the whole area	全域	
+りょういき	area, domain, territory, field, range, region, regime	領域	
+いきがい	outside the area	域外	
+りゅういき	(river) basin	流域	
+こういき	wide area	広域	
+ちいきしゃかい	regional community	地域社会	
+えんじょ	assistance, aid, support	援助	
+ほじょ	assistance, support, aid, auxiliary	補助	
+じょきょうじゅ	assistant professor	助教授	
+じょせい	assisting, assistance, fostering, aiding	助成	
+じょしゅ, すけて	helper, helpmeet, assistant, tutor	助手	
+たすけ	assistance	助け	
+きゅうじょ	relief, aid, rescue	救助	
+じょやく	assistant official	助役	
+じょげん, じょごん	advice, suggestion	助言	
+じじょ	self-help	自助	
+ろうどう	manual labor, manual labour, toil, work	労働	
+ろうどうしゃ	laborer (labourer), blue-collar worker	労働者	
+ろうそ, ろうくみ	labor union, labour union	労組	
+ろうどうしょう	Ministry of Labour (now Ministry of Health, Labour and Welfare)	労働省	
+ろうどうとう	Labour Party, Labor Party	労働党	
+くろう	troubles, hardships	苦労	
+ろうし	labour and management, labor and management	労使	
+ろうどうくみあい	labor union, labour union	労働組合	
+ひろう	fatigue, weariness	疲労	
+ろうれん	labour union, labor union	労連	
+れい, ためし	custom, practice, habit, usual; said, aforementioned; instance, example, case, illustration, usage; precedent; annual	例	
+たとえば	for example, e.g.	例えば	
+ひれい	proportion	比例	
+いれい	exception, illness, singular, exceptional, unprecedented	異例	
+とくれい	special case, exception	特例	
+れいがい	exception	例外	
+れいねん	average (normal, ordinary) year, every year, annually	例年	
+じょうれい	regulations, rules, laws, acts, ordinance	条例	
+ていれい	regularity	定例	
+じれい	example, precedent	事例	
+じえいたい	self-defence force, self-defense force; Japan Self-Defence Force, JSDF	自衛隊	
+ぼうえい	defense, defence, protection, self-defense, self-defence	防衛	
+えいせい	satellite	衛星	
+ぼうえいちょう	Japan Defense Agency (Defence) (became Japanese Ministry of Defense in Jan. 2007)	防衛庁	
+えいせい	health, hygiene, sanitation, medical	衛生	
+じえい	self-defense, self-defence	自衛	
+じえいかん	(Japanese) Self Defense Force member (Defence)	自衛官	
+りくじょうじえいたい	Ground Self-Defense Forces (Defence)	陸上自衛隊	
+つうしんえいせい	communication satellite, Broadcast Satellite, BS	通信衛星	
+かいじょうじえいたい	Maritime Self Defense Forces (Defence)	海上自衛隊	

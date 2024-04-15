@@ -1,0 +1,1409 @@
+#separator:tab		
+#separator:tab		
+#separator:tab	
+#separator:tab		
+#separator:tab			
+同日	[sound:k-0001_同日.mp3]<br>どうじつ <br> the same day
+the same day	<b>同日<b> <br> どうじつ <br>[sound:k-0001_同日.mp3]
+[sound:k-0001_同日.mp3]	the same day<br> <b>同日</b> <br> (どうじつ)
+<b>同日</b> <br> 同日に会議があります。	[sound:s-0001_同日に会議があります。.mp3] <br> どうじつにかいぎがあります。 <br>There is a meeting on the same day.
+[sound:s-0001_同日に会議があります。.mp3]	<b>同日</b> <br> 同日に会議があります。<br> どうじつにかいぎがあります <br>There is a meeting on the same day.
+日米	[sound:k-0002_日米.mp3]<br>にちべい <br> Japan-America
+Japan-America	<b>日米<b> <br> にちべい <br>[sound:k-0002_日米.mp3]
+[sound:k-0002_日米.mp3]	Japan-America<br> <b>日米</b> <br> (にちべい)
+<b>日米</b> <br> 日米間の交流が活発です。	[sound:s-0002_日米間の交流が活発です。.mp3] <br> にちべいかんのこうりゅうがかっぱつです。 <br>The exchange between Japan and the United States is active.
+[sound:s-0002_日米間の交流が活発です。.mp3]	<b>日米</b> <br> 日米間の交流が活発です。<br> にちべいかんのこうりゅうがかっぱつです <br>The exchange between Japan and the United States is active.
+日本人	[sound:k-0003_日本人.mp3]<br>にほんじん, にっぽんじん <br> Japanese person, Japanese people
+Japanese person, Japanese people	<b>日本人<b> <br> にほんじん, にっぽんじん <br>[sound:k-0003_日本人.mp3]
+[sound:k-0003_日本人.mp3]	Japanese person, Japanese people<br> <b>日本人</b> <br> (にほんじん, にっぽんじん)
+<b>日本人</b> <br> 日本人の文化は豊かです。	[sound:s-0003_日本人の文化は豊かです。.mp3] <br> にほんじんのぶんかはゆたかです。 <br>Japanese culture is rich.
+[sound:s-0003_日本人の文化は豊かです。.mp3]	<b>日本人</b> <br> 日本人の文化は豊かです。<br> にほんじんのぶんかはゆたかです <br>Japanese culture is rich.
+毎日	[sound:k-0004_毎日.mp3]<br>まいにち <br> every day
+every day	<b>毎日<b> <br> まいにち <br>[sound:k-0004_毎日.mp3]
+[sound:k-0004_毎日.mp3]	every day<br> <b>毎日</b> <br> (まいにち)
+<b>毎日</b> <br> 毎日新聞を読みます。	[sound:s-0004_毎日新聞を読みます。.mp3] <br> まいにちしんぶんをよみます。 <br>I read the newspaper every day.
+[sound:s-0004_毎日新聞を読みます。.mp3]	<b>毎日</b> <br> 毎日新聞を読みます。<br> まいにちしんぶんをよみます <br>I read the newspaper every day.
+前日	[sound:k-0005_前日.mp3]<br>ぜんじつ, まえび <br> previous day, the day before
+previous day, the day before	<b>前日<b> <br> ぜんじつ, まえび <br>[sound:k-0005_前日.mp3]
+[sound:k-0005_前日.mp3]	previous day, the day before<br> <b>前日</b> <br> (ぜんじつ, まえび)
+<b>前日</b> <br> 仕事の前日に準備をします。	[sound:s-0005_仕事の前日に準備をします。.mp3] <br> ぜんじつにしごとのぜんじつにじゅんびをします。 <br>I prepare the day before work.
+[sound:s-0005_仕事の前日に準備をします。.mp3]	<b>前日</b> <br> 仕事の前日に準備をします。<br> ぜんじつにしごとのぜんじつにじゅんびをします <br>I prepare the day before work.
+全日	[sound:k-0006_全日.mp3]<br>ぜんじつ <br> all days
+all days	<b>全日<b> <br> ぜんじつ <br>[sound:k-0006_全日.mp3]
+[sound:k-0006_全日.mp3]	all days<br> <b>全日</b> <br> (ぜんじつ)
+<b>全日</b> <br> 彼は全日家で過ごしました。	[sound:s-0006_彼は全日家で過ごしました。.mp3] <br> かれはぜんじついえですごしました。 <br>He spent the whole day at home.
+[sound:s-0006_彼は全日家で過ごしました。.mp3]	<b>全日</b> <br> 彼は全日家で過ごしました。<br> かれはぜんじついえですごしました <br>He spent the whole day at home.
+日程	[sound:k-0007_日程.mp3]<br>にってい <br> schedule, program, programme, agenda
+schedule, program, programme, agenda	<b>日程<b> <br> にってい <br>[sound:k-0007_日程.mp3]
+[sound:k-0007_日程.mp3]	schedule, program, programme, agenda<br> <b>日程</b> <br> (にってい)
+<b>日程</b> <br> 会議の日程を確認しました。	[sound:s-0007_会議の日程を確認しました。.mp3] <br> かいぎのにっていをかくにんしました。 <br>I confirmed the schedule for the meeting.
+[sound:s-0007_会議の日程を確認しました。.mp3]	<b>日程</b> <br> 会議の日程を確認しました。<br> かいぎのにっていをかくにんしました <br>I confirmed the schedule for the meeting.
+日本語	[sound:k-0008_日本語.mp3]<br>にほんご, にっぽんご <br> Japanese (language)
+Japanese (language)	<b>日本語<b> <br> にほんご, にっぽんご <br>[sound:k-0008_日本語.mp3]
+[sound:k-0008_日本語.mp3]	Japanese<br> <b>language) (日本語</b> <br> (にほんご, にっぽんご)
+<b>日本語</b> <br> 日本語を勉強しています。	[sound:s-0008_日本語を勉強しています。.mp3] <br> にほんごをべんきょうしています。 <br>I am studying Japanese.
+[sound:s-0008_日本語を勉強しています。.mp3]	<b>日本語</b> <br> 日本語を勉強しています。<br> にほんごをべんきょうしています <br>I am studying Japanese.
+今日	[sound:k-0009_今日.mp3]<br>こんにち, きょう, こんち, こんじつ <br> today, this day
+today, this day	<b>今日<b> <br> こんにち, きょう, こんち, こんじつ <br>[sound:k-0009_今日.mp3]
+[sound:k-0009_今日.mp3]	today, this day<br> <b>今日</b> <br> (こんにち, きょう, こんち, こんじつ)
+<b>今日</b> <br> 今日はいい天気ですね。	[sound:s-0009_今日はいい天気ですね。.mp3] <br> きょうはいいてんきですね。 <br>The weather is nice today.
+[sound:s-0009_今日はいい天気ですね。.mp3]	<b>今日</b> <br> 今日はいい天気ですね。<br> きょうはいいてんきですね <br>The weather is nice today.
+一つ	[sound:k-0010_一つ.mp3]<br>ひとつ <br> one; for one thing (often used in itemized lists); (after a noun) only; (with a verb in negative form) (not) even; just (i.e. "just try it")
+one; for one thing (often used in itemized lists); (after a noun) only; (with a verb in negative form) (not) even; just (i.e. "just try it")	<b>一つ<b> <br> ひとつ <br>[sound:k-0010_一つ.mp3]
+[sound:k-0010_一つ.mp3]	one; for one thing<br> <b>often used in itemized lists); (after a noun) only; (with a verb in negative form) (not) even; just (i.e. "just try it") (一つ</b> <br> (ひとつ)
+<b>一つ</b> <br> プレゼントを一つもらいました。	[sound:s-0010_プレゼントを一つもらいました。.mp3] <br> プレゼントをひとつもらいました。 <br>I received one present.
+[sound:s-0010_プレゼントを一つもらいました。.mp3]	<b>一つ</b> <br> プレゼントを一つもらいました。<br> プレゼントをひとつもらいました <br>I received one present.
+一月	[sound:k-0011_一月.mp3]<br>いちがつ <br> January
+January	<b>一月<b> <br> いちがつ <br>[sound:k-0011_一月.mp3]
+[sound:k-0011_一月.mp3]	January<br> <b>一月</b> <br> (いちがつ)
+<b>一月</b> <br> 一月に新しい仕事を始めます。	[sound:s-0011_一月に新しい仕事を始めます。.mp3] <br> いちがつにあたらしいしごとをはじめます。 <br>I will start a new job in January.
+[sound:s-0011_一月に新しい仕事を始めます。.mp3]	<b>一月</b> <br> 一月に新しい仕事を始めます。<br> いちがつにあたらしいしごとをはじめます <br>I will start a new job in January.
+一般	[sound:k-0012_一般.mp3]<br>いっぱん <br> general, liberal, universal, ordinary, average
+general, liberal, universal, ordinary, average	<b>一般<b> <br> いっぱん <br>[sound:k-0012_一般.mp3]
+[sound:k-0012_一般.mp3]	general, liberal, universal, ordinary, average<br> <b>一般</b> <br> (いっぱん)
+<b>一般</b> <br> この本は一般の読者向けです。	[sound:s-0012_この本は一般の読者向けです。.mp3] <br> このほんはいっぱんのどくしゃむけです。 <br>This book is for general readers.
+[sound:s-0012_この本は一般の読者向けです。.mp3]	<b>一般</b> <br> この本は一般の読者向けです。<br> このほんはいっぱんのどくしゃむけです <br>This book is for general readers.
+一番	[sound:k-0013_一番.mp3]<br>いちばん <br> best, first, number one; game, round, bout, fall, event (in a meet)
+best, first, number one; game, round, bout, fall, event (in a meet)	<b>一番<b> <br> いちばん <br>[sound:k-0013_一番.mp3]
+[sound:k-0013_一番.mp3]	best, first, number one; game, round, bout, fall, event<br> <b>in a meet) (一番</b> <br> (いちばん)
+<b>一番</b> <br> 彼はいつも一番に到着します。	[sound:s-0013_彼はいつも一番に到着します。.mp3] <br> かれはいつもいちばんにとうちゃくします。 <br>He always arrives first.
+[sound:s-0013_彼はいつも一番に到着します。.mp3]	<b>一番</b> <br> 彼はいつも一番に到着します。<br> かれはいつもいちばんにとうちゃくします <br>He always arrives first.
+一部	[sound:k-0014_一部.mp3]<br>いちぶ <br> one part, one portion, one section, some; one copy (e.g. of a document)
+one part, one portion, one section, some; one copy (e.g. of a document)	<b>一部<b> <br> いちぶ <br>[sound:k-0014_一部.mp3]
+[sound:k-0014_一部.mp3]	one part, one portion, one section, some; one copy<br> <b>e.g. of a document) (一部</b> <br> (いちぶ)
+<b>一部</b> <br> この映画は一部が実話に基づいています。	[sound:s-0014_この映画は一部が実話に基づいています。.mp3] <br> このえいがはいちぶがじつわにもとづいています。 <br>This movie is based on a true story in part.
+[sound:s-0014_この映画は一部が実話に基づいています。.mp3]	<b>一部</b> <br> この映画は一部が実話に基づいています。<br> このえいがはいちぶがじつわにもとづいています <br>This movie is based on a true story in part.
+一方	[sound:k-0015_一方.mp3]<br>いっぽう <br> one (esp. of two), the other, one way, the other way, one direction, the other direction, one side, the other side, one party, the other party; on the one hand, on the other hand; whereas, although, but at the same time, meanwhile, in turn; (after noun, adjective-stem or plain verb) just keeps, being inclined to ..., tending to be ..., tending to do ..., ntinuously ..., just keeps on ...ing, only
+one (esp. of two), the other, one way, the other way, one direction, the other direction, one side, the other side, one party, the other party; on the one hand, on the other hand; whereas, although, but at the same time, meanwhile, in turn; (after noun, adjective-stem or plain verb) just keeps, being inclined to ..., tending to be ..., tending to do ..., ntinuously ..., just keeps on ...ing, only	<b>一方<b> <br> いっぽう <br>[sound:k-0015_一方.mp3]
+[sound:k-0015_一方.mp3]	one<br> <b>esp. of two), the other, one way, the other way, one direction, the other direction, one side, the other side, one party, the other party; on the one hand, on the other hand; whereas, although, but at the same time, meanwhile, in turn; (after noun, adjective-stem or plain verb) just keeps, being inclined to ..., tending to be ..., tending to do ..., ntinuously ..., just keeps on ...ing, only (一方</b> <br> (いっぽう)
+<b>一方</b> <br> 私たちは一方的な決定をしたくありません。	[sound:s-0015_私たちは一方的な決定をしたくありません。.mp3] <br> わたしたちはいっぽうてきなけっていをしたくありません。 <br>We don't want to make unilateral decisions.
+[sound:s-0015_私たちは一方的な決定をしたくありません。.mp3]	<b>一方</b> <br> 私たちは一方的な決定をしたくありません。<br> わたしたちはいっぽうてきなけっていをしたくありません <br>We don't want to make unilateral decisions.
+十一	[sound:k-0016_十一.mp3]<br>じゅういち, ジュウイチ <br> 11, eleven; Hodgson's hawk-cuckoo (Cuculus fugax)
+11, eleven; Hodgson's hawk-cuckoo (Cuculus fugax)	<b>十一<b> <br> じゅういち, ジュウイチ <br>[sound:k-0016_十一.mp3]
+[sound:k-0016_十一.mp3]	11, eleven; Hodgson's hawk-cuckoo<br> <b>Cuculus fugax) (十一</b> <br> (じゅういち, ジュウイチ)
+<b>十一</b> <br> 彼女の誕生日は十一月です。	[sound:s-0016_彼女の誕生日は十一月です。.mp3] <br> かのじょのたんじょうびはじゅういちがつです。 <br>Her birthday is in November.
+[sound:s-0016_彼女の誕生日は十一月です。.mp3]	<b>十一</b> <br> 彼女の誕生日は十一月です。<br> かのじょのたんじょうびはじゅういちがつです <br>Her birthday is in November.
+十一月	[sound:k-0017_十一月.mp3]<br>じゅういちがつ <br> November
+November	<b>十一月<b> <br> じゅういちがつ <br>[sound:k-0017_十一月.mp3]
+[sound:k-0017_十一月.mp3]	November<br> <b>十一月</b> <br> (じゅういちがつ)
+<b>十一月</b> <br> 十一月は秋の深まる季節です。	[sound:s-0017_十一月は秋の深まる季節です。.mp3] <br> じゅういちがつはあきのふかまるきせつです。 <br>November is a season when autumn deepens.
+[sound:s-0017_十一月は秋の深まる季節です。.mp3]	<b>十一月</b> <br> 十一月は秋の深まる季節です。<br> じゅういちがつはあきのふかまるきせつです <br>November is a season when autumn deepens.
+統一	[sound:k-0018_統一.mp3]<br>とういつ <br> unity, consolidation, uniformity, unification, compatible
+unity, consolidation, uniformity, unification, compatible	<b>統一<b> <br> とういつ <br>[sound:k-0018_統一.mp3]
+[sound:k-0018_統一.mp3]	unity, consolidation, uniformity, unification, compatible<br> <b>統一</b> <br> (とういつ)
+<b>統一</b> <br> 国家の統一を目指しています。	[sound:s-0018_国家の統一を目指しています。.mp3] <br> こっかのとういつをめざしています。 <br>We aim for national unity.
+[sound:s-0018_国家の統一を目指しています。.mp3]	<b>統一</b> <br> 国家の統一を目指しています。<br> こっかのとういつをめざしています <br>We aim for national unity.
+一時	[sound:k-0019_一時.mp3]<br>いちじ, いっとき <br> one hour, short time, once, a time, temporarily, at one time, twelfth part of a day
+one hour, short time, once, a time, temporarily, at one time, twelfth part of a day	<b>一時<b> <br> いちじ, いっとき <br>[sound:k-0019_一時.mp3]
+[sound:k-0019_一時.mp3]	one hour, short time, once, a time, temporarily, at one time, twelfth part of a day<br> <b>一時</b> <br> (いちじ, いっとき)
+<b>一時</b> <br> 電車が一時停止しました。	[sound:s-0019_電車が一時停止しました。.mp3] <br> でんしゃがいちじていしした。 <br>The train stopped temporarily.
+[sound:s-0019_電車が一時停止しました。.mp3]	<b>一時</b> <br> 電車が一時停止しました。<br> でんしゃがいちじていしした <br>The train stopped temporarily.
+国	[sound:k-0020_国.mp3]<br>くに <br> country, (the) state; region; province (of Japan); home (i.e. hometown, home country); land, earth
+country, (the) state; region; province (of Japan); home (i.e. hometown, home country); land, earth	<b>国<b> <br> くに <br>[sound:k-0020_国.mp3]
+[sound:k-0020_国.mp3]	country,<br> <b>the) state; region; province (of Japan); home (i.e. hometown, home country); land, earth (国</b> <br> (くに)
+<b>国</b> <br> 日本は美しい国です。	[sound:s-0020_日本は美しい国です。.mp3] <br> にほんはうつくしいくにです。 <br>Japan is a beautiful country.
+[sound:s-0020_日本は美しい国です。.mp3]	<b>国</b> <br> 日本は美しい国です。<br> にほんはうつくしいくにです <br>Japan is a beautiful country.
+外国	[sound:k-0021_外国.mp3]<br>がいこく <br> foreign country
+foreign country	<b>外国<b> <br> がいこく <br>[sound:k-0021_外国.mp3]
+[sound:k-0021_外国.mp3]	foreign country<br> <b>外国</b> <br> (がいこく)
+<b>外国</b> <br> 外国に旅行したいです。	[sound:s-0021_外国に旅行したいです。.mp3] <br> がいこくにりょこうしたいです。 <br>I want to travel abroad.
+[sound:s-0021_外国に旅行したいです。.mp3]	<b>外国</b> <br> 外国に旅行したいです。<br> がいこくにりょこうしたいです <br>I want to travel abroad.
+外国人	[sound:k-0022_外国人.mp3]<br>がいこくじん <br> foreigner
+foreigner	<b>外国人<b> <br> がいこくじん <br>[sound:k-0022_外国人.mp3]
+[sound:k-0022_外国人.mp3]	foreigner<br> <b>外国人</b> <br> (がいこくじん)
+<b>外国人</b> <br> 外国人と友達になりたいです。	[sound:s-0022_外国人と友達になりたいです。.mp3] <br> がいこくじんとともだちになりたいです。 <br>I want to become friends with foreigners.
+[sound:s-0022_外国人と友達になりたいです。.mp3]	<b>外国人</b> <br> 外国人と友達になりたいです。<br> がいこくじんとともだちになりたいです <br>I want to become friends with foreigners.
+韓国	[sound:k-0023_韓国.mp3]<br>かんこく <br> (South) Korea
+(South) Korea	<b>韓国<b> <br> かんこく <br>[sound:k-0023_韓国.mp3]
+[sound:k-0023_韓国.mp3]	(South) Korea<br> <b>韓国</b> <br> (かんこく)
+<b>韓国</b> <br> 韓国の文化に興味があります。	[sound:s-0023_韓国の文化に興味があります。.mp3] <br> かんこくのぶんかにきょうみがあります。 <br>I am interested in Korean culture.
+[sound:s-0023_韓国の文化に興味があります。.mp3]	<b>韓国</b> <br> 韓国の文化に興味があります。<br> かんこくのぶんかにきょうみがあります <br>I am interested in Korean culture.
+国家	[sound:k-0024_国家.mp3]<br>こっか <br> state, country, nation
+state, country, nation	<b>国家<b> <br> こっか <br>[sound:k-0024_国家.mp3]
+[sound:k-0024_国家.mp3]	state, country, nation<br> <b>国家</b> <br> (こっか)
+<b>国家</b> <br> 国家の安全が最優先です。	[sound:s-0024_国家の安全が最優先です。.mp3] <br> こっかのあんぜんがさいゆうせんです。 <br>National security is the top priority.
+[sound:s-0024_国家の安全が最優先です。.mp3]	<b>国家</b> <br> 国家の安全が最優先です。<br> こっかのあんぜんがさいゆうせんです <br>National security is the top priority.
+国会	[sound:k-0025_国会.mp3]<br>こっかい <br> National Diet, parliament, congress
+National Diet, parliament, congress	<b>国会<b> <br> こっかい <br>[sound:k-0025_国会.mp3]
+[sound:k-0025_国会.mp3]	National Diet, parliament, congress<br> <b>国会</b> <br> (こっかい)
+<b>国会</b> <br> 国会で法律が制定されました。	[sound:s-0025_国会で法律が制定されました。.mp3] <br> こっかいでほうりつがせいていされました。 <br>A law was enacted in the Diet.
+[sound:s-0025_国会で法律が制定されました。.mp3]	<b>国会</b> <br> 国会で法律が制定されました。<br> こっかいでほうりつがせいていされました <br>A law was enacted in the Diet.
+国際	[sound:k-0026_国際.mp3]<br>こくさい <br> international
+international	<b>国際<b> <br> こくさい <br>[sound:k-0026_国際.mp3]
+[sound:k-0026_国際.mp3]	international<br> <b>国際</b> <br> (こくさい)
+<b>国際</b> <br> 国際交流イベントに参加しました。	[sound:s-0026_国際交流イベントに参加しました。.mp3] <br> こくさいこうりゅうイベントにさんかしました。 <br>I participated in an international exchange event.
+[sound:s-0026_国際交流イベントに参加しました。.mp3]	<b>国際</b> <br> 国際交流イベントに参加しました。<br> こくさいこうりゅうイベントにさんかしました <br>I participated in an international exchange event.
+国内	[sound:k-0027_国内.mp3]<br>こくない <br> internal, domestic
+internal, domestic	<b>国内<b> <br> こくない <br>[sound:k-0027_国内.mp3]
+[sound:k-0027_国内.mp3]	internal, domestic<br> <b>国内</b> <br> (こくない)
+<b>国内</b> <br> 国内旅行を計画しています。	[sound:s-0027_国内旅行を計画しています。.mp3] <br> こくないりょこうをけいかくしています。 <br>I am planning a domestic trip.
+[sound:s-0027_国内旅行を計画しています。.mp3]	<b>国内</b> <br> 国内旅行を計画しています。<br> こくないりょこうをけいかくしています <br>I am planning a domestic trip.
+国民	[sound:k-0028_国民.mp3]<br>こくみん <br> nation, nationality, people, citizen
+nation, nationality, people, citizen	<b>国民<b> <br> こくみん <br>[sound:k-0028_国民.mp3]
+[sound:k-0028_国民.mp3]	nation, nationality, people, citizen<br> <b>国民</b> <br> (こくみん)
+<b>国民</b> <br> 国民の声を聞かなければなりません。	[sound:s-0028_国民の声を聞かなければなりません。.mp3] <br> こくみんのこえをきかなければなりません。 <br>We must listen to the voice of the people.
+[sound:s-0028_国民の声を聞かなければなりません。.mp3]	<b>国民</b> <br> 国民の声を聞かなければなりません。<br> こくみんのこえをきかなければなりません <br>We must listen to the voice of the people.
+国連	[sound:k-0029_国連.mp3]<br>こくれん <br> UN, United Nations
+UN, United Nations	<b>国連<b> <br> こくれん <br>[sound:k-0029_国連.mp3]
+[sound:k-0029_国連.mp3]	UN, United Nations<br> <b>国連</b> <br> (こくれん)
+<b>国連</b> <br> 国連の総会が開催されました。	[sound:s-0029_国連の総会が開催されました。.mp3] <br> こくれんのそうかいがかいさいされました。 <br>The United Nations General Assembly was held.
+[sound:s-0029_国連の総会が開催されました。.mp3]	<b>国連</b> <br> 国連の総会が開催されました。<br> こくれんのそうかいがかいさいされました <br>The United Nations General Assembly was held.
+委員会	[sound:k-0030_委員会.mp3]<br>いいんかい <br> committee, commission, board, panel, committee meeting
+committee, commission, board, panel, committee meeting	<b>委員会<b> <br> いいんかい <br>[sound:k-0030_委員会.mp3]
+[sound:k-0030_委員会.mp3]	committee, commission, board, panel, committee meeting<br> <b>委員会</b> <br> (いいんかい)
+<b>委員会</b> <br> 委員会で議論が行われました。	[sound:s-0030_委員会で議論が行われました。.mp3] <br> いいんかいでぎろんがおこなわれました。 <br>Discussion took place in the committee.
+[sound:s-0030_委員会で議論が行われました。.mp3]	<b>委員会</b> <br> 委員会で議論が行われました。<br> いいんかいでぎろんがおこなわれました <br>Discussion took place in the committee.
+会員	[sound:k-0031_会員.mp3]<br>かいいん <br> member, the membership
+member, the membership	<b>会員<b> <br> かいいん <br>[sound:k-0031_会員.mp3]
+[sound:k-0031_会員.mp3]	member, the membership<br> <b>会員</b> <br> (かいいん)
+<b>会員</b> <br> 彼はクラブの会員です。	[sound:s-0031_彼はクラブの会員です。.mp3] <br> かれはクラブのかいいんです。 <br>He is a member of the club.
+[sound:s-0031_彼はクラブの会員です。.mp3]	<b>会員</b> <br> 彼はクラブの会員です。<br> かれはクラブのかいいんです <br>He is a member of the club.
+会議	[sound:k-0032_会議.mp3]<br>かいぎ <br> meeting, conference, session, assembly, council, convention, congress
+meeting, conference, session, assembly, council, convention, congress	<b>会議<b> <br> かいぎ <br>[sound:k-0032_会議.mp3]
+[sound:k-0032_会議.mp3]	meeting, conference, session, assembly, council, convention, congress<br> <b>会議</b> <br> (かいぎ)
+<b>会議</b> <br> 今日の会議は午後からです。	[sound:s-0032_今日の会議は午後からです。.mp3] <br> きょうのかいぎはごごからです。 <br>Today's meeting is in the afternoon.
+[sound:s-0032_今日の会議は午後からです。.mp3]	<b>会議</b> <br> 今日の会議は午後からです。<br> きょうのかいぎはごごからです <br>Today's meeting is in the afternoon.
+会見	[sound:k-0033_会見.mp3]<br>かいけん <br> interview, audience
+interview, audience	<b>会見<b> <br> かいけん <br>[sound:k-0033_会見.mp3]
+[sound:k-0033_会見.mp3]	interview, audience<br> <b>会見</b> <br> (かいけん)
+<b>会見</b> <br> 首相が会見を行いました。	[sound:s-0033_首相が会見を行いました。.mp3] <br> しゅしょうがかいけんをおこないました。 <br>The Prime Minister held a press conference.
+[sound:s-0033_首相が会見を行いました。.mp3]	<b>会見</b> <br> 首相が会見を行いました。<br> しゅしょうがかいけんをおこないました <br>The Prime Minister held a press conference.
+会社	[sound:k-0034_会社.mp3]<br>かいしゃ <br> company, corporation; workplace
+company, corporation; workplace	<b>会社<b> <br> かいしゃ <br>[sound:k-0034_会社.mp3]
+[sound:k-0034_会社.mp3]	company, corporation; workplace<br> <b>会社</b> <br> (かいしゃ)
+<b>会社</b> <br> あの会社は有名です。	[sound:s-0034_あの会社は有名です。.mp3] <br> あのかいしゃはゆうめいです。 <br>That company is famous.
+[sound:s-0034_あの会社は有名です。.mp3]	<b>会社</b> <br> あの会社は有名です。<br> あのかいしゃはゆうめいです <br>That company is famous.
+会談	[sound:k-0035_会談.mp3]<br>かいだん <br> conversation, conference, discussion, interview
+conversation, conference, discussion, interview	<b>会談<b> <br> かいだん <br>[sound:k-0035_会談.mp3]
+[sound:k-0035_会談.mp3]	conversation, conference, discussion, interview<br> <b>会談</b> <br> (かいだん)
+<b>会談</b> <br> 外交官たちは会談を行った。	[sound:s-0035_外交官たちは会談を行った。.mp3] <br> がいこうかんたちはかいだんをおこなった。 <br>Diplomats held talks.
+[sound:s-0035_外交官たちは会談を行った。.mp3]	<b>会談</b> <br> 外交官たちは会談を行った。<br> がいこうかんたちはかいだんをおこなった <br>Diplomats held talks.
+会長	[sound:k-0036_会長.mp3]<br>かいちょう <br> president (of a society), chairman
+president (of a society), chairman	<b>会長<b> <br> かいちょう <br>[sound:k-0036_会長.mp3]
+[sound:k-0036_会長.mp3]	president<br> <b>of a society), chairman (会長</b> <br> (かいちょう)
+<b>会長</b> <br> 彼はクラブの会長です。	[sound:s-0036_彼はクラブの会長です。.mp3] <br> かれはクラブのかいちょうです。 <br>He is the president of the club.
+[sound:s-0036_彼はクラブの会長です。.mp3]	<b>会長</b> <br> 彼はクラブの会長です。<br> かれはクラブのかいちょうです <br>He is the president of the club.
+議会	[sound:k-0037_議会.mp3]<br>ぎかい <br> Diet, congress, parliament
+Diet, congress, parliament	<b>議会<b> <br> ぎかい <br>[sound:k-0037_議会.mp3]
+[sound:k-0037_議会.mp3]	Diet, congress, parliament<br> <b>議会</b> <br> (ぎかい)
+<b>議会</b> <br> 議会で法案が審議されます。	[sound:s-0037_議会で法案が審議されます。.mp3] <br> ぎかいでほうあんがしんぎされます。 <br>The bill will be deliberated in the parliament.
+[sound:s-0037_議会で法案が審議されます。.mp3]	<b>議会</b> <br> 議会で法案が審議されます。<br> ぎかいでほうあんがしんぎされます <br>The bill will be deliberated in the parliament.
+協会	[sound:k-0038_協会.mp3]<br>きょうかい <br> association, society, organization, organisation
+association, society, organization, organisation	<b>協会<b> <br> きょうかい <br>[sound:k-0038_協会.mp3]
+[sound:k-0038_協会.mp3]	association, society, organization, organisation<br> <b>協会</b> <br> (きょうかい)
+<b>協会</b> <br> 環境保護協会に参加しました。	[sound:s-0038_環境保護協会に参加しました。.mp3] <br> かんきょうほごきょうかいにさんかしました。 <br>I participated in the environmental protection association.
+[sound:s-0038_環境保護協会に参加しました。.mp3]	<b>協会</b> <br> 環境保護協会に参加しました。<br> かんきょうほごきょうかいにさんかしました <br>I participated in the environmental protection association.
+国会	[sound:k-0039_国会.mp3]<br>こっかい <br> National Diet, parliament, congress
+National Diet, parliament, congress	<b>国会<b> <br> こっかい <br>[sound:k-0039_国会.mp3]
+[sound:k-0039_国会.mp3]	National Diet, parliament, congress<br> <b>国会</b> <br> (こっかい)
+<b>国会</b> <br> 国会で法案が可決されました。	[sound:s-0039_国会で法案が可決されました。.mp3] <br> こっかいでほうあんがかけつされました。 <br>The bill was passed in the National Diet.
+[sound:s-0039_国会で法案が可決されました。.mp3]	<b>国会</b> <br> 国会で法案が可決されました。<br> こっかいでほうあんがかけつされました <br>The bill was passed in the National Diet.
+外国人	[sound:k-0040_外国人.mp3]<br>がいこくじん <br> foreigner
+foreigner	<b>外国人<b> <br> がいこくじん <br>[sound:k-0040_外国人.mp3]
+[sound:k-0040_外国人.mp3]	foreigner<br> <b>外国人</b> <br> (がいこくじん)
+<b>外国人</b> <br> 外国人と友達になりたいです。	[sound:s-0040_外国人と友達になりたいです。.mp3] <br> がいこくじんとともだちになりたいです。 <br>I want to become friends with foreigners.
+[sound:s-0040_外国人と友達になりたいです。.mp3]	<b>外国人</b> <br> 外国人と友達になりたいです。<br> がいこくじんとともだちになりたいです <br>I want to become friends with foreigners.
+個人	[sound:k-0041_個人.mp3]<br>こじん <br> individual, private person, personal, private
+individual, private person, personal, private	<b>個人<b> <br> こじん <br>[sound:k-0041_個人.mp3]
+[sound:k-0041_個人.mp3]	individual, private person, personal, private<br> <b>個人</b> <br> (こじん)
+<b>個人</b> <br> 私の意見は個人的なものです。	[sound:s-0041_私の意見は個人的なものです。.mp3] <br> わたしのいけんはこじんてきなものです。 <br>My opinion is personal.
+[sound:s-0041_私の意見は個人的なものです。.mp3]	<b>個人</b> <br> 私の意見は個人的なものです。<br> わたしのいけんはこじんてきなものです <br>My opinion is personal.
+三人	[sound:k-0042_三人.mp3]<br>さんにん, みたり <br> three people
+three people	<b>三人<b> <br> さんにん, みたり <br>[sound:k-0042_三人.mp3]
+[sound:k-0042_三人.mp3]	three people<br> <b>三人</b> <br> (さんにん, みたり)
+<b>三人</b> <br> 三人でレストランに行きました。	[sound:s-0042_三人でレストランに行きました。.mp3] <br> さんにんでレストランにいきました。 <br>We went to a restaurant with three people.
+[sound:s-0042_三人でレストランに行きました。.mp3]	<b>三人</b> <br> 三人でレストランに行きました。<br> さんにんでレストランにいきました <br>We went to a restaurant with three people.
+人間	[sound:k-0043_人間.mp3]<br>にんげん <br> human being, man, person; character (of a person)
+human being, man, person; character (of a person)	<b>人間<b> <br> にんげん <br>[sound:k-0043_人間.mp3]
+[sound:k-0043_人間.mp3]	human being, man, person; character<br> <b>of a person) (人間</b> <br> (にんげん)
+<b>人間</b> <br> 人間は常に成長します。	[sound:s-0043_人間は常に成長します。.mp3] <br> にんげんはつねにせいちょうします。 <br>Humans are always growing.
+[sound:s-0043_人間は常に成長します。.mp3]	<b>人間</b> <br> 人間は常に成長します。<br> にんげんはつねにせいちょうします <br>Humans are always growing.
+人気	[sound:k-0044_人気.mp3]<br>にんき <br> popular, popular feeling, business conditions
+popular, popular feeling, business conditions	<b>人気<b> <br> にんき <br>[sound:k-0044_人気.mp3]
+[sound:k-0044_人気.mp3]	popular, popular feeling, business conditions<br> <b>人気</b> <br> (にんき)
+<b>人気</b> <br> この店はとても人気があります。	[sound:s-0044_この店はとても人気があります。.mp3] <br> このみせはとてもにんきがあります。 <br>This shop is very popular.
+[sound:s-0044_この店はとても人気があります。.mp3]	<b>人気</b> <br> この店はとても人気があります。<br> このみせはとてもにんきがあります <br>This shop is very popular.
+人口	[sound:k-0045_人口.mp3]<br>じんこう <br> population; common talk
+population; common talk	<b>人口<b> <br> じんこう <br>[sound:k-0045_人口.mp3]
+[sound:k-0045_人口.mp3]	population; common talk<br> <b>人口</b> <br> (じんこう)
+<b>人口</b> <br> この国の人口は1000万人です。	[sound:s-0045_この国の人口は1000万人です。.mp3] <br> このくにのじんこうは1000まんにんです。 <br>The population of this country is 10 million people.
+[sound:s-0045_この国の人口は1000万人です。.mp3]	<b>人口</b> <br> この国の人口は1000万人です。<br> このくにのじんこうは1000まんにんです <br>The population of this country is 10 million people.
+日本人	[sound:k-0046_日本人.mp3]<br>にほんじん, にっぽんじん <br> Japanese person, Japanese people
+Japanese person, Japanese people	<b>日本人<b> <br> にほんじん, にっぽんじん <br>[sound:k-0046_日本人.mp3]
+[sound:k-0046_日本人.mp3]	Japanese person, Japanese people<br> <b>日本人</b> <br> (にほんじん, にっぽんじん)
+<b>日本人</b> <br> 日本人は礼儀正しいです。	[sound:s-0046_日本人は礼儀正しいです。.mp3] <br> にほんじんはれいぎただしいです。 <br>Japanese people are polite.
+[sound:s-0046_日本人は礼儀正しいです。.mp3]	<b>日本人</b> <br> 日本人は礼儀正しいです。<br> にほんじんはれいぎただしいです <br>Japanese people are polite.
+人々	[sound:k-0047_人々.mp3]<br>ひとびと, にんにん <br> each person, people, men, human, everybody
+each person, people, men, human, everybody	<b>人々<b> <br> ひとびと, にんにん <br>[sound:k-0047_人々.mp3]
+[sound:k-0047_人々.mp3]	each person, people, men, human, everybody<br> <b>人々</b> <br> (ひとびと, にんにん)
+<b>人々</b> <br> 街には人々が集まっています。	[sound:s-0047_街には人々が集まっています。.mp3] <br> まちにはひとびとがあつまっています。 <br>People are gathering in the town.
+[sound:s-0047_街には人々が集まっています。.mp3]	<b>人々</b> <br> 街には人々が集まっています。<br> まちにはひとびとがあつまっています <br>People are gathering in the town.
+二人	[sound:k-0048_二人.mp3]<br>ふたり, ににん <br> two persons, two people, pair, couple
+two persons, two people, pair, couple	<b>二人<b> <br> ふたり, ににん <br>[sound:k-0048_二人.mp3]
+[sound:k-0048_二人.mp3]	two persons, two people, pair, couple<br> <b>二人</b> <br> (ふたり, ににん)
+<b>二人</b> <br> 二人で映画を見に行きました。	[sound:s-0048_二人で映画を見に行きました。.mp3] <br> ふたりでえいがをみにいきました。 <br>We went to see a movie with two people.
+[sound:s-0048_二人で映画を見に行きました。.mp3]	<b>二人</b> <br> 二人で映画を見に行きました。<br> ふたりでえいがをみにいきました <br>We went to see a movie with two people.
+証人	[sound:k-0049_証人.mp3]<br>しょうにん <br> witness
+witness	<b>証人<b> <br> しょうにん <br>[sound:k-0049_証人.mp3]
+[sound:k-0049_証人.mp3]	witness<br> <b>証人</b> <br> (しょうにん)
+<b>証人</b> <br> 裁判に証人として呼ばれました。	[sound:s-0049_裁判に証人として呼ばれました。.mp3] <br> さいばんにしょうにんとしてよばれました。 <br>I was called as a witness in court.
+[sound:s-0049_裁判に証人として呼ばれました。.mp3]	<b>証人</b> <br> 裁判に証人として呼ばれました。<br> さいばんにしょうにんとしてよばれました <br>I was called as a witness in court.
+年	[sound:k-0050_年.mp3]<br>とし <br> year; age
+year; age	<b>年<b> <br> とし <br>[sound:k-0050_年.mp3]
+[sound:k-0050_年.mp3]	year; age<br> <b>年</b> <br> (とし)
+<b>年</b> <br> 今年は良い年になりますように。	[sound:s-0050_今年は良い年になりますように。.mp3] <br> ことしはよいとしになりますように。 <br>I hope this year will be a good one.
+[sound:s-0050_今年は良い年になりますように。.mp3]	<b>年</b> <br> 今年は良い年になりますように。<br> ことしはよいとしになりますように <br>I hope this year will be a good one.
+昨年	[sound:k-0051_昨年.mp3]<br>さくねん <br> last year
+last year	<b>昨年<b> <br> さくねん <br>[sound:k-0051_昨年.mp3]
+[sound:k-0051_昨年.mp3]	last year<br> <b>昨年</b> <br> (さくねん)
+<b>昨年</b> <br> 昨年は忙しい年でした。	[sound:s-0051_昨年は忙しい年でした。.mp3] <br> さくねんはいそがしいとしでした。 <br>Last year was a busy year.
+[sound:s-0051_昨年は忙しい年でした。.mp3]	<b>昨年</b> <br> 昨年は忙しい年でした。<br> さくねんはいそがしいとしでした <br>Last year was a busy year.
+前年	[sound:k-0052_前年.mp3]<br>ぜんねん <br> the preceding year, the previous year, last year
+the preceding year, the previous year, last year	<b>前年<b> <br> ぜんねん <br>[sound:k-0052_前年.mp3]
+[sound:k-0052_前年.mp3]	the preceding year, the previous year, last year<br> <b>前年</b> <br> (ぜんねん)
+<b>前年</b> <br> 前年の売上高を超えた。	[sound:s-0052_前年の売上高を超えた。.mp3] <br> ぜんねんのうりあげだいをこえた。 <br>We exceeded the sales of the previous year.
+[sound:s-0052_前年の売上高を超えた。.mp3]	<b>前年</b> <br> 前年の売上高を超えた。<br> ぜんねんのうりあげだいをこえた <br>We exceeded the sales of the previous year.
+年間	[sound:k-0053_年間.mp3]<br>ねんかん <br> year (period of)
+year (period of)	<b>年間<b> <br> ねんかん <br>[sound:k-0053_年間.mp3]
+[sound:k-0053_年間.mp3]	year<br> <b>period of) (年間</b> <br> (ねんかん)
+<b>年間</b> <br> 年間を通じて支援を行う。	[sound:s-0053_年間を通じて支援を行う。.mp3] <br> ねんかんをつうじてしえんをおこなう。 <br>Provide support throughout the year.
+[sound:s-0053_年間を通じて支援を行う。.mp3]	<b>年間</b> <br> 年間を通じて支援を行う。<br> ねんかんをつうじてしえんをおこなう <br>Provide support throughout the year.
+来年	[sound:k-0054_来年.mp3]<br>らいねん <br> next year
+next year	<b>来年<b> <br> らいねん <br>[sound:k-0054_来年.mp3]
+[sound:k-0054_来年.mp3]	next year<br> <b>来年</b> <br> (らいねん)
+<b>来年</b> <br> 来年の計画を立てる。	[sound:s-0054_来年の計画を立てる。.mp3] <br> らいねんのけいかくをたてる。 <br>Make plans for next year.
+[sound:s-0054_来年の計画を立てる。.mp3]	<b>来年</b> <br> 来年の計画を立てる。<br> らいねんのけいかくをたてる <br>Make plans for next year.
+今年	[sound:k-0055_今年.mp3]<br>ことし, こんねん <br> this year
+this year	<b>今年<b> <br> ことし, こんねん <br>[sound:k-0055_今年.mp3]
+[sound:k-0055_今年.mp3]	this year<br> <b>今年</b> <br> (ことし, こんねん)
+<b>今年</b> <br> 今年は特に忙しいです。	[sound:s-0055_今年は特に忙しいです。.mp3] <br> ことしはとくにいそがしいです。 <br>This year is particularly busy.
+[sound:s-0055_今年は特に忙しいです。.mp3]	<b>今年</b> <br> 今年は特に忙しいです。<br> ことしはとくにいそがしいです <br>This year is particularly busy.
+周年	[sound:k-0056_周年.mp3]<br>しゅうねん <br> whole year, anniversary
+whole year, anniversary	<b>周年<b> <br> しゅうねん <br>[sound:k-0056_周年.mp3]
+[sound:k-0056_周年.mp3]	whole year, anniversary<br> <b>周年</b> <br> (しゅうねん)
+<b>周年</b> <br> 結婚周年を祝う。	[sound:s-0056_結婚周年を祝う。.mp3] <br> けっこんしゅうねんをいわう。 <br>Celebrate wedding anniversary.
+[sound:s-0056_結婚周年を祝う。.mp3]	<b>周年</b> <br> 結婚周年を祝う。<br> けっこんしゅうねんをいわう <br>Celebrate wedding anniversary.
+少年	[sound:k-0057_少年.mp3]<br>しょうねん <br> boys, juveniles
+boys, juveniles	<b>少年<b> <br> しょうねん <br>[sound:k-0057_少年.mp3]
+[sound:k-0057_少年.mp3]	boys, juveniles<br> <b>少年</b> <br> (しょうねん)
+<b>少年</b> <br> 少年たちは公園で遊んでいる。	[sound:s-0057_少年たちは公園で遊んでいる。.mp3] <br> しょうねんたちはこうえんであそんでいる。 <br>The boys are playing in the park.
+[sound:s-0057_少年たちは公園で遊んでいる。.mp3]	<b>少年</b> <br> 少年たちは公園で遊んでいる。<br> しょうねんたちはこうえんであそんでいる <br>The boys are playing in the park.
+年金	[sound:k-0058_年金.mp3]<br>ねんきん <br> annuity, pension
+annuity, pension	<b>年金<b> <br> ねんきん <br>[sound:k-0058_年金.mp3]
+[sound:k-0058_年金.mp3]	annuity, pension<br> <b>年金</b> <br> (ねんきん)
+<b>年金</b> <br> 年金支給が増えました。	[sound:s-0058_年金支給が増えました。.mp3] <br> ねんきんしきゅうがふえました。 <br>Pension payments have increased.
+[sound:s-0058_年金支給が増えました。.mp3]	<b>年金</b> <br> 年金支給が増えました。<br> ねんきんしきゅうがふえました <br>Pension payments have increased.
+年生	[sound:k-0059_年生.mp3]<br>ねんせい <br> pupil in ... year, student in ... year
+pupil in ... year, student in ... year	<b>年生<b> <br> ねんせい <br>[sound:k-0059_年生.mp3]
+[sound:k-0059_年生.mp3]	pupil in ... year, student in ... year<br> <b>年生</b> <br> (ねんせい)
+<b>年生</b> <br> 今年生まれた子は元気です。	[sound:s-0059_今年生まれた子は元気です。.mp3] <br> ことしうまれたこはげんきです。 <br>The child born this year is healthy.
+[sound:s-0059_今年生まれた子は元気です。.mp3]	<b>年生</b> <br> 今年生まれた子は元気です。<br> ことしうまれたこはげんきです <br>The child born this year is healthy.
+大きな	[sound:k-0060_大きな.mp3]<br>おおきな <br> big, large, great
+big, large, great	<b>大きな<b> <br> おおきな <br>[sound:k-0060_大きな.mp3]
+[sound:k-0060_大きな.mp3]	big, large, great<br> <b>大きな</b> <br> (おおきな)
+<b>大きな</b> <br> 大きな変化が起こりました。	[sound:s-0060_大きな変化が起こりました。.mp3] <br> おおきなへんかがおこりました。 <br>A big change has occurred.
+[sound:s-0060_大きな変化が起こりました。.mp3]	<b>大きな</b> <br> 大きな変化が起こりました。<br> おおきなへんかがおこりました <br>A big change has occurred.
+拡大	[sound:k-0061_拡大.mp3]<br>かくだい <br> magnification, enlargement, expansion
+magnification, enlargement, expansion	<b>拡大<b> <br> かくだい <br>[sound:k-0061_拡大.mp3]
+[sound:k-0061_拡大.mp3]	magnification, enlargement, expansion<br> <b>拡大</b> <br> (かくだい)
+<b>拡大</b> <br> 問題は拡大しています。	[sound:s-0061_問題は拡大しています。.mp3] <br> もんだいはかくだいしています。 <br>The problem is escalating.
+[sound:s-0061_問題は拡大しています。.mp3]	<b>拡大</b> <br> 問題は拡大しています。<br> もんだいはかくだいしています <br>The problem is escalating.
+最大	[sound:k-0062_最大.mp3]<br>さいだい <br> greatest, largest, maximum
+greatest, largest, maximum	<b>最大<b> <br> さいだい <br>[sound:k-0062_最大.mp3]
+[sound:k-0062_最大.mp3]	greatest, largest, maximum<br> <b>最大</b> <br> (さいだい)
+<b>最大</b> <br> 最大の努力をしてください。	[sound:s-0062_最大の努力をしてください。.mp3] <br> さいだいのどりょくをしてください。 <br>Please make the greatest effort.
+[sound:s-0062_最大の努力をしてください。.mp3]	<b>最大</b> <br> 最大の努力をしてください。<br> さいだいのどりょくをしてください <br>Please make the greatest effort.
+大いに	[sound:k-0063_大いに.mp3]<br>おおいに <br> very, much, greatly, a lot of
+very, much, greatly, a lot of	<b>大いに<b> <br> おおいに <br>[sound:k-0063_大いに.mp3]
+[sound:k-0063_大いに.mp3]	very, much, greatly, a lot of<br> <b>大いに</b> <br> (おおいに)
+<b>大いに</b> <br> 彼らは大いに喜んでいます。	[sound:s-0063_彼らは大いに喜んでいます。.mp3] <br> かれらはおおいによろこんでいます。 <br>They are greatly pleased.
+[sound:s-0063_彼らは大いに喜んでいます。.mp3]	<b>大いに</b> <br> 彼らは大いに喜んでいます。<br> かれらはおおいによろこんでいます <br>They are greatly pleased.
+大会	[sound:k-0064_大会.mp3]<br>たいかい <br> convention, tournament, mass meeting, rally
+convention, tournament, mass meeting, rally	<b>大会<b> <br> たいかい <br>[sound:k-0064_大会.mp3]
+[sound:k-0064_大会.mp3]	convention, tournament, mass meeting, rally<br> <b>大会</b> <br> (たいかい)
+<b>大会</b> <br> 町の祭りは大会でした。	[sound:s-0064_町の祭りは大会でした。.mp3] <br> まちのまつりはたいかいでした。 <br>The town festival was a big event.
+[sound:s-0064_町の祭りは大会でした。.mp3]	<b>大会</b> <br> 町の祭りは大会でした。<br> まちのまつりはたいかいでした <br>The town festival was a big event.
+大学	[sound:k-0065_大学.mp3]<br>だいがく <br> post-secondary education institution, incl. university, college, etc.; the Great Learning - one of the Four Books
+post-secondary education institution, incl. university, college, etc.; the Great Learning - one of the Four Books	<b>大学<b> <br> だいがく <br>[sound:k-0065_大学.mp3]
+[sound:k-0065_大学.mp3]	post-secondary education institution, incl. university, college, etc.; the Great Learning - one of the Four Books<br> <b>大学</b> <br> (だいがく)
+<b>大学</b> <br> 彼は有名な大学に通っています。	[sound:s-0065_彼は有名な大学に通っています。.mp3] <br> かれはゆうめいなだいがくにかよっています。 <br>He attends a famous university.
+[sound:s-0065_彼は有名な大学に通っています。.mp3]	<b>大学</b> <br> 彼は有名な大学に通っています。<br> かれはゆうめいなだいがくにかよっています <br>He attends a famous university.
+大手	[sound:k-0066_大手.mp3]<br>おおて, おおで <br> front castle gate; both arms open, outstretched arms; major companies
+front castle gate; both arms open, outstretched arms; major companies	<b>大手<b> <br> おおて, おおで <br>[sound:k-0066_大手.mp3]
+[sound:k-0066_大手.mp3]	front castle gate; both arms open, outstretched arms; major companies<br> <b>大手</b> <br> (おおて, おおで)
+<b>大手</b> <br> あの企業は大手です。	[sound:s-0066_あの企業は大手です。.mp3] <br> あのきぎょうはおおてです。 <br>That company is a major player.
+[sound:s-0066_あの企業は大手です。.mp3]	<b>大手</b> <br> あの企業は大手です。<br> あのきぎょうはおおてです <br>That company is a major player.
+大蔵省	[sound:k-0067_大蔵省.mp3]<br>おおくらしょう <br> (former) Ministry of Finance (succeeded by zaimushou in 2000)
+(former) Ministry of Finance (succeeded by zaimushou in 2000)	<b>大蔵省<b> <br> おおくらしょう <br>[sound:k-0067_大蔵省.mp3]
+[sound:k-0067_大蔵省.mp3]	(former) Ministry of Finance<br> <b>succeeded by zaimushou in 2000) (大蔵省</b> <br> (おおくらしょう)
+<b>大蔵省</b> <br> 大蔵省が経済政策を決定した。	[sound:s-0067_大蔵省が経済政策を決定した。.mp3] <br> おおくらしょうがけいざいせいさくをけっていした。 <br>The Ministry of Finance decided on economic policy.
+[sound:s-0067_大蔵省が経済政策を決定した。.mp3]	<b>大蔵省</b> <br> 大蔵省が経済政策を決定した。<br> おおくらしょうがけいざいせいさくをけっていした <br>The Ministry of Finance decided on economic policy.
+大統領	[sound:k-0068_大統領.mp3]<br>だいとうりょう <br> president, chief executive
+president, chief executive	<b>大統領<b> <br> だいとうりょう <br>[sound:k-0068_大統領.mp3]
+[sound:k-0068_大統領.mp3]	president, chief executive<br> <b>大統領</b> <br> (だいとうりょう)
+<b>大統領</b> <br> 彼は新しい大統領です。	[sound:s-0068_彼は新しい大統領です。.mp3] <br> かれはあたらしいだいとうりょうです。 <br>He is the new president.
+[sound:s-0068_彼は新しい大統領です。.mp3]	<b>大統領</b> <br> 彼は新しい大統領です。<br> かれはあたらしいだいとうりょうです <br>He is the new president.
+大幅	[sound:k-0069_大幅.mp3]<br>おおはば <br> full width, large scale, drastic
+full width, large scale, drastic	<b>大幅<b> <br> おおはば <br>[sound:k-0069_大幅.mp3]
+[sound:k-0069_大幅.mp3]	full width, large scale, drastic<br> <b>大幅</b> <br> (おおはば)
+<b>大幅</b> <br> プランは大幅に変更されました。	[sound:s-0069_プランは大幅に変更されました。.mp3] <br> プランはおおはばにへんこうされました。 <br>The plan was changed significantly.
+[sound:s-0069_プランは大幅に変更されました。.mp3]	<b>大幅</b> <br> プランは大幅に変更されました。<br> プランはおおはばにへんこうされました <br>The plan was changed significantly.
+十	[sound:k-0070_十.mp3]<br>じゅう, と, とお <br> 10, ten
+10, ten	<b>十<b> <br> じゅう, と, とお <br>[sound:k-0070_十.mp3]
+[sound:k-0070_十.mp3]	10, ten<br> <b>十</b> <br> (じゅう, と, とお)
+<b>十</b> <br> 十本の鉛筆を買いました。	[sound:s-0070_十本の鉛筆を買いました。.mp3] <br> じゅっぽんのえんぴつをかいました。 <br>I bought ten pencils.
+[sound:s-0070_十本の鉛筆を買いました。.mp3]	<b>十</b> <br> 十本の鉛筆を買いました。<br> じゅっぽんのえんぴつをかいました <br>I bought ten pencils.
+十一	[sound:k-0071_十一.mp3]<br>じゅういち, ジュウイチ <br> 11, eleven; Hodgson's hawk-cuckoo (Cuculus fugax)
+11, eleven; Hodgson's hawk-cuckoo (Cuculus fugax)	<b>十一<b> <br> じゅういち, ジュウイチ <br>[sound:k-0071_十一.mp3]
+[sound:k-0071_十一.mp3]	11, eleven; Hodgson's hawk-cuckoo<br> <b>Cuculus fugax) (十一</b> <br> (じゅういち, ジュウイチ)
+<b>十一</b> <br> 十一時に家に帰ります。	[sound:s-0071_十一時に家に帰ります。.mp3] <br> じゅういちじにいえにかえります。 <br>I will go home at eleven o'clock.
+[sound:s-0071_十一時に家に帰ります。.mp3]	<b>十一</b> <br> 十一時に家に帰ります。<br> じゅういちじにいえにかえります <br>I will go home at eleven o'clock.
+十一月	[sound:k-0072_十一月.mp3]<br>じゅういちがつ <br> November
+November	<b>十一月<b> <br> じゅういちがつ <br>[sound:k-0072_十一月.mp3]
+[sound:k-0072_十一月.mp3]	November<br> <b>十一月</b> <br> (じゅういちがつ)
+<b>十一月</b> <br> 十一月は寒くなります。	[sound:s-0072_十一月は寒くなります。.mp3] <br> じゅういちがつはさむくなります。 <br>November becomes cold.
+[sound:s-0072_十一月は寒くなります。.mp3]	<b>十一月</b> <br> 十一月は寒くなります。<br> じゅういちがつはさむくなります <br>November becomes cold.
+十九	[sound:k-0073_十九.mp3]<br>じゅうきゅう <br> 19, nineteen
+19, nineteen	<b>十九<b> <br> じゅうきゅう <br>[sound:k-0073_十九.mp3]
+[sound:k-0073_十九.mp3]	19, nineteen<br> <b>十九</b> <br> (じゅうきゅう)
+<b>十九</b> <br> 彼の誕生日は十九日です。	[sound:s-0073_彼の誕生日は十九日です。.mp3] <br> かれのたんじょうびはじゅうくにちです。 <br>His birthday is on the nineteenth.
+[sound:s-0073_彼の誕生日は十九日です。.mp3]	<b>十九</b> <br> 彼の誕生日は十九日です。<br> かれのたんじょうびはじゅうくにちです <br>His birthday is on the nineteenth.
+十月	[sound:k-0074_十月.mp3]<br>じゅうがつ <br> October
+October	<b>十月<b> <br> じゅうがつ <br>[sound:k-0074_十月.mp3]
+[sound:k-0074_十月.mp3]	October<br> <b>十月</b> <br> (じゅうがつ)
+<b>十月</b> <br> 十月にはハロウィンがあります。	[sound:s-0074_十月にはハロウィンがあります。.mp3] <br> じゅうがつにはハロウィンがあります。 <br>There is Halloween in October.
+[sound:s-0074_十月にはハロウィンがあります。.mp3]	<b>十月</b> <br> 十月にはハロウィンがあります。<br> じゅうがつにはハロウィンがあります <br>There is Halloween in October.
+十五	[sound:k-0075_十五.mp3]<br>じゅうご <br> 15, fifteen
+15, fifteen	<b>十五<b> <br> じゅうご <br>[sound:k-0075_十五.mp3]
+[sound:k-0075_十五.mp3]	15, fifteen<br> <b>十五</b> <br> (じゅうご)
+<b>十五</b> <br> 十五歳の誕生日を祝いました。	[sound:s-0075_十五歳の誕生日を祝いました。.mp3] <br> じゅうごさいのたんじょうびをいわいました。 <br>We celebrated the fifteenth birthday.
+[sound:s-0075_十五歳の誕生日を祝いました。.mp3]	<b>十五</b> <br> 十五歳の誕生日を祝いました。<br> じゅうごさいのたんじょうびをいわいました <br>We celebrated the fifteenth birthday.
+十三	[sound:k-0076_十三.mp3]<br>じゅうさん <br> 13, thirteen
+13, thirteen	<b>十三<b> <br> じゅうさん <br>[sound:k-0076_十三.mp3]
+[sound:k-0076_十三.mp3]	13, thirteen<br> <b>十三</b> <br> (じゅうさん)
+<b>十三</b> <br> 十三日に	[sound:s-0076_十三日に.mp3]	
+[sound:s-0076_十三日に.mp3]	(<b>十三</b>) 十三日に	 <br>
+十二	[sound:k-0077_十二.mp3]<br>じゅうに <br> 12, twelve
+12, twelve	<b>十二<b> <br> じゅうに <br>[sound:k-0077_十二.mp3]
+[sound:k-0077_十二.mp3]	12, twelve<br> <b>十二</b> <br> (じゅうに)
+出発します。	じゅうさんにちにしゅっぱつします。	s-0077_じゅうさんにちにしゅっぱつします。.mp3
+[sound:s-0077_じゅうさんにちにしゅっぱつします。.mp3]	出発します。じゅうさんにちにしゅっぱつします。We will depart on the thirteenth.	
+十二月	[sound:k-0078_十二月.mp3]<br>じゅうにがつ <br> December
+December	<b>十二月<b> <br> じゅうにがつ <br>[sound:k-0078_十二月.mp3]
+[sound:k-0078_十二月.mp3]	December<br> <b>十二月</b> <br> (じゅうにがつ)
+<b>十二</b> <br> 十二月にクリスマスがあります。	[sound:s-0078_十二月にクリスマスがあります。.mp3] <br> じゅうにがつにクリスマスがあります。 <br>There is Christmas in December.
+[sound:s-0078_十二月にクリスマスがあります。.mp3]	<b>十二</b> <br> 十二月にクリスマスがあります。<br> じゅうにがつにクリスマスがあります <br>There is Christmas in December.
+十八	[sound:k-0079_十八.mp3]<br>じゅうはち <br> 18, eighteen
+18, eighteen	<b>十八<b> <br> じゅうはち <br>[sound:k-0079_十八.mp3]
+[sound:k-0079_十八.mp3]	18, eighteen<br> <b>十八</b> <br> (じゅうはち)
+<b>十二月</b> <br> 十二月は忙しい月です。	[sound:s-0079_十二月は忙しい月です。.mp3] <br> じゅうにがつはいそがしいつきです。 <br>December is a busy month.
+[sound:s-0079_十二月は忙しい月です。.mp3]	<b>十二月</b> <br> 十二月は忙しい月です。<br> じゅうにがつはいそがしいつきです <br>December is a busy month.
+二	[sound:k-0080_二.mp3]<br>に, ふた, ふ, ふう <br> two
+two	<b>二<b> <br> に, ふた, ふ, ふう <br>[sound:k-0080_二.mp3]
+[sound:k-0080_二.mp3]	two<br> <b>二</b> <br> (に, ふた, ふ, ふう)
+<b>十八</b> <br> 彼女は十八歳になりました。	[sound:s-0080_彼女は十八歳になりました。.mp3] <br> かのじょはじゅうはっさいになりました。 <br>She turned eighteen.
+[sound:s-0080_彼女は十八歳になりました。.mp3]	<b>十八</b> <br> 彼女は十八歳になりました。<br> かのじょはじゅうはっさいになりました <br>She turned eighteen.
+二つ	[sound:k-0081_二つ.mp3]<br>ふたつ <br> two
+two	<b>二つ<b> <br> ふたつ <br>[sound:k-0081_二つ.mp3]
+[sound:k-0081_二つ.mp3]	two<br> <b>二つ</b> <br> (ふたつ)
+<b>二</b> <br> 私は二人兄弟がいます。	[sound:s-0081_私は二人兄弟がいます。.mp3] <br> わたしはふたりきょうだいがいます。 <br>I have two siblings.
+[sound:s-0081_私は二人兄弟がいます。.mp3]	<b>二</b> <br> 私は二人兄弟がいます。<br> わたしはふたりきょうだいがいます <br>I have two siblings.
+十二	[sound:k-0082_十二.mp3]<br>じゅうに <br> 12, twelve
+12, twelve	<b>十二<b> <br> じゅうに <br>[sound:k-0082_十二.mp3]
+[sound:k-0082_十二.mp3]	12, twelve<br> <b>十二</b> <br> (じゅうに)
+<b>二つ</b> <br> 机の上に本が二つあります。	[sound:s-0082_机の上に本が二つあります。.mp3] <br> つくえのうえにほんがふたつあります。 <br>There are two books on the desk.
+[sound:s-0082_机の上に本が二つあります。.mp3]	<b>二つ</b> <br> 机の上に本が二つあります。<br> つくえのうえにほんがふたつあります <br>There are two books on the desk.
+十二月	[sound:k-0083_十二月.mp3]<br>じゅうにがつ <br> December
+December	<b>十二月<b> <br> じゅうにがつ <br>[sound:k-0083_十二月.mp3]
+[sound:k-0083_十二月.mp3]	December<br> <b>十二月</b> <br> (じゅうにがつ)
+<b>十二</b> <br> 十二人の仲間と旅行に行きました。	[sound:s-0083_十二人の仲間と旅行に行きました。.mp3] <br> じゅうににんのなかまとりょこうにいきました。 <br>I went on a trip with twelve friends.
+[sound:s-0083_十二人の仲間と旅行に行きました。.mp3]	<b>十二</b> <br> 十二人の仲間と旅行に行きました。<br> じゅうににんのなかまとりょこうにいきました <br>I went on a trip with twelve friends.
+二月	[sound:k-0084_二月.mp3]<br>にがつ <br> February
+February	<b>二月<b> <br> にがつ <br>[sound:k-0084_二月.mp3]
+[sound:k-0084_二月.mp3]	February<br> <b>二月</b> <br> (にがつ)
+<b>十二月</b> <br> 十二月はクリスマスの月です。	[sound:s-0084_十二月はクリスマスの月です。.mp3] <br> じゅうにがつはクリスマスのつきです。 <br>December is the month of Christmas.
+[sound:s-0084_十二月はクリスマスの月です。.mp3]	<b>十二月</b> <br> 十二月はクリスマスの月です。<br> じゅうにがつはクリスマスのつきです <br>December is the month of Christmas.
+二人	[sound:k-0085_二人.mp3]<br>ふたり, ににん <br> two persons, two people, pair, couple
+two persons, two people, pair, couple	<b>二人<b> <br> ふたり, ににん <br>[sound:k-0085_二人.mp3]
+[sound:k-0085_二人.mp3]	two persons, two people, pair, couple<br> <b>二人</b> <br> (ふたり, ににん)
+<b>二月</b> <br> 二月は寒いです。	[sound:s-0085_二月は寒いです。.mp3] <br> にがつはさむいです。 <br>February is cold.
+[sound:s-0085_二月は寒いです。.mp3]	<b>二月</b> <br> 二月は寒いです。<br> にがつはさむいです <br>February is cold.
+二百	[sound:k-0086_二百.mp3]<br>にひゃく <br> two hundred, 200
+two hundred, 200	<b>二百<b> <br> にひゃく <br>[sound:k-0086_二百.mp3]
+[sound:k-0086_二百.mp3]	two hundred, 200<br> <b>二百</b> <br> (にひゃく)
+<b>二人</b> <br> 二人で映画を見に行きました。	[sound:s-0086_二人で映画を見に行きました。.mp3] <br> ふたりでえいがをみにいきました。 <br>We went to see a movie with two people.
+[sound:s-0086_二人で映画を見に行きました。.mp3]	<b>二人</b> <br> 二人で映画を見に行きました。<br> ふたりでえいがをみにいきました <br>We went to see a movie with two people.
+二死	[sound:k-0087_二死.mp3]<br>にし <br> two out (e.g. in baseball), two down (and one to go)
+two out (e.g. in baseball), two down (and one to go)	<b>二死<b> <br> にし <br>[sound:k-0087_二死.mp3]
+[sound:k-0087_二死.mp3]	two out<br> <b>e.g. in baseball), two down (and one to go) (二死</b> <br> (にし)
+<b>二百</b> <br> 彼は二百ドルを持っています。	[sound:s-0087_彼は二百ドルを持っています。.mp3] <br> かれはにひゃくドルをもっています。 <br>He has two hundred dollars.
+[sound:s-0087_彼は二百ドルを持っています。.mp3]	<b>二百</b> <br> 彼は二百ドルを持っています。<br> かれはにひゃくドルをもっています <br>He has two hundred dollars.
+二塁	[sound:k-0088_二塁.mp3]<br>にるい <br> second base
+second base	<b>二塁<b> <br> にるい <br>[sound:k-0088_二塁.mp3]
+[sound:k-0088_二塁.mp3]	second base<br> <b>二塁</b> <br> (にるい)
+<b>二死</b> <br> 二死満塁の場面でホームランを打った。	[sound:s-0088_二死満塁の場面でホームランを打った。.mp3] <br> にしまんるいのばめんでホームランをうった。 <br>He hit a home run with two outs and the bases loaded.
+[sound:s-0088_二死満塁の場面でホームランを打った。.mp3]	<b>二死</b> <br> 二死満塁の場面でホームランを打った。<br> にしまんるいのばめんでホームランをうった <br>He hit a home run with two outs and the bases loaded.
+二塁打	[sound:k-0089_二塁打.mp3]<br>にるいだ <br> two-base hit, double
+two-base hit, double	<b>二塁打<b> <br> にるいだ <br>[sound:k-0089_二塁打.mp3]
+[sound:k-0089_二塁打.mp3]	two-base hit, double<br> <b>二塁打</b> <br> (にるいだ)
+<b>二塁</b> <br> 彼は二塁手としてプレーしています。	[sound:s-0089_彼は二塁手としてプレーしています。.mp3] <br> かれはにるいしゅとしてプレーしています。 <br>He plays as a second baseman.
+[sound:s-0089_彼は二塁手としてプレーしています。.mp3]	<b>二塁</b> <br> 彼は二塁手としてプレーしています。<br> かれはにるいしゅとしてプレーしています <br>He plays as a second baseman.
+基本	[sound:k-0090_基本.mp3]<br>きほん <br> foundation, basis, standard
+foundation, basis, standard	<b>基本<b> <br> きほん <br>[sound:k-0090_基本.mp3]
+[sound:k-0090_基本.mp3]	foundation, basis, standard<br> <b>基本</b> <br> (きほん)
+<b>二塁打</b> <br> 彼は二塁打を打ちました。	[sound:s-0090_彼は二塁打を打ちました。.mp3] <br> かれはにるいだをうちました。 <br>He hit a double.
+[sound:s-0090_彼は二塁打を打ちました。.mp3]	<b>二塁打</b> <br> 彼は二塁打を打ちました。<br> かれはにるいだをうちました <br>He hit a double.
+日本人	[sound:k-0091_日本人.mp3]<br>にほんじん, にっぽんじん <br> Japanese person, Japanese people
+Japanese person, Japanese people	<b>日本人<b> <br> にほんじん, にっぽんじん <br>[sound:k-0091_日本人.mp3]
+[sound:k-0091_日本人.mp3]	Japanese person, Japanese people<br> <b>日本人</b> <br> (にほんじん, にっぽんじん)
+<b>基本</b> <br> 基本的なルールを守りましょう。	[sound:s-0091_基本的なルールを守りましょう。.mp3] <br> きほんてきなルールをまもりましょう。 <br>Let's follow the basic rules.
+[sound:s-0091_基本的なルールを守りましょう。.mp3]	<b>基本</b> <br> 基本的なルールを守りましょう。<br> きほんてきなルールをまもりましょう <br>Let's follow the basic rules.
+本社	[sound:k-0092_本社.mp3]<br>ほんしゃ, ほんじゃ <br> head office, main office, headquarters; main shrine; this company, this shrine
+head office, main office, headquarters; main shrine; this company, this shrine	<b>本社<b> <br> ほんしゃ, ほんじゃ <br>[sound:k-0092_本社.mp3]
+[sound:k-0092_本社.mp3]	head office, main office, headquarters; main shrine; this company, this shrine<br> <b>本社</b> <br> (ほんしゃ, ほんじゃ)
+<b>日本人</b> <br> 日本人は礼儀正しいです。	[sound:s-0092_日本人は礼儀正しいです。.mp3] <br> にほんじんはれいぎただしいです。 <br>Japanese people are polite.
+[sound:s-0092_日本人は礼儀正しいです。.mp3]	<b>日本人</b> <br> 日本人は礼儀正しいです。<br> にほんじんはれいぎただしいです <br>Japanese people are polite.
+本部	[sound:k-0093_本部.mp3]<br>ほんぶ <br> headquarters
+headquarters	<b>本部<b> <br> ほんぶ <br>[sound:k-0093_本部.mp3]
+[sound:k-0093_本部.mp3]	headquarters<br> <b>本部</b> <br> (ほんぶ)
+<b>本社</b> <br> 会社の本社は東京にあります。	[sound:s-0093_会社の本社は東京にあります。.mp3] <br> かいしゃのほんしゃはとうきょうにあります。 <br>The company's headquarters are in Tokyo.
+[sound:s-0093_会社の本社は東京にあります。.mp3]	<b>本社</b> <br> 会社の本社は東京にあります。<br> かいしゃのほんしゃはとうきょうにあります <br>The company's headquarters are in Tokyo.
+本の	[sound:k-0094_本の.mp3]<br>ほんの <br> mere, only, just
+mere, only, just	<b>本の<b> <br> ほんの <br>[sound:k-0094_本の.mp3]
+[sound:k-0094_本の.mp3]	mere, only, just<br> <b>本の</b> <br> (ほんの)
+<b>本部</b> <br> 国連の本部はニューヨークにあります。	[sound:s-0094_国連の本部はニューヨークにあります。.mp3] <br> こくれんのほんぶはニューヨークにあります。 <br>The headquarters of the United Nations are in New York.
+[sound:s-0094_国連の本部はニューヨークにあります。.mp3]	<b>本部</b> <br> 国連の本部はニューヨークにあります。<br> こくれんのほんぶはニューヨークにあります <br>The headquarters of the United Nations are in New York.
+日本語	[sound:k-0095_日本語.mp3]<br>にほんご, にっぽんご <br> Japanese (language)
+Japanese (language)	<b>日本語<b> <br> にほんご, にっぽんご <br>[sound:k-0095_日本語.mp3]
+[sound:k-0095_日本語.mp3]	Japanese<br> <b>language) (日本語</b> <br> (にほんご, にっぽんご)
+<b>本の</b> <br> 彼女は本の中身を確認しました。	[sound:s-0095_彼女は本の中身を確認しました。.mp3] <br> かのじょはほんのなかみをかくにんしました。 <br>She checked the contents of the book.
+[sound:s-0095_彼女は本の中身を確認しました。.mp3]	<b>本の</b> <br> 彼女は本の中身を確認しました。<br> かのじょはほんのなかみをかくにんしました <br>She checked the contents of the book.
+本会議	[sound:k-0096_本会議.mp3]<br>ほんかいぎ <br> plenary session, regular session
+plenary session, regular session	<b>本会議<b> <br> ほんかいぎ <br>[sound:k-0096_本会議.mp3]
+[sound:k-0096_本会議.mp3]	plenary session, regular session<br> <b>本会議</b> <br> (ほんかいぎ)
+<b>日本語</b> <br> 日本語を勉強しています。	[sound:s-0096_日本語を勉強しています。.mp3] <br> にほんごをべんきょうしています。 <br>I am studying Japanese.
+[sound:s-0096_日本語を勉強しています。.mp3]	<b>日本語</b> <br> 日本語を勉強しています。<br> にほんごをべんきょうしています <br>I am studying Japanese.
+本人	[sound:k-0097_本人.mp3]<br>ほんにん <br> the person himself
+the person himself	<b>本人<b> <br> ほんにん <br>[sound:k-0097_本人.mp3]
+[sound:k-0097_本人.mp3]	the person himself<br> <b>本人</b> <br> (ほんにん)
+<b>本会議</b> <br> 本会議は明日開催されます。	[sound:s-0097_本会議は明日開催されます。.mp3] <br> ほんかいぎはあしたかいさいされます。 <br>The plenary session will be held tomorrow.
+[sound:s-0097_本会議は明日開催されます。.mp3]	<b>本会議</b> <br> 本会議は明日開催されます。<br> ほんかいぎはあしたかいさいされます <br>The plenary session will be held tomorrow.
+本当	[sound:k-0098_本当.mp3]<br>ほんとう, ほんと <br> truth, reality
+truth, reality	<b>本当<b> <br> ほんとう, ほんと <br>[sound:k-0098_本当.mp3]
+[sound:k-0098_本当.mp3]	truth, reality<br> <b>本当</b> <br> (ほんとう, ほんと)
+<b>本人</b> <br> 彼は本人の了承を得ました。	[sound:s-0098_彼は本人の了承を得ました。.mp3] <br> かれはほんにんのりょうしょうをえました。 <br>He obtained the consent of the person concerned.
+[sound:s-0098_彼は本人の了承を得ました。.mp3]	<b>本人</b> <br> 彼は本人の了承を得ました。<br> かれはほんにんのりょうしょうをえました <br>He obtained the consent of the person concerned.
+本塁打	[sound:k-0099_本塁打.mp3]<br>ほんるいだ <br> home run (baseball)
+home run (baseball)	<b>本塁打<b> <br> ほんるいだ <br>[sound:k-0099_本塁打.mp3]
+[sound:k-0099_本塁打.mp3]	home run<br> <b>baseball) (本塁打</b> <br> (ほんるいだ)
+<b>本当</b> <br> 本当のことを言ってください。	[sound:s-0099_本当のことを言ってください。.mp3] <br> ほんとうのことをいってください。 <br>Please tell the truth.
+[sound:s-0099_本当のことを言ってください。.mp3]	<b>本当</b> <br> 本当のことを言ってください。<br> ほんとうのことをいってください <br>Please tell the truth.
+中央	[sound:k-0100_中央.mp3]<br>ちゅうおう <br> centre, central, center, middle
+centre, central, center, middle	<b>中央<b> <br> ちゅうおう <br>[sound:k-0100_中央.mp3]
+[sound:k-0100_中央.mp3]	centre, central, center, middle<br> <b>中央</b> <br> (ちゅうおう)
+<b>本塁打</b> <br> 彼は昨日本塁打を打ちました。	[sound:s-0100_彼は昨日本塁打を打ちました。.mp3] <br> かれはきのうほんるいだをうちました。 <br>He hit a home run yesterday.
+[sound:s-0100_彼は昨日本塁打を打ちました。.mp3]	<b>本塁打</b> <br> 彼は昨日本塁打を打ちました。<br> かれはきのうほんるいだをうちました <br>He hit a home run yesterday.
+中国	[sound:k-0101_中国.mp3]<br>ちゅうごく <br> China; South-west most region of Honshu, middle of a country, the Hiroshima area
+China; South-west most region of Honshu, middle of a country, the Hiroshima area	<b>中国<b> <br> ちゅうごく <br>[sound:k-0101_中国.mp3]
+[sound:k-0101_中国.mp3]	China; South-west most region of Honshu, middle of a country, the Hiroshima area<br> <b>中国</b> <br> (ちゅうごく)
+<b>中央</b> <br> 彼は中央の座席に座っています。	[sound:s-0101_彼は中央の座席に座っています。.mp3] <br> かれはちゅうおうのざせきにすわっています。 <br>He is sitting in the central seat.
+[sound:s-0101_彼は中央の座席に座っています。.mp3]	<b>中央</b> <br> 彼は中央の座席に座っています。<br> かれはちゅうおうのざせきにすわっています <br>He is sitting in the central seat.
+中心	[sound:k-0102_中心.mp3]<br>ちゅうしん <br> center, centre, middle, heart, core, focus, pivot, emphasis, balance
+center, centre, middle, heart, core, focus, pivot, emphasis, balance	<b>中心<b> <br> ちゅうしん <br>[sound:k-0102_中心.mp3]
+[sound:k-0102_中心.mp3]	center, centre, middle, heart, core, focus, pivot, emphasis, balance<br> <b>中心</b> <br> (ちゅうしん)
+<b>中国</b> <br> 中国には長い歴史があります。	[sound:s-0102_中国には長い歴史があります。.mp3] <br> ちゅうごくにはながいれきしがあります。 <br>China has a long history.
+[sound:s-0102_中国には長い歴史があります。.mp3]	<b>中国</b> <br> 中国には長い歴史があります。<br> ちゅうごくにはながいれきしがあります <br>China has a long history.
+中でも	[sound:k-0103_中でも.mp3]<br>なかでも <br> among (other things), inter alia; above all (else)
+among (other things), inter alia; above all (else)	<b>中でも<b> <br> なかでも <br>[sound:k-0103_中でも.mp3]
+[sound:k-0103_中でも.mp3]	among<br> <b>other things), inter alia; above all (else) (中でも</b> <br> (なかでも)
+<b>中心</b> <br> 彼は町の中心に住んでいます。	[sound:s-0103_彼は町の中心に住んでいます。.mp3] <br> かれはまちのちゅうしんにすんでいます。 <br>He lives in the center of the town.
+[sound:s-0103_彼は町の中心に住んでいます。.mp3]	<b>中心</b> <br> 彼は町の中心に住んでいます。<br> かれはまちのちゅうしんにすんでいます <br>He lives in the center of the town.
+中間	[sound:k-0104_中間.mp3]<br>ちゅうかん <br> middle, midway, interim
+middle, midway, interim	<b>中間<b> <br> ちゅうかん <br>[sound:k-0104_中間.mp3]
+[sound:k-0104_中間.mp3]	middle, midway, interim<br> <b>中間</b> <br> (ちゅうかん)
+<b>中でも</b> <br> 彼は料理の中でもピザが好きです。	[sound:s-0104_彼は料理の中でもピザが好きです。.mp3] <br> かれはりょうりのなかでもピザがすきです。 <br>He likes pizza among all kinds of food.
+[sound:s-0104_彼は料理の中でもピザが好きです。.mp3]	<b>中でも</b> <br> 彼は料理の中でもピザが好きです。<br> かれはりょうりのなかでもピザがすきです <br>He likes pizza among all kinds of food.
+中東	[sound:k-0105_中東.mp3]<br>ちゅうとう <br> Middle East
+Middle East	<b>中東<b> <br> ちゅうとう <br>[sound:k-0105_中東.mp3]
+[sound:k-0105_中東.mp3]	Middle East<br> <b>中東</b> <br> (ちゅうとう)
+<b>中間</b> <br> 今週は試験の中間テストがあります。	[sound:s-0105_今週は試験の中間テストがあります。.mp3] <br> こんしゅうはしけんのちゅうかんテストがあります。 <br>There is a midterm test this week.
+[sound:s-0105_今週は試験の中間テストがあります。.mp3]	<b>中間</b> <br> 今週は試験の中間テストがあります。<br> こんしゅうはしけんのちゅうかんテストがあります <br>There is a midterm test this week.
+途中	[sound:k-0106_途中.mp3]<br>とちゅう <br> on the way, en route; in the middle of, midway
+on the way, en route; in the middle of, midway	<b>途中<b> <br> とちゅう <br>[sound:k-0106_途中.mp3]
+[sound:k-0106_途中.mp3]	on the way, en route; in the middle of, midway<br> <b>途中</b> <br> (とちゅう)
+<b>中東</b> <br> 中東地域の政治情勢が不安定です。	[sound:s-0106_中東地域の政治情勢が不安定です。.mp3] <br> ちゅうとうちいきのせいじじょうせいがふあんていです。 <br>The political situation in the Middle East is unstable.
+[sound:s-0106_中東地域の政治情勢が不安定です。.mp3]	<b>中東</b> <br> 中東地域の政治情勢が不安定です。<br> ちゅうとうちいきのせいじじょうせいがふあんていです <br>The political situation in the Middle East is unstable.
+集中	[sound:k-0107_集中.mp3]<br>しゅうちゅう <br> concentration, convergence, centralization, integration, gathering together
+concentration, convergence, centralization, integration, gathering together	<b>集中<b> <br> しゅうちゅう <br>[sound:k-0107_集中.mp3]
+[sound:k-0107_集中.mp3]	concentration, convergence, centralization, integration, gathering together<br> <b>集中</b> <br> (しゅうちゅう)
+<b>途中</b> <br> 途中で雨が降り始めました。	[sound:s-0107_途中で雨が降り始めました。.mp3] <br> とちゅうであめがふりはじめました。 <br>It started raining on the way.
+[sound:s-0107_途中で雨が降り始めました。.mp3]	<b>途中</b> <br> 途中で雨が降り始めました。<br> とちゅうであめがふりはじめました <br>It started raining on the way.
+中学	[sound:k-0108_中学.mp3]<br>ちゅうがく <br> middle school, junior high school
+middle school, junior high school	<b>中学<b> <br> ちゅうがく <br>[sound:k-0108_中学.mp3]
+[sound:k-0108_中学.mp3]	middle school, junior high school<br> <b>中学</b> <br> (ちゅうがく)
+<b>集中</b> <br> 仕事に集中してください。	[sound:s-0108_仕事に集中してください。.mp3] <br> しごとにしゅうちゅうしてください。 <br>Please focus on your work.
+[sound:s-0108_仕事に集中してください。.mp3]	<b>集中</b> <br> 仕事に集中してください。<br> しごとにしゅうちゅうしてください <br>Please focus on your work.
+中学生	[sound:k-0109_中学生.mp3]<br>ちゅうがくせい <br> junior high school student, middle school pupil
+junior high school student, middle school pupil	<b>中学生<b> <br> ちゅうがくせい <br>[sound:k-0109_中学生.mp3]
+[sound:k-0109_中学生.mp3]	junior high school student, middle school pupil<br> <b>中学生</b> <br> (ちゅうがくせい)
+<b>中学</b> <br> 彼は中学校の教師です。	[sound:s-0109_彼は中学校の教師です。.mp3] <br> かれはちゅうがっこうのきょうしです。 <br>He is a middle school teacher.
+[sound:s-0109_彼は中学校の教師です。.mp3]	<b>中学</b> <br> 彼は中学校の教師です。<br> かれはちゅうがっこうのきょうしです <br>He is a middle school teacher.
+長	[sound:k-0110_長.mp3]<br>ちょう, おさ <br> chief, head
+chief, head	<b>長<b> <br> ちょう, おさ <br>[sound:k-0110_長.mp3]
+[sound:k-0110_長.mp3]	chief, head<br> <b>長</b> <br> (ちょう, おさ)
+<b>中学生</b> <br> 中学生の時、彼は野球をしていました。	[sound:s-0110_中学生の時、彼は野球をしていました。.mp3] <br> ちゅうがくせいのとき、かれはやきゅうをしていました。 <br>He played baseball when he was in middle school.
+[sound:s-0110_中学生の時、彼は野球をしていました。.mp3]	<b>中学生</b> <br> 中学生の時、彼は野球をしていました。<br> ちゅうがくせいのとき、かれはやきゅうをしていました <br>He played baseball when he was in middle school.
+委員長	[sound:k-0111_委員長.mp3]<br>いいんちょう <br> committee chairman
+committee chairman	<b>委員長<b> <br> いいんちょう <br>[sound:k-0111_委員長.mp3]
+[sound:k-0111_委員長.mp3]	committee chairman<br> <b>委員長</b> <br> (いいんちょう)
+<b>長</b> <br> 彼は背がとても長いです。	[sound:s-0111_彼は背がとても長いです。.mp3] <br> かれはせがとてもながいです。 <br>He is very tall.
+[sound:s-0111_彼は背がとても長いです。.mp3]	<b>長</b> <br> 彼は背がとても長いです。<br> かれはせがとてもながいです <br>He is very tall.
+会長	[sound:k-0112_会長.mp3]<br>かいちょう <br> president (of a society), chairman
+president (of a society), chairman	<b>会長<b> <br> かいちょう <br>[sound:k-0112_会長.mp3]
+[sound:k-0112_会長.mp3]	president<br> <b>of a society), chairman (会長</b> <br> (かいちょう)
+<b>委員長</b> <br> 彼は委員長として会議を進行しました。	[sound:s-0112_彼は委員長として会議を進行しました。.mp3] <br> かれはいいんちょうとしてかいぎをしんこうしました。 <br>He chaired the meeting as the committee chairman.
+[sound:s-0112_彼は委員長として会議を進行しました。.mp3]	<b>委員長</b> <br> 彼は委員長として会議を進行しました。<br> かれはいいんちょうとしてかいぎをしんこうしました <br>He chaired the meeting as the committee chairman.
+議長	[sound:k-0113_議長.mp3]<br>ぎちょう <br> chairman, speaker (e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup)
+chairman, speaker (e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup)	<b>議長<b> <br> ぎちょう <br>[sound:k-0113_議長.mp3]
+[sound:k-0113_議長.mp3]	chairman, speaker<br> <b>e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup) (議長</b> <br> (ぎちょう)
+<b>会長</b> <br> 彼女はクラブの会長です。	[sound:s-0113_彼女はクラブの会長です。.mp3] <br> かのじょはクラブのかいちょうです。 <br>She is the president of the club.
+[sound:s-0113_彼女はクラブの会長です。.mp3]	<b>会長</b> <br> 彼女はクラブの会長です。<br> かのじょはクラブのかいちょうです <br>She is the president of the club.
+社長	[sound:k-0114_社長.mp3]<br>しゃちょう <br> company president, manager, director
+company president, manager, director	<b>社長<b> <br> しゃちょう <br>[sound:k-0114_社長.mp3]
+[sound:k-0114_社長.mp3]	company president, manager, director<br> <b>社長</b> <br> (しゃちょう)
+<b>議長</b> <br> 彼は議長として会議を取り仕切った。	[sound:s-0114_彼は議長として会議を取り仕切った。.mp3] <br> かれはぎちょうとしてかいぎをとりしきった。 <br>He presided over the meeting as the chairman.
+[sound:s-0114_彼は議長として会議を取り仕切った。.mp3]	<b>議長</b> <br> 彼は議長として会議を取り仕切った。<br> かれはぎちょうとしてかいぎをとりしきった <br>He presided over the meeting as the chairman.
+成長	[sound:k-0115_成長.mp3]<br>せいちょう <br> growth, grow to adulthood
+growth, grow to adulthood	<b>成長<b> <br> せいちょう <br>[sound:k-0115_成長.mp3]
+[sound:k-0115_成長.mp3]	growth, grow to adulthood<br> <b>成長</b> <br> (せいちょう)
+<b>社長</b> <br> 私の父は会社の社長です。	[sound:s-0115_私の父は会社の社長です。.mp3] <br> わたしのちちはかいしゃのしゃちょうです。 <br>My father is the president of the company.
+[sound:s-0115_私の父は会社の社長です。.mp3]	<b>社長</b> <br> 私の父は会社の社長です。<br> わたしのちちはかいしゃのしゃちょうです <br>My father is the president of the company.
+長官	[sound:k-0116_長官.mp3]<br>ちょうかん <br> secretary (government), director, chief
+secretary (government), director, chief	<b>長官<b> <br> ちょうかん <br>[sound:k-0116_長官.mp3]
+[sound:k-0116_長官.mp3]	secretary<br> <b>government), director, chief (長官</b> <br> (ちょうかん)
+<b>成長</b> <br> 彼女は素晴らしい成長を遂げました。	[sound:s-0116_彼女は素晴らしい成長を遂げました。.mp3] <br> かのじょはすばらしいせいちょうをとげました。 <br>She has achieved remarkable growth.
+[sound:s-0116_彼女は素晴らしい成長を遂げました。.mp3]	<b>成長</b> <br> 彼女は素晴らしい成長を遂げました。<br> かのじょはすばらしいせいちょうをとげました <br>She has achieved remarkable growth.
+長男	[sound:k-0117_長男.mp3]<br>ちょうなん <br> eldest son
+eldest son	<b>長男<b> <br> ちょうなん <br>[sound:k-0117_長男.mp3]
+[sound:k-0117_長男.mp3]	eldest son<br> <b>長男</b> <br> (ちょうなん)
+<b>長官</b> <br> 彼は国防長官として任命されました。	[sound:s-0117_彼は国防長官として任命されました。.mp3] <br> かれはこくぼうちょうかんとしてにんめいされました。 <br>He was appointed as the Secretary of Defense.
+[sound:s-0117_彼は国防長官として任命されました。.mp3]	<b>長官</b> <br> 彼は国防長官として任命されました。<br> かれはこくぼうちょうかんとしてにんめいされました <br>He was appointed as the Secretary of Defense.
+部長	[sound:k-0118_部長.mp3]<br>ぶちょう <br> head (chief, director) of a section or department; head of a (school) club, head of a (school) team
+head (chief, director) of a section or department; head of a (school) club, head of a (school) team	<b>部長<b> <br> ぶちょう <br>[sound:k-0118_部長.mp3]
+[sound:k-0118_部長.mp3]	head<br> <b>chief, director) of a section or department; head of a (school) club, head of a (school) team (部長</b> <br> (ぶちょう)
+<b>長男</b> <br> 彼は家族の長男です。	[sound:s-0118_彼は家族の長男です。.mp3] <br> かれはかぞくのちょうなんです。 <br>He is the eldest son of the family.
+[sound:s-0118_彼は家族の長男です。.mp3]	<b>長男</b> <br> 彼は家族の長男です。<br> かれはかぞくのちょうなんです <br>He is the eldest son of the family.
+延長	[sound:k-0119_延長.mp3]<br>えんちょう <br> extension, elongation, prolongation, lengthening; Enchou era (923.4.11-931.4.26)
+extension, elongation, prolongation, lengthening; Enchou era (923.4.11-931.4.26)	<b>延長<b> <br> えんちょう <br>[sound:k-0119_延長.mp3]
+[sound:k-0119_延長.mp3]	extension, elongation, prolongation, lengthening; Enchou era<br> <b>923.4.11-931.4.26) (延長</b> <br> (えんちょう)
+<b>部長</b> <br> 彼は部長として仕事をしています。	[sound:s-0119_彼は部長として仕事をしています。.mp3] <br> かれはぶちょうとしてしごとをしています。 <br>He is working as a department manager.
+[sound:s-0119_彼は部長として仕事をしています。.mp3]	<b>部長</b> <br> 彼は部長として仕事をしています。<br> かれはぶちょうとしてしごとをしています <br>He is working as a department manager.
+出す	[sound:k-0120_出す.mp3]<br>だす <br> to take out, to get out; to put out, to reveal, to show; to submit (e.g. thesis), to turn in; to publish, to make public; to send (e.g. letter); to produce (a sound), to start (fire); to serve (food); to begin
+to take out, to get out; to put out, to reveal, to show; to submit (e.g. thesis), to turn in; to publish, to make public; to send (e.g. letter); to produce (a sound), to start (fire); to serve (food); to begin	<b>出す<b> <br> だす <br>[sound:k-0120_出す.mp3]
+[sound:k-0120_出す.mp3]	to take out, to get out; to put out, to reveal, to show; to submit<br> <b>e.g. thesis), to turn in; to publish, to make public; to send (e.g. letter); to produce (a sound), to start (fire); to serve (food); to begin (出す</b> <br> (だす)
+<b>延長</b> <br> 試合は延長戦に突入しました。	[sound:s-0120_試合は延長戦に突入しました。.mp3] <br> しあいはえんちょうせんにとつにゅうしました。 <br>The game went into overtime.
+[sound:s-0120_試合は延長戦に突入しました。.mp3]	<b>延長</b> <br> 試合は延長戦に突入しました。<br> しあいはえんちょうせんにとつにゅうしました <br>The game went into overtime.
+出身	[sound:k-0121_出身.mp3]<br>しゅっしん <br> person's origin (town, city, country, etc.); institution from which one graduated; director in charge of employee relations
+person's origin (town, city, country, etc.); institution from which one graduated; director in charge of employee relations	<b>出身<b> <br> しゅっしん <br>[sound:k-0121_出身.mp3]
+[sound:k-0121_出身.mp3]	person's origin<br> <b>town, city, country, etc.); institution from which one graduated; director in charge of employee relations (出身</b> <br> (しゅっしん)
+<b>出す</b> <br> 彼はレポートを提出しました。	[sound:s-0121_彼はレポートを提出しました。.mp3] <br> かれはレポートをていしゅつしました。 <br>He submitted the report.
+[sound:s-0121_彼はレポートを提出しました。.mp3]	<b>出す</b> <br> 彼はレポートを提出しました。<br> かれはレポートをていしゅつしました <br>He submitted the report.
+輸出	[sound:k-0122_輸出.mp3]<br>ゆしゅつ, しゅしゅつ <br> export; efferent (medical)
+export; efferent (medical)	<b>輸出<b> <br> ゆしゅつ, しゅしゅつ <br>[sound:k-0122_輸出.mp3]
+[sound:k-0122_輸出.mp3]	export; efferent<br> <b>medical) (輸出</b> <br> (ゆしゅつ, しゅしゅつ)
+<b>出身</b> <br> 彼は京都出身です。	[sound:s-0122_彼は京都出身です。.mp3] <br> かれはきょうとしゅっしんです。 <br>He is from Kyoto.
+[sound:s-0122_彼は京都出身です。.mp3]	<b>出身</b> <br> 彼は京都出身です。<br> かれはきょうとしゅっしんです <br>He is from Kyoto.
+出場	[sound:k-0123_出場.mp3]<br>しゅつじょう <br> (stage) appearance, participation, performance
+(stage) appearance, participation, performance	<b>出場<b> <br> しゅつじょう <br>[sound:k-0123_出場.mp3]
+[sound:k-0123_出場.mp3]	(stage) appearance, participation, performance<br> <b>出場</b> <br> (しゅつじょう)
+<b>輸出</b> <br> この国は自動車を輸出しています。	[sound:s-0123_この国は自動車を輸出しています。.mp3] <br> このくにはじどうしゃをゆしゅつしています。 <br>This country exports automobiles.
+[sound:s-0123_この国は自動車を輸出しています。.mp3]	<b>輸出</b> <br> この国は自動車を輸出しています。<br> このくにはじどうしゃをゆしゅつしています <br>This country exports automobiles.
+進出	[sound:k-0124_進出.mp3]<br>しんしゅつ <br> advance, step forward
+advance, step forward	<b>進出<b> <br> しんしゅつ <br>[sound:k-0124_進出.mp3]
+[sound:k-0124_進出.mp3]	advance, step forward<br> <b>進出</b> <br> (しんしゅつ)
+<b>出場</b> <br> 彼は大会で優勝するために出場します。	[sound:s-0124_彼は大会で優勝するために出場します。.mp3] <br> かれはたいかいでゆうしょうするためにしゅつじょうします。 <br>He participates in the tournament to win.
+[sound:s-0124_彼は大会で優勝するために出場します。.mp3]	<b>出場</b> <br> 彼は大会で優勝するために出場します。<br> かれはたいかいでゆうしょうするためにしゅつじょうします <br>He participates in the tournament to win.
+出	[sound:k-0125_出.mp3]<br>で <br> coming out, going out, outflow, efflux, rising (of the sun or moon); attending (work), appearing (on stage), one's turn to go on; start, beginning; origins, background, person (or item) originating from ..., graduate of ..., native of ..., member of ... (lineage); architectural member that projects outward; highest point of the stern of a ship; amount (comprising something), amount of time or effort required to do something
+coming out, going out, outflow, efflux, rising (of the sun or moon); attending (work), appearing (on stage), one's turn to go on; start, beginning; origins, background, person (or item) originating from ..., graduate of ..., native of ..., member of ... (lineage); architectural member that projects outward; highest point of the stern of a ship; amount (comprising something), amount of time or effort required to do something	<b>出<b> <br> で <br>[sound:k-0125_出.mp3]
+[sound:k-0125_出.mp3]	coming out, going out, outflow, efflux, rising<br> <b>of the sun or moon); attending (work), appearing (on stage), one's turn to go on; start, beginning; origins, background, person (or item) originating from ..., graduate of ..., native of ..., member of ... (lineage); architectural member that projects outward; highest point of the stern of a ship; amount (comprising something), amount of time or effort required to do something (出</b> <br> (で)
+<b>進出</b> <br> 企業は海外市場に進出しました。	[sound:s-0125_企業は海外市場に進出しました。.mp3] <br> きぎょうはかいがいしじょうにしんしゅつしました。 <br>The company expanded into the overseas market.
+[sound:s-0125_企業は海外市場に進出しました。.mp3]	<b>進出</b> <br> 企業は海外市場に進出しました。<br> きぎょうはかいがいしじょうにしんしゅつしました <br>The company expanded into the overseas market.
+演出	[sound:k-0126_演出.mp3]<br>えんしゅつ <br> production (e.g. play), direction
+production (e.g. play), direction	<b>演出<b> <br> えんしゅつ <br>[sound:k-0126_演出.mp3]
+[sound:k-0126_演出.mp3]	production<br> <b>e.g. play), direction (演出</b> <br> (えんしゅつ)
+<b>出</b> <br> 今日は出かける予定です。	[sound:s-0126_今日は出かける予定です。.mp3] <br> きょうはでかけるよていです。 <br>I plan to go out today.
+[sound:s-0126_今日は出かける予定です。.mp3]	<b>出</b> <br> 今日は出かける予定です。<br> きょうはでかけるよていです <br>I plan to go out today.
+出演	[sound:k-0127_出演.mp3]<br>しゅつえん <br> performance, stage appearance; to act (in a play)
+performance, stage appearance; to act (in a play)	<b>出演<b> <br> しゅつえん <br>[sound:k-0127_出演.mp3]
+[sound:k-0127_出演.mp3]	performance, stage appearance; to act<br> <b>in a play) (出演</b> <br> (しゅつえん)
+<b>演出</b> <br> この舞台の演出が素晴らしいです。	[sound:s-0127_この舞台の演出が素晴らしいです。.mp3] <br> このぶたいのえんしゅつがすばらしいです。 <br>The direction of this stage is wonderful.
+[sound:s-0127_この舞台の演出が素晴らしいです。.mp3]	<b>演出</b> <br> この舞台の演出が素晴らしいです。<br> このぶたいのえんしゅつがすばらしいです <br>The direction of this stage is wonderful.
+出席	[sound:k-0128_出席.mp3]<br>しゅっせき <br> attendance, presence, appearance; to attend, to be present, to appear
+attendance, presence, appearance; to attend, to be present, to appear	<b>出席<b> <br> しゅっせき <br>[sound:k-0128_出席.mp3]
+[sound:k-0128_出席.mp3]	attendance, presence, appearance; to attend, to be present, to appear<br> <b>出席</b> <br> (しゅっせき)
+<b>出演</b> <br> 彼女はその映画に出演しました。	[sound:s-0128_彼女はその映画に出演しました。.mp3] <br> かのじょはそのえいがにしゅつえんしました。 <br>She appeared in the movie.
+[sound:s-0128_彼女はその映画に出演しました。.mp3]	<b>出演</b> <br> 彼女はその映画に出演しました。<br> かのじょはそのえいがにしゅつえんしました <br>She appeared in the movie.
+出馬	[sound:k-0129_出馬.mp3]<br>しゅつば <br> going on horseback; going in person; running for election
+going on horseback; going in person; running for election	<b>出馬<b> <br> しゅつば <br>[sound:k-0129_出馬.mp3]
+[sound:k-0129_出馬.mp3]	going on horseback; going in person; running for election<br> <b>出馬</b> <br> (しゅつば)
+<b>出席</b> <br> 会議に出席する予定です。	[sound:s-0129_会議に出席する予定です。.mp3] <br> かいぎにしゅっせきするよていです。 <br>I plan to attend the meeting.
+[sound:s-0129_会議に出席する予定です。.mp3]	<b>出席</b> <br> 会議に出席する予定です。<br> かいぎにしゅっせきするよていです <br>I plan to attend the meeting.
+三	[sound:k-0130_三.mp3]<br>さん, み <br> three
+three	<b>三<b> <br> さん, み <br>[sound:k-0130_三.mp3]
+[sound:k-0130_三.mp3]	three<br> <b>三</b> <br> (さん, み)
+<b>出馬</b> <br> 彼は次の選挙に出馬します。	[sound:s-0130_彼は次の選挙に出馬します。.mp3] <br> かれはつぎのせんきょにしゅっばします。 <br>He will run for the next election.
+[sound:s-0130_彼は次の選挙に出馬します。.mp3]	<b>出馬</b> <br> 彼は次の選挙に出馬します。<br> かれはつぎのせんきょにしゅっばします <br>He will run for the next election.
+三つ	[sound:k-0131_三つ.mp3]<br>みっつ <br> three
+three	<b>三つ<b> <br> みっつ <br>[sound:k-0131_三つ.mp3]
+[sound:k-0131_三つ.mp3]	three<br> <b>三つ</b> <br> (みっつ)
+<b>三</b> <br> 彼女は三人兄弟の一番上です。	[sound:s-0131_彼女は三人兄弟の一番上です。.mp3] <br> かのじょはさんにんきょうだいのいちばんうえです。 <br>She is the oldest of three siblings.
+[sound:s-0131_彼女は三人兄弟の一番上です。.mp3]	<b>三</b> <br> 彼女は三人兄弟の一番上です。<br> かのじょはさんにんきょうだいのいちばんうえです <br>She is the oldest of three siblings.
+三月	[sound:k-0132_三月.mp3]<br>さんがつ <br> March
+March	<b>三月<b> <br> さんがつ <br>[sound:k-0132_三月.mp3]
+[sound:k-0132_三月.mp3]	March<br> <b>三月</b> <br> (さんがつ)
+<b>三つ</b> <br> このカフェは三つの異なるメニューを提供しています。	[sound:s-0132_このカフェは三つの異なるメニューを提供しています。.mp3] <br> このカフェはみっつのことなるメニューをていきょうしています。 <br>This cafe offers three different menus.
+[sound:s-0132_このカフェは三つの異なるメニューを提供しています。.mp3]	<b>三つ</b> <br> このカフェは三つの異なるメニューを提供しています。<br> このカフェはみっつのことなるメニューをていきょうしています <br>This cafe offers three different menus.
+三人	[sound:k-0133_三人.mp3]<br>さんにん, みたり <br> three people
+three people	<b>三人<b> <br> さんにん, みたり <br>[sound:k-0133_三人.mp3]
+[sound:k-0133_三人.mp3]	three people<br> <b>三人</b> <br> (さんにん, みたり)
+<b>三月</b> <br> 三月は春の始まりです。	[sound:s-0133_三月は春の始まりです。.mp3] <br> さんがつははるのはじまりです。 <br>March is the beginning of spring.
+[sound:s-0133_三月は春の始まりです。.mp3]	<b>三月</b> <br> 三月は春の始まりです。<br> さんがつははるのはじまりです <br>March is the beginning of spring.
+十三	[sound:k-0134_十三.mp3]<br>じゅうさん <br> 13, thirteen
+13, thirteen	<b>十三<b> <br> じゅうさん <br>[sound:k-0134_十三.mp3]
+[sound:k-0134_十三.mp3]	13, thirteen<br> <b>十三</b> <br> (じゅうさん)
+<b>三人</b> <br> 彼らは三人で旅行に行きました。	[sound:s-0134_彼らは三人で旅行に行きました。.mp3] <br> かれらはさんにんでりょこうにいきました。 <br>They went on a trip with three people.
+[sound:s-0134_彼らは三人で旅行に行きました。.mp3]	<b>三人</b> <br> 彼らは三人で旅行に行きました。<br> かれらはさんにんでりょこうにいきました <br>They went on a trip with three people.
+三十	[sound:k-0135_三十.mp3]<br>さんじゅう, みそ <br> thirty
+thirty	<b>三十<b> <br> さんじゅう, みそ <br>[sound:k-0135_三十.mp3]
+[sound:k-0135_三十.mp3]	thirty<br> <b>三十</b> <br> (さんじゅう, みそ)
+<b>十三</b> <br> 十三歳の誕生日を祝いました。	[sound:s-0135_十三歳の誕生日を祝いました。.mp3] <br> じゅうさんさいのたんじょうびをいわいました。 <br>We celebrated the thirteenth birthday.
+[sound:s-0135_十三歳の誕生日を祝いました。.mp3]	<b>十三</b> <br> 十三歳の誕生日を祝いました。<br> じゅうさんさいのたんじょうびをいわいました <br>We celebrated the thirteenth birthday.
+三千	[sound:k-0136_三千.mp3]<br>さんぜん <br> 3000; many
+3000; many	<b>三千<b> <br> さんぜん <br>[sound:k-0136_三千.mp3]
+[sound:k-0136_三千.mp3]	3000; many<br> <b>三千</b> <br> (さんぜん)
+<b>三十</b> <br> 彼は三十歳になります。	[sound:s-0136_彼は三十歳になります。.mp3] <br> かれはさんじゅっさいになります。 <br>He will be thirty years old.
+[sound:s-0136_彼は三十歳になります。.mp3]	<b>三十</b> <br> 彼は三十歳になります。<br> かれはさんじゅっさいになります <br>He will be thirty years old.
+三百	[sound:k-0137_三百.mp3]<br>さんびゃく <br> 300, three hundred; 300 mon, trifling amount, two-bit item; shyster
+300, three hundred; 300 mon, trifling amount, two-bit item; shyster	<b>三百<b> <br> さんびゃく <br>[sound:k-0137_三百.mp3]
+[sound:k-0137_三百.mp3]	300, three hundred; 300 mon, trifling amount, two-bit item; shyster<br> <b>三百</b> <br> (さんびゃく)
+<b>三千</b> <br> その地域には三千人以上の住民がいます。	[sound:s-0137_その地域には三千人以上の住民がいます。.mp3] <br> そのちいきにはさんぜんにんいじょうのじゅうみんがいます。 <br>There are over three thousand residents in that area.
+[sound:s-0137_その地域には三千人以上の住民がいます。.mp3]	<b>三千</b> <br> その地域には三千人以上の住民がいます。<br> そのちいきにはさんぜんにんいじょうのじゅうみんがいます <br>There are over three thousand residents in that area.
+三十日	[sound:k-0138_三十日.mp3]<br>みそか, つごもり, みそ <br> last day of month
+last day of month	<b>三十日<b> <br> みそか, つごもり, みそ <br>[sound:k-0138_三十日.mp3]
+[sound:k-0138_三十日.mp3]	last day of month<br> <b>三十日</b> <br> (みそか, つごもり, みそ)
+<b>三百</b> <br> 彼は三百メートルを走りました。	[sound:s-0138_彼は三百メートルを走りました。.mp3] <br> かれはさんびゃくメートルをはしりました。 <br>He ran three hundred meters.
+[sound:s-0138_彼は三百メートルを走りました。.mp3]	<b>三百</b> <br> 彼は三百メートルを走りました。<br> かれはさんびゃくメートルをはしりました <br>He ran three hundred meters.
+三塁	[sound:k-0139_三塁.mp3]<br>さんるい <br> third base
+third base	<b>三塁<b> <br> さんるい <br>[sound:k-0139_三塁.mp3]
+[sound:k-0139_三塁.mp3]	third base<br> <b>三塁</b> <br> (さんるい)
+<b>三十日</b> <br> 次の月の三十日に会いましょう。	[sound:s-0139_次の月の三十日に会いましょう。.mp3] <br> つぎのつきのさんじゅうにちにあいましょう。 <br>Let's meet on the thirtieth of next month.
+[sound:s-0139_次の月の三十日に会いましょう。.mp3]	<b>三十日</b> <br> 次の月の三十日に会いましょう。<br> つぎのつきのさんじゅうにちにあいましょう <br>Let's meet on the thirtieth of next month.
+同時	[sound:k-0140_同時.mp3]<br>どうじ <br> simultaneous(ly), concurrent, same time, synchronous, together
+simultaneous(ly), concurrent, same time, synchronous, together	<b>同時<b> <br> どうじ <br>[sound:k-0140_同時.mp3]
+[sound:k-0140_同時.mp3]	simultaneous(ly), concurrent, same time, synchronous, together<br> <b>同時</b> <br> (どうじ)
+<b>三塁</b> <br> 彼は三塁に到達しました。	[sound:s-0140_彼は三塁に到達しました。.mp3] <br> かれはさんるいにとうたつしました。 <br>He reached third base.
+[sound:s-0140_彼は三塁に到達しました。.mp3]	<b>三塁</b> <br> 彼は三塁に到達しました。<br> かれはさんるいにとうたつしました <br>He reached third base.
+同社	[sound:k-0141_同社.mp3]<br>どうしゃ <br> the same firm
+the same firm	<b>同社<b> <br> どうしゃ <br>[sound:k-0141_同社.mp3]
+[sound:k-0141_同社.mp3]	the same firm<br> <b>同社</b> <br> (どうしゃ)
+<b>同時</b> <br> 彼らは同時に同じ問題を解決しました。	[sound:s-0141_彼らは同時に同じ問題を解決しました。.mp3] <br> かれらはどうじにおなじもんだいをかいけつしました。 <br>They solved the same problem at the same time.
+[sound:s-0141_彼らは同時に同じ問題を解決しました。.mp3]	<b>同時</b> <br> 彼らは同時に同じ問題を解決しました。<br> かれらはどうじにおなじもんだいをかいけつしました <br>They solved the same problem at the same time.
+同日	[sound:k-0142_同日.mp3]<br>どうじつ <br> the same day
+the same day	<b>同日<b> <br> どうじつ <br>[sound:k-0142_同日.mp3]
+[sound:k-0142_同日.mp3]	the same day<br> <b>同日</b> <br> (どうじつ)
+<b>同社</b> <br> 同社の製品は高品質です。	[sound:s-0142_同社の製品は高品質です。.mp3] <br> どうしゃのせいひんはこうひんしつです。 <br>The products of the same company are of high quality.
+[sound:s-0142_同社の製品は高品質です。.mp3]	<b>同社</b> <br> 同社の製品は高品質です。<br> どうしゃのせいひんはこうひんしつです <br>The products of the same company are of high quality.
+共同	[sound:k-0143_共同.mp3]<br>きょうどう <br> doing together (as equals), sharing, common (land, etc.), joint (statement, etc.), cooperation, co-operation, collaboration, association
+doing together (as equals), sharing, common (land, etc.), joint (statement, etc.), cooperation, co-operation, collaboration, association	<b>共同<b> <br> きょうどう <br>[sound:k-0143_共同.mp3]
+[sound:k-0143_共同.mp3]	doing together<br> <b>as equals), sharing, common (land, etc.), joint (statement, etc.), cooperation, co-operation, collaboration, association (共同</b> <br> (きょうどう)
+<b>同日</b> <br> 二つのイベントは同日に開催されます。	[sound:s-0143_二つのイベントは同日に開催されます。.mp3] <br> ふたつのイベントはどうじつにかいさいされます。 <br>The two events will be held on the same day.
+[sound:s-0143_二つのイベントは同日に開催されます。.mp3]	<b>同日</b> <br> 二つのイベントは同日に開催されます。<br> ふたつのイベントはどうじつにかいさいされます <br>The two events will be held on the same day.
+同市	[sound:k-0144_同市.mp3]<br>どうし <br> same city
+same city	<b>同市<b> <br> どうし <br>[sound:k-0144_同市.mp3]
+[sound:k-0144_同市.mp3]	same city<br> <b>同市</b> <br> (どうし)
+<b>共同</b> <br> 彼らはプロジェクトの共同開発を行いました。	[sound:s-0144_彼らはプロジェクトの共同開発を行いました。.mp3] <br> かれらはプロジェクトのきょうどうかいはつをおこないました。 <br>They collaborated on the joint development of the project.
+[sound:s-0144_彼らはプロジェクトの共同開発を行いました。.mp3]	<b>共同</b> <br> 彼らはプロジェクトの共同開発を行いました。<br> かれらはプロジェクトのきょうどうかいはつをおこないました <br>They collaborated on the joint development of the project.
+共同体	[sound:k-0145_共同体.mp3]<br>きょうどうたい <br> cooperative body, cooperative system, collective, community
+cooperative body, cooperative system, collective, community	<b>共同体<b> <br> きょうどうたい <br>[sound:k-0145_共同体.mp3]
+[sound:k-0145_共同体.mp3]	cooperative body, cooperative system, collective, community<br> <b>共同体</b> <br> (きょうどうたい)
+<b>同市</b> <br> 彼らは同市に住んでいます。	[sound:s-0145_彼らは同市に住んでいます。.mp3] <br> かれらはどうしにすんでいます。 <br>They live in the same city.
+[sound:s-0145_彼らは同市に住んでいます。.mp3]	<b>同市</b> <br> 彼らは同市に住んでいます。<br> かれらはどうしにすんでいます <br>They live in the same city.
+同県	[sound:k-0146_同県.mp3]<br>どうけん <br> the same prefecture
+the same prefecture	<b>同県<b> <br> どうけん <br>[sound:k-0146_同県.mp3]
+[sound:k-0146_同県.mp3]	the same prefecture<br> <b>同県</b> <br> (どうけん)
+<b>共同体</b> <br> 彼らは共同体で協力しています。	[sound:s-0146_彼らは共同体で協力しています。.mp3] <br> かれらはきょうどうたいできょうりょくしています。 <br>They are cooperating within the community.
+[sound:s-0146_彼らは共同体で協力しています。.mp3]	<b>共同体</b> <br> 彼らは共同体で協力しています。<br> かれらはきょうどうたいできょうりょくしています <br>They are cooperating within the community.
+同国	[sound:k-0147_同国.mp3]<br>どうこく <br> the same country, the same province, the said country
+the same country, the same province, the said country	<b>同国<b> <br> どうこく <br>[sound:k-0147_同国.mp3]
+[sound:k-0147_同国.mp3]	the same country, the same province, the said country<br> <b>同国</b> <br> (どうこく)
+<b>同県</b> <br> 私たちは同県の出身です。	[sound:s-0147_私たちは同県の出身です。.mp3] <br> わたしたちはどうけんのしゅっしんです。 <br>We are from the same prefecture.
+[sound:s-0147_私たちは同県の出身です。.mp3]	<b>同県</b> <br> 私たちは同県の出身です。<br> わたしたちはどうけんのしゅっしんです <br>We are from the same prefecture.
+同省	[sound:k-0148_同省.mp3]<br>どうしょう <br> the said ministry, the same ministry
+the said ministry, the same ministry	<b>同省<b> <br> どうしょう <br>[sound:k-0148_同省.mp3]
+[sound:k-0148_同省.mp3]	the said ministry, the same ministry<br> <b>同省</b> <br> (どうしょう)
+<b>同国</b> <br> 彼らは同国の市民です。	[sound:s-0148_彼らは同国の市民です。.mp3] <br> かれらはどうこくのしみんです。 <br>They are citizens of the same country.
+[sound:s-0148_彼らは同国の市民です。.mp3]	<b>同国</b> <br> 彼らは同国の市民です。<br> かれらはどうこくのしみんです <br>They are citizens of the same country.
+同党	[sound:k-0149_同党.mp3]<br>どうとう <br> the same political party
+the same political party	<b>同党<b> <br> どうとう <br>[sound:k-0149_同党.mp3]
+[sound:k-0149_同党.mp3]	the same political party<br> <b>同党</b> <br> (どうとう)
+<b>同省</b> <br> 彼らは同省の職員です。	[sound:s-0149_彼らは同省の職員です。.mp3] <br> かれらはどうしょうのしょくいんです。 <br>They are employees of the same ministry.
+[sound:s-0149_彼らは同省の職員です。.mp3]	<b>同省</b> <br> 彼らは同省の職員です。<br> かれらはどうしょうのしょくいんです <br>They are employees of the same ministry.
+時	[sound:k-0150_時.mp3]<br>とき <br> time, hour; occasion, moment
+time, hour; occasion, moment	<b>時<b> <br> とき <br>[sound:k-0150_時.mp3]
+[sound:k-0150_時.mp3]	time, hour; occasion, moment<br> <b>時</b> <br> (とき)
+<b>二度</b> <br> 彼は二度と同じ過ちを繰り返さないだろう。	[sound:s-0150_彼は二度と同じ過ちを繰り返さないだろう。.mp3] <br> かれはにどとおなじあやまちをくりかえさないだろう。 <br>He won't make the same mistake twice.
+[sound:s-0150_彼は二度と同じ過ちを繰り返さないだろう。.mp3]	<b>二度</b> <br> 彼は二度と同じ過ちを繰り返さないだろう。<br> かれはにどとおなじあやまちをくりかえさないだろう <br>He won't make the same mistake twice.
+時間	[sound:k-0151_時間.mp3]<br>じかん <br> time; hours
+time; hours	<b>時間<b> <br> じかん <br>[sound:k-0151_時間.mp3]
+[sound:k-0151_時間.mp3]	time; hours<br> <b>時間</b> <br> (じかん)
+<b>外務省</b> <br> 外務省は外交政策を担当しています。	[sound:s-0151_外務省は外交政策を担当しています。.mp3] <br> がいむしょうはがいこうせいさくをたんとうしています。 <br>The Ministry of Foreign Affairs is responsible for foreign policy.
+[sound:s-0151_外務省は外交政策を担当しています。.mp3]	<b>外務省</b> <br> 外務省は外交政策を担当しています。<br> がいむしょうはがいこうせいさくをたんとうしています <br>The Ministry of Foreign Affairs is responsible for foreign policy.
+時期	[sound:k-0152_時期.mp3]<br>じき <br> time, season, period; soon, shortly
+time, season, period; soon, shortly	<b>時期<b> <br> じき <br>[sound:k-0152_時期.mp3]
+[sound:k-0152_時期.mp3]	time, season, period; soon, shortly<br> <b>時期</b> <br> (じき)
+<b>務める</b> <br> 彼はその会社で長年務めています。	[sound:s-0152_彼はその会社で長年務めています。.mp3] <br> かれはそのかいしゃでながねんつとめています。 <br>He has been working for the company for many years.
+[sound:s-0152_彼はその会社で長年務めています。.mp3]	<b>務める</b> <br> 彼はその会社で長年務めています。<br> かれはそのかいしゃでながねんつとめています <br>He has been working for the company for many years.
+時代	[sound:k-0153_時代.mp3]<br>じだい <br> period, epoch, era, age; the times, those days; oldness, ancientness, antiquity; antique, period piece
+period, epoch, era, age; the times, those days; oldness, ancientness, antiquity; antique, period piece	<b>時代<b> <br> じだい <br>[sound:k-0153_時代.mp3]
+[sound:k-0153_時代.mp3]	period, epoch, era, age; the times, those days; oldness, ancientness, antiquity; antique, period piece<br> <b>時代</b> <br> (じだい)
+<b>事務</b> <br> 彼女は事務の仕事をしています。	[sound:s-0153_彼女は事務の仕事をしています。.mp3] <br> かのじょはじむのしごとをしています。 <br>She works in administration.
+[sound:s-0153_彼女は事務の仕事をしています。.mp3]	<b>事務</b> <br> 彼女は事務の仕事をしています。<br> かのじょはじむのしごとをしています <br>She works in administration.
+当時	[sound:k-0154_当時.mp3]<br>とうじ <br> at that time, in those days
+at that time, in those days	<b>当時<b> <br> とうじ <br>[sound:k-0154_当時.mp3]
+[sound:k-0154_当時.mp3]	at that time, in those days<br> <b>当時</b> <br> (とうじ)
+<b>事務局</b> <br> その会議の事務局は準備をしています。	[sound:s-0154_その会議の事務局は準備をしています。.mp3] <br> そのかいぎのじむきょくはじゅんびをしています。 <br>The secretariat of the meeting is preparing.
+[sound:s-0154_その会議の事務局は準備をしています。.mp3]	<b>事務局</b> <br> その会議の事務局は準備をしています。<br> そのかいぎのじむきょくはじゅんびをしています <br>The secretariat of the meeting is preparing.
+同時	[sound:k-0155_同時.mp3]<br>どうじ <br> simultaneous(ly), concurrent, same time, synchronous, together
+simultaneous(ly), concurrent, same time, synchronous, together	<b>同時<b> <br> どうじ <br>[sound:k-0155_同時.mp3]
+[sound:k-0155_同時.mp3]	simultaneous(ly), concurrent, same time, synchronous, together<br> <b>同時</b> <br> (どうじ)
+<b>事務所</b> <br> 弁護士事務所に相談に行きました。	[sound:s-0155_弁護士事務所に相談に行きました。.mp3] <br> べんごしかいじょにそうだんにいきました。 <br>I went to consult at a law firm.
+[sound:s-0155_弁護士事務所に相談に行きました。.mp3]	<b>事務所</b> <br> 弁護士事務所に相談に行きました。<br> べんごしかいじょにそうだんにいきました <br>I went to consult at a law firm.
+一時	[sound:k-0156_一時.mp3]<br>いちじ, いっとき <br> one hour, short time, once, a time, temporarily, at one time, twelfth part of a day
+one hour, short time, once, a time, temporarily, at one time, twelfth part of a day	<b>一時<b> <br> いちじ, いっとき <br>[sound:k-0156_一時.mp3]
+[sound:k-0156_一時.mp3]	one hour, short time, once, a time, temporarily, at one time, twelfth part of a day<br> <b>一時</b> <br> (いちじ, いっとき)
+<b>業務</b> <br> 彼の業務は多岐にわたっています。	[sound:s-0156_彼の業務は多岐にわたっています。.mp3] <br> かれのぎょうむはたきにわたっています。 <br>His duties are wide-ranging.
+[sound:s-0156_彼の業務は多岐にわたっています。.mp3]	<b>業務</b> <br> 彼の業務は多岐にわたっています。<br> かれのぎょうむはたきにわたっています <br>His duties are wide-ranging.
+時事	[sound:k-0157_時事.mp3]<br>じじ <br> events of the day, current affairs
+events of the day, current affairs	<b>時事<b> <br> じじ <br>[sound:k-0157_時事.mp3]
+[sound:k-0157_時事.mp3]	events of the day, current affairs<br> <b>時事</b> <br> (じじ)
+<b>常務</b> <br> 彼は会社の常務です。	[sound:s-0157_彼は会社の常務です。.mp3] <br> かれはかいしゃのじょうむです。 <br>He is the managing director of the company.
+[sound:s-0157_彼は会社の常務です。.mp3]	<b>常務</b> <br> 彼は会社の常務です。<br> かれはかいしゃのじょうむです <br>He is the managing director of the company.
+時半	[sound:k-0158_時半.mp3]<br>じはん <br> about an hour, short time; half past (the hour)
+about an hour, short time; half past (the hour)	<b>時半<b> <br> じはん <br>[sound:k-0158_時半.mp3]
+[sound:k-0158_時半.mp3]	about an hour, short time; half past<br> <b>the hour) (時半</b> <br> (じはん)
+<b>専務</b> <br> 彼は専務取締役として働いています。	[sound:s-0158_彼は専務取締役として働いています。.mp3] <br> かれはせんむとりしまりやくとしてはたらいています。 <br>He works as an executive director.
+[sound:s-0158_彼は専務取締役として働いています。.mp3]	<b>専務</b> <br> 彼は専務取締役として働いています。<br> かれはせんむとりしまりやくとしてはたらいています <br>He works as an executive director.
+臨時	[sound:k-0159_臨時.mp3]<br>りんじ <br> temporary, special, extraordinary
+temporary, special, extraordinary	<b>臨時<b> <br> りんじ <br>[sound:k-0159_臨時.mp3]
+[sound:k-0159_臨時.mp3]	temporary, special, extraordinary<br> <b>臨時</b> <br> (りんじ)
+<b>総務</b> <br> 彼は会社の総務部長です。	[sound:s-0159_彼は会社の総務部長です。.mp3] <br> かれはかいしゃのそうむぶちょうです。 <br>He is the general affairs manager of the company.
+[sound:s-0159_彼は会社の総務部長です。.mp3]	<b>総務</b> <br> 彼は会社の総務部長です。<br> かれはかいしゃのそうむぶちょうです <br>He is the general affairs manager of the company.
+政	[sound:k-0160_政.mp3]<br>まつりごと <br> rule, government
+rule, government	<b>政<b> <br> まつりごと <br>[sound:k-0160_政.mp3]
+[sound:k-0160_政.mp3]	rule, government<br> <b>政</b> <br> (まつりごと)
+<b>外務</b> <br> 外務大臣は外交活動を行っています。	[sound:s-0160_外務大臣は外交活動を行っています。.mp3] <br> がいむだいじんはがいこうかつどうをおこなっています。 <br>The Foreign Minister is conducting diplomatic activities.
+[sound:s-0160_外務大臣は外交活動を行っています。.mp3]	<b>外務</b> <br> 外務大臣は外交活動を行っています。<br> がいむだいじんはがいこうかつどうをおこなっています <br>The Foreign Minister is conducting diplomatic activities.
+行政	[sound:k-0161_行政.mp3]<br>ぎょうせい <br> administration
+administration	<b>行政<b> <br> ぎょうせい <br>[sound:k-0161_行政.mp3]
+[sound:k-0161_行政.mp3]	administration<br> <b>行政</b> <br> (ぎょうせい)
+<b>強さ</b> <br> 彼の強さは彼の信念から来ています。	[sound:s-0161_彼の強さは彼の信念から来ています。.mp3] <br> かれのつよさはかれのしんねんからきています。 <br>His strength comes from his beliefs.
+[sound:s-0161_彼の強さは彼の信念から来ています。.mp3]	<b>強さ</b> <br> 彼の強さは彼の信念から来ています。<br> かれのつよさはかれのしんねんからきています <br>His strength comes from his beliefs.
+財政	[sound:k-0162_財政.mp3]<br>ざいせい <br> financial affairs, public finance
+financial affairs, public finance	<b>財政<b> <br> ざいせい <br>[sound:k-0162_財政.mp3]
+[sound:k-0162_財政.mp3]	financial affairs, public finance<br> <b>財政</b> <br> (ざいせい)
+<b>強化</b> <br> 政府はセキュリティを強化しています。	[sound:s-0162_政府はセキュリティを強化しています。.mp3] <br> せいふはせきゅりてぃをきょうかしています。 <br>The government is strengthening security.
+[sound:s-0162_政府はセキュリティを強化しています。.mp3]	<b>強化</b> <br> 政府はセキュリティを強化しています。<br> せいふはせきゅりてぃをきょうかしています <br>The government is strengthening security.
+政界	[sound:k-0163_政界.mp3]<br>せいかい <br> political world
+political world	<b>政界<b> <br> せいかい <br>[sound:k-0163_政界.mp3]
+[sound:k-0163_政界.mp3]	political world<br> <b>政界</b> <br> (せいかい)
+<b>強制</b> <br> その行為は法律によって強制されます。	[sound:s-0163_その行為は法律によって強制されます。.mp3] <br> そのこういはほうりつによってきょうせいされます。 <br>The action is enforced by law.
+[sound:s-0163_その行為は法律によって強制されます。.mp3]	<b>強制</b> <br> その行為は法律によって強制されます。<br> そのこういはほうりつによってきょうせいされます <br>The action is enforced by law.
+政権	[sound:k-0164_政権.mp3]<br>せいけん <br> (political) administration, political power
+(political) administration, political power	<b>政権<b> <br> せいけん <br>[sound:k-0164_政権.mp3]
+[sound:k-0164_政権.mp3]	(political) administration, political power<br> <b>政権</b> <br> (せいけん)
+<b>勉強</b> <br> 彼女は毎日勉強しています。	[sound:s-0164_彼女は毎日勉強しています。.mp3] <br> かのじょはまいにちべんきょうしています。 <br>She studies every day.
+[sound:s-0164_彼女は毎日勉強しています。.mp3]	<b>勉強</b> <br> 彼女は毎日勉強しています。<br> かのじょはまいにちべんきょうしています <br>She studies every day.
+政策	[sound:k-0165_政策.mp3]<br>せいさく <br> political measures, policy
+political measures, policy	<b>政策<b> <br> せいさく <br>[sound:k-0165_政策.mp3]
+[sound:k-0165_政策.mp3]	political measures, policy<br> <b>政策</b> <br> (せいさく)
+<b>強める</b> <br> 彼は音量を強めました。	[sound:s-0165_彼は音量を強めました。.mp3] <br> かれはおんりょうをつよめました。 <br>He increased the volume.
+[sound:s-0165_彼は音量を強めました。.mp3]	<b>強める</b> <br> 彼は音量を強めました。<br> かれはおんりょうをつよめました <br>He increased the volume.
+政治	[sound:k-0166_政治.mp3]<br>せいじ <br> politics, government
+politics, government	<b>政治<b> <br> せいじ <br>[sound:k-0166_政治.mp3]
+[sound:k-0166_政治.mp3]	politics, government<br> <b>政治</b> <br> (せいじ)
+<b>強硬</b> <br> 政府は強硬な態度を取りました。	[sound:s-0166_政府は強硬な態度を取りました。.mp3] <br> せいふはきょうこうなたいどをとりました。 <br>The government took a tough stance.
+[sound:s-0166_政府は強硬な態度を取りました。.mp3]	<b>強硬</b> <br> 政府は強硬な態度を取りました。<br> せいふはきょうこうなたいどをとりました <br>The government took a tough stance.
+政治家	[sound:k-0167_政治家.mp3]<br>せいじか <br> politician, statesman
+politician, statesman	<b>政治家<b> <br> せいじか <br>[sound:k-0167_政治家.mp3]
+[sound:k-0167_政治家.mp3]	politician, statesman<br> <b>政治家</b> <br> (せいじか)
+<b>強力</b> <br> その機械は非常に強力です。	[sound:s-0167_その機械は非常に強力です。.mp3] <br> そのきかいはひじょうにきょうりょくです。 <br>That machine is very powerful.
+[sound:s-0167_その機械は非常に強力です。.mp3]	<b>強力</b> <br> その機械は非常に強力です。<br> そのきかいはひじょうにきょうりょくです <br>That machine is very powerful.
+政党	[sound:k-0168_政党.mp3]<br>せいとう <br> (member of) political party
+(member of) political party	<b>政党<b> <br> せいとう <br>[sound:k-0168_政党.mp3]
+[sound:k-0168_政党.mp3]	(member of) political party<br> <b>政党</b> <br> (せいとう)
+<b>強盗</b> <br> 銀行に強盗が侵入しました。	[sound:s-0168_銀行に強盗が侵入しました。.mp3] <br> ぎんこうにごうとうがしんにゅうしました。 <br>Robbers broke into the bank.
+[sound:s-0168_銀行に強盗が侵入しました。.mp3]	<b>強盗</b> <br> 銀行に強盗が侵入しました。<br> ぎんこうにごうとうがしんにゅうしました <br>Robbers broke into the bank.
+政府	[sound:k-0169_政府.mp3]<br>せいふ <br> government, administration
+government, administration	<b>政府<b> <br> せいふ <br>[sound:k-0169_政府.mp3]
+[sound:k-0169_政府.mp3]	government, administration<br> <b>政府</b> <br> (せいふ)
+<b>強み</b> <br> 彼の強みはリーダーシップです。	[sound:s-0169_彼の強みはリーダーシップです。.mp3] <br> かれのつよみはりーだーしっぷです。 <br>His strength is leadership.
+[sound:s-0169_彼の強みはリーダーシップです。.mp3]	<b>強み</b> <br> 彼の強みはリーダーシップです。<br> かれのつよみはりーだーしっぷです <br>His strength is leadership.
+事	[sound:k-0170_事.mp3]<br>こと <br> thing, matter, fact, circumstances, business, reason, experience
+thing, matter, fact, circumstances, business, reason, experience	<b>事<b> <br> こと <br>[sound:k-0170_事.mp3]
+[sound:k-0170_事.mp3]	thing, matter, fact, circumstances, business, reason, experience<br> <b>事</b> <br> (こと)
+<b>強気</b> <br> 彼女は交渉に強気です。	[sound:s-0170_彼女は交渉に強気です。.mp3] <br> かのじょはこうしょうにつよきです。 <br>She is aggressive in negotiations.
+[sound:s-0170_彼女は交渉に強気です。.mp3]	<b>強気</b> <br> 彼女は交渉に強気です。<br> かのじょはこうしょうにつよきです <br>She is aggressive in negotiations.
+幹事	[sound:k-0171_幹事.mp3]<br>かんじ <br> executive secretary, coordinator, organizer, person in charge of making arrangements
+executive secretary, coordinator, organizer, person in charge of making arrangements	<b>幹事<b> <br> かんじ <br>[sound:k-0171_幹事.mp3]
+[sound:k-0171_幹事.mp3]	executive secretary, coordinator, organizer, person in charge of making arrangements<br> <b>幹事</b> <br> (かんじ)
+<b>気</b> <br> 彼は元気です。	[sound:s-0171_彼は元気です。.mp3] <br> かれはげんきです。 <br>He is energetic.
+[sound:s-0171_彼は元気です。.mp3]	<b>気</b> <br> 彼は元気です。<br> かれはげんきです <br>He is energetic.
+記事	[sound:k-0172_記事.mp3]<br>きじ <br> article, news story, report, account
+article, news story, report, account	<b>記事<b> <br> きじ <br>[sound:k-0172_記事.mp3]
+[sound:k-0172_記事.mp3]	article, news story, report, account<br> <b>記事</b> <br> (きじ)
+<b>景気</b> <br> 経済の景気は回復しています。	[sound:s-0172_経済の景気は回復しています。.mp3] <br> けいざいのけいきはかいふくしています。 <br>The economy is recovering.
+[sound:s-0172_経済の景気は回復しています。.mp3]	<b>景気</b> <br> 経済の景気は回復しています。<br> けいざいのけいきはかいふくしています <br>The economy is recovering.
+軍事	[sound:k-0173_軍事.mp3]<br>ぐんじ <br> military affairs
+military affairs	<b>軍事<b> <br> ぐんじ <br>[sound:k-0173_軍事.mp3]
+[sound:k-0173_軍事.mp3]	military affairs<br> <b>軍事</b> <br> (ぐんじ)
+<b>人気</b> <br> 彼は学校で人気があります。	[sound:s-0173_彼は学校で人気があります。.mp3] <br> かれはがっこうでにんきがあります。 <br>He is popular at school.
+[sound:s-0173_彼は学校で人気があります。.mp3]	<b>人気</b> <br> 彼は学校で人気があります。<br> かれはがっこうでにんきがあります <br>He is popular at school.
+仕事	[sound:k-0174_仕事.mp3]<br>しごと <br> work, job, business, occupation, employment, vocation, task; work
+work, job, business, occupation, employment, vocation, task; work	<b>仕事<b> <br> しごと <br>[sound:k-0174_仕事.mp3]
+[sound:k-0174_仕事.mp3]	work, job, business, occupation, employment, vocation, task; work<br> <b>仕事</b> <br> (しごと)
+<b>気持ち</b> <br> 彼の気持ちは分かりますか？	[sound:s-0174_彼の気持ちは分かりますか？.mp3] <br> かれのきもちはわかりますか？ <br>Do you understand his feelings?
+[sound:s-0174_彼の気持ちは分かりますか？.mp3]	(<b>気持ち</b>) 彼の気持ちは分かりますか？	かれのきもちはわかりますか？ <br>Do you understand his feelings?
+事業	[sound:k-0175_事業.mp3]<br>じぎょう <br> project, enterprise, business, industry, operations
+project, enterprise, business, industry, operations	<b>事業<b> <br> じぎょう <br>[sound:k-0175_事業.mp3]
+[sound:k-0175_事業.mp3]	project, enterprise, business, industry, operations<br> <b>事業</b> <br> (じぎょう)
+<b>電気</b> <br> 部屋に電気をつけてください。	[sound:s-0175_部屋に電気をつけてください。.mp3] <br> へやにでんきをつけてください。 <br>Please turn on the lights in the room.
+[sound:s-0175_部屋に電気をつけてください。.mp3]	<b>電気</b> <br> 部屋に電気をつけてください。<br> へやにでんきをつけてください <br>Please turn on the lights in the room.
+事件	[sound:k-0176_事件.mp3]<br>じけん <br> event, affair, incident, case, plot, trouble, scandal
+event, affair, incident, case, plot, trouble, scandal	<b>事件<b> <br> じけん <br>[sound:k-0176_事件.mp3]
+[sound:k-0176_事件.mp3]	event, affair, incident, case, plot, trouble, scandal<br> <b>事件</b> <br> (じけん)
+<b>病気</b> <br> 彼女は病気で学校を休んでいます。	[sound:s-0176_彼女は病気で学校を休んでいます。.mp3] <br> かのじょはびょうきでがっこうをやすんでいます。 <br>She is absent from school due to illness.
+[sound:s-0176_彼女は病気で学校を休んでいます。.mp3]	<b>病気</b> <br> 彼女は病気で学校を休んでいます。<br> かのじょはびょうきでがっこうをやすんでいます <br>She is absent from school due to illness.
+事故	[sound:k-0177_事故.mp3]<br>じこ <br> accident, incident, trouble; circumstances, reasons
+accident, incident, trouble; circumstances, reasons	<b>事故<b> <br> じこ <br>[sound:k-0177_事故.mp3]
+[sound:k-0177_事故.mp3]	accident, incident, trouble; circumstances, reasons<br> <b>事故</b> <br> (じこ)
+<b>一気</b> <br> 彼は一気に全ての問題を解決しました。	[sound:s-0177_彼は一気に全ての問題を解決しました。.mp3] <br> かれはいっきにすべてのもんだいをかいけつしました。 <br>He solved all the problems in one go.
+[sound:s-0177_彼は一気に全ての問題を解決しました。.mp3]	<b>一気</b> <br> 彼は一気に全ての問題を解決しました。<br> かれはいっきにすべてのもんだいをかいけつしました <br>He solved all the problems in one go.
+事実	[sound:k-0178_事実.mp3]<br>じじつ <br> fact, truth, reality
+fact, truth, reality	<b>事実<b> <br> じじつ <br>[sound:k-0178_事実.mp3]
+[sound:k-0178_事実.mp3]	fact, truth, reality<br> <b>事実</b> <br> (じじつ)
+<b>気分</b> <br> 彼女の気分が悪いです。	[sound:s-0178_彼女の気分が悪いです。.mp3] <br> かのじょのきぶんがわるいです。 <br>She is in a bad mood.
+[sound:s-0178_彼女の気分が悪いです。.mp3]	<b>気分</b> <br> 彼女の気分が悪いです。<br> かのじょのきぶんがわるいです <br>She is in a bad mood.
+事情	[sound:k-0179_事情.mp3]<br>じじょう <br> circumstances, consideration, conditions, situation, reasons
+circumstances, consideration, conditions, situation, reasons	<b>事情<b> <br> じじょう <br>[sound:k-0179_事情.mp3]
+[sound:k-0179_事情.mp3]	circumstances, consideration, conditions, situation, reasons<br> <b>事情</b> <br> (じじょう)
+<b>空気</b> <br> ここは空気が清新です。	[sound:s-0179_ここは空気が清新です。.mp3] <br> ここはくうきがせいしんです。 <br>The air here is fresh.
+[sound:s-0179_ここは空気が清新です。.mp3]	<b>空気</b> <br> ここは空気が清新です。<br> ここはくうきがせいしんです <br>The air here is fresh.
+自ら	[sound:k-0180_自ら.mp3]<br>みずから <br> for one's self, personally
+for one's self, personally	<b>自ら<b> <br> みずから <br>[sound:k-0180_自ら.mp3]
+[sound:k-0180_自ら.mp3]	for one's self, personally<br> <b>自ら</b> <br> (みずから)
+<b>雰囲気</b> <br> その店の雰囲気が好きです。	[sound:s-0180_その店の雰囲気が好きです。.mp3] <br> そのみせのふんいきがすきです。 <br>I like the atmosphere of that shop.
+[sound:s-0180_その店の雰囲気が好きです。.mp3]	<b>雰囲気</b> <br> その店の雰囲気が好きです。<br> そのみせのふんいきがすきです <br>I like the atmosphere of that shop.
+自衛隊	[sound:k-0181_自衛隊.mp3]<br>じえいたい <br> self-defence force, self-defense force; Japan Self-Defence Force, JSDF
+self-defence force, self-defense force; Japan Self-Defence Force, JSDF	<b>自衛隊<b> <br> じえいたい <br>[sound:k-0181_自衛隊.mp3]
+[sound:k-0181_自衛隊.mp3]	self-defence force, self-defense force; Japan Self-Defence Force, JSDF<br> <b>自衛隊</b> <br> (じえいたい)
+<b>小選挙区</b> <br> 小選挙区では激しい競争が繰り広げられています。	[sound:s-0181_小選挙区では激しい競争が繰り広げられています。.mp3] <br> しょうせんきょくでははげしいきょうそうがくりひろげられています。 <br>Fierce competition is unfolding in the single-member district.
+[sound:s-0181_小選挙区では激しい競争が繰り広げられています。.mp3]	<b>小選挙区</b> <br> 小選挙区では激しい競争が繰り広げられています。<br> しょうせんきょくでははげしいきょうそうがくりひろげられています <br>Fierce competition is unfolding in the single-member district.
+自身	[sound:k-0182_自身.mp3]<br>じしん <br> by oneself, personally
+by oneself, personally	<b>自身<b> <br> じしん <br>[sound:k-0182_自身.mp3]
+[sound:k-0182_自身.mp3]	by oneself, personally<br> <b>自身</b> <br> (じしん)
+<b>小学校</b> <br> 彼は小学校で友達と遊んでいます。	[sound:s-0182_彼は小学校で友達と遊んでいます。.mp3] <br> かれはしょうがっこうでともだちとあそんでいます。 <br>He is playing with his friends at elementary school.
+[sound:s-0182_彼は小学校で友達と遊んでいます。.mp3]	<b>小学校</b> <br> 彼は小学校で友達と遊んでいます。<br> かれはしょうがっこうでともだちとあそんでいます <br>He is playing with his friends at elementary school.
+自然	[sound:k-0183_自然.mp3]<br>しぜん <br> nature, spontaneity; naturally, spontaneously
+nature, spontaneity; naturally, spontaneously	<b>自然<b> <br> しぜん <br>[sound:k-0183_自然.mp3]
+[sound:k-0183_自然.mp3]	nature, spontaneity; naturally, spontaneously<br> <b>自然</b> <br> (しぜん)
+<b>小説</b> <br> 彼は素晴らしい小説を書きました。	[sound:s-0183_彼は素晴らしい小説を書きました。.mp3] <br> かれはすばらしいしょうせつをかきました。 <br>He wrote a wonderful novel.
+[sound:s-0183_彼は素晴らしい小説を書きました。.mp3]	<b>小説</b> <br> 彼は素晴らしい小説を書きました。<br> かれはすばらしいしょうせつをかきました <br>He wrote a wonderful novel.
+自宅	[sound:k-0184_自宅.mp3]<br>じたく <br> one's home
+one's home	<b>自宅<b> <br> じたく <br>[sound:k-0184_自宅.mp3]
+[sound:k-0184_自宅.mp3]	one's home<br> <b>自宅</b> <br> (じたく)
+<b>小学生</b> <br> 小学生の頃、彼女はバレエを習っていました。	[sound:s-0184_小学生の頃、彼女はバレエを習っていました。.mp3] <br> しょうがくせいのころ、かのじょはばれえをならっていました。 <br>She took ballet lessons when she was an elementary school student.
+[sound:s-0184_小学生の頃、彼女はバレエを習っていました。.mp3]	<b>小学生</b> <br> 小学生の頃、彼女はバレエを習っていました。<br> しょうがくせいのころ、かのじょはばれえをならっていました <br>She took ballet lessons when she was an elementary school student.
+自動車	[sound:k-0185_自動車.mp3]<br>じどうしゃ <br> automobile
+automobile	<b>自動車<b> <br> じどうしゃ <br>[sound:k-0185_自動車.mp3]
+[sound:k-0185_自動車.mp3]	automobile<br> <b>自動車</b> <br> (じどうしゃ)
+<b>中小企業</b> <br> 日本の経済は中小企業に支えられています。	[sound:s-0185_日本の経済は中小企業に支えられています。.mp3] <br> にほんのけいざいはちゅうしょうきぎょうにささえられています。 <br>Japan's economy is supported by small and medium-sized enterprises.
+[sound:s-0185_日本の経済は中小企業に支えられています。.mp3]	<b>中小企業</b> <br> 日本の経済は中小企業に支えられています。<br> にほんのけいざいはちゅうしょうきぎょうにささえられています <br>Japan's economy is supported by small and medium-sized enterprises.
+自分	[sound:k-0186_自分.mp3]<br>じぶん <br> myself, yourself, oneself, himself, herself; I, me
+myself, yourself, oneself, himself, herself; I, me	<b>自分<b> <br> じぶん <br>[sound:k-0186_自分.mp3]
+[sound:k-0186_自分.mp3]	myself, yourself, oneself, himself, herself; I, me<br> <b>自分</b> <br> (じぶん)
+<b>小学</b> <br> 私の町には小学が2つあります。	[sound:s-0186_私の町には小学が2つあります。.mp3] <br> わたしのまちにはしょうがっこうがふたつあります。 <br>There are two elementary schools in my town.
+[sound:s-0186_私の町には小学が2つあります。.mp3]	<b>小学</b> <br> 私の町には小学が2つあります。<br> わたしのまちにはしょうがっこうがふたつあります <br>There are two elementary schools in my town.
+自由	[sound:k-0187_自由.mp3]<br>じゆう <br> freedom, liberty, as it pleases you
+freedom, liberty, as it pleases you	<b>自由<b> <br> じゆう <br>[sound:k-0187_自由.mp3]
+[sound:k-0187_自由.mp3]	freedom, liberty, as it pleases you<br> <b>自由</b> <br> (じゆう)
+<b>小型</b> <br> この車は小型ですが、とても便利です。	[sound:s-0187_この車は小型ですが、とても便利です。.mp3] <br> このくるまはしょうがたですが、とてもべんりです。 <br>This car is small but very convenient.
+[sound:s-0187_この車は小型ですが、とても便利です。.mp3]	<b>小型</b> <br> この車は小型ですが、とても便利です。<br> このくるまはしょうがたですが、とてもべんりです <br>This car is small but very convenient.
+自民党	[sound:k-0188_自民党.mp3]<br>じみんとう <br> Liberal Democratic Party, LDP
+Liberal Democratic Party, LDP	<b>自民党<b> <br> じみんとう <br>[sound:k-0188_自民党.mp3]
+[sound:k-0188_自民党.mp3]	Liberal Democratic Party, LDP<br> <b>自民党</b> <br> (じみんとう)
+<b>縮小</b> <br> 企業は予算を縮小しました。	[sound:s-0188_企業は予算を縮小しました。.mp3] <br> きぎょうはよさんをしゅくしょうしました。 <br>The company reduced its budget.
+[sound:s-0188_企業は予算を縮小しました。.mp3]	<b>縮小</b> <br> 企業は予算を縮小しました。<br> きぎょうはよさんをしゅくしょうしました <br>The company reduced its budget.
+自民	[sound:k-0189_自民.mp3]<br>じみん <br> Liberal Democratic Party, LDP
+Liberal Democratic Party, LDP	<b>自民<b> <br> じみん <br>[sound:k-0189_自民.mp3]
+[sound:k-0189_自民.mp3]	Liberal Democratic Party, LDP<br> <b>自民</b> <br> (じみん)
+<b>小川</b> <br> 小川のそばでピクニックを楽しんだ。	[sound:s-0189_小川のそばでピクニックを楽しんだ。.mp3] <br> おがわのそばでぴくにっくをたのしんだ。 <br>We enjoyed a picnic by the stream.
+[sound:s-0189_小川のそばでピクニックを楽しんだ。.mp3]	<b>小川</b> <br> 小川のそばでピクニックを楽しんだ。<br> おがわのそばでぴくにっくをたのしんだ <br>We enjoyed a picnic by the stream.
+行う	[sound:k-0190_行う.mp3]<br>おこなう <br> to perform, to do, to conduct oneself, to carry out
+to perform, to do, to conduct oneself, to carry out	<b>行う<b> <br> おこなう <br>[sound:k-0190_行う.mp3]
+[sound:k-0190_行う.mp3]	to perform, to do, to conduct oneself, to carry out<br> <b>行う</b> <br> (おこなう)
+<b>小島</b> <br> 小島には美しいビーチがあります。	[sound:s-0190_小島には美しいビーチがあります。.mp3] <br> しょうとうにはうつくしいびーちがあります。 <br>The island has beautiful beaches.
+[sound:s-0190_小島には美しいビーチがあります。.mp3]	<b>小島</b> <br> 小島には美しいビーチがあります。<br> しょうとうにはうつくしいびーちがあります <br>The island has beautiful beaches.
+行	[sound:k-0191_行.mp3]<br>ぎょう <br> line (i.e. of text), row, verse; carya (austerities); samskara (formations); running script (a semi-cursive style of kanji)
+line (i.e. of text), row, verse; carya (austerities); samskara (formations); running script (a semi-cursive style of kanji)	<b>行<b> <br> ぎょう <br>[sound:k-0191_行.mp3]
+[sound:k-0191_行.mp3]	line<br> <b>i.e. of text), row, verse; carya (austerities); samskara (formations); running script (a semi-cursive style of kanji) (行</b> <br> (ぎょう)
+<b>七</b> <br> 彼女は七つの赤いりんごを買いました。	[sound:s-0191_彼女は七つの赤いりんごを買いました。.mp3] <br> かのじょはななつのあかいりんごをかいました。 <br>She bought seven red apples.
+[sound:s-0191_彼女は七つの赤いりんごを買いました。.mp3]	<b>七</b> <br> 彼女は七つの赤いりんごを買いました。<br> かのじょはななつのあかいりんごをかいました <br>She bought seven red apples.
+銀行	[sound:k-0192_銀行.mp3]<br>ぎんこう <br> bank
+bank	<b>銀行<b> <br> ぎんこう <br>[sound:k-0192_銀行.mp3]
+[sound:k-0192_銀行.mp3]	bank<br> <b>銀行</b> <br> (ぎんこう)
+<b>七月</b> <br> 七月は私の誕生日です。	[sound:s-0192_七月は私の誕生日です。.mp3] <br> しちがつはわたしのたんじょうびです。 <br>July is my birthday month.
+[sound:s-0192_七月は私の誕生日です。.mp3]	<b>七月</b> <br> 七月は私の誕生日です。<br> しちがつはわたしのたんじょうびです <br>July is my birthday month.
+行政	[sound:k-0193_行政.mp3]<br>ぎょうせい <br> administration
+administration	<b>行政<b> <br> ぎょうせい <br>[sound:k-0193_行政.mp3]
+[sound:k-0193_行政.mp3]	administration<br> <b>行政</b> <br> (ぎょうせい)
+<b>十七</b> <br> 彼女の誕生日は十七日です。	[sound:s-0193_彼女の誕生日は十七日です。.mp3] <br> かのじょのたんじょうびはじゅうしちにちです。 <br>Her birthday is on the 17th.
+[sound:s-0193_彼女の誕生日は十七日です。.mp3]	<b>十七</b> <br> 彼女の誕生日は十七日です。<br> かのじょのたんじょうびはじゅうしちにちです <br>Her birthday is on the 17th.
+行動	[sound:k-0194_行動.mp3]<br>こうどう <br> action, conduct, behaviour, behavior, mobilization, mobilisation
+action, conduct, behaviour, behavior, mobilization, mobilisation	<b>行動<b> <br> こうどう <br>[sound:k-0194_行動.mp3]
+[sound:k-0194_行動.mp3]	action, conduct, behaviour, behavior, mobilization, mobilisation<br> <b>行動</b> <br> (こうどう)
+<b>七十</b> <br> 彼の祖母は七十歳です。	[sound:s-0194_彼の祖母は七十歳です。.mp3] <br> かれのそぼはななじゅっさいです。 <br>His grandmother is seventy years old.
+[sound:s-0194_彼の祖母は七十歳です。.mp3]	<b>七十</b> <br> 彼の祖母は七十歳です。<br> かれのそぼはななじゅっさいです <br>His grandmother is seventy years old.
+現行	[sound:k-0195_現行.mp3]<br>げんこう <br> present, current, in operation
+present, current, in operation	<b>現行<b> <br> げんこう <br>[sound:k-0195_現行.mp3]
+[sound:k-0195_現行.mp3]	present, current, in operation<br> <b>現行</b> <br> (げんこう)
+<b>四十七士</b> <br> 四十七士の忠義は有名です。	[sound:s-0195_四十七士の忠義は有名です。.mp3] <br> しよんじゅうしちしのちゅうぎはゆうめいです。 <br>The loyalty of the 47 Ronin is famous.
+[sound:s-0195_四十七士の忠義は有名です。.mp3]	<b>四十七士</b> <br> 四十七士の忠義は有名です。<br> しよんじゅうしちしのちゅうぎはゆうめいです <br>The loyalty of the 47 Ronin is famous.
+行為	[sound:k-0196_行為.mp3]<br>こうい <br> act, deed, conduct
+act, deed, conduct	<b>行為<b> <br> こうい <br>[sound:k-0196_行為.mp3]
+[sound:k-0196_行為.mp3]	act, deed, conduct<br> <b>行為</b> <br> (こうい)
+<b>七つ</b> <br> 私はテーブルの上に七つの本を見つけました。	[sound:s-0196_私はテーブルの上に七つの本を見つけました。.mp3] <br> わたしはてーぶるのうえにななつのほんをみつけました。 <br>I found seven books on the table.
+[sound:s-0196_私はテーブルの上に七つの本を見つけました。.mp3]	<b>七つ</b> <br> 私はテーブルの上に七つの本を見つけました。<br> わたしはてーぶるのうえにななつのほんをみつけました <br>I found seven books on the table.
+行方	[sound:k-0197_行方.mp3]<br>ゆくえ <br> (one's) whereabouts; course, direction
+(one's) whereabouts; course, direction	<b>行方<b> <br> ゆくえ <br>[sound:k-0197_行方.mp3]
+[sound:k-0197_行方.mp3]	(one's) whereabouts; course, direction<br> <b>行方</b> <br> (ゆくえ)
+<b>七七日</b> <br> 七七日は七夕です。	[sound:s-0197_七七日は七夕です。.mp3] <br> しちしちにちはたなばたです。 <br>The seventh day of the seventh month is Tanabata.
+[sound:s-0197_七七日は七夕です。.mp3]	<b>七七日</b> <br> 七七日は七夕です。<br> しちしちにちはたなばたです <br>The seventh day of the seventh month is Tanabata.
+発行	[sound:k-0198_発行.mp3]<br>はっこう <br> issue (publications), publishing; raising an event (software)
+issue (publications), publishing; raising an event (software)	<b>発行<b> <br> はっこう <br>[sound:k-0198_発行.mp3]
+[sound:k-0198_発行.mp3]	issue<br> <b>publications), publishing; raising an event (software) (発行</b> <br> (はっこう)
+<b>二七日</b> <br> 二七日は来週の火曜日です。	[sound:s-0198_二七日は来週の火曜日です。.mp3] <br> にじゅうしちにちはらいしゅうのかようびです。 <br>The 27th is Tuesday next week.
+[sound:s-0198_二七日は来週の火曜日です。.mp3]	<b>二七日</b> <br> 二七日は来週の火曜日です。<br> にじゅうしちにちはらいしゅうのかようびです <br>The 27th is Tuesday next week.
+旅行	[sound:k-0199_旅行.mp3]<br>りょこう <br> travel, trip
+travel, trip	<b>旅行<b> <br> りょこう <br>[sound:k-0199_旅行.mp3]
+[sound:k-0199_旅行.mp3]	travel, trip<br> <b>旅行</b> <br> (りょこう)
+<b>七夕</b> <br> 七夕には笹飾りをします。	[sound:s-0199_七夕には笹飾りをします。.mp3] <br> たなばたにはささかざりをします。 <br>We decorate bamboo grass on Tanabata.
+[sound:s-0199_七夕には笹飾りをします。.mp3]	<b>七夕</b> <br> 七夕には笹飾りをします。<br> たなばたにはささかざりをします <br>We decorate bamboo grass on Tanabata.
+会社	[sound:k-0200_会社.mp3]<br>かいしゃ <br> company, corporation; workplace
+company, corporation; workplace	<b>会社<b> <br> かいしゃ <br>[sound:k-0200_会社.mp3]
+[sound:k-0200_会社.mp3]	company, corporation; workplace<br> <b>会社</b> <br> (かいしゃ)
+<b>七回忌</b> <br> 彼女の七回忌が家族で行われました。	[sound:s-0200_彼女の七回忌が家族で行われました。.mp3] <br> かのじょのしちかいきがかぞくでおこなわれました。 <br>Her seventh death anniversary was held with family.
+[sound:s-0200_彼女の七回忌が家族で行われました。.mp3]	<b>七回忌</b> <br> 彼女の七回忌が家族で行われました。<br> かのじょのしちかいきがかぞくでおこなわれました <br>Her seventh death anniversary was held with family.
+社会	[sound:k-0201_社会.mp3]<br>しゃかい <br> society, public
+society, public	<b>社会<b> <br> しゃかい <br>[sound:k-0201_社会.mp3]
+[sound:k-0201_社会.mp3]	society, public<br> <b>社会</b> <br> (しゃかい)
+<b>成長</b> <br> 彼の成長は素晴らしいです。	[sound:s-0201_彼の成長は素晴らしいです。.mp3] <br> かれのせいちょうはすばらしいです。 <br>His growth is wonderful.
+[sound:s-0201_彼の成長は素晴らしいです。.mp3]	<b>成長</b> <br> 彼の成長は素晴らしいです。<br> かれのせいちょうはすばらしいです <br>His growth is wonderful.
+社会党	[sound:k-0202_社会党.mp3]<br>しゃかいとう <br> Socialist Party
+Socialist Party	<b>社会党<b> <br> しゃかいとう <br>[sound:k-0202_社会党.mp3]
+[sound:k-0202_社会党.mp3]	Socialist Party<br> <b>社会党</b> <br> (しゃかいとう)
+<b>賛成</b> <br> 彼はこの提案に賛成しました。	[sound:s-0202_彼はこの提案に賛成しました。.mp3] <br> かれはこのていあんにさんせいしました。 <br>He agreed with this proposal.
+[sound:s-0202_彼はこの提案に賛成しました。.mp3]	<b>賛成</b> <br> 彼はこの提案に賛成しました。<br> かれはこのていあんにさんせいしました <br>He agreed with this proposal.
+社長	[sound:k-0203_社長.mp3]<br>しゃちょう <br> company president, manager, director
+company president, manager, director	<b>社長<b> <br> しゃちょう <br>[sound:k-0203_社長.mp3]
+[sound:k-0203_社長.mp3]	company president, manager, director<br> <b>社長</b> <br> (しゃちょう)
+<b>成果</b> <br> 彼の努力の成果が見えます。	[sound:s-0203_彼の努力の成果が見えます。.mp3] <br> かれのどりょくのせいかがみえます。 <br>The results of his efforts are visible.
+[sound:s-0203_彼の努力の成果が見えます。.mp3]	<b>成果</b> <br> 彼の努力の成果が見えます。<br> かれのどりょくのせいかがみえます <br>The results of his efforts are visible.
+同社	[sound:k-0204_同社.mp3]<br>どうしゃ <br> the same firm
+the same firm	<b>同社<b> <br> どうしゃ <br>[sound:k-0204_同社.mp3]
+[sound:k-0204_同社.mp3]	the same firm<br> <b>同社</b> <br> (どうしゃ)
+<b>成立</b> <br> その法律は昨日成立しました。	[sound:s-0204_その法律は昨日成立しました。.mp3] <br> そのほうりつはきのうせいりつしました。 <br>The law was enacted yesterday.
+[sound:s-0204_その法律は昨日成立しました。.mp3]	<b>成立</b> <br> その法律は昨日成立しました。<br> そのほうりつはきのうせいりつしました <br>The law was enacted yesterday.
+本社	[sound:k-0205_本社.mp3]<br>ほんしゃ, ほんじゃ <br> head office, main office, headquarters; main shrine; this company, this shrine
+head office, main office, headquarters; main shrine; this company, this shrine	<b>本社<b> <br> ほんしゃ, ほんじゃ <br>[sound:k-0205_本社.mp3]
+[sound:k-0205_本社.mp3]	head office, main office, headquarters; main shrine; this company, this shrine<br> <b>本社</b> <br> (ほんしゃ, ほんじゃ)
+<b>編成</b> <br> 新しいチームの編成が完了しました。	[sound:s-0205_新しいチームの編成が完了しました。.mp3] <br> あたらしいちーむのへんせいがかんりょうしました。 <br>The formation of the new team is complete.
+[sound:s-0205_新しいチームの編成が完了しました。.mp3]	<b>編成</b> <br> 新しいチームの編成が完了しました。<br> あたらしいちーむのへんせいがかんりょうしました <br>The formation of the new team is complete.
+社員	[sound:k-0206_社員.mp3]<br>しゃいん <br> company employee; company stockholders (esp. in legal contexts), members of a corporation
+company employee; company stockholders (esp. in legal contexts), members of a corporation	<b>社員<b> <br> しゃいん <br>[sound:k-0206_社員.mp3]
+[sound:k-0206_社員.mp3]	company employee; company stockholders<br> <b>esp. in legal contexts), members of a corporation (社員</b> <br> (しゃいん)
+<b>結成</b> <br> そのバンドは10年前に結成されました。	[sound:s-0206_そのバンドは10年前に結成されました。.mp3] <br> そのばんどはじゅうねんまえにけっせいされました。 <br>The band was formed ten years ago.
+[sound:s-0206_そのバンドは10年前に結成されました。.mp3]	<b>結成</b> <br> そのバンドは10年前に結成されました。<br> そのばんどはじゅうねんまえにけっせいされました <br>The band was formed ten years ago.
+副社長	[sound:k-0207_副社長.mp3]<br>ふくしゃちょう <br> executive vice-president
+executive vice-president	<b>副社長<b> <br> ふくしゃちょう <br>[sound:k-0207_副社長.mp3]
+[sound:k-0207_副社長.mp3]	executive vice-president<br> <b>副社長</b> <br> (ふくしゃちょう)
+<b>構成</b> <br> この本の構成は非常に興味深いです。	[sound:s-0207_この本の構成は非常に興味深いです。.mp3] <br> このほんのこうせいはひじょうにきょうみぶかいです。 <br>The structure of this book is very interesting.
+[sound:s-0207_この本の構成は非常に興味深いです。.mp3]	<b>構成</b> <br> この本の構成は非常に興味深いです。<br> このほんのこうせいはひじょうにきょうみぶかいです <br>The structure of this book is very interesting.
+民社党	[sound:k-0208_民社党.mp3]<br>みんしゃとう <br> Democratic Socialist Party
+Democratic Socialist Party	<b>民社党<b> <br> みんしゃとう <br>[sound:k-0208_民社党.mp3]
+[sound:k-0208_民社党.mp3]	Democratic Socialist Party<br> <b>民社党</b> <br> (みんしゃとう)
+<b>成功</b> <br> 彼のプロジェクトは大成功しました。	[sound:s-0208_彼のプロジェクトは大成功しました。.mp3] <br> かれのぷろじぇくとはだいせいこうしました。 <br>His project was a great success.
+[sound:s-0208_彼のプロジェクトは大成功しました。.mp3]	<b>成功</b> <br> 彼のプロジェクトは大成功しました。<br> かれのぷろじぇくとはだいせいこうしました <br>His project was a great success.
+自社	[sound:k-0209_自社.mp3]<br>じしゃ <br> one's company, company one works for; in-house, belonging to the company
+one's company, company one works for; in-house, belonging to the company	<b>自社<b> <br> じしゃ <br>[sound:k-0209_自社.mp3]
+[sound:k-0209_自社.mp3]	one's company, company one works for; in-house, belonging to the company<br> <b>自社</b> <br> (じしゃ)
+<b>成績</b> <br> 彼の成績は常に優秀です。	[sound:s-0209_彼の成績は常に優秀です。.mp3] <br> かれのせいせきはつねにゆうしゅうです。 <br>His grades are always excellent.
+[sound:s-0209_彼の成績は常に優秀です。.mp3]	<b>成績</b> <br> 彼の成績は常に優秀です。<br> かれのせいせきはつねにゆうしゅうです <br>His grades are always excellent.
+意見	[sound:k-0210_意見.mp3]<br>いけん <br> opinion, view
+opinion, view	<b>意見<b> <br> いけん <br>[sound:k-0210_意見.mp3]
+[sound:k-0210_意見.mp3]	opinion, view<br> <b>意見</b> <br> (いけん)
+<b>完成</b> <br> その建物の完成は来月予定されています。	[sound:s-0210_その建物の完成は来月予定されています。.mp3] <br> そのたてもののかんせいはらいげつよていされています。 <br>The completion of the building is scheduled for next month.
+[sound:s-0210_その建物の完成は来月予定されています。.mp3]	<b>完成</b> <br> その建物の完成は来月予定されています。<br> そのたてもののかんせいはらいげつよていされています <br>The completion of the building is scheduled for next month.
+会見	[sound:k-0211_会見.mp3]<br>かいけん <br> interview, audience
+interview, audience	<b>会見<b> <br> かいけん <br>[sound:k-0211_会見.mp3]
+[sound:k-0211_会見.mp3]	interview, audience<br> <b>会見</b> <br> (かいけん)
+<b>期間</b> <br> そのプロジェクトは1年の期間がかかりました。	[sound:s-0211_そのプロジェクトは1年の期間がかかりました。.mp3] <br> そのぷろじぇくとはいちねんのきかんがかかりました。 <br>The project took one year to complete.
+[sound:s-0211_そのプロジェクトは1年の期間がかかりました。.mp3]	<b>期間</b> <br> そのプロジェクトは1年の期間がかかりました。<br> そのぷろじぇくとはいちねんのきかんがかかりました <br>The project took one year to complete.
+見直し	[sound:k-0212_見直し.mp3]<br>みなおし <br> review, reconsideration, revision
+review, reconsideration, revision	<b>見直し<b> <br> みなおし <br>[sound:k-0212_見直し.mp3]
+[sound:k-0212_見直し.mp3]	review, reconsideration, revision<br> <b>見直し</b> <br> (みなおし)
+<b>期待</b> <br> 彼は彼女の成功を期待しています。	[sound:s-0212_彼は彼女の成功を期待しています。.mp3] <br> かれはかのじょのせいこうをきたいしています。 <br>He is expecting her success.
+[sound:s-0212_彼は彼女の成功を期待しています。.mp3]	<b>期待</b> <br> 彼は彼女の成功を期待しています。<br> かれはかのじょのせいこうをきたいしています <br>He is expecting her success.
+見方	[sound:k-0213_見方.mp3]<br>みかた <br> viewpoint
+viewpoint	<b>見方<b> <br> みかた <br>[sound:k-0213_見方.mp3]
+[sound:k-0213_見方.mp3]	viewpoint<br> <b>見方</b> <br> (みかた)
+<b>時期</b> <br> 彼の来日はいい時期です。	[sound:s-0213_彼の来日はいい時期です。.mp3] <br> かれのらいにちはいいじきです。 <br>His visit to Japan is at a good time.
+[sound:s-0213_彼の来日はいい時期です。.mp3]	<b>時期</b> <br> 彼の来日はいい時期です。<br> かれのらいにちはいいじきです <br>His visit to Japan is at a good time.
+見通し	[sound:k-0214_見通し.mp3]<br>みとおし <br> perspective, unobstructed view, outlook, forecast, prospect, insight, foresight, visibility
+perspective, unobstructed view, outlook, forecast, prospect, insight, foresight, visibility	<b>見通し<b> <br> みとおし <br>[sound:k-0214_見通し.mp3]
+[sound:k-0214_見通し.mp3]	perspective, unobstructed view, outlook, forecast, prospect, insight, foresight, visibility<br> <b>見通し</b> <br> (みとおし)
+<b>早期</b> <br> 早期に問題を解決する必要があります。	[sound:s-0214_早期に問題を解決する必要があります。.mp3] <br> そうきにもんだいをかいけつするひつようがあります。 <br>It's necessary to solve the problem early.
+[sound:s-0214_早期に問題を解決する必要があります。.mp3]	<b>早期</b> <br> 早期に問題を解決する必要があります。<br> そうきにもんだいをかいけつするひつようがあります <br>It's necessary to solve the problem early.
+見解	[sound:k-0215_見解.mp3]<br>けんかい <br> opinion, point of view
+opinion, point of view	<b>見解<b> <br> けんかい <br>[sound:k-0215_見解.mp3]
+[sound:k-0215_見解.mp3]	opinion, point of view<br> <b>見解</b> <br> (けんかい)
+<b>長期</b> <br> 長期間の計画が必要です。	[sound:s-0215_長期間の計画が必要です。.mp3] <br> ちょうきかんのけいかくがひつようです。 <br>Long-term planning is necessary.
+[sound:s-0215_長期間の計画が必要です。.mp3]	<b>長期</b> <br> 長期間の計画が必要です。<br> ちょうきかんのけいかくがひつようです <br>Long-term planning is necessary.
+見込み	[sound:k-0216_見込み.mp3]<br>みこみ <br> forecast, prospects, expectation, hope
+forecast, prospects, expectation, hope	<b>見込み<b> <br> みこみ <br>[sound:k-0216_見込み.mp3]
+[sound:k-0216_見込み.mp3]	forecast, prospects, expectation, hope<br> <b>見込み</b> <br> (みこみ)
+<b>期限</b> <br> この仕事の期限は来週です。	[sound:s-0216_この仕事の期限は来週です。.mp3] <br> このしごとのきげんはらいしゅうです。 <br>The deadline for this job is next week.
+[sound:s-0216_この仕事の期限は来週です。.mp3]	<b>期限</b> <br> この仕事の期限は来週です。<br> このしごとのきげんはらいしゅうです <br>The deadline for this job is next week.
+発見	[sound:k-0217_発見.mp3]<br>はっけん <br> discovery, detection, finding
+discovery, detection, finding	<b>発見<b> <br> はっけん <br>[sound:k-0217_発見.mp3]
+[sound:k-0217_発見.mp3]	discovery, detection, finding<br> <b>発見</b> <br> (はっけん)
+<b>次期</b> <br> 次期の市長選挙に立候補します。	[sound:s-0217_次期の市長選挙に立候補します。.mp3] <br> じきのしちょうせんきょにりっこうほします。 <br>I will run for the next mayoral election.
+[sound:s-0217_次期の市長選挙に立候補します。.mp3]	<b>次期</b> <br> 次期の市長選挙に立候補します。<br> じきのしちょうせんきょにりっこうほします <br>I will run for the next mayoral election.
+見事	[sound:k-0218_見事.mp3]<br>みごと <br> splendid, magnificent, beautiful, admirable; praiseworthy act, feat, commendable deed
+splendid, magnificent, beautiful, admirable; praiseworthy act, feat, commendable deed	<b>見事<b> <br> みごと <br>[sound:k-0218_見事.mp3]
+[sound:k-0218_見事.mp3]	splendid, magnificent, beautiful, admirable; praiseworthy act, feat, commendable deed<br> <b>見事</b> <br> (みごと)
+<b>定期</b> <br> 定期的なメンテナンスが重要です。	[sound:s-0218_定期的なメンテナンスが重要です。.mp3] <br> ていきてきなめんてなんすがじゅうようです。 <br>Regular maintenance is important.
+[sound:s-0218_定期的なメンテナンスが重要です。.mp3]	<b>定期</b> <br> 定期的なメンテナンスが重要です。<br> ていきてきなめんてなんすがじゅうようです <br>Regular maintenance is important.
+見つかる	[sound:k-0219_見つかる.mp3]<br>みつかる <br> to be found, to be discovered
+to be found, to be discovered	<b>見つかる<b> <br> みつかる <br>[sound:k-0219_見つかる.mp3]
+[sound:k-0219_見つかる.mp3]	to be found, to be discovered<br> <b>見つかる</b> <br> (みつかる)
+<b>任期</b> <br> 彼の任期は5年です。	[sound:s-0219_彼の任期は5年です。.mp3] <br> かれのにんきはごねんです。 <br>His term of office is five years.
+[sound:s-0219_彼の任期は5年です。.mp3]	<b>任期</b> <br> 彼の任期は5年です。<br> かれのにんきはごねんです <br>His term of office is five years.
+一月	[sound:k-0220_一月.mp3]<br>いちがつ <br> January
+January	<b>一月<b> <br> いちがつ <br>[sound:k-0220_一月.mp3]
+[sound:k-0220_一月.mp3]	January<br> <b>一月</b> <br> (いちがつ)
+<b>会期</b> <br> 国会の会期が終了しました。	[sound:s-0220_国会の会期が終了しました。.mp3] <br> こっかいのかいきがしゅうりょうしました。 <br>The session of the Diet has ended.
+[sound:s-0220_国会の会期が終了しました。.mp3]	<b>会期</b> <br> 国会の会期が終了しました。<br> こっかいのかいきがしゅうりょうしました <br>The session of the Diet has ended.
+九月	[sound:k-0221_九月.mp3]<br>くがつ <br> September
+September	<b>九月<b> <br> くがつ <br>[sound:k-0221_九月.mp3]
+[sound:k-0221_九月.mp3]	September<br> <b>九月</b> <br> (くがつ)
+<b>公園</b> <br> 私たちは公園でピクニックをしました。	[sound:s-0221_私たちは公園でピクニックをしました。.mp3] <br> わたしたちはこうえんでぴくにっくをしました。 <br>We had a picnic in the park.
+[sound:s-0221_私たちは公園でピクニックをしました。.mp3]	<b>公園</b> <br> 私たちは公園でピクニックをしました。<br> わたしたちはこうえんでぴくにっくをしました <br>We had a picnic in the park.
+五月	[sound:k-0222_五月.mp3]<br>ごがつ <br> May
+May	<b>五月<b> <br> ごがつ <br>[sound:k-0222_五月.mp3]
+[sound:k-0222_五月.mp3]	May<br> <b>五月</b> <br> (ごがつ)
+<b>公演</b> <br> 彼らは素晴らしい公演をしました。	[sound:s-0222_彼らは素晴らしい公演をしました。.mp3] <br> かれらはすばらしいこうえんをしました。 <br>They put on a fantastic performance.
+[sound:s-0222_彼らは素晴らしい公演をしました。.mp3]	<b>公演</b> <br> 彼らは素晴らしい公演をしました。<br> かれらはすばらしいこうえんをしました <br>They put on a fantastic performance.
+今月	[sound:k-0223_今月.mp3]<br>こんげつ <br> this month
+this month	<b>今月<b> <br> こんげつ <br>[sound:k-0223_今月.mp3]
+[sound:k-0223_今月.mp3]	this month<br> <b>今月</b> <br> (こんげつ)
+(公開) この情報は公開されました。	このじょうほうはこうかいされました。	s-0223_このじょうほうはこうかいされました。.mp3
+[sound:s-0223_このじょうほうはこうかいされました。.mp3]	(公開) この情報は公開されました。このじょうほうはこうかいされました。This information has been made public.	
+三月	[sound:k-0224_三月.mp3]<br>さんがつ <br> March
+March	<b>三月<b> <br> さんがつ <br>[sound:k-0224_三月.mp3]
+[sound:k-0224_三月.mp3]	March<br> <b>三月</b> <br> (さんがつ)
+<b>公共</b> <br> 公共の交通機関を利用しました。	[sound:s-0224_公共の交通機関を利用しました。.mp3] <br> こうきょうのこうつうきかんをりようしました。 <br>I used public transportation.
+[sound:s-0224_公共の交通機関を利用しました。.mp3]	<b>公共</b> <br> 公共の交通機関を利用しました。<br> こうきょうのこうつうきかんをりようしました <br>I used public transportation.
+四月	[sound:k-0225_四月.mp3]<br>しがつ <br> April
+April	<b>四月<b> <br> しがつ <br>[sound:k-0225_四月.mp3]
+[sound:k-0225_四月.mp3]	April<br> <b>四月</b> <br> (しがつ)
+<b>公式</b> <br> 彼の声明は公式文書です。	[sound:s-0225_彼の声明は公式文書です。.mp3] <br> かれのせいめいはこうしきぶんしょです。 <br>His statement is an official document.
+[sound:s-0225_彼の声明は公式文書です。.mp3]	<b>公式</b> <br> 彼の声明は公式文書です。<br> かれのせいめいはこうしきぶんしょです <br>His statement is an official document.
+七月	[sound:k-0226_七月.mp3]<br>しちがつ <br> July
+July	<b>七月<b> <br> しちがつ <br>[sound:k-0226_七月.mp3]
+[sound:k-0226_七月.mp3]	July<br> <b>七月</b> <br> (しちがつ)
+<b>公明党</b> <br> 公明党は現在政権与党です。	[sound:s-0226_公明党は現在政権与党です。.mp3] <br> こうめいとうはげんざいせいけんよとうです。 <br>The Komeito Party is currently the ruling party.
+[sound:s-0226_公明党は現在政権与党です。.mp3]	<b>公明党</b> <br> 公明党は現在政権与党です。<br> こうめいとうはげんざいせいけんよとうです <br>The Komeito Party is currently the ruling party.
+十一月	[sound:k-0227_十一月.mp3]<br>じゅういちがつ <br> November
+November	<b>十一月<b> <br> じゅういちがつ <br>[sound:k-0227_十一月.mp3]
+[sound:k-0227_十一月.mp3]	November<br> <b>十一月</b> <br> (じゅういちがつ)
+<b>公的</b> <br> 公的機関はその問題に関与しています。	[sound:s-0227_公的機関はその問題に関与しています。.mp3] <br> こうてききかんはそのもんだいにかんよしています。 <br>Public institutions are involved in the issue.
+[sound:s-0227_公的機関はその問題に関与しています。.mp3]	<b>公的</b> <br> 公的機関はその問題に関与しています。<br> こうてききかんはそのもんだいにかんよしています <br>Public institutions are involved in the issue.
+十月	[sound:k-0228_十月.mp3]<br>じゅうがつ <br> October
+October	<b>十月<b> <br> じゅうがつ <br>[sound:k-0228_十月.mp3]
+[sound:k-0228_十月.mp3]	October<br> <b>十月</b> <br> (じゅうがつ)
+<b>公判</b> <br> 彼は公判で無実を主張しました。	[sound:s-0228_彼は公判で無実を主張しました。.mp3] <br> かれはこうはんでむじつをしゅちょうしました。 <br>He pleaded not guilty in court.
+[sound:s-0228_彼は公判で無実を主張しました。.mp3]	<b>公判</b> <br> 彼は公判で無実を主張しました。<br> かれはこうはんでむじつをしゅちょうしました <br>He pleaded not guilty in court.
+十二月	[sound:k-0229_十二月.mp3]<br>じゅうにがつ <br> December
+December	<b>十二月<b> <br> じゅうにがつ <br>[sound:k-0229_十二月.mp3]
+[sound:k-0229_十二月.mp3]	December<br> <b>十二月</b> <br> (じゅうにがつ)
+<b>公民</b> <br> 公民権は重要な権利です。	[sound:s-0229_公民権は重要な権利です。.mp3] <br> こうみんけんはじゅうようなけんりです。 <br>Civil rights are important rights.
+[sound:s-0229_公民権は重要な権利です。.mp3]	<b>公民</b> <br> 公民権は重要な権利です。<br> こうみんけんはじゅうようなけんりです <br>Civil rights are important rights.
+分け	[sound:k-0230_分け.mp3]<br>わけ <br> sharing, division; draw, tie
+sharing, division; draw, tie	<b>分け<b> <br> わけ <br>[sound:k-0230_分け.mp3]
+[sound:k-0230_分け.mp3]	sharing, division; draw, tie<br> <b>分け</b> <br> (わけ)
+<b>公明</b> <br> 彼は常に公明な態度を示します。	[sound:s-0230_彼は常に公明な態度を示します。.mp3] <br> かれはつねにこうめいなたいどをしめします。 <br>He always shows a fair attitude.
+[sound:s-0230_彼は常に公明な態度を示します。.mp3]	<b>公明</b> <br> 彼は常に公明な態度を示します。<br> かれはつねにこうめいなたいどをしめします <br>He always shows a fair attitude.
+分ける	[sound:k-0231_分ける.mp3]<br>わける <br> to divide, to separate, to make distinctions, to differentiate (between)
+to divide, to separate, to make distinctions, to differentiate (between)	<b>分ける<b> <br> わける <br>[sound:k-0231_分ける.mp3]
+[sound:k-0231_分ける.mp3]	to divide, to separate, to make distinctions, to differentiate<br> <b>between) (分ける</b> <br> (わける)
+<b>維持</b> <br> 家具を維持するために定期的に掃除します。	[sound:s-0231_家具を維持するために定期的に掃除します。.mp3] <br> かぐをいじするためにていきてきにそうじします。 <br>I clean regularly to maintain the furniture.
+[sound:s-0231_家具を維持するために定期的に掃除します。.mp3]	<b>維持</b> <br> 家具を維持するために定期的に掃除します。<br> かぐをいじするためにていきてきにそうじします <br>I clean regularly to maintain the furniture.
+自分	[sound:k-0232_自分.mp3]<br>じぶん <br> myself, yourself, oneself, himself, herself; I, me
+myself, yourself, oneself, himself, herself; I, me	<b>自分<b> <br> じぶん <br>[sound:k-0232_自分.mp3]
+[sound:k-0232_自分.mp3]	myself, yourself, oneself, himself, herself; I, me<br> <b>自分</b> <br> (じぶん)
+<b>支持</b> <br> 彼は彼の意見を支持しました。	[sound:s-0232_彼は彼の意見を支持しました。.mp3] <br> かれはかれのいけんをしじしました。 <br>He supported his opinion.
+[sound:s-0232_彼は彼の意見を支持しました。.mp3]	<b>支持</b> <br> 彼は彼の意見を支持しました。<br> かれはかれのいけんをしじしました <br>He supported his opinion.
+部分	[sound:k-0233_部分.mp3]<br>ぶぶん <br> portion, section, part
+portion, section, part	<b>部分<b> <br> ぶぶん <br>[sound:k-0233_部分.mp3]
+[sound:k-0233_部分.mp3]	portion, section, part<br> <b>部分</b> <br> (ぶぶん)
+<b>持ち</b> <br> 彼は忍耐心を持っています。	[sound:s-0233_彼は忍耐心を持っています。.mp3] <br> かれはにんたいしんをもっています。 <br>He has patience.
+[sound:s-0233_彼は忍耐心を持っています。.mp3]	<b>持ち</b> <br> 彼は忍耐心を持っています。<br> かれはにんたいしんをもっています <br>He has patience.
+分野	[sound:k-0234_分野.mp3]<br>ぶんや <br> field, sphere, realm, division, branch
+field, sphere, realm, division, branch	<b>分野<b> <br> ぶんや <br>[sound:k-0234_分野.mp3]
+[sound:k-0234_分野.mp3]	field, sphere, realm, division, branch<br> <b>分野</b> <br> (ぶんや)
+<b>持つ</b> <br> 彼はたくさんの責任を持っています。	[sound:s-0234_彼はたくさんの責任を持っています。.mp3] <br> かれはたくさんのせきにんをもっています。 <br>He has a lot of responsibilities.
+[sound:s-0234_彼はたくさんの責任を持っています。.mp3]	<b>持つ</b> <br> 彼はたくさんの責任を持っています。<br> かれはたくさんのせきにんをもっています <br>He has a lot of responsibilities.
+十分	[sound:k-0235_十分.mp3]<br>じゅうぶん <br> plenty, enough, sufficient, satisfactory, adequate; division into ten; perfectly, thoroughly, fully, in full
+plenty, enough, sufficient, satisfactory, adequate; division into ten; perfectly, thoroughly, fully, in full	<b>十分<b> <br> じゅうぶん <br>[sound:k-0235_十分.mp3]
+[sound:k-0235_十分.mp3]	plenty, enough, sufficient, satisfactory, adequate; division into ten; perfectly, thoroughly, fully, in full<br> <b>十分</b> <br> (じゅうぶん)
+<b>持ち込む</b> <br> 彼は会議に新しいアイデアを持ち込みました。	[sound:s-0235_彼は会議に新しいアイデアを持ち込みました。.mp3] <br> かれはかいぎにあたらしいあいであをもちこみました。 <br>He brought new ideas to the meeting.
+[sound:s-0235_彼は会議に新しいアイデアを持ち込みました。.mp3]	<b>持ち込む</b> <br> 彼は会議に新しいアイデアを持ち込みました。<br> かれはかいぎにあたらしいあいであをもちこみました <br>He brought new ideas to the meeting.
+処分	[sound:k-0236_処分.mp3]<br>しょぶん <br> disposal, dealing, punishment
+disposal, dealing, punishment	<b>処分<b> <br> しょぶん <br>[sound:k-0236_処分.mp3]
+[sound:k-0236_処分.mp3]	disposal, dealing, punishment<br> <b>処分</b> <br> (しょぶん)
+<b>保持</b> <br> その会社は高い品質基準を保持しています。	[sound:s-0236_その会社は高い品質基準を保持しています。.mp3] <br> そのかいしゃはたかいひんしつきじゅんをほじしています。 <br>The company maintains high quality standards.
+[sound:s-0236_その会社は高い品質基準を保持しています。.mp3]	<b>保持</b> <br> その会社は高い品質基準を保持しています。<br> そのかいしゃはたかいひんしつきじゅんをほじしています <br>The company maintains high quality standards.
+半分	[sound:k-0237_半分.mp3]<br>はんぶん <br> half
+half	<b>半分<b> <br> はんぶん <br>[sound:k-0237_半分.mp3]
+[sound:k-0237_半分.mp3]	half<br> <b>半分</b> <br> (はんぶん)
+<b>持続</b> <br> 彼女の努力は持続的です。	[sound:s-0237_彼女の努力は持続的です。.mp3] <br> かのじょのどりょくはじぞくてきです。 <br>Her efforts are sustainable.
+[sound:s-0237_彼女の努力は持続的です。.mp3]	<b>持続</b> <br> 彼女の努力は持続的です。<br> かのじょのどりょくはじぞくてきです <br>Her efforts are sustainable.
+残った分	[sound:k-0238_残った分.mp3]<br>のこったぶん <br> amount left over
+amount left over	<b>残った分<b> <br> のこったぶん <br>[sound:k-0238_残った分.mp3]
+[sound:k-0238_残った分.mp3]	amount left over<br> <b>残った分</b> <br> (のこったぶん)
+<b>持ち味</b> <br> 彼の料理の持ち味は独特です。	[sound:s-0238_彼の料理の持ち味は独特です。.mp3] <br> かれのりょうりのもちあじはどくとくです。 <br>The distinctive feature of his cooking is unique.
+[sound:s-0238_彼の料理の持ち味は独特です。.mp3]	<b>持ち味</b> <br> 彼の料理の持ち味は独特です。<br> かれのりょうりのもちあじはどくとくです <br>The distinctive feature of his cooking is unique.
+気分	[sound:k-0239_気分.mp3]<br>きぶん <br> feeling, mood
+feeling, mood	<b>気分<b> <br> きぶん <br>[sound:k-0239_気分.mp3]
+[sound:k-0239_気分.mp3]	feeling, mood<br> <b>気分</b> <br> (きぶん)
+<b>金持ち</b> <br> 彼は金持ちではありませんが、幸せです。	[sound:s-0239_彼は金持ちではありませんが、幸せです。.mp3] <br> かれはかねもちではありませんが、しあわせです。 <br>"He is not wealthy, but he is happy."
+[sound:s-0239_彼は金持ちではありませんが、幸せです。.mp3]	<b>金持ち</b> <br> 彼は金持ちではありませんが、幸せです。<br> かれはかねもちではありませんが、しあわせです <br>He is not wealthy, but he is happy.
+会議	[sound:k-0240_会議.mp3]<br>かいぎ <br> meeting, conference, session, assembly, council, convention, congress
+meeting, conference, session, assembly, council, convention, congress	<b>会議<b> <br> かいぎ <br>[sound:k-0240_会議.mp3]
+[sound:k-0240_会議.mp3]	meeting, conference, session, assembly, council, convention, congress<br> <b>会議</b> <br> (かいぎ)
+<b>野</b> <br> その町は美しい野原に囲まれています。	[sound:s-0240_その町は美しい野原に囲まれています。.mp3] <br> そのまちはうつくしいのはらにかこまれています。 <br>The town is surrounded by beautiful fields.
+[sound:s-0240_その町は美しい野原に囲まれています。.mp3]	<b>野</b> <br> その町は美しい野原に囲まれています。<br> そのまちはうつくしいのはらにかこまれています <br>The town is surrounded by beautiful fields.
+議員	[sound:k-0241_議員.mp3]<br>ぎいん <br> member of the Diet, congress or parliament
+member of the Diet, congress or parliament	<b>議員<b> <br> ぎいん <br>[sound:k-0241_議員.mp3]
+[sound:k-0241_議員.mp3]	member of the Diet, congress or parliament<br> <b>議員</b> <br> (ぎいん)
+<b>分野</b> <br> 彼は科学の分野で働いています。	[sound:s-0241_彼は科学の分野で働いています。.mp3] <br> かれはかがくのぶんやではたらいています。 <br>He works in the field of science.
+[sound:s-0241_彼は科学の分野で働いています。.mp3]	<b>分野</b> <br> 彼は科学の分野で働いています。<br> かれはかがくのぶんやではたらいています <br>He works in the field of science.
+議会	[sound:k-0242_議会.mp3]<br>ぎかい <br> Diet, congress, parliament
+Diet, congress, parliament	<b>議会<b> <br> ぎかい <br>[sound:k-0242_議会.mp3]
+[sound:k-0242_議会.mp3]	Diet, congress, parliament<br> <b>議会</b> <br> (ぎかい)
+<b>野球</b> <br> 彼は野球が大好きです。	[sound:s-0242_彼は野球が大好きです。.mp3] <br> かれはやきゅうがだいすきです。 <br>He loves baseball.
+[sound:s-0242_彼は野球が大好きです。.mp3]	<b>野球</b> <br> 彼は野球が大好きです。<br> かれはやきゅうがだいすきです <br>He loves baseball.
+議長	[sound:k-0243_議長.mp3]<br>ぎちょう <br> chairman, speaker (e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup)
+chairman, speaker (e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup)	<b>議長<b> <br> ぎちょう <br>[sound:k-0243_議長.mp3]
+[sound:k-0243_議長.mp3]	chairman, speaker<br> <b>e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup) (議長</b> <br> (ぎちょう)
+<b>野党</b> <br> 野党は政府の政策に反対しています。	[sound:s-0243_野党は政府の政策に反対しています。.mp3] <br> やとうはせいふのせいさくにはんたいしています。 <br>The opposition party opposes the government's policies.
+[sound:s-0243_野党は政府の政策に反対しています。.mp3]	<b>野党</b> <br> 野党は政府の政策に反対しています。<br> やとうはせいふのせいさくにはんたいしています <br>The opposition party opposes the government's policies.
+協議	[sound:k-0244_協議.mp3]<br>きょうぎ <br> conference, consultation, discussion, negotiation
+conference, consultation, discussion, negotiation	<b>協議<b> <br> きょうぎ <br>[sound:k-0244_協議.mp3]
+[sound:k-0244_協議.mp3]	conference, consultation, discussion, negotiation<br> <b>協議</b> <br> (きょうぎ)
+<b>与野党</b> <br> 与野党は議会で議論を行っています。	[sound:s-0244_与野党は議会で議論を行っています。.mp3] <br> よやとうはぎかいでぎろんをおこなっています。 <br>Both ruling and opposition parties are debating in parliament.
+[sound:s-0244_与野党は議会で議論を行っています。.mp3]	<b>与野党</b> <br> 与野党は議会で議論を行っています。<br> よやとうはぎかいでぎろんをおこなっています <br>Both ruling and opposition parties are debating in parliament.
+決議	[sound:k-0245_決議.mp3]<br>けつぎ <br> resolution, vote, decision
+resolution, vote, decision	<b>決議<b> <br> けつぎ <br>[sound:k-0245_決議.mp3]
+[sound:k-0245_決議.mp3]	resolution, vote, decision<br> <b>決議</b> <br> (けつぎ)
+<b>野菜</b> <br> 野菜をたくさん食べることは健康に良いです。	[sound:s-0245_野菜をたくさん食べることは健康に良いです。.mp3] <br> やさいをたくさんたべることはけんこうによいです。 <br>Eating lots of vegetables is good for your health.
+[sound:s-0245_野菜をたくさん食べることは健康に良いです。.mp3]	<b>野菜</b> <br> 野菜をたくさん食べることは健康に良いです。<br> やさいをたくさんたべることはけんこうによいです <br>Eating lots of vegetables is good for your health.
+審議	[sound:k-0246_審議.mp3]<br>しんぎ <br> deliberation
+deliberation	<b>審議<b> <br> しんぎ <br>[sound:k-0246_審議.mp3]
+[sound:k-0246_審議.mp3]	deliberation<br> <b>審議</b> <br> (しんぎ)
+<b>上野</b> <br> 上野には多くの博物館があります。	[sound:s-0246_上野には多くの博物館があります。.mp3] <br> うえのにはおおくのはくぶつかんがあります。 <br>Ueno has many museums.
+[sound:s-0246_上野には多くの博物館があります。.mp3]	<b>上野</b> <br> 上野には多くの博物館があります。<br> うえのにはおおくのはくぶつかんがあります <br>Ueno has many museums.
+論議	[sound:k-0247_論議.mp3]<br>ろんぎ <br> discussion, argument, debate
+discussion, argument, debate	<b>論議<b> <br> ろんぎ <br>[sound:k-0247_論議.mp3]
+[sound:k-0247_論議.mp3]	discussion, argument, debate<br> <b>論議</b> <br> (ろんぎ)
+<b>視野</b> <br> 彼の視野は広く、柔軟です。	[sound:s-0247_彼の視野は広く、柔軟です。.mp3] <br> かれのしやはひろく、じゅうなんです。 <br>His perspective is broad and flexible.
+[sound:s-0247_彼の視野は広く、柔軟です。.mp3]	<b>視野</b> <br> 彼の視野は広く、柔軟です。<br> かれのしやはひろく、じゅうなんです <br>His perspective is broad and flexible.
+閣議	[sound:k-0248_閣議.mp3]<br>かくぎ <br> cabinet meeting
+cabinet meeting	<b>閣議<b> <br> かくぎ <br>[sound:k-0248_閣議.mp3]
+[sound:k-0248_閣議.mp3]	cabinet meeting<br> <b>閣議</b> <br> (かくぎ)
+<b>野生</b> <br> タイガーは野生で最も美しい動物の一つです。	[sound:s-0248_タイガーは野生で最も美しい動物の一つです。.mp3] <br> たいがーはやせいでもっともうつくしいどうぶつのひとつです。 <br>The tiger is one of the most beautiful wild animals.
+[sound:s-0248_タイガーは野生で最も美しい動物の一つです。.mp3]	<b>野生</b> <br> タイガーは野生で最も美しい動物の一つです。<br> たいがーはやせいでもっともうつくしいどうぶつのひとつです <br>The tiger is one of the most beautiful wild animals.
+議席	[sound:k-0249_議席.mp3]<br>ぎせき <br> parliamentary seat
+parliamentary seat	<b>議席<b> <br> ぎせき <br>[sound:k-0249_議席.mp3]
+[sound:k-0249_議席.mp3]	parliamentary seat<br> <b>議席</b> <br> (ぎせき)
+<b>大野</b> <br> 大野は人気のある姓です。	[sound:s-0249_大野は人気のある姓です。.mp3] <br> おおのはにんきのあるせいです。 <br>Oono is a popular surname.
+[sound:s-0249_大野は人気のある姓です。.mp3]	<b>大野</b> <br> 大野は人気のある姓です。<br> おおのはにんきのあるせいです <br>Oono is a popular surname.
+後	[sound:k-0250_後.mp3]<br>あと <br> behind, rear; after, later; after one's death; remainder, the rest; descendant, successor, heir; past/previous; more (i.e. five more minutes)
+behind, rear; after, later; after one's death; remainder, the rest; descendant, successor, heir; past/previous; more (i.e. five more minutes)	<b>後<b> <br> あと <br>[sound:k-0250_後.mp3]
+[sound:k-0250_後.mp3]	behind, rear; after, later; after one's death; remainder, the rest; descendant, successor, heir; past/previous; more<br> <b>i.e. five more minutes) (後</b> <br> (あと)
+<b>協</b> <br> 彼らは協力して問題を解決しました。	[sound:s-0250_彼らは協力して問題を解決しました。.mp3] <br> かれらはきょうりょくしてもんだいをかいけつしました。 <br>They cooperated to solve the problem.
+[sound:s-0250_彼らは協力して問題を解決しました。.mp3]	<b>協</b> <br> 彼らは協力して問題を解決しました。<br> かれらはきょうりょくしてもんだいをかいけつしました <br>They cooperated to solve the problem.
+午後	[sound:k-0251_午後.mp3]<br>ごご <br> afternoon, p.m.
+afternoon, p.m.	<b>午後<b> <br> ごご <br>[sound:k-0251_午後.mp3]
+[sound:k-0251_午後.mp3]	afternoon, p.m.<br> <b>午後</b> <br> (ごご)
+<b>協会</b> <br> 私は地元の芸術協会のメンバーです。	[sound:s-0251_私は地元の芸術協会のメンバーです。.mp3] <br> わたしはじもとのげいじゅつきょうかいのめんばーです。 <br>I am a member of the local art association.
+[sound:s-0251_私は地元の芸術協会のメンバーです。.mp3]	<b>協会</b> <br> 私は地元の芸術協会のメンバーです。<br> わたしはじもとのげいじゅつきょうかいのめんばーです <br>I am a member of the local art association.
+後ろ	[sound:k-0252_後ろ.mp3]<br>うしろ <br> back, behind, rear
+back, behind, rear	<b>後ろ<b> <br> うしろ <br>[sound:k-0252_後ろ.mp3]
+[sound:k-0252_後ろ.mp3]	back, behind, rear<br> <b>後ろ</b> <br> (うしろ)
+<b>協議</b> <br> 彼らは予算に関する協議を行っています。	[sound:s-0252_彼らは予算に関する協議を行っています。.mp3] <br> かれらはよさんにかんするきょうぎをおこなっています。 <br>They are having discussions about the budget.
+[sound:s-0252_彼らは予算に関する協議を行っています。.mp3]	<b>協議</b> <br> 彼らは予算に関する協議を行っています。<br> かれらはよさんにかんするきょうぎをおこなっています <br>They are having discussions about the budget.
+今後	[sound:k-0253_今後.mp3]<br>こんご <br> from now on, hereafter
+from now on, hereafter	<b>今後<b> <br> こんご <br>[sound:k-0253_今後.mp3]
+[sound:k-0253_今後.mp3]	from now on, hereafter<br> <b>今後</b> <br> (こんご)
+<b>協定</b> <br> 両国間で貿易協定が締結されました。	[sound:s-0253_両国間で貿易協定が締結されました。.mp3] <br> りょうこくかんでぼうえききょうていがていけつされました。 <br>A trade agreement was reached between the two countries.
+[sound:s-0253_両国間で貿易協定が締結されました。.mp3]	<b>協定</b> <br> 両国間で貿易協定が締結されました。<br> りょうこくかんでぼうえききょうていがていけつされました <br>A trade agreement was reached between the two countries.
+最後	[sound:k-0254_最後.mp3]<br>さいご <br> last, end, conclusion; (after -tara form or -ta form followed by "ga") no sooner than, right after (often having negative consequences); one's final moments
+last, end, conclusion; (after -tara form or -ta form followed by "ga") no sooner than, right after (often having negative consequences); one's final moments	<b>最後<b> <br> さいご <br>[sound:k-0254_最後.mp3]
+[sound:k-0254_最後.mp3]	last, end, conclusion;<br> <b>after -tara form or -ta form followed by "ga") no sooner than, right after (often having negative consequences); one's final moments (最後</b> <br> (さいご)
+<b>協力</b> <br> チームワークと協力が成功の鍵です。	[sound:s-0254_チームワークと協力が成功の鍵です。.mp3] <br> ちーむわーくときょうりょくがせいこうのかぎです。 <br>Teamwork and cooperation are the keys to success.
+[sound:s-0254_チームワークと協力が成功の鍵です。.mp3]	<b>協力</b> <br> チームワークと協力が成功の鍵です。<br> ちーむわーくときょうりょくがせいこうのかぎです <br>Teamwork and cooperation are the keys to success.
+戦後	[sound:k-0255_戦後.mp3]<br>せんご <br> postwar period, period after Second World War
+postwar period, period after Second World War	<b>戦後<b> <br> せんご <br>[sound:k-0255_戦後.mp3]
+[sound:k-0255_戦後.mp3]	postwar period, period after Second World War<br> <b>戦後</b> <br> (せんご)
+<b>協調</b> <br> 彼らは協調して目標を達成しました。	[sound:s-0255_彼らは協調して目標を達成しました。.mp3] <br> かれらはきょうちょうしてもくひょうをたっせいしました。 <br>They cooperated to achieve their goal.
+[sound:s-0255_彼らは協調して目標を達成しました。.mp3]	<b>協調</b> <br> 彼らは協調して目標を達成しました。<br> かれらはきょうちょうしてもくひょうをたっせいしました <br>They cooperated to achieve their goal.
+後半	[sound:k-0256_後半.mp3]<br>こうはん <br> second half, latter half
+second half, latter half	<b>後半<b> <br> こうはん <br>[sound:k-0256_後半.mp3]
+[sound:k-0256_後半.mp3]	second half, latter half<br> <b>後半</b> <br> (こうはん)
+<b>妥協</b> <br> 妥協することで問題が解決されました。	[sound:s-0256_妥協することで問題が解決されました。.mp3] <br> だきょうすることでもんだいがかいけつされました。 <br>The problem was resolved through compromise.
+[sound:s-0256_妥協することで問題が解決されました。.mp3]	<b>妥協</b> <br> 妥協することで問題が解決されました。<br> だきょうすることでもんだいがかいけつされました <br>The problem was resolved through compromise.
+直後	[sound:k-0257_直後.mp3]<br>ちょくご <br> immediately following
+immediately following	<b>直後<b> <br> ちょくご <br>[sound:k-0257_直後.mp3]
+[sound:k-0257_直後.mp3]	immediately following<br> <b>直後</b> <br> (ちょくご)
+<b>農協</b> <br> 農協は農民のための組織です。	[sound:s-0257_農協は農民のための組織です。.mp3] <br> のうきょうはのうみんのためのそしきです。 <br>The agricultural cooperative is an organization for farmers.
+[sound:s-0257_農協は農民のための組織です。.mp3]	<b>農協</b> <br> 農協は農民のための組織です。<br> のうきょうはのうみんのためのそしきです <br>The agricultural cooperative is an organization for farmers.
+後援	[sound:k-0258_後援.mp3]<br>こうえん <br> support, backing
+support, backing	<b>後援<b> <br> こうえん <br>[sound:k-0258_後援.mp3]
+[sound:k-0258_後援.mp3]	support, backing<br> <b>後援</b> <br> (こうえん)
+<b>協賛</b> <br> 彼はイベントの協賛をしています。	[sound:s-0258_彼はイベントの協賛をしています。.mp3] <br> かれはいべんとのきょうさんをしています。 <br>He is sponsoring the event.
+[sound:s-0258_彼はイベントの協賛をしています。.mp3]	<b>協賛</b> <br> 彼はイベントの協賛をしています。<br> かれはいべんとのきょうさんをしています <br>He is sponsoring the event.
+後継	[sound:k-0259_後継.mp3]<br>こうけい <br> successor
+successor	<b>後継<b> <br> こうけい <br>[sound:k-0259_後継.mp3]
+[sound:k-0259_後継.mp3]	successor<br> <b>後継</b> <br> (こうけい)
+<b>生協</b> <br> 生協は地域の生活を支援します。	[sound:s-0259_生協は地域の生活を支援します。.mp3] <br> せいきょうはちいきのせいかつをしえんします。 <br>The consumer cooperative supports local life.
+[sound:s-0259_生協は地域の生活を支援します。.mp3]	<b>生協</b> <br> 生協は地域の生活を支援します。<br> せいきょうはちいきのせいかつをしえんします <br>The consumer cooperative supports local life.
+午前	[sound:k-0260_午前.mp3]<br>ごぜん <br> morning, a.m.
+morning, a.m.	<b>午前<b> <br> ごぜん <br>[sound:k-0260_午前.mp3]
+[sound:k-0260_午前.mp3]	morning, a.m.<br> <b>午前</b> <br> (ごぜん)
+<b>取る</b> <br> 彼は彼女から電話番号を取りました。	[sound:s-0260_彼は彼女から電話番号を取りました。.mp3] <br> かれはかのじょからでんわばんごうをとりました。 <br>He got her phone number from her.
+[sound:s-0260_彼は彼女から電話番号を取りました。.mp3]	<b>取る</b> <br> 彼は彼女から電話番号を取りました。<br> かれはかのじょからでんわばんごうをとりました <br>He got her phone number from her.
+前年	[sound:k-0261_前年.mp3]<br>ぜんねん <br> the preceding year, the previous year, last year
+the preceding year, the previous year, last year	<b>前年<b> <br> ぜんねん <br>[sound:k-0261_前年.mp3]
+[sound:k-0261_前年.mp3]	the preceding year, the previous year, last year<br> <b>前年</b> <br> (ぜんねん)
+<b>取引</b> <br> 彼は外国との貿易取引をしています。	[sound:s-0261_彼は外国との貿易取引をしています。.mp3] <br> かれはがいこくとのぼうえきとりひきをしています。 <br>He is engaged in trade with foreign countries.
+[sound:s-0261_彼は外国との貿易取引をしています。.mp3]	<b>取引</b> <br> 彼は外国との貿易取引をしています。<br> かれはがいこくとのぼうえきとりひきをしています <br>He is engaged in trade with foreign countries.
+前回	[sound:k-0262_前回.mp3]<br>ぜんかい <br> last time, last installment, last instalment, last session
+last time, last installment, last instalment, last session	<b>前回<b> <br> ぜんかい <br>[sound:k-0262_前回.mp3]
+[sound:k-0262_前回.mp3]	last time, last installment, last instalment, last session<br> <b>前回</b> <br> (ぜんかい)
+<b>取材</b> <br> ジャーナリストは彼にインタビューの取材を行った。	[sound:s-0262_ジャーナリストは彼にインタビューの取材を行った。.mp3] <br> じゃーなりすとはかれにいんたびゅーのしゅざいをおこなった。 <br>The journalist interviewed him for coverage.
+[sound:s-0262_ジャーナリストは彼にインタビューの取材を行った。.mp3]	<b>取材</b> <br> ジャーナリストは彼にインタビューの取材を行った。<br> じゃーなりすとはかれにいんたびゅーのしゅざいをおこなった <br>The journalist interviewed him for coverage.
+前提	[sound:k-0263_前提.mp3]<br>ぜんてい <br> preamble, premise, reason, prerequisite, condition, assumption, hypothesis
+preamble, premise, reason, prerequisite, condition, assumption, hypothesis	<b>前提<b> <br> ぜんてい <br>[sound:k-0263_前提.mp3]
+[sound:k-0263_前提.mp3]	preamble, premise, reason, prerequisite, condition, assumption, hypothesis<br> <b>前提</b> <br> (ぜんてい)
+<b>取っ手</b> <br> そのドアには金属の取っ手が付いています。	[sound:s-0263_そのドアには金属の取っ手が付いています。.mp3] <br> そのどあにはきんぞくのとってがついています。 <br>The door has a metal handle.
+[sound:s-0263_そのドアには金属の取っ手が付いています。.mp3]	<b>取っ手</b> <br> そのドアには金属の取っ手が付いています。<br> そのどあにはきんぞくのとってがついています <br>The door has a metal handle.
+前日	[sound:k-0264_前日.mp3]<br>ぜんじつ, まえび <br> previous day, the day before
+previous day, the day before	<b>前日<b> <br> ぜんじつ, まえび <br>[sound:k-0264_前日.mp3]
+[sound:k-0264_前日.mp3]	previous day, the day before<br> <b>前日</b> <br> (ぜんじつ, まえび)
+<b>取り組む</b> <br> 彼は新しいプロジェクトに取り組んでいます。	[sound:s-0264_彼は新しいプロジェクトに取り組んでいます。.mp3] <br> かれはあたらしいぷろじぇくとにとりくんでいます。 <br>He is working on a new project.
+[sound:s-0264_彼は新しいプロジェクトに取り組んでいます。.mp3]	<b>取り組む</b> <br> 彼は新しいプロジェクトに取り組んでいます。<br> かれはあたらしいぷろじぇくとにとりくんでいます <br>He is working on a new project.
+直前	[sound:k-0265_直前.mp3]<br>ちょくぜん <br> just before
+just before	<b>直前<b> <br> ちょくぜん <br>[sound:k-0265_直前.mp3]
+[sound:k-0265_直前.mp3]	just before<br> <b>直前</b> <br> (ちょくぜん)
+<b>取り消す</b> <br> その注文は取り消されました。	[sound:s-0265_その注文は取り消されました。.mp3] <br> そのちゅうもんはとりけされました。 <br>The order was canceled.
+[sound:s-0265_その注文は取り消されました。.mp3]	<b>取り消す</b> <br> その注文は取り消されました。<br> そのちゅうもんはとりけされました <br>The order was canceled.
+名前	[sound:k-0266_名前.mp3]<br>なまえ <br> name, full name; given name, first name
+name, full name; given name, first name	<b>名前<b> <br> なまえ <br>[sound:k-0266_名前.mp3]
+[sound:k-0266_名前.mp3]	name, full name; given name, first name<br> <b>名前</b> <br> (なまえ)
+<b>取り引き</b> <br> 友人との取り引きは簡単でした。	[sound:s-0266_友人との取り引きは簡単でした。.mp3] <br> ゆうじんとのとりひきはかんたんでした。 <br>The transaction with my friend was simple.
+[sound:s-0266_友人との取り引きは簡単でした。.mp3]	<b>取り引き</b> <br> 友人との取り引きは簡単でした。<br> ゆうじんとのとりひきはかんたんでした <br>The transaction with my friend was simple.
+前半	[sound:k-0267_前半.mp3]<br>ぜんはん, ぜんぱん <br> first half
+first half	<b>前半<b> <br> ぜんはん, ぜんぱん <br>[sound:k-0267_前半.mp3]
+[sound:k-0267_前半.mp3]	first half<br> <b>前半</b> <br> (ぜんはん, ぜんぱん)
+<b>取り出す</b> <br> 彼はポケットから財布を取り出しました。	[sound:s-0267_彼はポケットから財布を取り出しました。.mp3] <br> かれはぽけっとからさいふをとりだしました。 <br>He took out his wallet from his pocket.
+[sound:s-0267_彼はポケットから財布を取り出しました。.mp3]	<b>取り出す</b> <br> 彼はポケットから財布を取り出しました。<br> かれはぽけっとからさいふをとりだしました <br>He took out his wallet from his pocket.
+以前	[sound:k-0268_以前.mp3]<br>いぜん <br> ago, since, before, previous
+ago, since, before, previous	<b>以前<b> <br> いぜん <br>[sound:k-0268_以前.mp3]
+[sound:k-0268_以前.mp3]	ago, since, before, previous<br> <b>以前</b> <br> (いぜん)
+<b>取り入れる</b> <br> 彼女は新しいアイデアをビジネスに取り入れました。	[sound:s-0268_彼女は新しいアイデアをビジネスに取り入れました。.mp3] <br> かのじょはあたらしいあいであをびじねすにとりいれました。 <br>She incorporated new ideas into her business.
+[sound:s-0268_彼女は新しいアイデアをビジネスに取り入れました。.mp3]	<b>取り入れる</b> <br> 彼女は新しいアイデアをビジネスに取り入れました。<br> かのじょはあたらしいあいであをびじねすにとりいれました <br>She incorporated new ideas into her business.
+事前	[sound:k-0269_事前.mp3]<br>じぜん <br> prior, beforehand, in advance
+prior, beforehand, in advance	<b>事前<b> <br> じぜん <br>[sound:k-0269_事前.mp3]
+[sound:k-0269_事前.mp3]	prior, beforehand, in advance<br> <b>事前</b> <br> (じぜん)
+<b>取り巻く</b> <br> 彼を友人が取り巻いている。	[sound:s-0269_彼を友人が取り巻いている。.mp3] <br> かれをゆうじんがとりまいている。 <br>He is surrounded by friends.
+[sound:s-0269_彼を友人が取り巻いている。.mp3]	<b>取り巻く</b> <br> 彼を友人が取り巻いている。<br> かれをゆうじんがとりまいている <br>He is surrounded by friends.
+民	[sound:k-0270_民.mp3]<br>たみ <br> nation, people
+nation, people	<b>民<b> <br> たみ <br>[sound:k-0270_民.mp3]
+[sound:k-0270_民.mp3]	nation, people<br> <b>民</b> <br> (たみ)
+<b>取り扱う</b> <br> この店は高品質な製品を取り扱っています。	[sound:s-0270_この店は高品質な製品を取り扱っています。.mp3] <br> このみせはこうひんしつなせいひんをとりあつかっています。 <br>This store deals with high-quality products.
+[sound:s-0270_この店は高品質な製品を取り扱っています。.mp3]	<b>取り扱う</b> <br> この店は高品質な製品を取り扱っています。<br> このみせはこうひんしつなせいひんをとりあつかっています <br>This store deals with high-quality products.
+国民	[sound:k-0271_国民.mp3]<br>こくみん <br> nation, nationality, people, citizen
+nation, nationality, people, citizen	<b>国民<b> <br> こくみん <br>[sound:k-0271_国民.mp3]
+[sound:k-0271_国民.mp3]	nation, nationality, people, citizen<br> <b>国民</b> <br> (こくみん)
+<b>着る</b> <br> 彼は青いシャツを着ています。	[sound:s-0271_彼は青いシャツを着ています。.mp3] <br> かれはあおいしゃつをきています。 <br>He is wearing a blue shirt.
+[sound:s-0271_彼は青いシャツを着ています。.mp3]	<b>着る</b> <br> 彼は青いシャツを着ています。<br> かれはあおいしゃつをきています <br>He is wearing a blue shirt.
+市民	[sound:k-0272_市民.mp3]<br>しみん <br> citizen, townspeople
+citizen, townspeople	<b>市民<b> <br> しみん <br>[sound:k-0272_市民.mp3]
+[sound:k-0272_市民.mp3]	citizen, townspeople<br> <b>市民</b> <br> (しみん)
+<b>着物</b> <br> 着物は日本の伝統的な衣服です。	[sound:s-0272_着物は日本の伝統的な衣服です。.mp3] <br> きものはにほんのでんとうてきないふくです。 <br>Kimono is a traditional Japanese garment.
+[sound:s-0272_着物は日本の伝統的な衣服です。.mp3]	<b>着物</b> <br> 着物は日本の伝統的な衣服です。<br> きものはにほんのでんとうてきないふくです <br>Kimono is a traditional Japanese garment.
+住民	[sound:k-0273_住民.mp3]<br>じゅうみん <br> citizens, inhabitants, residents, population
+citizens, inhabitants, residents, population	<b>住民<b> <br> じゅうみん <br>[sound:k-0273_住民.mp3]
+[sound:k-0273_住民.mp3]	citizens, inhabitants, residents, population<br> <b>住民</b> <br> (じゅうみん)
+<b>着替え</b> <br> プールで遊んだ後、着替えが必要です。	[sound:s-0273_プールで遊んだ後、着替えが必要です。.mp3] <br> ぷーるであそんだあと、きがえがひつようです。 <br>"After swimming in the pool, changing clothes is necessary."
+[sound:s-0273_プールで遊んだ後、着替えが必要です。.mp3]	<b>着替え</b> <br> プールで遊んだ後、着替えが必要です。<br> ぷーるであそんだあと、きがえがひつようです <br>After swimming in the pool, changing clothes is necessary.
+民間	[sound:k-0274_民間.mp3]<br>みんかん <br> private, civilian, civil, popular, folk, unofficial
+private, civilian, civil, popular, folk, unofficial	<b>民間<b> <br> みんかん <br>[sound:k-0274_民間.mp3]
+[sound:k-0274_民間.mp3]	private, civilian, civil, popular, folk, unofficial<br> <b>民間</b> <br> (みんかん)
+<b>着陸</b> <br> 飛行機は無事に着陸しました。	[sound:s-0274_飛行機は無事に着陸しました。.mp3] <br> ひこうきはぶじにちゃくりくしました。 <br>The airplane landed safely.
+[sound:s-0274_飛行機は無事に着陸しました。.mp3]	<b>着陸</b> <br> 飛行機は無事に着陸しました。<br> ひこうきはぶじにちゃくりくしました <br>The airplane landed safely.
+民主	[sound:k-0275_民主.mp3]<br>みんしゅ <br> democracy, popular sovereignty; democratic
+democracy, popular sovereignty; democratic	<b>民主<b> <br> みんしゅ <br>[sound:k-0275_民主.mp3]
+[sound:k-0275_民主.mp3]	democracy, popular sovereignty; democratic<br> <b>民主</b> <br> (みんしゅ)
+<b>着手</b> <br> 彼はプロジェクトに着手しました。	[sound:s-0275_彼はプロジェクトに着手しました。.mp3] <br> かれはぷろじぇくとにちゃくしました。 <br>He started the project.
+[sound:s-0275_彼はプロジェクトに着手しました。.mp3]	<b>着手</b> <br> 彼はプロジェクトに着手しました。<br> かれはぷろじぇくとにちゃくしました <br>He started the project.
+民族	[sound:k-0276_民族.mp3]<br>みんぞく <br> people, race, nation
+people, race, nation	<b>民族<b> <br> みんぞく <br>[sound:k-0276_民族.mp3]
+[sound:k-0276_民族.mp3]	people, race, nation<br> <b>民族</b> <br> (みんぞく)
+<b>着工</b> <br> 工事は来月に着工します。	[sound:s-0276_工事は来月に着工します。.mp3] <br> こうじはらいげつにちゃっこうします。 <br>Construction will start next month.
+[sound:s-0276_工事は来月に着工します。.mp3]	<b>着工</b> <br> 工事は来月に着工します。<br> こうじはらいげつにちゃっこうします <br>Construction will start next month.
+自民党	[sound:k-0277_自民党.mp3]<br>じみんとう <br> Liberal Democratic Party, LDP
+Liberal Democratic Party, LDP	<b>自民党<b> <br> じみんとう <br>[sound:k-0277_自民党.mp3]
+[sound:k-0277_自民党.mp3]	Liberal Democratic Party, LDP<br> <b>自民党</b> <br> (じみんとう)
+<b>着実</b> <br> 彼の努力は着実に成果を上げています。	[sound:s-0277_彼の努力は着実に成果を上げています。.mp3] <br> かれのどりょくはちゃくじつにせいかをあげています。 <br>His efforts are steadily yielding results.
+[sound:s-0277_彼の努力は着実に成果を上げています。.mp3]	<b>着実</b> <br> 彼の努力は着実に成果を上げています。<br> かれのどりょくはちゃくじつにせいかをあげています <br>His efforts are steadily yielding results.
+自民	[sound:k-0278_自民.mp3]<br>じみん <br> Liberal Democratic Party, LDP
+Liberal Democratic Party, LDP	<b>自民<b> <br> じみん <br>[sound:k-0278_自民.mp3]
+[sound:k-0278_自民.mp3]	Liberal Democratic Party, LDP<br> <b>自民</b> <br> (じみん)
+<b>着々</b> <br> 彼の計画は着々と進行しています。	[sound:s-0278_彼の計画は着々と進行しています。.mp3] <br> かれのけいかくはちゃくちゃくとしんこうしています。 <br>His plan is steadily progressing.
+[sound:s-0278_彼の計画は着々と進行しています。.mp3]	<b>着々</b> <br> 彼の計画は着々と進行しています。<br> かれのけいかくはちゃくちゃくとしんこうしています <br>His plan is steadily progressing.
+人民	[sound:k-0279_人民.mp3]<br>じんみん <br> people, public
+people, public	<b>人民<b> <br> じんみん <br>[sound:k-0279_人民.mp3]
+[sound:k-0279_人民.mp3]	people, public<br> <b>人民</b> <br> (じんみん)
+<b>着飾る</b> <br> 彼女はパーティーのために派手に着飾りました。	[sound:s-0279_彼女はパーティーのために派手に着飾りました。.mp3] <br> かのじょはぱーてぃーのためにはでにきかざりました。 <br>She dressed up extravagantly for the party.
+[sound:s-0279_彼女はパーティーのために派手に着飾りました。.mp3]	<b>着飾る</b> <br> 彼女はパーティーのために派手に着飾りました。<br> かのじょはぱーてぃーのためにはでにきかざりました <br>She dressed up extravagantly for the party.
+生きる	[sound:k-0280_生きる.mp3]<br>いきる <br> to live, to exist
+to live, to exist	<b>生きる<b> <br> いきる <br>[sound:k-0280_生きる.mp3]
+[sound:k-0280_生きる.mp3]	to live, to exist<br> <b>生きる</b> <br> (いきる)
+<b>着る</b> <br> 彼女は昨日新しいドレスを着ました。	[sound:s-0280_彼女は昨日新しいドレスを着ました。.mp3] <br> かのじょはきのうあたらしいどれすをきました。 <br>She wore a new dress yesterday.
+[sound:s-0280_彼女は昨日新しいドレスを着ました。.mp3]	<b>着る</b> <br> 彼女は昨日新しいドレスを着ました。<br> かのじょはきのうあたらしいどれすをきました <br>She wore a new dress yesterday.
+学生	[sound:k-0281_学生.mp3]<br>がくせい <br> student (esp. a university student)
+student (esp. a university student)	<b>学生<b> <br> がくせい <br>[sound:k-0281_学生.mp3]
+[sound:k-0281_学生.mp3]	student<br> <b>esp. a university student) (学生</b> <br> (がくせい)
+<b>前</b> <br> 彼は私の前に立っています。	[sound:s-0281_彼は私の前に立っています。.mp3] <br> かれはわたしのまえにたっています。 <br>He is standing in front of me.
