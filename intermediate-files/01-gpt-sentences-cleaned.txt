@@ -823,162 +823,162 @@
 (<b>共産</b>) 	彼は共産主義者として有名です。	He is famous as a communist.
 (<b>所得</b>) 	年間所得を確認する必要があります。	It is necessary to verify annual income.
 (<b>得</b>) 	彼は仕事で多くの経験を得ました。	He gained a lot of experience at work.
-(<b>所得税</b>) 	毎年、所得税を申告する必要があります。	Income tax must be declared every year.
-(<b>得点</b>) 	彼はその試合で高得点を獲得しました。	He scored a high point in the game.
-(<b>獲得</b>) 	彼は多くの栄誉を獲得しました。	He has gained many honors.
-(<b>説得</b>) 	彼女は彼を説得しようとしましたが、うまくいかなかった。	She tried to persuade him, but it didn't work.
-(<b>得票</b>) 	彼は選挙で多くの得票を獲得しました。	He garnered many votes in the election.
-(<b>取得</b>) 	彼はその資格を取得するのに成功しました。	He succeeded in obtaining the qualification.
-(<b>得意</b>) 	彼は数学が得意です。	He is good at mathematics.
-(<b>納得</b>) 	彼は最終的に私の提案に納得しました。	He finally agreed to my proposal.
-(<b>解決</b>) 	問題の解決には時間がかかるかもしれません。	It may take time to resolve the problem.
-(<b>解散</b>) 	国会は解散され、新しい選挙が実施されます。	The parliament is dissolved, and new elections will be held.
-(<b>見解</b>) 	彼の見解は非常に興味深いです。	His viewpoint is very interesting.
-(<b>理解</b>) 	私たちは互いを理解し合う必要があります。	We need to understand each other.
-(<b>解除</b>) 	契約が解除されました。	The contract has been terminated.
-(<b>解放</b>) 	彼は捕虜としての身分を解放されました。	He was released from captivity.
-(<b>解明</b>) 	事件の真相を解明するために捜査が行われました。	Investigation was conducted to clarify the truth of the incident.
-(<b>和解</b>) 	双方は和解に達しました。	Both parties reached a settlement.
-(<b>解消</b>) 	この問題は早急に解消しなければなりません。	This issue must be resolved promptly.
-(<b>解説</b>) 	彼は新製品の解説を行いました。	He provided an explanation of the new product.
-(<b>名</b>) 	彼はその場所の有名な人物です。	He is a famous figure in that place.
-(<b>名前</b>) 	彼女の名前は花子です。	Her name is Hanako.
-(<b>名誉</b>) 	彼は名誉を傷つけられたと感じています。	He feels his honor has been offended.
-(<b>指名</b>) 	彼はチームのキャプテンに指名されました。	He was appointed as the team captain.
-(<b>氏名</b>) 	履歴書にはフルネームを氏名として記入してください。	Please write your full name as your name on the resume.
-(<b>有名</b>) 	このレストランは有名なシェフが経営しています。	This restaurant is run by a famous chef.
-(<b>署名</b>) 	申込書に署名してください。	Please sign the application form.
-(<b>本名</b>) 	彼の本名は公にされていません。	His real name is not publicly known.
-(<b>名人</b>) 	彼は将棋の名人です。	He is a master of shogi (Japanese chess).
-(<b>名簿</b>) 	会員名簿を更新する必要があります。	The membership list needs to be updated.
-(<b>外交</b>) 	その国は積極的な外交政策を採用しています。	The country adopts an active diplomatic policy.
-(<b>交渉</b>) 	交渉はまだ進行中です。	Negotiations are still ongoing.
-(<b>交流</b>) 	両国間の文化交流が盛んに行われています。	Cultural exchanges between the two countries are actively taking place.
-(<b>交換</b>) 	情報を交換しましょう。	Let's exchange information.
-(<b>交通</b>) 	電車が遅れて、交通が混乱しています。	The train is delayed, and traffic is congested.
-(<b>国交</b>) 	両国の国交は改善されました。	Diplomatic relations between the two countries have improved.
-(<b>交代</b>) 	彼は交代でプレーします。	He will play as a substitute.
-(<b>交付</b>) 	書類は手数料を支払った後に交付されます。	The documents will be issued after the fee is paid.
-(<b>外交官</b>) 	彼は優れた外交官です。	He is an excellent diplomat.
-(<b>交通事故</b>) 	昨日、交通事故が起きました。	There was a traffic accident yesterday.
-(<b>資金</b>) 	プロジェクトの資金調達が難しいです。	It's difficult to raise funds for the project.
-(<b>投資</b>) 	彼は株式市場への投資を考えています。	He is considering investing in the stock market.
-(<b>融資</b>) 	銀行からの融資を受けることができます。	You can get a loan from the bank.
-(<b>資産</b>) 	彼は多くの資産を持っています。	He has many assets.
-(<b>資料</b>) 	そのプロジェクトのために資料を準備してください。	Please prepare the materials for the project.
-(<b>資格</b>) 	その職には特定の資格が必要です。	That position requires specific qualifications.
-(<b>資源</b>) 	環境保護は地球の資源を守ることにつながります。	Environmental protection leads to the conservation of the Earth's resources.
-(<b>資本</b>) 	会社の成長には十分な資本が必要です。	Adequate capital is necessary for the company's growth.
-(<b>物資</b>) 	災害救助のために必要な物資を提供します。	We provide the necessary supplies for disaster relief.
-(<b>出資</b>) 	彼はそのプロジェクトに資金を出資しました。	He invested money in the project.
-(<b>予算</b>) 	新しいプロジェクトのために予算を確保する必要があります。	We need to secure a budget for the new project.
-(<b>予定</b>) 	今日の予定は変更されました。	Today's schedule has been changed.
-(<b>予選</b>) 	彼は予選で優れた成績を収めました。	He achieved excellent results in the preliminary rounds.
-(<b>予想</b>) 	来年の経済予想は不透明です。	Economic forecasts for next year are uncertain.
-(<b>予測</b>) 	将来のトレンドを予測するのは難しいです。	It's difficult to predict future trends.
-(<b>予備</b>) 	予備知識があれば役に立つかもしれません。	Preliminary knowledge might be helpful.
-(<b>予防</b>) 	インフルエンザ予防のためにワクチンを接種しました。	I got vaccinated for influenza prevention.
-(<b>補正予算</b>) 	今年度の補正予算が国会で承認されました。	The supplementary budget for this fiscal year has been approved by the parliament.
-(<b>予約</b>) 	飛行機の予約を取りました。	I made a reservation for the flight.
-(<b>予報</b>) 	明日の天気予報は晴れです。	Tomorrow's weather forecast is sunny.
-(<b>川</b>) 	川の水はきれいです。	The river water is clean. 
-(<b>小川</b>) 	家の近くに小川が流れています。	There is a stream near my house.
-(<b>河川</b>) 	この地域は美しい河川が多いです。	This area has many beautiful rivers.
-(<b>谷川</b>) 	山間には清流が流れる谷川があります。	There are mountain streams flowing through the valleys.
-(<b>江戸川</b>) 	江戸川は東京都内を流れています。	The Edogawa River flows through Tokyo.
-(<b>川口</b>) 	川口市は埼玉県にあります。	Kawaguchi City is located in Saitama Prefecture.
-(<b>川上</b>) 	川上には美しい滝があります。	There is a beautiful waterfall upstream.
-(<b>川柳</b>) 	川柳は季節の風景を詠んだ短い詩です。	Senryu is a short poem that depicts seasonal scenery.
-(<b>川端</b>) 	川端康成は日本の小説家です。	Kawabata Yasunari is a Japanese novelist.
-(<b>河川敷</b>) 	河川敷でのピクニックは楽しいです。	Picnicking on the riverbank is enjoyable.
-(<b>方向</b>) 	目的地への方向を教えてください。	Please tell me the direction to the destination.
-(<b>意向</b>) 	彼の意向に従って行動しました。	I acted according to his intention.
-(<b>傾向</b>) 	この地域では自然災害が増加している傾向があります。	There is a trend of increasing natural disasters in this area.
-(<b>向き</b>) 	彼女は新しい仕事に向いていると思います。	I think she is suited for the new job.
-(<b>向上</b>) 	社員のスキル向上のためのトレーニングが行われました。	Training was conducted to improve the skills of the employees.
-(<b>動向</b>) 	市場の動向を注意深く見守っています。	We are closely monitoring the market trends.
-(<b>向い</b>) 	その建物は東向きです。	The building faces east.
-(<b>向かって左</b>) 	信号を渡って左に向かってください。	Please cross the signal and turn left.
-(<b>志向</b>) 	彼は環境保護に志向があります。	He has a inclination towards environmental conservation.
-(<b>前向き</b>) 	彼は常に前向きな考え方を持っています。	He always has a positive outlook.
-(<b>際</b>) 	その際には私に連絡してください。	Please contact me on that occasion.
-(<b>国際</b>) 	国際会議に参加するために出張しました。	I traveled abroad to attend an international conference.
-(<b>国際的</b>) 	その問題は国際的な関心を引いています。	The issue has drawn international attention.
-(<b>実際</b>) 	彼の計画は実際にはうまくいかなかった。	His plan didn't work out in reality.
-(<b>国際化</b>) 	この企業は国際化を進めています。	This company is promoting internationalization.
-(<b>国際法</b>) 	国際法に基づいて紛争を解決する必要があります。	Disputes need to be resolved based on international law.
-(<b>交際</b>) 	彼らは長年にわたって交際しています。	They have been socializing for many years.
-(<b>交際費</b>) 	会社の交際費は経費として精算されます。	Company entertainment expenses are reimbursed as business expenses.
-(<b>国際人</b>) 	彼は国際人として多くの経験を持っています。	He has a lot of experience as an international person.
-(<b>国際協力事業団</b>) 	国際協力事業団は途上国の開発支援を行っています。	The international cooperation agency is providing development assistance to developing countries.
-(<b>捜査</b>) 	警察は事件の捜査を行っています。	The police are conducting an investigation into the case.
-(<b>調査</b>) 	この問題について調査が行われました。	An investigation was conducted on this issue.
-(<b>検査</b>) 	医師は患者に定期的な検査を勧めました。	The doctor recommended regular examinations for the patient.
-(<b>査察</b>) 	監査官が施設を査察しています。	Inspectors are inspecting the facility.
-(<b>審査</b>) 	このプロジェクトの審査が完了しました。	The review of this project has been completed.
-(<b>実態調査</b>) 	新しい政策の実態調査が行われました。	A survey on the actual situation of the new policy was conducted.
-(<b>監査役</b>) 	会社の監査役は会計報告書を審査します。	The auditor of the company audits the financial statements.
-(<b>巡査</b>) 	巡査は街を巡回しています。	The patrolman is patrolling the town.
-(<b>監査</b>) 	会社の監査は定期的に行われます。	Audits of the company are conducted regularly.
-(<b>探査</b>) 	宇宙探査は新たな知識をもたらします。	Space exploration brings new knowledge.
-(<b>勝る</b>) 	信頼はお金に勝ると言われています。	Trust is said to be superior to money.
-(<b>勝ち</b>) 	彼は昨日の試合で勝ちました。	He won yesterday's game.
-(<b>優勝</b>) 	彼は大会で優勝しました。	He won the tournament.
-(<b>決勝</b>) 	明日は決勝戦です。	Tomorrow is the final match.
-(<b>勝利</b>) 	勝利を祝ってパーティーを開催しました。	We held a party to celebrate the victory.
-(<b>勝負</b>) 	彼らの間での最後の勝負が始まりました。	The final showdown between them has begun.
-(<b>連勝</b>) 	彼は連勝記録を更新しました。	He broke the winning streak record.
-(<b>準決勝</b>) 	準決勝は非常に緊張した試合でした。	The semifinals were very tense matches.
-(<b>勝ち越し</b>) 	彼らはシーズンで勝ち越しを達成しました。	They achieved a winning record for the season.
-(<b>全勝</b>) 	彼は全勝でトーナメントを制しました。	He won the tournament with a perfect record.
-(<b>面</b>) 	彼は多くの面を持っています。	He has many aspects.
-(<b>全面</b>) 	この問題は全面的な解決が必要です。	This issue requires a comprehensive solution.
-(<b>当面</b>) 	当面の課題は資金調達です。	The immediate challenge is fundraising.
-(<b>場面</b>) 	その場面で私は困惑しました。	I was perplexed in that situation.
-(<b>画面</b>) 	画面には多くの情報が表示されています。	The screen displays a lot of information.
-(<b>局面</b>) 	戦争の局面が変化しました。	The situation in the war has changed.
-(<b>社会面</b>) 	社会面での課題に対処する必要があります。	We need to address the social aspects of the issue.
-(<b>正面</b>) 	彼は問題に真正面から取り組みました。	He tackled the problem head-on.
-(<b>全面的</b>) 	彼は全面的なサポートを提供しました。	He provided comprehensive support.
-(<b>表面</b>) 	問題の表面だけではなく、根本的な原因を見つける必要があります。	We need to find not only the surface issues but also the underlying causes of the problem.
-(<b>委員</b>) 	彼は委員会のメンバーです。	He is a member of the committee.
-(<b>委員会</b>) 	委員会は明日会議を開きます。	The committee will hold a meeting tomorrow.
-(<b>委員長</b>) 	彼は委員長として任命されました。	He was appointed as the chairman of the committee.
-(<b>公取委</b>) 	公取委は競争政策を担当しています。	The Fair Trade Commission is responsible for competition policy.
-(<b>委託</b>) 	そのプロジェクトは彼に委託されました。	The project was entrusted to him.
-(<b>教育委員会</b>) 	教育委員会は学校の方針を決定します。	The Board of Education determines school policies.
-(<b>執行委員</b>) 	彼は執行委員の一員です。	He is a member of the executive committee.
-(<b>公安委員会</b>) 	公安委員会は都市の安全を確保します。	The Public Safety Commission ensures the safety of the city.
-(<b>議院運営委員会</b>) 	議院運営委員会は国会の運営を担当しています。	The Diet's Steering Committee is in charge of the operation of the parliament.
-(<b>委縮</b>) 	委縮した姿勢では問題を解決できません。	A shrinking posture cannot solve the problem.
-(<b>告別</b>) 	彼の退職を悲しんで告別の会を開きました。	We held a farewell party to bid him goodbye.
-(<b>被告</b>) 	被告は法廷で無罪を主張しました。	The defendant pleaded not guilty in court.
-(<b>報告</b>) 	会議での進捗状況の報告を行います。	We will report the progress at the meeting.
-(<b>広告</b>) 	その商品の広告をテレビで見ました。	I saw the advertisement for that product on TV.
-(<b>報告書</b>) 	彼は毎月の業績報告書を提出するよう求められています。	He is required to submit monthly performance reports.
-(<b>勧告</b>) 	専門家からの勧告を受け入れるべきです。	We should heed the recommendations of the experts.
-(<b>申告</b>) 	所得税の申告書を提出しなければなりません。	You must submit an income tax return.
-(<b>警告</b>) 	警告にもかかわらず、彼はルールを破り続けました。	Despite the warning, he continued to break the rules.
-(<b>告示</b>) 	市庁舎の前に告示が掲示されています。	Notices are posted in front of the city hall.
-(<b>軍</b>) 	彼は軍に入隊しました。	He enlisted in the military.
-(<b>軍事</b>) 	軍事作戦が計画されています。	Military operations are being planned.
-(<b>海軍</b>) 	彼は海軍で勤務しています。	He serves in the navy.
-(<b>軍縮</b>) 	軍縮交渉が進展しています。	Disarmament negotiations are progressing.
-(<b>空軍</b>) 	空軍のパイロットは高度な訓練を受けています。	Air Force pilots undergo advanced training.
-(<b>軍人</b>) 	彼は軍人として数々の賞を受賞しました。	He received numerous awards as a military personnel.
-(<b>軍部</b>) 	軍部は政府に対して圧力をかけている。	The military is putting pressure on the government.
-(<b>従軍</b>) 	彼は祖父と一緒に従軍しました。	He accompanied his grandfather to the war.
-(<b>軍隊</b>) 	軍隊は国の安全を守る責任があります。	The military has the responsibility to protect the nation's security.
-(<b>将軍</b>) 	彼は将軍として数々の戦いを指揮しました。	He commanded many battles as a general.
-(<b>文</b>) 	彼は優れた文章を書きます。	He writes excellent essays.
-(<b>文化</b>) 	日本の文化は多様で魅力的です。	Japanese culture is diverse and fascinating.
-(<b>文学</b>) 	彼は古典文学が好きです。	He likes classical literature.
-(<b>文書</b>) 	その会社の重要な文書が紛失しました。	The company's important documents have been lost.
-(<b>文字</b>) 	日本語の文字は美しいです。	Japanese characters are beautiful.
-(<b>文部省</b>) 	文部省は教育政策を担当しています。	The Ministry of Education is in charge of educational policies.
-(<b>注文</b>) 	レストランで食事を注文しました。	I ordered food at the restaurant.
-(<b>論文</b>) 	彼の論文は学界で高い評価を受けました。	His thesis received high praise in the academic community.
-(<b>文庫</b>) 	彼は毎週末文庫で読書を楽しんでいます。	He enjoys reading in paperback books every weekend.
+(<b>所得税</b>) 	毎年、所得税を申告する必要があります。	まいねん、しょとくぜいをしんこくするひつようがあります。	Income tax must be declared every year.
+(<b>得点</b>) 	彼はその試合で高得点を獲得しました。	かれはそのしあいでこうとくてんをかくとくしました。	He scored a high point in the game.
+(<b>獲得</b>) 	彼は多くの栄誉を獲得しました。	かれはおおくのえいよをかくとくしました。	He has gained many honors.
+(<b>説得</b>) 	彼女は彼を説得しようとしましたが、うまくいかなかった。	かのじょはかれをせっとくしようとしましたが、うまくいかなかった。	She tried to persuade him, but it didn't work.
+(<b>得票</b>) 	彼は選挙で多くの得票を獲得しました。	かれはせんきょでおおくのとくひょうをかくとくしました。	He garnered many votes in the election.
+(<b>取得</b>) 	彼はその資格を取得するのに成功しました。	かれはそのしかくをしゅとくするのにせいこうしました。	He succeeded in obtaining the qualification.
+(<b>得意</b>) 	彼は数学が得意です。	かれはすうがくがとくいです。	He is good at mathematics.
+(<b>納得</b>) 	彼は最終的に私の提案に納得しました。	かれはさいしゅうてきにわたしのていあんになっとくしました。	He finally agreed to my proposal.
+(<b>解決</b>) 	問題の解決には時間がかかるかもしれません。	もんだいのかいけつにはじかんがかかるかもしれません。	It may take time to resolve the problem.
+(<b>解散</b>) 	国会は解散され、新しい選挙が実施されます。	こっかいはかいさんされ、あたらしいせんきょがじっしされます。	The parliament is dissolved, and new elections will be held.
+(<b>見解</b>) 	彼の見解は非常に興味深いです。	かれのけんかいはひじょうにきょうみぶかいです。	His viewpoint is very interesting.
+(<b>理解</b>) 	私たちは互いを理解し合う必要があります。	わたしたちはたがいをりかいしあうひつようがあります。	We need to understand each other.
+(<b>解除</b>) 	契約が解除されました。	けいやくがかいじょされました。	The contract has been terminated.
+(<b>解放</b>) 	彼は捕虜としての身分を解放されました。	かれはほりょとしてのみぶんをかいほうされました。	He was released from captivity.
+(<b>解明</b>) 	事件の真相を解明するために捜査が行われました。	じけんのしんそうをかいめいするためにそうさがおこなわれました。	Investigation was conducted to clarify the truth of the incident.
+(<b>和解</b>) 	双方は和解に達しました。	そうほうはわかいにたっしました。	Both parties reached a settlement.
+(<b>解消</b>) 	この問題は早急に解消しなければなりません。	このもんだいはそうきゅうにかいしょうしなければなりません。	This issue must be resolved promptly.
+(<b>解説</b>) 	彼は新製品の解説を行いました。	かれはしんせいひんのかいせつをおこないました。	He provided an explanation of the new product.
+(<b>名</b>) 	彼はその場所の有名な人物です。	かれはそのばしょのゆうめいなじんぶつです。	He is a famous figure in that place.
+(<b>名前</b>) 	彼女の名前は花子です。	かのじょのなまえははなこです。	Her name is Hanako.
+(<b>名誉</b>) 	彼は名誉を傷つけられたと感じています。	かれはめいよをきずつけられたとかんじています。	He feels his honor has been offended.
+(<b>指名</b>) 	彼はチームのキャプテンに指名されました。	かれはちーむのきゃぷてんにしめいされました。	He was appointed as the team captain.
+(<b>氏名</b>) 	履歴書にはフルネームを氏名として記入してください。	りれきしょにはふるねーむをしめいとしてきにゅうしてください。	Please write your full name as your name on the resume.
+(<b>有名</b>) 	このレストランは有名なシェフが経営しています。	このれすとらんはゆうめいなしぇふがけいえいしています。	This restaurant is run by a famous chef.
+(<b>署名</b>) 	申込書に署名してください。	もうしこみしょにしょめいしてください。	Please sign the application form.
+(<b>本名</b>) 	彼の本名は公にされていません。	かれのほんみょうはおおやけにされていません。	His real name is not publicly known.
+(<b>名人</b>) 	彼は将棋の名人です。	かれはしょうぎのめいじんです。	He is a master of shogi (Japanese chess).
+(<b>名簿</b>) 	会員名簿を更新する必要があります。	かいいんめいぼをこうしんするひつようがあります。	The membership list needs to be updated.
+(<b>外交</b>) 	その国は積極的な外交政策を採用しています。	そのくにはせっきょくてきながいこうせいさくをさいようしています。	The country adopts an active diplomatic policy.
+(<b>交渉</b>) 	交渉はまだ進行中です。	こうしょうはまだしんこうちゅうです。	Negotiations are still ongoing.
+(<b>交流</b>) 	両国間の文化交流が盛んに行われています。	りょうこっかんのぶんかこうりゅうがさかんにおこなわれています。	Cultural exchanges between the two countries are actively taking place.
+(<b>交換</b>) 	情報を交換しましょう。	じょうほうをこうかんしましょう。	Let's exchange information.
+(<b>交通</b>) 	電車が遅れて、交通が混乱しています。	でんしゃがおくれて、こうつうがこんらんしています。	The train is delayed, and traffic is congested.
+(<b>国交</b>) 	両国の国交は改善されました。	りょうこくのこっこうはかいぜんされました。	Diplomatic relations between the two countries have improved.
+(<b>交代</b>) 	彼は交代でプレーします。	かれはこうたいでぷれーします。	He will play as a substitute.
+(<b>交付</b>) 	書類は手数料を支払った後に交付されます。	しょるいはてすうりょうをしはらったあとにこうふされます。	The documents will be issued after the fee is paid.
+(<b>外交官</b>) 	彼は優れた外交官です。	かれはすぐれたがいこうかんです。	He is an excellent diplomat.
+(<b>交通事故</b>) 	昨日、交通事故が起きました。	きのう、こうつうじこがおきました。	There was a traffic accident yesterday.
+(<b>資金</b>) 	プロジェクトの資金調達が難しいです。	ぷろじぇくとのしきんちょうたつがむずかしいです。	It's difficult to raise funds for the project.
+(<b>投資</b>) 	彼は株式市場への投資を考えています。	かれはかぶしきしじょうへのとうしをかんがえています。	He is considering investing in the stock market.
+(<b>融資</b>) 	銀行からの融資を受けることができます。	ぎんこうからのゆうしをうけることができます。	You can get a loan from the bank.
+(<b>資産</b>) 	彼は多くの資産を持っています。	かれはおおくのしさんをもっています。	He has many assets.
+(<b>資料</b>) 	そのプロジェクトのために資料を準備してください。	そのぷろじぇくとのためにしりょうをじゅんびしてください。	Please prepare the materials for the project.
+(<b>資格</b>) 	その職には特定の資格が必要です。	そのしょくにはとくていのしかくがひつようです。	That position requires specific qualifications.
+(<b>資源</b>) 	環境保護は地球の資源を守ることにつながります。	かんきょうほごはちきゅうのしげんをまもることにつながります。	Environmental protection leads to the conservation of the Earth's resources.
+(<b>資本</b>) 	会社の成長には十分な資本が必要です。	かいしゃのせいちょうにはじゅうぶんなしほんがひつようです。	Adequate capital is necessary for the company's growth.
+(<b>物資</b>) 	災害救助のために必要な物資を提供します。	さいがいきゅうじょのためにひつようなぶっしをていきょうします。	We provide the necessary supplies for disaster relief.
+(<b>出資</b>) 	彼はそのプロジェクトに資金を出資しました。	かれはそのぷろじぇくとにしきんをしゅっししました。	He invested money in the project.
+(<b>予算</b>) 	新しいプロジェクトのために予算を確保する必要があります。	あたらしいぷろじぇくとのためによさんをかくほするひつようがあります。	We need to secure a budget for the new project.
+(<b>予定</b>) 	今日の予定は変更されました。	きょうのよていはへんこうされました。	Today's schedule has been changed.
+(<b>予選</b>) 	彼は予選で優れた成績を収めました。	かれはよせんですぐれたせいせきをおさめました。	He achieved excellent results in the preliminary rounds.
+(<b>予想</b>) 	来年の経済予想は不透明です。	らいねんのけいざいよそうはふとうめいです。	Economic forecasts for next year are uncertain.
+(<b>予測</b>) 	将来のトレンドを予測するのは難しいです。	しょうらいのとれんどをよそくするのはむずかしいです。	It's difficult to predict future trends.
+(<b>予備</b>) 	予備知識があれば役に立つかもしれません。	よびちしきがあればやくにたつかもしれません。	Preliminary knowledge might be helpful.
+(<b>予防</b>) 	インフルエンザ予防のためにワクチンを接種しました。	いんふるえんざよぼうのためにわくちんをせっしゅしました。	I got vaccinated for influenza prevention.
+(<b>補正予算</b>) 	今年度の補正予算が国会で承認されました。	こんねんどのほせいよさんがこっかいでしょうにんされました。	The supplementary budget for this fiscal year has been approved by the parliament.
+(<b>予約</b>) 	飛行機の予約を取りました。	ひこうきのよやくをとりました。	I made a reservation for the flight.
+(<b>予報</b>) 	明日の天気予報は晴れです。	あすのてんきよほうははれです。	Tomorrow's weather forecast is sunny.
+(<b>川</b>) 	川の水はきれいです。	かわの みずはきれいです。	The river water is clean.
+(<b>小川</b>) 	家の近くに小川が流れています。	いえのちかくにおがわがながれています。	There is a stream near my house.
+(<b>河川</b>) 	この地域は美しい河川が多いです。	このちいきはうつくしいかせんがおおいです。	This area has many beautiful rivers.
+(<b>谷川</b>) 	山間には清流が流れる谷川があります。	やままにはせいりゅうがながれるたにがわがあります。	There are mountain streams flowing through the valleys.
+(<b>江戸川</b>) 	江戸川は東京都内を流れています。	えどがわはとうきょうとないをながれています。	The Edogawa River flows through Tokyo.
+(<b>川口</b>) 	川口市は埼玉県にあります。	かわぐちしはさいたまけんにあります。	Kawaguchi City is located in Saitama Prefecture.
+(<b>川上</b>) 	川上には美しい滝があります。	かわかみにはうつくしいたきがあります。	There is a beautiful waterfall upstream.
+(<b>川柳</b>) 	川柳は季節の風景を詠んだ短い詩です。	せんりゅうはきせつのふうけいをよんだみじかいしです。	Senryu is a short poem that depicts seasonal scenery.
+(<b>川端</b>) 	川端康成は日本の小説家です。	かわばたやすなりはにほんのしょうせつかです。	Kawabata Yasunari is a Japanese novelist.
+(<b>河川敷</b>) 	河川敷でのピクニックは楽しいです。	かせんじきでのぴくにっくはたのしいです。	Picnicking on the riverbank is enjoyable.
+(<b>方向</b>) 	目的地への方向を教えてください。	もくてきちへのほうこうをおしえてください。	Please tell me the direction to the destination.
+(<b>意向</b>) 	彼の意向に従って行動しました。	かれのいこうにしたがってこうどうしました。	I acted according to his intention.
+(<b>傾向</b>) 	この地域では自然災害が増加している傾向があります。	このちいきではしぜんさいがいがぞうかしているけいこうがあります。	There is a trend of increasing natural disasters in this area.
+(<b>向き</b>) 	彼女は新しい仕事に向いていると思います。	かのじょはあたらしいしごとにむいているとおもいます。	I think she is suited for the new job.
+(<b>向上</b>) 	社員のスキル向上のためのトレーニングが行われました。	しゃいんのすきるこうじょうのためのとれーにんぐがおこなわれました。	Training was conducted to improve the skills of the employees.
+(<b>動向</b>) 	市場の動向を注意深く見守っています。	しじょうのどうこうをちゅういぶかくみまもっています。	We are closely monitoring the market trends.
+(<b>向い</b>) 	その建物は東向きです。	そのたてものはひがしむきです。	The building faces east.
+(<b>向かって左</b>) 	信号を渡って左に向かってください。	しんごうをわたってひだりにむかってください。	Please cross the signal and turn left.
+(<b>志向</b>) 	彼は環境保護に志向があります。	かれはかんきょうほごにしこうがあります。	He has a inclination towards environmental conservation.
+(<b>前向き</b>) 	彼は常に前向きな考え方を持っています。	かれはつねにまえむきなかんがえかたをもっています。	He always has a positive outlook.
+(<b>際</b>) 	その際には私に連絡してください。	そのさいにはわたしにれんらくしてください。	Please contact me on that occasion.
+(<b>国際</b>) 	国際会議に参加するために出張しました。	こくさいかいぎにさんかするためにしゅっちょうしました。	I traveled abroad to attend an international conference.
+(<b>国際的</b>) 	その問題は国際的な関心を引いています。	そのもんだいはこくさいてきなかんしんをひいています。	The issue has drawn international attention.
+(<b>実際</b>) 	彼の計画は実際にはうまくいかなかった。	かれのけいかくはじっさいにはうまくいかなかった。	His plan didn't work out in reality.
+(<b>国際化</b>) 	この企業は国際化を進めています。	このきぎょうはこくさいかをすすめています。	This company is promoting internationalization.
+(<b>国際法</b>) 	国際法に基づいて紛争を解決する必要があります。	こくさいほうにもとづいてふんそうをかいけつするひつようがあります。	Disputes need to be resolved based on international law.
+(<b>交際</b>) 	彼らは長年にわたって交際しています。	かれらはながねんにわたってこうさいしています。	They have been socializing for many years.
+(<b>交際費</b>) 	会社の交際費は経費として精算されます。	かいしゃのこうさいひはけいひとしてせいさんされます。	Company entertainment expenses are reimbursed as business expenses.
+(<b>国際人</b>) 	彼は国際人として多くの経験を持っています。	かれはこくさいじんとしておおくのけいけんをもっています。	He has a lot of experience as an international person.
+(<b>国際協力事業団</b>) 	国際協力事業団は途上国の開発支援を行っています。	こくさいきょうりょくじぎょうだんはとじょうこくのかいはつしえんをおこなっています。	The international cooperation agency is providing development assistance to developing countries.
+(<b>捜査</b>) 	警察は事件の捜査を行っています。	けいさつはじけんのそうさをおこなっています。	The police are conducting an investigation into the case.
+(<b>調査</b>) 	この問題について調査が行われました。	このもんだいについてちょうさがおこなわれました。	An investigation was conducted on this issue.
+(<b>検査</b>) 	医師は患者に定期的な検査を勧めました。	いしはかんじゃにていきてきなけんさをすすめました。	The doctor recommended regular examinations for the patient.
+(<b>査察</b>) 	監査官が施設を査察しています。	かんさかんがしせつをささつしています。	Inspectors are inspecting the facility.
+(<b>審査</b>) 	このプロジェクトの審査が完了しました。	このぷろじぇくとのしんさがかんりょうしました。	The review of this project has been completed.
+(<b>実態調査</b>) 	新しい政策の実態調査が行われました。	あたらしいせいさくのじったいちょうさがおこなわれました。	A survey on the actual situation of the new policy was conducted.
+(<b>監査役</b>) 	会社の監査役は会計報告書を審査します。	かいしゃのかんさやくはかいけいほうこくしょをしんさします。	The auditor of the company audits the financial statements.
+(<b>巡査</b>) 	巡査は街を巡回しています。	じゅんさはまちをじゅんかいしています。	The patrolman is patrolling the town.
+(<b>監査</b>) 	会社の監査は定期的に行われます。	かいしゃのかんさはていきてきにおこなわれます。	Audits of the company are conducted regularly.
+(<b>探査</b>) 	宇宙探査は新たな知識をもたらします。	うちゅうたんさはあらたなちしきをもたらします。	Space exploration brings new knowledge.
+(<b>勝る</b>) 	信頼はお金に勝ると言われています。	しんらいはおかねにまさるといわれています。	Trust is said to be superior to money.
+(<b>勝ち</b>) 	彼は昨日の試合で勝ちました。	かれはきのうのしあいでかちました。	He won yesterday's game.
+(<b>優勝</b>) 	彼は大会で優勝しました。	かれはたいかいでゆうしょうしました。	He won the tournament.
+(<b>決勝</b>) 	明日は決勝戦です。	あすはけっしょうせんです。	Tomorrow is the final match.
+(<b>勝利</b>) 	勝利を祝ってパーティーを開催しました。	しょうりをいわってぱーてぃーをかいさいしました。	We held a party to celebrate the victory.
+(<b>勝負</b>) 	彼らの間での最後の勝負が始まりました。	かれらのあいだでのさいごのしょうぶがはじまりました。	The final showdown between them has begun.
+(<b>連勝</b>) 	彼は連勝記録を更新しました。	かれはれんしょうきろくをこうしんしました。	He broke the winning streak record.
+(<b>準決勝</b>) 	準決勝は非常に緊張した試合でした。	じゅんけっしょうはひじょうにきんちょうしたしあいでした。	The semifinals were very tense matches.
+(<b>勝ち越し</b>) 	彼らはシーズンで勝ち越しを達成しました。	かれらはしーずんでかちこしをたっせいしました。	They achieved a winning record for the season.
+(<b>全勝</b>) 	彼は全勝でトーナメントを制しました。	かれはぜんしょうでとーなめんとをせいしました。	He won the tournament with a perfect record.
+(<b>面</b>) 	彼は多くの面を持っています。	かれはおおくのめんをもっています。	He has many aspects.
+(<b>全面</b>) 	この問題は全面的な解決が必要です。	このもんだいはぜんめんてきなかいけつがひつようです。	This issue requires a comprehensive solution.
+(<b>当面</b>) 	当面の課題は資金調達です。	とうめんのかだいはしきんちょうたつです。	The immediate challenge is fundraising.
+(<b>場面</b>) 	その場面で私は困惑しました。	そのばめんでわたしはこんわくしました。	I was perplexed in that situation.
+(<b>画面</b>) 	画面には多くの情報が表示されています。	がめんにはおおくのじょうほうがひょうじされています。	The screen displays a lot of information.
+(<b>局面</b>) 	戦争の局面が変化しました。	せんそうのきょくめんがへんかしました。	The situation in the war has changed.
+(<b>社会面</b>) 	社会面での課題に対処する必要があります。	しゃかいめんでのかだいにたいしょするひつようがあります。	We need to address the social aspects of the issue.
+(<b>正面</b>) 	彼は問題に真正面から取り組みました。	かれはもんだいにまっしょうめんからとりくみました。	He tackled the problem head-on.
+(<b>全面的</b>) 	彼は全面的なサポートを提供しました。	かれはぜんめんてきなさぽーとをていきょうしました。	He provided comprehensive support.
+(<b>表面</b>) 	問題の表面だけではなく、根本的な原因を見つける必要があります。	もんだいのひょうめんだけではなく、こんぽんてきなげんいんをみつけるひつようがあります。	We need to find not only the surface issues but also the underlying causes of the problem.
+(<b>委員</b>) 	彼は委員会のメンバーです。	かれはいいんかいのめんばーです。	He is a member of the committee.
+(<b>委員会</b>) 	委員会は明日会議を開きます。	いいんかいはあすかいぎをひらきます。	The committee will hold a meeting tomorrow.
+(<b>委員長</b>) 	彼は委員長として任命されました。	かれはいいんちょうとしてにんめいされました。	He was appointed as the chairman of the committee.
+(<b>公取委</b>) 	公取委は競争政策を担当しています。	こうとりいはきょうそうせいさくをたんとうしています。	The Fair Trade Commission is responsible for competition policy.
+(<b>委託</b>) 	そのプロジェクトは彼に委託されました。	そのぷろじぇくとはかれにいたくされました。	The project was entrusted to him.
+(<b>教育委員会</b>) 	教育委員会は学校の方針を決定します。	きょういくいいんかいはがっこうのほうしんをけっていします。	The Board of Education determines school policies.
+(<b>執行委員</b>) 	彼は執行委員の一員です。	かれはしっこういいんのいちいんです。	He is a member of the executive committee.
+(<b>公安委員会</b>) 	公安委員会は都市の安全を確保します。	こうあんいいんかいはとしのあんぜんをかくほします。	The Public Safety Commission ensures the safety of the city.
+(<b>議院運営委員会</b>) 	議院運営委員会は国会の運営を担当しています。	ぎいんうんえいいんかいはこっかいのうんえいをたんとうしています。	The Diet's Steering Committee is in charge of the operation of the parliament.
+(<b>委縮</b>) 	委縮した姿勢では問題を解決できません。	いしゅくしたしせいではもんだいをかいけつできません。	A shrinking posture cannot solve the problem.
+(<b>告別</b>) 	彼の退職を悲しんで告別の会を開きました。	かれのたいしょくをかなしんでこくべつのかいをひらきました。	We held a farewell party to bid him goodbye.
+(<b>被告</b>) 	被告は法廷で無罪を主張しました。	ひこくはほうていでむざいをしゅちょうしました。	The defendant pleaded not guilty in court.
+(<b>報告</b>) 	会議での進捗状況の報告を行います。	かいぎでのしんちょくじょうきょうのほうこくをおこないます。	We will report the progress at the meeting.
+(<b>広告</b>) 	その商品の広告をテレビで見ました。	そのしょうひんのこうこくをてれびでみました。	I saw the advertisement for that product on TV.
+(<b>報告書</b>) 	彼は毎月の業績報告書を提出するよう求められています。	かれはまいつきのぎょうせきほうこくしょをていしゅつするようもとめられています。	He is required to submit monthly performance reports.
+(<b>勧告</b>) 	専門家からの勧告を受け入れるべきです。	せんもんかからのかんこくをうけいれるべきです。	We should heed the recommendations of the experts.
+(<b>申告</b>) 	所得税の申告書を提出しなければなりません。	しょとくぜいのしんこくしょをていしゅつしなければなりません。	You must submit an income tax return.
+(<b>警告</b>) 	警告にもかかわらず、彼はルールを破り続けました。	けいこくにもかかわらず、かれはるーるをやぶりつづけました。	Despite the warning, he continued to break the rules.
+(<b>告示</b>) 	市庁舎の前に告示が掲示されています。	しちょうしゃのまえにこくじがけいじされています。	Notices are posted in front of the city hall.
+(<b>軍</b>) 	彼は軍に入隊しました。	かれはぐんににゅうたいしました。	He enlisted in the military.
+(<b>軍事</b>) 	軍事作戦が計画されています。	ぐんじさくせんがけいかくされています。	Military operations are being planned.
+(<b>海軍</b>) 	彼は海軍で勤務しています。	かれはかいぐんできんむしています。	He serves in the navy.
+(<b>軍縮</b>) 	軍縮交渉が進展しています。	ぐんしゅくこうしょうがしんてんしています。	Disarmament negotiations are progressing.
+(<b>空軍</b>) 	空軍のパイロットは高度な訓練を受けています。	くうぐんのぱいろっとはこうどなくんれんをうけています。	Air Force pilots undergo advanced training.
+(<b>軍人</b>) 	彼は軍人として数々の賞を受賞しました。	かれはぐんじんとしてかずかずのしょうをじゅしょうしました。	He received numerous awards as a military personnel.
+(<b>軍部</b>) 	軍部は政府に対して圧力をかけている。	ぐんぶはせいふにたいしてあつりょくをかけている。	The military is putting pressure on the government.
+(<b>従軍</b>) 	彼は祖父と一緒に従軍しました。	かれはそふといっしょにじゅうぐんしました。	He accompanied his grandfather to the war.
+(<b>軍隊</b>) 	軍隊は国の安全を守る責任があります。	ぐんたいはくにのあんぜんをまもるせきにんがあります。	The military has the responsibility to protect the nation's security.
+(<b>将軍</b>) 	彼は将軍として数々の戦いを指揮しました。	かれはしょうぐんとしてかずかずのたたかいをしきしました。	He commanded many battles as a general.
+(<b>文</b>) 	彼は優れた文章を書きます。	かれはすぐれたぶんしょうをかきます。	He writes excellent essays.
+(<b>文化</b>) 	日本の文化は多様で魅力的です。	にほんのぶんかはたようでみりょくてきです。	Japanese culture is diverse and fascinating.
+(<b>文学</b>) 	彼は古典文学が好きです。	かれはこてんぶんがすきです。	He likes classical literature.
+(<b>文書</b>) 	その会社の重要な文書が紛失しました。	そのかいしゃのじゅうようなぶんしょがふんしつしました。	The company's important documents have been lost.
+(<b>文字</b>) 	日本語の文字は美しいです。	にほんごのもじはうつくしいです。	Japanese characters are beautiful.
+(<b>文部省</b>) 	文部省は教育政策を担当しています。	ぶんぶしょうはきょういくせいさくをたんとうしています。	The Ministry of Education is in charge of educational policies.
+(<b>注文</b>) 	レストランで食事を注文しました。	れすとらんでしょくじをちゅうもんしました。	I ordered food at the restaurant.
+(<b>論文</b>) 	彼の論文は学界で高い評価を受けました。	かれのろんぶんはがっかいでたかいひょうかをうけました。	His thesis received high praise in the academic community.
+(<b>文庫</b>) 	彼は毎週末文庫で読書を楽しんでいます。	かれはまいしゅうまつぶんこでどくしょをたのしんでいます。	He enjoys reading in paperback books every weekend.
 (<b>文章</b>) 	文章を書くのは楽しいです。	ぶんしょうをかくのはたのしいです。	Writing articles is fun.
 (<b>違反</b>) 	その行為は法律に違反しています。	そのこういはほうりつにいはんしています。	That act violates the law.
 (<b>反対</b>) 	彼は私の意見に反対しています。	かれはわたしのいけんにはんたいしています。	He opposes my opinion.
