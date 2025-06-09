@@ -1,0 +1,1575 @@
+[sound:4c-k-同日.mp3]	<b>同日</b> <br> どうじつ <br> the same day
+[sound:4c-k-日米.mp3]	<b>日米</b> <br> にちべい <br> Japan-America
+[sound:4c-k-日本人.mp3]	<b>日本人</b> <br> にほんじん, にっぽんじん <br> Japanese person, Japanese people
+[sound:4c-k-一つ.mp3]	<b>一つ</b> <br> ひとつ <br> one; for one thing (often used in itemized lists); (after a noun) only; (with a verb in negative form) (not) even; just (i.e. "just try it")
+[sound:4c-k-一月.mp3]	<b>一月</b> <br> いちがつ <br> January
+[sound:4c-k-一般.mp3]	<b>一般</b> <br> いっぱん <br> general, liberal, universal, ordinary, average
+[sound:4c-k-一番.mp3]	<b>一番</b> <br> いちばん <br> best, first, number one; game, round, bout, fall, event (in a meet)
+[sound:4c-k-国.mp3]	<b>国</b> <br> くに <br> country, (the) state; region; province (of Japan); home (i.e. hometown, home country); land, earth
+[sound:4c-k-外国.mp3]	<b>外国</b> <br> がいこく <br> foreign country
+[sound:4c-k-外国人.mp3]	<b>外国人</b> <br> がいこくじん <br> foreigner
+[sound:4c-k-韓国.mp3]	<b>韓国</b> <br> かんこく <br> (South) Korea
+[sound:4c-k-委員会.mp3]	<b>委員会</b> <br> いいんかい <br> committee, commission, board, panel, committee meeting
+[sound:4c-k-会員.mp3]	<b>会員</b> <br> かいいん <br> member, the membership
+[sound:4c-k-会議.mp3]	<b>会議</b> <br> かいぎ <br> meeting, conference, session, assembly, council, convention, congress
+[sound:4c-k-会見.mp3]	<b>会見</b> <br> かいけん <br> interview, audience
+[sound:4c-k-外国人.mp3]	<b>外国人</b> <br> がいこくじん <br> foreigner
+[sound:4c-k-個人.mp3]	<b>個人</b> <br> こじん <br> individual, private person, personal, private
+[sound:4c-k-三人.mp3]	<b>三人</b> <br> さんにん, みたり <br> three people
+[sound:4c-k-人間.mp3]	<b>人間</b> <br> にんげん <br> human being, man, person; character (of a person)
+[sound:4c-k-年.mp3]	<b>年</b> <br> とし <br> year; age
+[sound:4c-k-昨年.mp3]	<b>昨年</b> <br> さくねん <br> last year
+[sound:4c-k-前年.mp3]	<b>前年</b> <br> ぜんねん <br> the preceding year, the previous year, last year
+[sound:4c-k-年間.mp3]	<b>年間</b> <br> ねんかん <br> year (period of)
+[sound:4c-k-大きな.mp3]	<b>大きな</b> <br> おおきな <br> big, large, great
+[sound:4c-k-拡大.mp3]	<b>拡大</b> <br> かくだい <br> magnification, enlargement, expansion
+[sound:4c-k-最大.mp3]	<b>最大</b> <br> さいだい <br> greatest, largest, maximum
+[sound:4c-k-大いに.mp3]	<b>大いに</b> <br> おおいに <br> very, much, greatly, a lot of
+[sound:4c-k-十.mp3]	<b>十</b> <br> じゅう, と, とお <br> 10, ten
+[sound:4c-k-十一.mp3]	<b>十一</b> <br> じゅういち, ジュウイチ <br> 11, eleven; Hodgson's hawk-cuckoo (Cuculus fugax)
+[sound:4c-k-十一月.mp3]	<b>十一月</b> <br> じゅういちがつ <br> November
+[sound:4c-k-十九.mp3]	<b>十九</b> <br> じゅうきゅう <br> 19, nineteen
+[sound:4c-k-二.mp3]	<b>二</b> <br> に, ふた, ふ, ふう <br> two
+[sound:4c-k-二つ.mp3]	<b>二つ</b> <br> ふたつ <br> two
+[sound:4c-k-十二.mp3]	<b>十二</b> <br> じゅうに <br> 12, twelve
+[sound:4c-k-十二月.mp3]	<b>十二月</b> <br> じゅうにがつ <br> December
+[sound:4c-k-基本.mp3]	<b>基本</b> <br> きほん <br> foundation, basis, standard
+[sound:4c-k-日本人.mp3]	<b>日本人</b> <br> にほんじん, にっぽんじん <br> Japanese person, Japanese people
+[sound:4c-k-本社.mp3]	<b>本社</b> <br> ほんしゃ, ほんじゃ <br> head office, main office, headquarters; main shrine; this company, this shrine
+[sound:4c-k-本部.mp3]	<b>本部</b> <br> ほんぶ <br> headquarters
+[sound:4c-k-中央.mp3]	<b>中央</b> <br> ちゅうおう <br> centre, central, center, middle
+[sound:4c-k-中国.mp3]	<b>中国</b> <br> ちゅうごく <br> China; South-west most region of Honshu, middle of a country, the Hiroshima area
+[sound:4c-k-中心.mp3]	<b>中心</b> <br> ちゅうしん <br> center, centre, middle, heart, core, focus, pivot, emphasis, balance
+[sound:4c-k-中でも.mp3]	<b>中でも</b> <br> なかでも <br> among (other things), inter alia; above all (else)
+[sound:4c-k-長.mp3]	<b>長</b> <br> ちょう, おさ <br> chief, head
+[sound:4c-k-委員長.mp3]	<b>委員長</b> <br> いいんちょう <br> committee chairman
+[sound:4c-k-会長.mp3]	<b>会長</b> <br> かいちょう <br> president (of a society), chairman
+[sound:4c-k-議長.mp3]	<b>議長</b> <br> ぎちょう <br> chairman, speaker (e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup)
+[sound:4c-k-出す.mp3]	<b>出す</b> <br> だす <br> to take out, to get out; to put out, to reveal, to show; to submit (e.g. thesis), to turn in; to publish, to make public; to send (e.g. letter); to produce (a sound), to start (fire); to serve (food); to begin
+[sound:4c-k-出身.mp3]	<b>出身</b> <br> しゅっしん <br> person's origin (town, city, country, etc.); institution from which one graduated; director in charge of employee relations
+[sound:4c-k-輸出.mp3]	<b>輸出</b> <br> ゆしゅつ, しゅしゅつ <br> export; efferent (medical)
+[sound:4c-k-出場.mp3]	<b>出場</b> <br> しゅつじょう <br> (stage) appearance, participation, performance
+[sound:4c-k-三.mp3]	<b>三</b> <br> さん, み <br> three
+[sound:4c-k-三つ.mp3]	<b>三つ</b> <br> みっつ <br> three
+[sound:4c-k-三月.mp3]	<b>三月</b> <br> さんがつ <br> March
+[sound:4c-k-三人.mp3]	<b>三人</b> <br> さんにん, みたり <br> three people
+[sound:4c-k-同時.mp3]	<b>同時</b> <br> どうじ <br> simultaneous(ly), concurrent, same time, synchronous, together
+[sound:4c-k-同社.mp3]	<b>同社</b> <br> どうしゃ <br> the same firm
+[sound:4c-k-同日.mp3]	<b>同日</b> <br> どうじつ <br> the same day
+[sound:4c-k-共同.mp3]	<b>共同</b> <br> きょうどう <br> doing together (as equals), sharing, common (land, etc.), joint (statement, etc.), cooperation, co-operation, collaboration, association
+[sound:4c-k-時.mp3]	<b>時</b> <br> とき <br> time, hour; occasion, moment
+[sound:4c-k-時間.mp3]	<b>時間</b> <br> じかん <br> time; hours
+[sound:4c-k-時期.mp3]	<b>時期</b> <br> じき <br> time, season, period; soon, shortly
+[sound:4c-k-時代.mp3]	<b>時代</b> <br> じだい <br> period, epoch, era, age; the times, those days; oldness, ancientness, antiquity; antique, period piece
+[sound:4c-k-政.mp3]	<b>政</b> <br> まつりごと <br> rule, government
+[sound:4c-k-行政.mp3]	<b>行政</b> <br> ぎょうせい <br> administration
+[sound:4c-k-財政.mp3]	<b>財政</b> <br> ざいせい <br> financial affairs, public finance
+[sound:4c-k-政界.mp3]	<b>政界</b> <br> せいかい <br> political world
+[sound:4c-k-事.mp3]	<b>事</b> <br> こと <br> thing, matter, fact, circumstances, business, reason, experience
+[sound:4c-k-幹事.mp3]	<b>幹事</b> <br> かんじ <br> executive secretary, coordinator, organizer, person in charge of making arrangements
+[sound:4c-k-記事.mp3]	<b>記事</b> <br> きじ <br> article, news story, report, account
+[sound:4c-k-軍事.mp3]	<b>軍事</b> <br> ぐんじ <br> military affairs
+[sound:4c-k-自ら.mp3]	<b>自ら</b> <br> みずから <br> for one's self, personally
+[sound:4c-k-自衛隊.mp3]	<b>自衛隊</b> <br> じえいたい <br> self-defence force, self-defense force; Japan Self-Defence Force, JSDF
+[sound:4c-k-自身.mp3]	<b>自身</b> <br> じしん <br> by oneself, personally
+[sound:4c-k-自然.mp3]	<b>自然</b> <br> しぜん <br> nature, spontaneity; naturally, spontaneously
+[sound:4c-k-行う.mp3]	<b>行う</b> <br> おこなう <br> to perform, to do, to conduct oneself, to carry out
+[sound:4c-k-行.mp3]	<b>行</b> <br> ぎょう <br> line (i.e. of text), row, verse; carya (austerities); samskara (formations); running script (a semi-cursive style of kanji)
+[sound:4c-k-銀行.mp3]	<b>銀行</b> <br> ぎんこう <br> bank
+[sound:4c-k-行政.mp3]	<b>行政</b> <br> ぎょうせい <br> administration
+[sound:4c-k-会社.mp3]	<b>会社</b> <br> かいしゃ <br> company, corporation; workplace
+[sound:4c-k-社会.mp3]	<b>社会</b> <br> しゃかい <br> society, public
+[sound:4c-k-社会党.mp3]	<b>社会党</b> <br> しゃかいとう <br> Socialist Party
+[sound:4c-k-社長.mp3]	<b>社長</b> <br> しゃちょう <br> company president, manager, director
+[sound:4c-k-意見.mp3]	<b>意見</b> <br> いけん <br> opinion, view
+[sound:4c-k-会見.mp3]	<b>会見</b> <br> かいけん <br> interview, audience
+[sound:4c-k-見直し.mp3]	<b>見直し</b> <br> みなおし <br> review, reconsideration, revision
+[sound:4c-k-見方.mp3]	<b>見方</b> <br> みかた <br> viewpoint
+[sound:4c-k-一月.mp3]	<b>一月</b> <br> いちがつ <br> January
+[sound:4c-k-九月.mp3]	<b>九月</b> <br> くがつ <br> September
+[sound:4c-k-五月.mp3]	<b>五月</b> <br> ごがつ <br> May
+[sound:4c-k-今月.mp3]	<b>今月</b> <br> こんげつ <br> this month
+[sound:4c-k-分け.mp3]	<b>分け</b> <br> わけ <br> sharing, division; draw, tie
+[sound:4c-k-分ける.mp3]	<b>分ける</b> <br> わける <br> to divide, to separate, to make distinctions, to differentiate (between)
+[sound:4c-k-自分.mp3]	<b>自分</b> <br> じぶん <br> myself, yourself, oneself, himself, herself; I, me
+[sound:4c-k-部分.mp3]	<b>部分</b> <br> ぶぶん <br> portion, section, part
+[sound:4c-k-会議.mp3]	<b>会議</b> <br> かいぎ <br> meeting, conference, session, assembly, council, convention, congress
+[sound:4c-k-議員.mp3]	<b>議員</b> <br> ぎいん <br> member of the Diet, congress or parliament
+[sound:4c-k-議会.mp3]	<b>議会</b> <br> ぎかい <br> Diet, congress, parliament
+[sound:4c-k-議長.mp3]	<b>議長</b> <br> ぎちょう <br> chairman, speaker (e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup)
+[sound:4c-k-後.mp3]	<b>後</b> <br> あと <br> behind, rear; after, later; after one's death; remainder, the rest; descendant, successor, heir; past/previous; more (i.e. five more minutes)
+[sound:4c-k-午後.mp3]	<b>午後</b> <br> ごご <br> afternoon, p.m.
+[sound:4c-k-後ろ.mp3]	<b>後ろ</b> <br> うしろ <br> back, behind, rear
+[sound:4c-k-今後.mp3]	<b>今後</b> <br> こんご <br> from now on, hereafter
+[sound:4c-k-午前.mp3]	<b>午前</b> <br> ごぜん <br> morning, a.m.
+[sound:4c-k-前年.mp3]	<b>前年</b> <br> ぜんねん <br> the preceding year, the previous year, last year
+[sound:4c-k-前回.mp3]	<b>前回</b> <br> ぜんかい <br> last time, last installment, last instalment, last session
+[sound:4c-k-前提.mp3]	<b>前提</b> <br> ぜんてい <br> preamble, premise, reason, prerequisite, condition, assumption, hypothesis
+[sound:4c-k-民.mp3]	<b>民</b> <br> たみ <br> nation, people
+[sound:4c-k-国民.mp3]	<b>国民</b> <br> こくみん <br> nation, nationality, people, citizen
+[sound:4c-k-市民.mp3]	<b>市民</b> <br> しみん <br> citizen, townspeople
+[sound:4c-k-住民.mp3]	<b>住民</b> <br> じゅうみん <br> citizens, inhabitants, residents, population
+[sound:4c-k-生きる.mp3]	<b>生きる</b> <br> いきる <br> to live, to exist
+[sound:4c-k-学生.mp3]	<b>学生</b> <br> がくせい <br> student (esp. a university student)
+[sound:4c-k-生活.mp3]	<b>生活</b> <br> せいかつ <br> living, life (one's daily existence), livelihood
+[sound:4c-k-生産.mp3]	<b>生産</b> <br> せいさん <br> production, manufacture
+[sound:4c-k-連.mp3]	<b>連</b> <br> れん <br> (taxonomical) tribe; quinella (quiniela); party, company, group; two reams (i.e. 1000 sheets of paper)
+[sound:4c-k-関連.mp3]	<b>関連</b> <br> かんれん <br> relation, connection, relevance
+[sound:4c-k-国連.mp3]	<b>国連</b> <br> こくれん <br> UN, United Nations
+[sound:4c-k-連合.mp3]	<b>連合</b> <br> れんごう <br> union, alliance, combination
+[sound:4c-k-五.mp3]	<b>五</b> <br> ご, いつ, い <br> five
+[sound:4c-k-五月.mp3]	<b>五月</b> <br> ごがつ <br> May
+[sound:4c-k-十五.mp3]	<b>十五</b> <br> じゅうご <br> 15, fifteen
+[sound:4c-k-五輪.mp3]	<b>五輪</b> <br> ごりん <br> the Olympics
+[sound:4c-k-発.mp3]	<b>発</b> <br> はつ <br> departure, departing (from ...), departing (at time ...); beginning; issued by (e.g. document); counter for gunshots, counter for blows (punches)
+[sound:4c-k-開発.mp3]	<b>開発</b> <br> かいはつ <br> development, exploitation
+[sound:4c-k-発言.mp3]	<b>発言</b> <br> はつげん <br> utterance, speech, proposal
+[sound:4c-k-発行.mp3]	<b>発行</b> <br> はっこう <br> issue (publications), publishing; raising an event (software)
+[sound:4c-k-間.mp3]	<b>間</b> <br> あいだ <br> space (between), gap, interval, distance; time (between), pause, break; span (temporal or spatial), stretch, period (while); relationship (between, among); members (within, among); due to, because of
+[sound:4c-k-間もなく.mp3]	<b>間もなく</b> <br> まもなく <br> soon, before long, in a short time; (after verb) lacking time to ..., without time to ...
+[sound:4c-k-期間.mp3]	<b>期間</b> <br> きかん <br> period, term, interval
+[sound:4c-k-時間.mp3]	<b>時間</b> <br> じかん <br> time; hours
+[sound:4c-k-対応.mp3]	<b>対応</b> <br> たいおう <br> interaction, correspondence, coping with, dealing with, support
+[sound:4c-k-対策.mp3]	<b>対策</b> <br> たいさく <br> counter-plan, counter-measure
+[sound:4c-k-対象.mp3]	<b>対象</b> <br> たいしょう <br> target, object (of worship, study, etc.), subject (of taxation, etc.)
+[sound:4c-k-反対.mp3]	<b>反対</b> <br> はんたい <br> opposition, resistance, antagonism, hostility, contrast, objection, dissension, reverse, opposite, vice versa
+[sound:4c-k-上がったり.mp3]	<b>上がったり</b> <br> あがったり <br> doomed, in a bad state, poor (e.g. business)
+[sound:4c-k-史上.mp3]	<b>史上</b> <br> しじょう <br> historical
+[sound:4c-k-事実上.mp3]	<b>事実上</b> <br> じじつじょう <br> (as a) matter of fact, actually, in reality
+[sound:4c-k-上げ.mp3]	<b>上げ</b> <br> あげ <br> rise in price, making a tuck
+[sound:4c-k-一部.mp3]	<b>一部</b> <br> いちぶ <br> one part, one portion, one section, some; one copy (e.g. of a document)
+[sound:4c-k-幹部.mp3]	<b>幹部</b> <br> かんぶ <br> management, (executive) staff, leaders, leadership, top brass, upper echelons
+[sound:4c-k-部長.mp3]	<b>部長</b> <br> ぶちょう <br> head (chief, director) of a section or department; head of a (school) club, head of a (school) team
+[sound:4c-k-部分.mp3]	<b>部分</b> <br> ぶぶん <br> portion, section, part
+[sound:4c-k-東.mp3]	<b>東</b> <br> ひがし, ひむかし, ひんがし <br> east
+[sound:4c-k-東京.mp3]	<b>東京</b> <br> とうきょう <br> Tokyo (current capital of Japan)
+[sound:4c-k-中東.mp3]	<b>中東</b> <br> ちゅうとう <br> Middle East
+[sound:4c-k-東海.mp3]	<b>東海</b> <br> とうかい <br> region south of Tokyo on Pacific Ocean side of Japan, eastern sea
+[sound:4c-k-患者.mp3]	<b>患者</b> <br> かんじゃ <br> (a) patient
+[sound:4c-k-関係者.mp3]	<b>関係者</b> <br> かんけいしゃ <br> authorized people, authorised people, person(s) concerned
+[sound:4c-k-記者.mp3]	<b>記者</b> <br> きしゃ <br> reporter
+[sound:4c-k-業者.mp3]	<b>業者</b> <br> ぎょうしゃ <br> trader, merchant
+[sound:4c-k-党.mp3]	<b>党</b> <br> とう <br> party (political); faction, -ite
+[sound:4c-k-共産党.mp3]	<b>共産党</b> <br> きょうさんとう <br> Communist Party
+[sound:4c-k-社会党.mp3]	<b>社会党</b> <br> しゃかいとう <br> Socialist Party
+[sound:4c-k-新党.mp3]	<b>新党</b> <br> しんとう <br> new (political) party
+[sound:4c-k-地.mp3]	<b>地</b> <br> ち <br> earth, ground, land, soil; place; territory; bottom (of a package, book, etc.)
+[sound:4c-k-現地.mp3]	<b>現地</b> <br> げんち <br> actual place, local
+[sound:4c-k-地域.mp3]	<b>地域</b> <br> ちいき <br> area, region
+[sound:4c-k-地球.mp3]	<b>地球</b> <br> ちきゅう <br> the earth
+[sound:4c-k-合.mp3]	<b>合</b> <br> ごう <br> 0.18039 litres (liters); 0.3306 metres square (meters); one-tenth of the way from the base to the summit of a mountain; (astronomical) conjunction; counter for covered containers; counter for matches, battles, etc.
+[sound:4c-k-合意.mp3]	<b>合意</b> <br> ごうい <br> agreement, consent, mutual understanding
+[sound:4c-k-試合.mp3]	<b>試合</b> <br> しあい <br> match, game, bout, contest
+[sound:4c-k-連合.mp3]	<b>連合</b> <br> れんごう <br> union, alliance, combination
+[sound:4c-k-市場.mp3]	<b>市場</b> <br> いちば <br> (town) market; (the) marketplace
+[sound:4c-k-市内.mp3]	<b>市内</b> <br> しない <br> (within a) city, local
+[sound:4c-k-市民.mp3]	<b>市民</b> <br> しみん <br> citizen, townspeople
+[sound:4c-k-都市.mp3]	<b>都市</b> <br> とし <br> town, city, municipal, urban
+[sound:4c-k-業.mp3]	<b>業</b> <br> ごう <br> karma (i.e. actions committed in a former life)
+[sound:4c-k-企業.mp3]	<b>企業</b> <br> きぎょう <br> enterprise, undertaking, corporation, business
+[sound:4c-k-業界.mp3]	<b>業界</b> <br> ぎょうかい <br> industry, business
+[sound:4c-k-業者.mp3]	<b>業者</b> <br> ぎょうしゃ <br> trader, merchant
+[sound:4c-k-内.mp3]	<b>内</b> <br> うち <br> inside, within; while; among, amongst, between; we (referring to one's in-group, i.e. company, etc.); my spouse; imperial palace grounds; emperor; I (primarily used by women and children), me
+[sound:4c-k-国内.mp3]	<b>国内</b> <br> こくない <br> internal, domestic
+[sound:4c-k-市内.mp3]	<b>市内</b> <br> しない <br> (within a) city, local
+[sound:4c-k-都内.mp3]	<b>都内</b> <br> とない <br> metropolitan area
+[sound:4c-k-外相.mp3]	<b>外相</b> <br> がいしょう <br> Foreign Minister
+[sound:4c-k-首相.mp3]	<b>首相</b> <br> しゅしょう <br> Prime Minister, Chancellor (Germany, Austria, etc.), Premier
+[sound:4c-k-相手.mp3]	<b>相手</b> <br> あいて <br> companion, partner, company; other party, addressee; opponent (sports, etc.)
+[sound:4c-k-相談.mp3]	<b>相談</b> <br> そうだん <br> consultation, discussion
+[sound:4c-k-一方.mp3]	<b>一方</b> <br> いっぽう <br> one (esp. of two), the other, one way, the other way, one direction, the other direction, one side, the other side, one party, the other party; on the one hand, on the other hand; whereas, although, but at the same time, meanwhile, in turn; (after noun, adjective-stem or plain verb) just keeps, being inclined to ..., tending to be ..., tending to do ..., ntinuously ..., just keeps on ...ing, only
+[sound:4c-k-見方.mp3]	<b>見方</b> <br> みかた <br> viewpoint
+[sound:4c-k-地方.mp3]	<b>地方</b> <br> ちほう, じかた <br> area, locality, district, region, province; countryside, rural area; coast (esp. as seen from the water); person singing ballads in Noh, person in charge of music in a Japanese dance performance
+[sound:4c-k-方向.mp3]	<b>方向</b> <br> ほうこう <br> direction, orientation, bearing, way; course (e.g. of action)
+[sound:4c-k-四.mp3]	<b>四</b> <br> よん, し, よ <br> four
+[sound:4c-k-四つ.mp3]	<b>四つ</b> <br> よっつ <br> four
+[sound:4c-k-四月.mp3]	<b>四月</b> <br> しがつ <br> April
+[sound:4c-k-十四.mp3]	<b>十四</b> <br> じゅうし, じゅうよん <br> 14, fourteen
+[sound:4c-k-協定.mp3]	<b>協定</b> <br> きょうてい <br> arrangement, pact, agreement
+[sound:4c-k-決定.mp3]	<b>決定</b> <br> けってい <br> decision, determination
+[sound:4c-k-予定.mp3]	<b>予定</b> <br> よてい <br> plans, arrangement, schedule, program, programme, expectation, estimate
+[sound:4c-k-安定.mp3]	<b>安定</b> <br> あんてい <br> stability, equilibrium
+[sound:4c-k-今.mp3]	<b>今</b> <br> いま <br> now, the present time, just now, soon, immediately, (one) more
+[sound:4c-k-今や.mp3]	<b>今や</b> <br> いまや <br> now
+[sound:4c-k-今回.mp3]	<b>今回</b> <br> こんかい <br> now, this time, lately
+[sound:4c-k-今月.mp3]	<b>今月</b> <br> こんげつ <br> this month
+[sound:4c-k-回.mp3]	<b>回</b> <br> かい <br> counter for occurrences; counter for innings (baseball)
+[sound:4c-k-回復.mp3]	<b>回復</b> <br> かいふく <br> recovery (from illness), improvement, rehabilitation, restoration, convalescence
+[sound:4c-k-今回.mp3]	<b>今回</b> <br> こんかい <br> now, this time, lately
+[sound:4c-k-回答.mp3]	<b>回答</b> <br> かいとう <br> reply, answer
+[sound:4c-k-新た.mp3]	<b>新た</b> <br> あらた <br> new, fresh, novel; newly, freshly, re-
+[sound:4c-k-新党.mp3]	<b>新党</b> <br> しんとう <br> new (political) party
+[sound:4c-k-新聞.mp3]	<b>新聞</b> <br> しんぶん <br> newspaper
+[sound:4c-k-新人.mp3]	<b>新人</b> <br> しんじん <br> new face, newcomer; modern humans (from Cro-Magnon man onwards)
+[sound:4c-k-現場.mp3]	<b>現場</b> <br> げんば, げんじょう <br> actual spot, scene, scene of the crime
+[sound:4c-k-市場.mp3]	<b>市場</b> <br> いちば <br> (town) market; (the) marketplace
+[sound:4c-k-場所.mp3]	<b>場所</b> <br> ばしょ <br> place, location
+[sound:4c-k-立場.mp3]	<b>立場</b> <br> たちば <br> standpoint, position, situation
+[sound:4c-k-お金.mp3]	<b>お金</b> <br> おかね <br> money
+[sound:4c-k-金融.mp3]	<b>金融</b> <br> きんゆう <br> financing, credit transacting, loaning of money, circulation of money
+[sound:4c-k-金利.mp3]	<b>金利</b> <br> きんり <br> interest rates
+[sound:4c-k-献金.mp3]	<b>献金</b> <br> けんきん <br> donation, contribution, offering
+[sound:4c-k-委員.mp3]	<b>委員</b> <br> いいん <br> committee member
+[sound:4c-k-委員会.mp3]	<b>委員会</b> <br> いいんかい <br> committee, commission, board, panel, committee meeting
+[sound:4c-k-委員長.mp3]	<b>委員長</b> <br> いいんちょう <br> committee chairman
+[sound:4c-k-会員.mp3]	<b>会員</b> <br> かいいん <br> member, the membership
+[sound:4c-k-九.mp3]	<b>九</b> <br> きゅう, く, ここの, この, ここ <br> nine
+[sound:4c-k-九月.mp3]	<b>九月</b> <br> くがつ <br> September
+[sound:4c-k-十九.mp3]	<b>十九</b> <br> じゅうきゅう <br> 19, nineteen
+[sound:4c-k-九州.mp3]	<b>九州</b> <br> きゅうしゅう <br> Kyushu (southernmost of the four main islands of Japan)
+[sound:4c-k-入り.mp3]	<b>入り</b> <br> いり <br> entering; setting (of the sun); containing, content, audience; income; beginning
+[sound:4c-k-輸入.mp3]	<b>輸入</b> <br> ゆにゅう, しゅにゅう <br> importation, import, introduction
+[sound:4c-k-購入.mp3]	<b>購入</b> <br> こうにゅう <br> purchase, buy
+[sound:4c-k-収入.mp3]	<b>収入</b> <br> しゅうにゅう <br> income, receipts, revenue
+[sound:4c-k-選.mp3]	<b>選</b> <br> せん <br> selection, choice, election; compilation, editing
+[sound:4c-k-選ぶ.mp3]	<b>選ぶ</b> <br> えらぶ <br> to choose, to select
+[sound:4c-k-選挙.mp3]	<b>選挙</b> <br> せんきょ <br> election
+[sound:4c-k-選手.mp3]	<b>選手</b> <br> せんしゅ <br> player (in game), team member
+[sound:4c-k-立場.mp3]	<b>立場</b> <br> たちば <br> standpoint, position, situation
+[sound:4c-k-連立.mp3]	<b>連立</b> <br> れんりつ <br> alliance, coalition
+[sound:4c-k-国立.mp3]	<b>国立</b> <br> こくりつ <br> national
+[sound:4c-k-成立.mp3]	<b>成立</b> <br> せいりつ <br> coming into existence, arrangements, establishment, conclusion, completion
+[sound:4c-k-開発.mp3]	<b>開発</b> <br> かいはつ <br> development, exploitation
+[sound:4c-k-開催.mp3]	<b>開催</b> <br> かいさい <br> holding a meeting, open an exhibition
+[sound:4c-k-開始.mp3]	<b>開始</b> <br> かいし <br> start, commencement, beginning, initiation
+[sound:4c-k-開放.mp3]	<b>開放</b> <br> かいほう <br> open, throw open, liberalization, liberalisation
+[sound:4c-k-手.mp3]	<b>手</b> <br> て <br> hand, arm; forepaw, foreleg; handle; hand, worker, help; trouble, care, effort; means, way, trick, move, technique, workmanship; hand, handwriting; kind, type, sort; one's hands, one's possession; ability to cope; hand (of cards)
+[sound:4c-k-選手.mp3]	<b>選手</b> <br> せんしゅ <br> player (in game), team member
+[sound:4c-k-選手権.mp3]	<b>選手権</b> <br> せんしゅけん <br> championship, title (of champion)
+[sound:4c-k-相手.mp3]	<b>相手</b> <br> あいて <br> companion, partner, company; other party, addressee; opponent (sports, etc.)
+[sound:4c-k-日米.mp3]	<b>日米</b> <br> にちべい <br> Japan-America
+[sound:4c-k-米国.mp3]	<b>米国</b> <br> べいこく <br> America, USA
+[sound:4c-k-全米.mp3]	<b>全米</b> <br> ぜんべい <br> all-America, pan-American
+[sound:4c-k-対米.mp3]	<b>対米</b> <br> たいべい <br> relating to the USA, toward America, with America
+[sound:4c-k-勢力.mp3]	<b>勢力</b> <br> せいりょく <br> influence, power, might, strength, potency, force, energy
+[sound:4c-k-努力.mp3]	<b>努力</b> <br> どりょく <br> great effort, exertion, endeavour, endeavor, effort
+[sound:4c-k-協力.mp3]	<b>協力</b> <br> きょうりょく <br> cooperation, collaboration
+[sound:4c-k-権力.mp3]	<b>権力</b> <br> けんりょく <br> (political) power, authority, influence
+[sound:4c-k-学校.mp3]	<b>学校</b> <br> がっこう <br> school
+[sound:4c-k-学生.mp3]	<b>学生</b> <br> がくせい <br> student (esp. a university student)
+[sound:4c-k-大学.mp3]	<b>大学</b> <br> だいがく <br> post-secondary education institution, incl. university, college, etc.; the Great Learning - one of the Four Books
+[sound:4c-k-医学.mp3]	<b>医学</b> <br> いがく <br> medical science, medicine
+[sound:4c-k-問う.mp3]	<b>問う</b> <br> とう <br> to ask, to question, to inquire; to charge (i.e. with a crime), to accuse; to care (about); without regard to (with negative verb)
+[sound:4c-k-問.mp3]	<b>問</b> <br> もん <br> counter for questions
+[sound:4c-k-質問.mp3]	<b>質問</b> <br> しつもん <br> question, inquiry, enquiry
+[sound:4c-k-訪問.mp3]	<b>訪問</b> <br> ほうもん <br> call, visit
+[sound:4c-k-高さ.mp3]	<b>高さ</b> <br> たかさ <br> height
+[sound:4c-k-高校.mp3]	<b>高校</b> <br> こうこう <br> senior high school
+[sound:4c-k-最高.mp3]	<b>最高</b> <br> さいこう <br> highest, supreme, the most
+[sound:4c-k-円高.mp3]	<b>円高</b> <br> えんだか <br> high-valued yen, exchange in favor (favour) of the yen
+[sound:4c-k-代わり.mp3]	<b>代わり</b> <br> かわり, がわり <br> substitute, deputy, proxy, alternate, relief, compensation, second helping; in place of, as a substitute for
+[sound:4c-k-時代.mp3]	<b>時代</b> <br> じだい <br> period, epoch, era, age; the times, those days; oldness, ancientness, antiquity; antique, period piece
+[sound:4c-k-代表.mp3]	<b>代表</b> <br> だいひょう <br> representative, representation, delegation, type, example, model
+[sound:4c-k-現代.mp3]	<b>現代</b> <br> げんだい <br> nowadays, modern era, modern times, present-day
+[sound:4c-k-明らか.mp3]	<b>明らか</b> <br> あきらか <br> obvious, evident, clear, plain
+[sound:4c-k-声明.mp3]	<b>声明</b> <br> せいめい <br> declaration, statement, proclamation
+[sound:4c-k-説明.mp3]	<b>説明</b> <br> せつめい <br> explanation, exposition
+[sound:4c-k-不明.mp3]	<b>不明</b> <br> ふめい <br> unknown, obscure, indistinct, uncertain, ambiguous, ignorant, lack of wisdom, anonymous, unidentified
+[sound:4c-k-実.mp3]	<b>実</b> <br> じつ, じち <br> truth, reality; sincerity, honesty, fidelity; content, substance; (good) result
+[sound:4c-k-実は.mp3]	<b>実は</b> <br> じつは <br> as a matter of fact, by the way, to tell you the truth, to be honest, frankly
+[sound:4c-k-実に.mp3]	<b>実に</b> <br> じつに, まことに, げに, しんに <br> indeed, really, absolutely, truly, actually, very, quite
+[sound:4c-k-現実.mp3]	<b>現実</b> <br> げんじつ <br> reality
+[sound:4c-k-円.mp3]	<b>円</b> <br> えん, まる <br> Yen, money; circle
+[sound:4c-k-円高.mp3]	<b>円高</b> <br> えんだか <br> high-valued yen, exchange in favor (favour) of the yen
+[sound:4c-k-円安.mp3]	<b>円安</b> <br> えんやす <br> cheap yen
+[sound:4c-k-円相場.mp3]	<b>円相場</b> <br> えんそうば <br> yen exchange rate
+[sound:4c-k-関.mp3]	<b>関</b> <br> せき <br> barrier, gate
+[sound:4c-k-関係.mp3]	<b>関係</b> <br> かんけい <br> relation, connection
+[sound:4c-k-関係者.mp3]	<b>関係者</b> <br> かんけいしゃ <br> authorized people, authorised people, person(s) concerned
+[sound:4c-k-関心.mp3]	<b>関心</b> <br> かんしん <br> concern, interest
+[sound:4c-k-決まって.mp3]	<b>決まって</b> <br> きまって <br> always, without fail, usually, regularly
+[sound:4c-k-決して.mp3]	<b>決して</b> <br> けっして, けして <br> never, by no means, decidedly, indisputably
+[sound:4c-k-解決.mp3]	<b>解決</b> <br> かいけつ <br> settlement, solution, resolution
+[sound:4c-k-決議.mp3]	<b>決議</b> <br> けつぎ <br> resolution, vote, decision
+[sound:4c-k-子.mp3]	<b>子</b> <br> こ <br> child; young (animal); young woman, young geisha; offshoot; interest; new shares; bird egg; (after a noun or -masu stem) -er (often of young women)
+[sound:4c-k-子供.mp3]	<b>子供</b> <br> こども <br> child, children
+[sound:4c-k-女子.mp3]	<b>女子</b> <br> じょし, おなご <br> woman, girl
+[sound:4c-k-男子.mp3]	<b>男子</b> <br> だんし <br> youth, young man
+[sound:4c-k-動.mp3]	<b>動</b> <br> どう <br> motion, change, confusion
+[sound:4c-k-動き.mp3]	<b>動き</b> <br> うごき <br> movement, activity, trend, development, change
+[sound:4c-k-運動.mp3]	<b>運動</b> <br> うんどう <br> motion, exercise
+[sound:4c-k-活動.mp3]	<b>活動</b> <br> かつどう <br> action, activity
+[sound:4c-k-京.mp3]	<b>京</b> <br> きょう, けい <br> imperial capital (esp. Kyoto); final word of an iroha-uta; 10^16, 10,000,000,000,000,000, ten quadrillion (American), (obs) ten thousand billion (British)
+[sound:4c-k-東京.mp3]	<b>東京</b> <br> とうきょう <br> Tokyo (current capital of Japan)
+[sound:4c-k-北京.mp3]	<b>北京</b> <br> ぺきん <br> Beijing (China), Peking
+[sound:4c-k-京都.mp3]	<b>京都</b> <br> きょうと <br> Kyoto
+[sound:4c-k-安全.mp3]	<b>安全</b> <br> あんぜん <br> safety; security
+[sound:4c-k-全体.mp3]	<b>全体</b> <br> ぜんたい <br> whole, entirety, whatever (is the matter)
+[sound:4c-k-全国.mp3]	<b>全国</b> <br> ぜんこく, ぜんごく <br> country-wide, nation-wide, whole country, national
+[sound:4c-k-安全保障.mp3]	<b>安全保障</b> <br> あんぜんほしょう <br> security guarantee (e.g. military security, network security, etc.)
+[sound:4c-k-目的.mp3]	<b>目的</b> <br> もくてき <br> purpose, goal, aim, objective, intention
+[sound:4c-k-目標.mp3]	<b>目標</b> <br> もくひょう <br> mark, objective, target
+[sound:4c-k-注目.mp3]	<b>注目</b> <br> ちゅうもく <br> notice, attention, observation
+[sound:4c-k-項目.mp3]	<b>項目</b> <br> こうもく <br> (data) item, entry
+[sound:4c-k-表.mp3]	<b>表</b> <br> おもて <br> surface; face (i.e. the visible side of an object); front (of a building, etc.), obverse side (i.e. "head") of a coin; outside, exterior; appearance; public; first half (of an innings), top (of an inning); cover (for tatami mats, etc.); foreground
+[sound:4c-k-代表.mp3]	<b>代表</b> <br> だいひょう <br> representative, representation, delegation, type, example, model
+[sound:4c-k-発表.mp3]	<b>発表</b> <br> はっぴょう <br> announcement, publication
+[sound:4c-k-表現.mp3]	<b>表現</b> <br> ひょうげん <br> expression, presentation; representation, notation
+[sound:4c-k-戦い.mp3]	<b>戦い</b> <br> たたかい <br> battle, fight, struggle, conflict
+[sound:4c-k-戦争.mp3]	<b>戦争</b> <br> せんそう <br> war
+[sound:4c-k-戦後.mp3]	<b>戦後</b> <br> せんご <br> postwar period, period after Second World War
+[sound:4c-k-作戦.mp3]	<b>作戦</b> <br> さくせん <br> tactics, strategy; military or naval operations
+[sound:4c-k-経.mp3]	<b>経</b> <br> きょう <br> sutra, Buddhist scriptures
+[sound:4c-k-経営.mp3]	<b>経営</b> <br> けいえい <br> management, administration
+[sound:4c-k-経済.mp3]	<b>経済</b> <br> けいざい <br> economics, business, finance, economy
+[sound:4c-k-経験.mp3]	<b>経験</b> <br> けいけん <br> experience
+[sound:4c-k-通り.mp3]	<b>通り</b> <br> どおり <br> in accordance with ..., following ...; .. Street, .. Avenue
+[sound:4c-k-通信.mp3]	<b>通信</b> <br> つうしん <br> correspondence, communication, transmission, news, signal
+[sound:4c-k-見通し.mp3]	<b>見通し</b> <br> みとおし <br> perspective, unobstructed view, outlook, forecast, prospect, insight, foresight, visibility
+[sound:4c-k-共通.mp3]	<b>共通</b> <br> きょうつう <br> commonness, community
+[sound:4c-k-外.mp3]	<b>外</b> <br> ほか <br> other (esp. places and things), the rest
+[sound:4c-k-海外.mp3]	<b>海外</b> <br> かいがい <br> foreign, abroad, overseas
+[sound:4c-k-外交.mp3]	<b>外交</b> <br> がいこう <br> diplomacy
+[sound:4c-k-外国.mp3]	<b>外国</b> <br> がいこく <br> foreign country
+[sound:4c-k-最も.mp3]	<b>最も</b> <br> もっとも <br> most, extremely
+[sound:4c-k-最近.mp3]	<b>最近</b> <br> さいきん <br> latest, most recent, nowadays
+[sound:4c-k-最後.mp3]	<b>最後</b> <br> さいご <br> last, end, conclusion; (after -tara form or -ta form followed by "ga") no sooner than, right after (often having negative consequences); one's final moments
+[sound:4c-k-最高.mp3]	<b>最高</b> <br> さいこう <br> highest, supreme, the most
+[sound:4c-k-言わば.mp3]	<b>言わば</b> <br> いわば <br> so to speak, so to call it, as it were
+[sound:4c-k-言う.mp3]	<b>言う</b> <br> いう, ゆう <br> to say; to call (i.e. to give a name)
+[sound:4c-k-言.mp3]	<b>言</b> <br> げん, こと <br> word, remark, statement
+[sound:4c-k-言葉.mp3]	<b>言葉</b> <br> ことば, けとば <br> language, dialect; word, words, phrase, term, expression, remark; speech, (manner of) speaking
+[sound:4c-k-氏.mp3]	<b>氏</b> <br> うじ <br> family name, lineage, birth
+[sound:4c-k-氏名.mp3]	<b>氏名</b> <br> しめい <br> full name, identity
+[sound:4c-k-同氏.mp3]	<b>同氏</b> <br> どうし <br> the said person, he, she, same person
+[sound:4c-k-両氏.mp3]	<b>両氏</b> <br> りょうし <br> both persons
+[sound:4c-k-現在.mp3]	<b>現在</b> <br> げんざい <br> now, current, present, present time, as of
+[sound:4c-k-現実.mp3]	<b>現実</b> <br> げんじつ <br> reality
+[sound:4c-k-現場.mp3]	<b>現場</b> <br> げんば, げんじょう <br> actual spot, scene, scene of the crime
+[sound:4c-k-現地.mp3]	<b>現地</b> <br> げんち <br> actual place, local
+[sound:4c-k-理.mp3]	<b>理</b> <br> り <br> reason, principle, logic; general principle (as opposed to individual concrete phenomenon); (in neo-Confucianism) the underlying principles of the cosmos
+[sound:4c-k-管理.mp3]	<b>管理</b> <br> かんり <br> control, management (e.g. of a business)
+[sound:4c-k-理事.mp3]	<b>理事</b> <br> りじ <br> director, board of directors
+[sound:4c-k-理由.mp3]	<b>理由</b> <br> りゆう <br> reason, pretext, motive
+[sound:4c-k-調べ.mp3]	<b>調べ</b> <br> しらべ <br> investigation, inspection, examination; tune, note, melody
+[sound:4c-k-調査.mp3]	<b>調査</b> <br> ちょうさ <br> investigation, examination, inquiry, enquiry, survey
+[sound:4c-k-調整.mp3]	<b>調整</b> <br> ちょうせい <br> regulation, adjustment, tuning, modification, alteration
+[sound:4c-k-協調.mp3]	<b>協調</b> <br> きょうちょう <br> cooperation, conciliation, harmony; firm (market) tone
+[sound:4c-k-体.mp3]	<b>体</b> <br> からだ, しんたい <br> body; health
+[sound:4c-k-具体的.mp3]	<b>具体的</b> <br> ぐたいてき <br> concrete, tangible, definite, specific
+[sound:4c-k-全体.mp3]	<b>全体</b> <br> ぜんたい <br> whole, entirety, whatever (is the matter)
+[sound:4c-k-体制.mp3]	<b>体制</b> <br> たいせい <br> order, system, structure, set-up, organization, organisation
+[sound:4c-k-強化.mp3]	<b>強化</b> <br> きょうか <br> strengthen, intensify, reinforce, solidify, enhancement
+[sound:4c-k-文化.mp3]	<b>文化</b> <br> ぶんか <br> culture, civilization, civilisation; Bunka era (1804.2.11-1818.4.22)
+[sound:4c-k-変化.mp3]	<b>変化</b> <br> へんか <br> change, variation, alteration, mutation, transition, transformation, transfiguration, metamorphosis; variety, diversity; inflection, declension, conjugation; sidestepping (sumo)
+[sound:4c-k-悪化.mp3]	<b>悪化</b> <br> あっか <br> (suffer) deterioration, growing worse, aggravation, degeneration, corruption
+[sound:4c-k-上田.mp3]	<b>上田</b> <br> じょうでん <br> high rice field, very fertile rice field
+[sound:4c-k-水田.mp3]	<b>水田</b> <br> すいでん <br> (water-filled) paddy field
+[sound:4c-k-油田.mp3]	<b>油田</b> <br> ゆでん <br> oil field
+[sound:4c-k-田舎.mp3]	<b>田舎</b> <br> いなか <br> rural area, countryside, the sticks; hometown
+[sound:4c-k-当局.mp3]	<b>当局</b> <br> とうきょく <br> authorities; this office
+[sound:4c-k-当時.mp3]	<b>当時</b> <br> とうじ <br> at that time, in those days
+[sound:4c-k-当初.mp3]	<b>当初</b> <br> とうしょ <br> at first
+[sound:4c-k-担当.mp3]	<b>担当</b> <br> たんとう <br> (in) charge
+[sound:4c-k-八.mp3]	<b>八</b> <br> はち, や <br> eight
+[sound:4c-k-十八.mp3]	<b>十八</b> <br> じゅうはち <br> 18, eighteen
+[sound:4c-k-八月.mp3]	<b>八月</b> <br> はちがつ <br> August
+[sound:4c-k-八十.mp3]	<b>八十</b> <br> はちじゅう, やそ <br> eighty
+[sound:4c-k-六.mp3]	<b>六</b> <br> ろく, む, むう <br> six
+[sound:4c-k-六月.mp3]	<b>六月</b> <br> ろくがつ <br> June
+[sound:4c-k-六十.mp3]	<b>六十</b> <br> ろくじゅう, むそ <br> sixty
+[sound:4c-k-六十四分音符.mp3]	<b>六十四分音符</b> <br> ろくじゅうしぶおんぷ <br> 64th note
+[sound:4c-k-契約.mp3]	<b>契約</b> <br> けいやく <br> contract, compact, agreement
+[sound:4c-k-条約.mp3]	<b>条約</b> <br> じょうやく <br> treaty, pact
+[sound:4c-k-公約.mp3]	<b>公約</b> <br> こうやく <br> public commitment or promise
+[sound:4c-k-約束.mp3]	<b>約束</b> <br> やくそく <br> arrangement, promise, appointment, pact, engagement; convention, rule
+[sound:4c-k-主に.mp3]	<b>主に</b> <br> おもに <br> mainly, primarily
+[sound:4c-k-喪主.mp3]	<b>喪主</b> <br> もしゅ <br> chief mourner
+[sound:4c-k-民主.mp3]	<b>民主</b> <br> みんしゅ <br> democracy, popular sovereignty; democratic
+[sound:4c-k-主義.mp3]	<b>主義</b> <br> しゅぎ <br> doctrine, rule, principle
+[sound:4c-k-課題.mp3]	<b>課題</b> <br> かだい <br> subject, theme, task, challenge, issue
+[sound:4c-k-問題.mp3]	<b>問題</b> <br> もんだい <br> problem, question
+[sound:4c-k-話題.mp3]	<b>話題</b> <br> わだい <br> topic, subject
+[sound:4c-k-題.mp3]	<b>題</b> <br> だい <br> title, subject, theme, topic; problem (on a test), question; counter for questions (on a test)
+[sound:4c-k-下.mp3]	<b>下</b> <br> もと <br> under (esp. influence or guidance)
+[sound:4c-k-下げる.mp3]	<b>下げる</b> <br> さげる <br> to hang, to lower, to move back, to wear, to dismiss, to grant
+[sound:4c-k-引き下げ.mp3]	<b>引き下げ</b> <br> ひきさげ <br> reduction, cut
+[sound:4c-k-下り.mp3]	<b>下り</b> <br> くだり <br> down-train (going away from Tokyo); down-slope, downward going
+[sound:4c-k-首.mp3]	<b>首</b> <br> くび, クビ <br> neck; head; unemployed person
+[sound:4c-k-首相.mp3]	<b>首相</b> <br> しゅしょう <br> Prime Minister, Chancellor (Germany, Austria, etc.), Premier
+[sound:4c-k-首脳.mp3]	<b>首脳</b> <br> しゅのう <br> head, brains, leading spirit
+[sound:4c-k-首都.mp3]	<b>首都</b> <br> しゅと <br> capital city, metropolis
+[sound:4c-k-意見.mp3]	<b>意見</b> <br> いけん <br> opinion, view
+[sound:4c-k-意味.mp3]	<b>意味</b> <br> いみ <br> meaning, significance
+[sound:4c-k-合意.mp3]	<b>合意</b> <br> ごうい <br> agreement, consent, mutual understanding
+[sound:4c-k-意向.mp3]	<b>意向</b> <br> いこう <br> intention, idea, inclination
+[sound:4c-k-憲法.mp3]	<b>憲法</b> <br> けんぽう <br> constitution
+[sound:4c-k-方法.mp3]	<b>方法</b> <br> ほうほう <br> method, process, manner, way, means, technique
+[sound:4c-k-法案.mp3]	<b>法案</b> <br> ほうあん <br> bill (law)
+[sound:4c-k-法人.mp3]	<b>法人</b> <br> ほうじん <br> corporate body, corporation, (legal) person, (juridical) person
+[sound:4c-k-不動産.mp3]	<b>不動産</b> <br> ふどうさん <br> real estate
+[sound:4c-k-不満.mp3]	<b>不満</b> <br> ふまん <br> dissatisfaction, displeasure, discontent, complaints, unhappiness, disgruntled
+[sound:4c-k-不明.mp3]	<b>不明</b> <br> ふめい <br> unknown, obscure, indistinct, uncertain, ambiguous, ignorant, lack of wisdom, anonymous, unidentified
+[sound:4c-k-心不全.mp3]	<b>心不全</b> <br> しんふぜん <br> heart failure
+[sound:4c-k-将来.mp3]	<b>将来</b> <br> しょうらい <br> future (usually near), prospects
+[sound:4c-k-来年.mp3]	<b>来年</b> <br> らいねん <br> next year
+[sound:4c-k-本来.mp3]	<b>本来</b> <br> ほんらい <br> essentially, naturally, by nature, in (and of) itself, originally
+[sound:4c-k-来月.mp3]	<b>来月</b> <br> らいげつ <br> next month
+[sound:4c-k-作業.mp3]	<b>作業</b> <br> さぎょう <br> work, operation, manufacturing, fatigue duty
+[sound:4c-k-作品.mp3]	<b>作品</b> <br> さくひん <br> work (e.g. book, film, composition, etc.), opus, performance, production
+[sound:4c-k-作家.mp3]	<b>作家</b> <br> さっか <br> author, writer, novelist, artist
+[sound:4c-k-作戦.mp3]	<b>作戦</b> <br> さくせん <br> tactics, strategy; military or naval operations
+[sound:4c-k-性格.mp3]	<b>性格</b> <br> せいかく <br> character, personality
+[sound:4c-k-必要性.mp3]	<b>必要性</b> <br> ひつようせい <br> necessity
+[sound:4c-k-活性.mp3]	<b>活性</b> <br> かっせい <br> activity
+[sound:4c-k-個性.mp3]	<b>個性</b> <br> こせい <br> individuality, personality, idiosyncrasy
+[sound:4c-k-国際的.mp3]	<b>国際的</b> <br> こくさいてき <br> international
+[sound:4c-k-基本的.mp3]	<b>基本的</b> <br> きほんてき <br> fundamental, standard, basic
+[sound:4c-k-公的.mp3]	<b>公的</b> <br> こうてき <br> public, official
+[sound:4c-k-政治的.mp3]	<b>政治的</b> <br> せいじてき <br> political
+[sound:4c-k-主要.mp3]	<b>主要</b> <br> しゅよう <br> chief, main, principal, major
+[sound:4c-k-需要.mp3]	<b>需要</b> <br> じゅよう <br> demand, request
+[sound:4c-k-要請.mp3]	<b>要請</b> <br> ようせい <br> claim, demand, request, application
+[sound:4c-k-必要性.mp3]	<b>必要性</b> <br> ひつようせい <br> necessity
+[sound:4c-k-費用.mp3]	<b>費用</b> <br> ひよう <br> cost, expense
+[sound:4c-k-利用.mp3]	<b>利用</b> <br> りよう <br> use, utilization, utilisation, application
+[sound:4c-k-運用.mp3]	<b>運用</b> <br> うんよう <br> making use of, application, investment, practical use
+[sound:4c-k-乗用車.mp3]	<b>乗用車</b> <br> じょうようしゃ <br> passenger vehicle, automobile
+[sound:4c-k-体制.mp3]	<b>体制</b> <br> たいせい <br> order, system, structure, set-up, organization, organisation
+[sound:4c-k-制裁.mp3]	<b>制裁</b> <br> せいさい <br> restraint, sanctions, punishment
+[sound:4c-k-税制.mp3]	<b>税制</b> <br> ぜいせい <br> tax system
+[sound:4c-k-強制.mp3]	<b>強制</b> <br> きょうせい <br> obligation, coercion, compulsion, enforcement
+[sound:4c-k-自治.mp3]	<b>自治</b> <br> じち <br> self-government, autonomy
+[sound:4c-k-自治体.mp3]	<b>自治体</b> <br> じちたい <br> self-governing body, municipality, autonomous entity
+[sound:4c-k-政治的.mp3]	<b>政治的</b> <br> せいじてき <br> political
+[sound:4c-k-明治.mp3]	<b>明治</b> <br> めいじ <br> Meiji era (1868.9.8-1912.7.30)
+[sound:4c-k-態度.mp3]	<b>態度</b> <br> たいど <br> attitude, manner, behaviour
+[sound:4c-k-何度.mp3]	<b>何度</b> <br> なんど <br> how many times?, how often?
+[sound:4c-k-前年度.mp3]	<b>前年度</b> <br> ぜんねんど <br> preceding fiscal year
+[sound:4c-k-年度.mp3]	<b>年度</b> <br> ねんど <br> year, fiscal year, school year, term
+[sound:4c-k-事務局.mp3]	<b>事務局</b> <br> じむきょく <br> secretariat, executive office
+[sound:4c-k-事務所.mp3]	<b>事務所</b> <br> じむしょ <br> office
+[sound:4c-k-業務.mp3]	<b>業務</b> <br> ぎょうむ <br> business, affairs, duties, work, procedure, task, action, function
+[sound:4c-k-常務.mp3]	<b>常務</b> <br> じょうむ <br> managing director, executive director; routine business, regular business
+[sound:4c-k-勉強.mp3]	<b>勉強</b> <br> べんきょう <br> study; diligence; discount, reduction
+[sound:4c-k-強める.mp3]	<b>強める</b> <br> つよめる <br> to strengthen, to emphasize, to emphasise
+[sound:4c-k-強硬.mp3]	<b>強硬</b> <br> きょうこう <br> firm, vigorous, unbending, unyielding, strong, stubborn
+[sound:4c-k-強力.mp3]	<b>強力</b> <br> きょうりょく <br> powerful, strong
+[sound:4c-k-気持ち.mp3]	<b>気持ち</b> <br> きもち <br> feeling, sensation, mood
+[sound:4c-k-電気.mp3]	<b>電気</b> <br> でんき <br> electricity; (electric) light
+[sound:4c-k-病気.mp3]	<b>病気</b> <br> びょうき <br> illness, disease, sickness
+[sound:4c-k-一気.mp3]	<b>一気</b> <br> いっき <br> drink! (said repeatedly as a party cheer)
+[sound:4c-k-小学生.mp3]	<b>小学生</b> <br> しょうがくせい <br> elementary school student, primary school student, grade school student
+[sound:4c-k-中小企業.mp3]	<b>中小企業</b> <br> ちゅうしょうきぎょう <br> small to medium enterprises, smaller companies
+[sound:4c-k-小学.mp3]	<b>小学</b> <br> しょうがく <br> elementary school, primary school, grade school
+[sound:4c-k-小型.mp3]	<b>小型</b> <br> こがた <br> small size, tiny
+[sound:4c-k-七十.mp3]	<b>七十</b> <br> しちじゅう, ななじゅう, ななそ <br> seventy
+[sound:4c-k-四十七士.mp3]	<b>四十七士</b> <br> しじゅうしちし <br> The 47 Ronin
+[sound:4c-k-七つ.mp3]	<b>七つ</b> <br> ななつ <br> seven
+[sound:4c-k-七七日.mp3]	<b>七七日</b> <br> しちしちにち, なななぬか, なななのか <br> 49th day after death
+[sound:4c-k-成立.mp3]	<b>成立</b> <br> せいりつ <br> coming into existence, arrangements, establishment, conclusion, completion
+[sound:4c-k-編成.mp3]	<b>編成</b> <br> へんせい <br> composition, formation, organization, organisation, compilation
+[sound:4c-k-結成.mp3]	<b>結成</b> <br> けっせい <br> formation
+[sound:4c-k-構成.mp3]	<b>構成</b> <br> こうせい <br> organization, organisation, configuration, composition
+[sound:4c-k-早期.mp3]	<b>早期</b> <br> そうき <br> early stage
+[sound:4c-k-長期.mp3]	<b>長期</b> <br> ちょうき <br> long time period
+[sound:4c-k-期限.mp3]	<b>期限</b> <br> きげん <br> term, period, time frame; time limit, deadline, cutoff (date)
+[sound:4c-k-次期.mp3]	<b>次期</b> <br> じき <br> next term, next period; next version, next release
+[sound:4c-k-公共.mp3]	<b>公共</b> <br> こうきょう <br> public, community, public service, society, communal
+[sound:4c-k-公式.mp3]	<b>公式</b> <br> こうしき <br> formality, formal, official; formula
+[sound:4c-k-公明党.mp3]	<b>公明党</b> <br> こうめいとう <br> New Komeito (Japanese political party), New Clean Government Party, Justice Party
+[sound:4c-k-公的.mp3]	<b>公的</b> <br> こうてき <br> public, official
+[sound:4c-k-持ち.mp3]	<b>持ち</b> <br> もち <br> hold, charge, keep possession, in charge; wear, durability, life, draw; usage
+[sound:4c-k-持つ.mp3]	<b>持つ</b> <br> もつ <br> to hold, to carry; to possess
+[sound:4c-k-持ち込む.mp3]	<b>持ち込む</b> <br> もちこむ <br> to lodge, to take something into ..., to bring in
+[sound:4c-k-保持.mp3]	<b>保持</b> <br> ほじ <br> retention, maintenance, preservation
+[sound:4c-k-野党.mp3]	<b>野党</b> <br> やとう <br> opposition party, political opposition, opposition
+[sound:4c-k-与野党.mp3]	<b>与野党</b> <br> よやとう <br> (political) parties in and out of power, majority and minority parties
+[sound:4c-k-野菜.mp3]	<b>野菜</b> <br> やさい <br> vegetable
+[sound:4c-k-上野.mp3]	<b>上野</b> <br> うえの <br> section of Tokyo
+[sound:4c-k-協定.mp3]	<b>協定</b> <br> きょうてい <br> arrangement, pact, agreement
+[sound:4c-k-協力.mp3]	<b>協力</b> <br> きょうりょく <br> cooperation, collaboration
+[sound:4c-k-協調.mp3]	<b>協調</b> <br> きょうちょう <br> cooperation, conciliation, harmony; firm (market) tone
+[sound:4c-k-妥協.mp3]	<b>妥協</b> <br> だきょう <br> compromise, giving in
+[sound:4c-k-取っ手.mp3]	<b>取っ手</b> <br> とって, はしゅ <br> handle, grip, knob
+[sound:4c-k-取締役.mp3]	<b>取締役</b> <br> とりしまりやく <br> company director, board member
+[sound:4c-k-聴取.mp3]	<b>聴取</b> <br> ちょうしゅ <br> listening, hearing, audition, radio reception
+[sound:4c-k-取り組み.mp3]	<b>取り組み</b> <br> とりくみ <br> bout (in sports, etc.), match; effort, initiative, dealing with, grappling with, wrestling with
+[sound:4c-k-京都.mp3]	<b>京都</b> <br> きょうと <br> Kyoto
+[sound:4c-k-首都.mp3]	<b>首都</b> <br> しゅと <br> capital city, metropolis
+[sound:4c-k-首都圏.mp3]	<b>首都圏</b> <br> しゅとけん <br> the capital city (often Tokyo) area (typically within 50 km of city's centre) (center)
+[sound:4c-k-都道府県.mp3]	<b>都道府県</b> <br> とどうふけん <br> administrative divisions of Japan: Tokyo-to, Hokkai-do, Osaka-fu, Kyoto-fu and remaining prefectures
+[sound:4c-k-緩和.mp3]	<b>緩和</b> <br> かんわ <br> relief, mitigation, alleviation, relaxation, softening
+[sound:4c-k-朝鮮民主主義人民共和国.mp3]	<b>朝鮮民主主義人民共和国</b> <br> ちょうせんみんしゅしゅぎじんみんきょうわこく <br> Democratic People's Republic of Korea (North Korea), DPRK
+[sound:4c-k-和解.mp3]	<b>和解</b> <br> わかい, わげ <br> reconciliation, settlement, accommodation, compromise, mediation, rapprochement; (legal) settlement; translation of a foreign language into Japanese
+[sound:4c-k-共和.mp3]	<b>共和</b> <br> きょうわ <br> republicanism, cooperation
+[sound:4c-k-統合.mp3]	<b>統合</b> <br> とうごう <br> integration, unification, synthesis; integrated, built-in
+[sound:4c-k-統計.mp3]	<b>統計</b> <br> とうけい <br> statistics
+[sound:4c-k-統治.mp3]	<b>統治</b> <br> とうち, とうじ <br> rule, reign, government, governing
+[sound:4c-k-伝統的.mp3]	<b>伝統的</b> <br> でんとうてき <br> traditional, conventional
+[sound:4c-k-以下.mp3]	<b>以下</b> <br> いか, いげ <br> not exceeding, and downward, ... and below; below (e.g. standard), under (e.g. a level); the below-mentioned, the following, the rest
+[sound:4c-k-以後.mp3]	<b>以後</b> <br> いご <br> after this, from now on, hereafter; thereafter, since (verb) (after -te form of verb), after (time), since (then)
+[sound:4c-k-以上.mp3]	<b>以上</b> <br> いじょう <br> not less than, ... and more, ... and upwards; beyond ... (e.g. one's means), further (e.g. nothing further to say), more than ... (e.g. cannot pay more than that); above-mentioned, foregoing; since ..., seeing that ...; this is all, that is the end, the end
+[sound:4c-k-以降.mp3]	<b>以降</b> <br> いこう <br> on and after, as from, hereafter, thereafter, since
+[sound:4c-k-機能.mp3]	<b>機能</b> <br> きのう <br> function, facility, faculty, feature
+[sound:4c-k-機会.mp3]	<b>機会</b> <br> きかい <br> chance, opportunity
+[sound:4c-k-機械.mp3]	<b>機械</b> <br> きかい <br> machine, mechanism; instrument, appliance, apparatus
+[sound:4c-k-機器.mp3]	<b>機器</b> <br> きき <br> machinery and tools
+[sound:4c-k-太平洋.mp3]	<b>太平洋</b> <br> たいへいよう <br> Pacific Ocean
+[sound:4c-k-平成.mp3]	<b>平成</b> <br> へいせい <br> Heisei era (1989.1.8- )
+[sound:4c-k-平壌.mp3]	<b>平壌</b> <br> へいじょう <br> Pyongyang
+[sound:4c-k-平等.mp3]	<b>平等</b> <br> びょうどう <br> equality, impartiality, evenness
+[sound:4c-k-総合.mp3]	<b>総合</b> <br> そうごう <br> synthesis, coordination, putting together, integration, composite; comprehensive
+[sound:4c-k-総額.mp3]	<b>総額</b> <br> そうがく <br> sum total, total amount
+[sound:4c-k-総長.mp3]	<b>総長</b> <br> そうちょう <br> (college) president, secretary-general
+[sound:4c-k-総務.mp3]	<b>総務</b> <br> そうむ <br> general business (affairs), manager, director, adjutant general (mil)
+[sound:4c-k-増加.mp3]	<b>増加</b> <br> ぞうか <br> increase, increment, addition
+[sound:4c-k-参加者.mp3]	<b>参加者</b> <br> さんかしゃ <br> participant, entrant
+[sound:4c-k-追加.mp3]	<b>追加</b> <br> ついか <br> addition, supplement, append (e.g. to a file), appendix
+[sound:4c-k-加入.mp3]	<b>加入</b> <br> かにゅう <br> becoming a member, joining, entry, admission, subscription, affiliation, adherence, signing
+[sound:4c-k-山形.mp3]	<b>山形</b> <br> やまがた <br> mountain-shaped
+[sound:4c-k-登山.mp3]	<b>登山</b> <br> とざん <br> mountain climbing
+[sound:4c-k-山岳.mp3]	<b>山岳</b> <br> さんがく <br> mountains
+[sound:4c-k-小山.mp3]	<b>小山</b> <br> こやま <br> hill, knoll
+[sound:4c-k-意思.mp3]	<b>意思</b> <br> いし <br> intention, purpose
+[sound:4c-k-思想.mp3]	<b>思想</b> <br> しそう <br> thought, idea, ideology
+[sound:4c-k-思惑.mp3]	<b>思惑</b> <br> おもわく <br> expectation, prediction, forecast; anticipation, speculation
+[sound:4c-k-思い切って.mp3]	<b>思い切って</b> <br> おもいきって <br> resolutely, boldly, daringly
+[sound:4c-k-政治家.mp3]	<b>政治家</b> <br> せいじか <br> politician, statesman
+[sound:4c-k-作家.mp3]	<b>作家</b> <br> さっか <br> author, writer, novelist, artist
+[sound:4c-k-専門家.mp3]	<b>専門家</b> <br> せんもんか <br> specialist
+[sound:4c-k-農家.mp3]	<b>農家</b> <br> のうか <br> farmer, farm family
+[sound:4c-k-話題.mp3]	<b>話題</b> <br> わだい <br> topic, subject
+[sound:4c-k-話し合い.mp3]	<b>話し合い</b> <br> はなしあい <br> discussion, conference
+[sound:4c-k-会話.mp3]	<b>会話</b> <br> かいわ <br> conversation
+[sound:4c-k-世話.mp3]	<b>世話</b> <br> せわ <br> looking after, help, aid, assistance
+[sound:4c-k-世論.mp3]	<b>世論</b> <br> せろん, よろん <br> public opinion
+[sound:4c-k-世界的.mp3]	<b>世界的</b> <br> せかいてき <br> global, international, world-famous
+[sound:4c-k-世紀.mp3]	<b>世紀</b> <br> せいき <br> century, era
+[sound:4c-k-世帯.mp3]	<b>世帯</b> <br> せたい, しょたい <br> household, home, family, housekeeping
+[sound:4c-k-受賞.mp3]	<b>受賞</b> <br> じゅしょう <br> winning (a prize)
+[sound:4c-k-受注.mp3]	<b>受注</b> <br> じゅちゅう <br> accepting orders
+[sound:4c-k-受け止める.mp3]	<b>受け止める</b> <br> うけとめる <br> to catch, to stop the blow, to react to, to take
+[sound:4c-k-受け入れる.mp3]	<b>受け入れる</b> <br> うけいれる <br> to accept, to receive
+[sound:4c-k-区内.mp3]	<b>区内</b> <br> くない <br> in the ward or borough
+[sound:4c-k-区域.mp3]	<b>区域</b> <br> くいき <br> limits, boundary, domain, zone, sphere, territory; area (e.g. in programming languages)
+[sound:4c-k-区間.mp3]	<b>区間</b> <br> くかん <br> section (of track, etc.), segment, dimension
+[sound:4c-k-区長.mp3]	<b>区長</b> <br> くちょう <br> ward headman
+[sound:4c-k-領域.mp3]	<b>領域</b> <br> りょういき <br> area, domain, territory, field, range, region, regime
+[sound:4c-k-綱領.mp3]	<b>綱領</b> <br> こうりょう <br> general plan, main points, summary, platform (e.g. for a campaign), mission statement
+[sound:4c-k-領内.mp3]	<b>領内</b> <br> りょうない <br> (within a) territory, domains
+[sound:4c-k-領有.mp3]	<b>領有</b> <br> りょうゆう <br> possession
+[sound:4c-k-最多.mp3]	<b>最多</b> <br> さいた <br> the most
+[sound:4c-k-多額.mp3]	<b>多額</b> <br> たがく <br> large amount of money
+[sound:4c-k-多彩.mp3]	<b>多彩</b> <br> たさい <br> variegated, varicoloured, multi-colored, diverse
+[sound:4c-k-多少.mp3]	<b>多少</b> <br> たしょう <br> more or less, somewhat, a little, some
+[sound:4c-k-県内.mp3]	<b>県内</b> <br> けんない <br> within the prefecture
+[sound:4c-k-都道府県.mp3]	<b>都道府県</b> <br> とどうふけん <br> administrative divisions of Japan: Tokyo-to, Hokkai-do, Osaka-fu, Kyoto-fu and remaining prefectures
+[sound:4c-k-県議.mp3]	<b>県議</b> <br> けんぎ <br> prefectural assembly
+[sound:4c-k-県立.mp3]	<b>県立</b> <br> けんりつ <br> prefectural (institution)
+[sound:4c-k-続き.mp3]	<b>続き</b> <br> つづき <br> sequel, continuation, (also suffix) continuation (in time and space), second series, succession, spell
+[sound:4c-k-持続.mp3]	<b>持続</b> <br> じぞく <br> continuation
+[sound:4c-k-存続.mp3]	<b>存続</b> <br> そんぞく <br> duration, continuance
+[sound:4c-k-続々.mp3]	<b>続々</b> <br> ぞくぞく <br> successively, one after another
+[sound:4c-k-進展.mp3]	<b>進展</b> <br> しんてん <br> progress, development
+[sound:4c-k-促進.mp3]	<b>促進</b> <br> そくしん <br> promotion, acceleration, encouragement, facilitation, spurring on
+[sound:4c-k-先進.mp3]	<b>先進</b> <br> せんしん <br> seniority, advance, leadership
+[sound:4c-k-進学.mp3]	<b>進学</b> <br> しんがく <br> entering a higher-level school, esp. going on to university
+[sound:4c-k-正式.mp3]	<b>正式</b> <br> せいしき <br> due form, official, formality
+[sound:4c-k-正常.mp3]	<b>正常</b> <br> せいじょう <br> normalcy, normality, normal
+[sound:4c-k-是正.mp3]	<b>是正</b> <br> ぜせい <br> correction, revision
+[sound:4c-k-正義.mp3]	<b>正義</b> <br> せいぎ <br> justice, right, righteousness, correct meaning
+[sound:4c-k-安定.mp3]	<b>安定</b> <br> あんてい <br> stability, equilibrium
+[sound:4c-k-不安.mp3]	<b>不安</b> <br> ふあん <br> anxiety, uneasiness, insecurity, suspense
+[sound:4c-k-慰安.mp3]	<b>慰安</b> <br> いあん <br> solace, relaxation
+[sound:4c-k-安打.mp3]	<b>安打</b> <br> あんだ <br> safe hit (baseball)
+[sound:4c-k-設備.mp3]	<b>設備</b> <br> せつび <br> equipment, device, facilities, installation
+[sound:4c-k-設計.mp3]	<b>設計</b> <br> せっけい <br> plan, design, layout
+[sound:4c-k-設立.mp3]	<b>設立</b> <br> せつりつ <br> establishment, foundation, incorporation (of a business)
+[sound:4c-k-設定.mp3]	<b>設定</b> <br> せってい <br> establishment, creation; options or preference settings (in computer software), configuration, assignment, setup
+[sound:4c-k-安全保障.mp3]	<b>安全保障</b> <br> あんぜんほしょう <br> security guarantee (e.g. military security, network security, etc.)
+[sound:4c-k-確保.mp3]	<b>確保</b> <br> かくほ <br> guarantee, maintain, ensure, insure, secure, reservation
+[sound:4c-k-保険.mp3]	<b>保険</b> <br> ほけん <br> insurance, guarantee
+[sound:4c-k-保守.mp3]	<b>保守</b> <br> ほしゅ <br> maintenance, conservation
+[sound:4c-k-改造.mp3]	<b>改造</b> <br> かいぞう <br> remodeling, remodelling, restructuring; modding
+[sound:4c-k-改める.mp3]	<b>改める</b> <br> あらためる <br> to change, to alter, to revise, to replace; to reform, to correct, to mend, to improve; to examine, to check, to inspect; to do properly, to do formally
+[sound:4c-k-改定.mp3]	<b>改定</b> <br> かいてい <br> reform
+[sound:4c-k-改憲.mp3]	<b>改憲</b> <br> かいけん <br> constitutional change
+[sound:4c-k-定数.mp3]	<b>定数</b> <br> ていすう <br> constant; literal
+[sound:4c-k-少数.mp3]	<b>少数</b> <br> しょうすう <br> minority, few
+[sound:4c-k-複数.mp3]	<b>複数</b> <br> ふくすう <br> several, plural, plurality, multiple
+[sound:4c-k-過半数.mp3]	<b>過半数</b> <br> かはんすう <br> majority
+[sound:4c-k-書記.mp3]	<b>書記</b> <br> しょき <br> clerk, secretary
+[sound:4c-k-記念.mp3]	<b>記念</b> <br> きねん <br> commemoration, memory
+[sound:4c-k-記憶.mp3]	<b>記憶</b> <br> きおく <br> memory, recollection, remembrance; storage
+[sound:4c-k-記す.mp3]	<b>記す</b> <br> しるす, きす <br> to write down, to note; to remember
+[sound:4c-k-下院.mp3]	<b>下院</b> <br> かいん <br> lower house, lower (legislative) body
+[sound:4c-k-上院.mp3]	<b>上院</b> <br> じょういん <br> Upper House, Senate, Lords
+[sound:4c-k-学院.mp3]	<b>学院</b> <br> がくいん <br> institute, academy
+[sound:4c-k-大学院.mp3]	<b>大学院</b> <br> だいがくいん <br> graduate school
+[sound:4c-k-男女.mp3]	<b>男女</b> <br> だんじょ <br> man and woman, men and women
+[sound:4c-k-彼女.mp3]	<b>彼女</b> <br> かのじょ <br> she, her; girl friend, girlfriend, sweetheart
+[sound:4c-k-女優.mp3]	<b>女優</b> <br> じょゆう <br> actress
+[sound:4c-k-長女.mp3]	<b>長女</b> <br> ちょうじょ <br> eldest daughter
+[sound:4c-k-初日.mp3]	<b>初日</b> <br> しょにち <br> first or opening day
+[sound:4c-k-初期.mp3]	<b>初期</b> <br> しょき <br> early (days), initial stage; initial
+[sound:4c-k-初代.mp3]	<b>初代</b> <br> しょだい <br> first generation, founder
+[sound:4c-k-初戦.mp3]	<b>初戦</b> <br> しょせん <br> first match (in a series)
+[sound:4c-k-北朝鮮.mp3]	<b>北朝鮮</b> <br> きたちょうせん <br> North Korea
+[sound:4c-k-東北.mp3]	<b>東北</b> <br> とうほく, ひがしきた <br> north-east; Northern most six prefectures of Honshu
+[sound:4c-k-南北.mp3]	<b>南北</b> <br> なんぼく <br> south and north
+[sound:4c-k-北方.mp3]	<b>北方</b> <br> ほっぽう <br> northern (district), northward
+[sound:4c-k-午.mp3]	<b>午</b> <br> うま <br> seventh sign of Chinese zodiac (The Horse, 11am-1pm, south, May)
+[sound:4c-k-午.mp3]	<b>午</b> <br> ひる <br> noon, midday; daytime; lunch
+[sound:4c-k-子午線.mp3]	<b>子午線</b> <br> しごせん <br> the meridian
+[sound:4c-k-端午.mp3]	<b>端午</b> <br> たんご <br> Boy's Day celebration (May 5th)
+[sound:4c-k-指定.mp3]	<b>指定</b> <br> してい <br> designation, specification, assignment, appointment, pointing at
+[sound:4c-k-指名.mp3]	<b>指名</b> <br> しめい <br> name, nominate, designate
+[sound:4c-k-指示.mp3]	<b>指示</b> <br> しじ <br> indication, instruction, designation, directions
+[sound:4c-k-指摘.mp3]	<b>指摘</b> <br> してき <br> pointing out, identification
+[sound:4c-k-権力.mp3]	<b>権力</b> <br> けんりょく <br> (political) power, authority, influence
+[sound:4c-k-人権.mp3]	<b>人権</b> <br> じんけん <br> human rights, civil liberties
+[sound:4c-k-権限.mp3]	<b>権限</b> <br> けんげん <br> power, authority, jurisdiction
+[sound:4c-k-債権.mp3]	<b>債権</b> <br> さいけん <br> credit, claim
+[sound:4c-k-心から.mp3]	<b>心から</b> <br> しんから, こころから <br> from the bottom of one's heart, heart and soul, by nature
+[sound:4c-k-心臓.mp3]	<b>心臓</b> <br> しんぞう <br> heart
+[sound:4c-k-心配.mp3]	<b>心配</b> <br> しんぱい <br> worry, concern, anxiety; care, help, aid, assistance
+[sound:4c-k-心理.mp3]	<b>心理</b> <br> しんり <br> mentality
+[sound:4c-k-財界.mp3]	<b>財界</b> <br> ざいかい <br> financial world
+[sound:4c-k-限界.mp3]	<b>限界</b> <br> げんかい <br> limit, bound
+[sound:4c-k-世界的.mp3]	<b>世界的</b> <br> せかいてき <br> global, international, world-famous
+[sound:4c-k-経済界.mp3]	<b>経済界</b> <br> けいざいかい <br> economic world, financial circles
+[sound:4c-k-支店.mp3]	<b>支店</b> <br> してん <br> branch store (office)
+[sound:4c-k-支配.mp3]	<b>支配</b> <br> しはい <br> rule, control, direction
+[sound:4c-k-支部.mp3]	<b>支部</b> <br> しぶ <br> branch, subdivision
+[sound:4c-k-収支.mp3]	<b>収支</b> <br> しゅうし <br> income and expenditure
+[sound:4c-k-第一人者.mp3]	<b>第一人者</b> <br> だいいちにんしゃ <br> leading person
+[sound:4c-k-第二次世界大戦.mp3]	<b>第二次世界大戦</b> <br> だいにじせかいたいせん <br> World War II
+[sound:4c-k-第一線.mp3]	<b>第一線</b> <br> だいいっせん <br> the front (of a battlefield), forefront
+[sound:4c-k-第一声.mp3]	<b>第一声</b> <br> だいいっせい <br> first tone, first speech
+[sound:4c-k-資産.mp3]	<b>資産</b> <br> しさん <br> property, fortune, means, assets
+[sound:4c-k-不動産.mp3]	<b>不動産</b> <br> ふどうさん <br> real estate
+[sound:4c-k-通産省.mp3]	<b>通産省</b> <br> つうさんしょう <br> (former) Ministry of International Trade and Industry (now Ministry of Economy, Trade and Industry), MITI
+[sound:4c-k-共産.mp3]	<b>共産</b> <br> きょうさん <br> communism; Communist Party
+[sound:4c-k-結論.mp3]	<b>結論</b> <br> けつろん <br> conclusion
+[sound:4c-k-結ぶ.mp3]	<b>結ぶ</b> <br> むすぶ <br> to tie, to bind, to link; to bear (fruit)
+[sound:4c-k-結成.mp3]	<b>結成</b> <br> けっせい <br> formation
+[sound:4c-k-終結.mp3]	<b>終結</b> <br> しゅうけつ <br> end, close
+[sound:4c-k-百貨店.mp3]	<b>百貨店</b> <br> ひゃっかてん <br> (department) store(s)
+[sound:4c-k-百万.mp3]	<b>百万</b> <br> ひゃくまん <br> 1,000,000, one million; many
+[sound:4c-k-四百.mp3]	<b>四百</b> <br> よんひゃく <br> four hundred
+[sound:4c-k-百億.mp3]	<b>百億</b> <br> ひゃくおく <br> 10,000,000,000, ten billion (American), (obs) ten milliard (British)
+[sound:4c-k-右派.mp3]	<b>右派</b> <br> うは <br> right wing
+[sound:4c-k-左派.mp3]	<b>左派</b> <br> さは <br> left wing
+[sound:4c-k-特派員.mp3]	<b>特派員</b> <br> とくはいん <br> correspondent
+[sound:4c-k-硬派.mp3]	<b>硬派</b> <br> こうは <br> tough elements, hard-liners, stalwart(s)
+[sound:4c-k-時点.mp3]	<b>時点</b> <br> じてん <br> point in time, occasion
+[sound:4c-k-得点.mp3]	<b>得点</b> <br> とくてん <br> score, points made, marks obtained, runs
+[sound:4c-k-視点.mp3]	<b>視点</b> <br> してん <br> opinion, point of view, visual point
+[sound:4c-k-失点.mp3]	<b>失点</b> <br> しってん <br> run charged to the pitcher
+[sound:4c-k-宗教.mp3]	<b>宗教</b> <br> しゅうきょう <br> religion
+[sound:4c-k-教室.mp3]	<b>教室</b> <br> きょうしつ <br> classroom
+[sound:4c-k-教徒.mp3]	<b>教徒</b> <br> きょうと <br> believer, adherent
+[sound:4c-k-教科書.mp3]	<b>教科書</b> <br> きょうかしょ <br> textbook, text book
+[sound:4c-k-報告書.mp3]	<b>報告書</b> <br> ほうこくしょ <br> (written) report
+[sound:4c-k-広報.mp3]	<b>広報</b> <br> こうほう <br> PR, public relations, publicity, information
+[sound:4c-k-報酬.mp3]	<b>報酬</b> <br> ほうしゅう <br> remuneration, recompense, reward, toll
+[sound:4c-k-報道陣.mp3]	<b>報道陣</b> <br> ほうどうじん <br> press corps
+[sound:4c-k-経済的.mp3]	<b>経済的</b> <br> けいざいてき <br> economic, economical
+[sound:4c-k-経済界.mp3]	<b>経済界</b> <br> けいざいかい <br> economic world, financial circles
+[sound:4c-k-経済企画庁.mp3]	<b>経済企画庁</b> <br> けいざいきかくちょう <br> Economic Planning Agency
+[sound:4c-k-共済.mp3]	<b>共済</b> <br> きょうさい <br> mutual aid
+[sound:4c-k-文書.mp3]	<b>文書</b> <br> ぶんしょ, もんじょ <br> document, writing, letter, paperwork, note, records, archives
+[sound:4c-k-教科書.mp3]	<b>教科書</b> <br> きょうかしょ <br> textbook, text book
+[sound:4c-k-書店.mp3]	<b>書店</b> <br> しょてん <br> bookshop, bookstore
+[sound:4c-k-著書.mp3]	<b>著書</b> <br> ちょしょ <br> literary work, book
+[sound:4c-k-府警.mp3]	<b>府警</b> <br> ふけい <br> prefectural police
+[sound:4c-k-府立.mp3]	<b>府立</b> <br> ふりつ <br> managed by an urban prefecture
+[sound:4c-k-府中.mp3]	<b>府中</b> <br> ふちゅう <br> Fuchuu (in Tokyo)
+[sound:4c-k-州政府.mp3]	<b>州政府</b> <br> しゅうせいふ <br> state government
+[sound:4c-k-活性.mp3]	<b>活性</b> <br> かっせい <br> activity
+[sound:4c-k-活躍.mp3]	<b>活躍</b> <br> かつやく <br> activity (esp. energetic), great efforts, conspicuous service; to flourish, to participate actively, to play an active role
+[sound:4c-k-復活.mp3]	<b>復活</b> <br> ふっかつ <br> revival (e.g. musical), come-back; restoration, rebirth, resurrection
+[sound:4c-k-活用.mp3]	<b>活用</b> <br> かつよう <br> practical use, application; conjugation, declension, inflection
+[sound:4c-k-原告.mp3]	<b>原告</b> <br> げんこく <br> plaintiff, accuser, prosecutor
+[sound:4c-k-原発.mp3]	<b>原発</b> <br> げんぱつ <br> nuclear power plant, nuclear power supply
+[sound:4c-k-原油.mp3]	<b>原油</b> <br> げんゆ <br> crude oil
+[sound:4c-k-原理.mp3]	<b>原理</b> <br> げんり <br> principle, theory, fundamental truth
+[sound:4c-k-先生.mp3]	<b>先生</b> <br> せんせい <br> teacher, master, doctor; with names of teachers, etc. as an honorific
+[sound:4c-k-先発.mp3]	<b>先発</b> <br> せんぱつ <br> forerunner, advance party, going on ahead; being in a (team sports) match or game from the start, starting
+[sound:4c-k-優先.mp3]	<b>優先</b> <br> ゆうせん <br> preference, priority, precedence
+[sound:4c-k-先進.mp3]	<b>先進</b> <br> せんしん <br> seniority, advance, leadership
+[sound:4c-k-共に.mp3]	<b>共に</b> <br> ともに <br> sharing with, participate in, both, alike, together, along with, with, including
+[sound:4c-k-共通.mp3]	<b>共通</b> <br> きょうつう <br> commonness, community
+[sound:4c-k-共同体.mp3]	<b>共同体</b> <br> きょうどうたい <br> cooperative body, cooperative system, collective, community
+[sound:4c-k-公共.mp3]	<b>公共</b> <br> こうきょう <br> public, community, public service, society, communal
+[sound:4c-k-得点.mp3]	<b>得点</b> <br> とくてん <br> score, points made, marks obtained, runs
+[sound:4c-k-獲得.mp3]	<b>獲得</b> <br> かくとく <br> acquisition, possession
+[sound:4c-k-説得.mp3]	<b>説得</b> <br> せっとく <br> persuasion
+[sound:4c-k-得票.mp3]	<b>得票</b> <br> とくひょう <br> number of votes polled, poll votes
+[sound:4c-k-理解.mp3]	<b>理解</b> <br> りかい <br> understanding, comprehension
+[sound:4c-k-解除.mp3]	<b>解除</b> <br> かいじょ <br> cancellation, rescinding, release, calling off, lifting (sanctions), delisting
+[sound:4c-k-解放.mp3]	<b>解放</b> <br> かいほう <br> release, unleashing, liberation, emancipation, setting free; deallocation (of computer memory)
+[sound:4c-k-解明.mp3]	<b>解明</b> <br> かいめい <br> clarification, elucidation, explication
+[sound:4c-k-指名.mp3]	<b>指名</b> <br> しめい <br> name, nominate, designate
+[sound:4c-k-氏名.mp3]	<b>氏名</b> <br> しめい <br> full name, identity
+[sound:4c-k-有名.mp3]	<b>有名</b> <br> ゆうめい <br> famous; fame
+[sound:4c-k-署名.mp3]	<b>署名</b> <br> しょめい <br> signature
+[sound:4c-k-交換.mp3]	<b>交換</b> <br> こうかん <br> exchange, interchange, switching, reciprocity, barter, substitution, replacement, clearing (of checks, cheques)
+[sound:4c-k-交通.mp3]	<b>交通</b> <br> こうつう <br> communication, transportation, traffic, intercourse
+[sound:4c-k-国交.mp3]	<b>国交</b> <br> こっこう <br> diplomatic relations
+[sound:4c-k-交代.mp3]	<b>交代</b> <br> こうたい <br> alternation, change, relief, relay, shift, substitution (sports, etc.)
+[sound:4c-k-資産.mp3]	<b>資産</b> <br> しさん <br> property, fortune, means, assets
+[sound:4c-k-資料.mp3]	<b>資料</b> <br> しりょう <br> materials, data, document
+[sound:4c-k-資格.mp3]	<b>資格</b> <br> しかく <br> qualifications, requirements, capabilities
+[sound:4c-k-資源.mp3]	<b>資源</b> <br> しげん <br> resources
+[sound:4c-k-予想.mp3]	<b>予想</b> <br> よそう <br> expectation, anticipation, prediction, forecast
+[sound:4c-k-予測.mp3]	<b>予測</b> <br> よそく <br> prediction, estimation
+[sound:4c-k-予備.mp3]	<b>予備</b> <br> よび <br> preparation, preliminaries, reserve, spare
+[sound:4c-k-予防.mp3]	<b>予防</b> <br> よぼう <br> prevention, precaution, protection against
+[sound:4c-k-谷川.mp3]	<b>谷川</b> <br> たにがわ <br> mountain stream
+[sound:4c-k-江戸川.mp3]	<b>江戸川</b> <br> えどがわ <br> Edo River
+[sound:4c-k-川口.mp3]	<b>川口</b> <br> かわぐち, かこう <br> mouth of river, estuary
+[sound:4c-k-川上.mp3]	<b>川上</b> <br> かわかみ <br> upper reaches of a river
+[sound:4c-k-向き.mp3]	<b>向き</b> <br> むき <br> direction, orientation, aspect, situation, exposure, suitability, tendency
+[sound:4c-k-向上.mp3]	<b>向上</b> <br> こうじょう <br> elevation, rise, improvement, advancement, progress
+[sound:4c-k-動向.mp3]	<b>動向</b> <br> どうこう <br> trend, tendency, movement, attitude
+[sound:4c-k-向い.mp3]	<b>向い</b> <br> むかい <br> facing, opposite, across the street, other side
+[sound:4c-k-実際.mp3]	<b>実際</b> <br> じっさい <br> practicality, practical; reality, actuality, actual conditions; bhutakoti (limit of reality)
+[sound:4c-k-国際化.mp3]	<b>国際化</b> <br> こくさいか <br> internationalization, internationalisation, i18n (in IT)
+[sound:4c-k-国際法.mp3]	<b>国際法</b> <br> こくさいほう <br> international laws
+[sound:4c-k-交際.mp3]	<b>交際</b> <br> こうさい <br> company, friendship, association, society, acquaintance
+[sound:4c-k-査察.mp3]	<b>査察</b> <br> ささつ <br> inspection (for compliance), investigation (tax, etc.)
+[sound:4c-k-審査.mp3]	<b>審査</b> <br> しんさ <br> judging, inspection, examination, investigation
+[sound:4c-k-実態調査.mp3]	<b>実態調査</b> <br> じったいちょうさ <br> factual investigation
+[sound:4c-k-監査役.mp3]	<b>監査役</b> <br> かんさやく <br> auditor, inspector
+[sound:4c-k-決勝.mp3]	<b>決勝</b> <br> けっしょう <br> decision of a contest, finals (in sports)
+[sound:4c-k-勝利.mp3]	<b>勝利</b> <br> しょうり <br> victory, triumph, conquest, success, win
+[sound:4c-k-勝負.mp3]	<b>勝負</b> <br> しょうぶ <br> victory or defeat, match, contest, game, bout
+[sound:4c-k-連勝.mp3]	<b>連勝</b> <br> れんしょう <br> consecutive victories, series of victories
+[sound:4c-k-場面.mp3]	<b>場面</b> <br> ばめん <br> scene, setting (e.g. of novel)
+[sound:4c-k-画面.mp3]	<b>画面</b> <br> がめん <br> terminal screen, scene, picture, the field (in TV), photo
+[sound:4c-k-局面.mp3]	<b>局面</b> <br> きょくめん <br> checkerboard, aspect, situation
+[sound:4c-k-社会面.mp3]	<b>社会面</b> <br> しゃかいめん <br> society or local news page
+[sound:4c-k-公取委.mp3]	<b>公取委</b> <br> こうとりい <br> Fair Trade Commission
+[sound:4c-k-委託.mp3]	<b>委託</b> <br> いたく <br> consign (goods (for sale) to a firm), entrust (person with something), commit
+[sound:4c-k-教育委員会.mp3]	<b>教育委員会</b> <br> きょういくいいんかい <br> Board of Education
+[sound:4c-k-執行委員.mp3]	<b>執行委員</b> <br> しっこういいん <br> executive committee
+[sound:4c-k-広告.mp3]	<b>広告</b> <br> こうこく <br> advertisement
+[sound:4c-k-報告書.mp3]	<b>報告書</b> <br> ほうこくしょ <br> (written) report
+[sound:4c-k-原告.mp3]	<b>原告</b> <br> げんこく <br> plaintiff, accuser, prosecutor
+[sound:4c-k-勧告.mp3]	<b>勧告</b> <br> かんこく <br> advice, counsel, remonstrance, recommendation
+[sound:4c-k-軍縮.mp3]	<b>軍縮</b> <br> ぐんしゅく <br> disarmament, limitation of arms
+[sound:4c-k-空軍.mp3]	<b>空軍</b> <br> くうぐん <br> Air Force
+[sound:4c-k-軍人.mp3]	<b>軍人</b> <br> ぐんじん <br> military personnel, soldier
+[sound:4c-k-軍部.mp3]	<b>軍部</b> <br> ぐんぶ <br> military authorities, army circles
+[sound:4c-k-文書.mp3]	<b>文書</b> <br> ぶんしょ, もんじょ <br> document, writing, letter, paperwork, note, records, archives
+[sound:4c-k-文字.mp3]	<b>文字</b> <br> もじ, もんじ <br> letter (of alphabet), character; literal
+[sound:4c-k-文部省.mp3]	<b>文部省</b> <br> もんぶしょう <br> Ministry of Education, Culture, Sports, Science and Technology
+[sound:4c-k-注文.mp3]	<b>注文</b> <br> ちゅうもん <br> order, request
+[sound:4c-k-反応.mp3]	<b>反応</b> <br> はんのう <br> reaction, response
+[sound:4c-k-反省.mp3]	<b>反省</b> <br> はんせい <br> reflection, reconsideration, introspection, meditation, contemplation
+[sound:4c-k-反.mp3]	<b>反</b> <br> たん <br> variable measure of fabric (28.8 cm in width), for kimonos: at least 10 m in length, for haori: at least 7.27 m in length, for other clothes: at least 6.06 m in length; 300 tsubo (991.74 meters square, 0.24506 acres); six ken (10.91 m)
+[sound:4c-k-反響.mp3]	<b>反響</b> <br> はんきょう <br> echo, reverberation, repercussion, reaction, influence
+[sound:4c-k-元気.mp3]	<b>元気</b> <br> げんき <br> health(y), robust, vigor, vigour, energy, vitality, vim, stamina, spirit, courage, pep
+[sound:4c-k-元日.mp3]	<b>元日</b> <br> がんじつ, がんにち <br> New Year's Day
+[sound:4c-k-身元.mp3]	<b>身元</b> <br> みもと <br> person's identity, ID, past, background
+[sound:4c-k-足元.mp3]	<b>足元</b> <br> あしもと, そっか <br> at one's feet, underfoot; gait, pace, step; you, thou
+[sound:4c-k-重み.mp3]	<b>重み</b> <br> おもみ <br> importance, weight, dignity, emphasis
+[sound:4c-k-貴重.mp3]	<b>貴重</b> <br> きちょう <br> precious, valuable
+[sound:4c-k-重ねる.mp3]	<b>重ねる</b> <br> かさねる <br> to pile up, to put something on another, to heap up, to add, to repeat
+[sound:4c-k-重視.mp3]	<b>重視</b> <br> じゅうし <br> importance, stress, serious consideration
+[sound:4c-k-近鉄.mp3]	<b>近鉄</b> <br> きんてつ <br> Kinki Nippon Tetsudou (railway co.)
+[sound:4c-k-側近.mp3]	<b>側近</b> <br> そっきん <br> close associate, close aide, brains-truster
+[sound:4c-k-近所.mp3]	<b>近所</b> <br> きんじょ <br> neighbourhood, neighborhood
+[sound:4c-k-近年.mp3]	<b>近年</b> <br> きんねん <br> recent years
+[sound:4c-k-千代.mp3]	<b>千代</b> <br> せんだい, ちよ <br> thousand years; very long period, forever
+[sound:4c-k-千里.mp3]	<b>千里</b> <br> せんり <br> 1000 ri, (a) long distance
+[sound:4c-k-千秋楽.mp3]	<b>千秋楽</b> <br> せんしゅうらく <br> concluding festivities, final day of a sumo tournament, concluding program, concluding programme
+[sound:4c-k-千島.mp3]	<b>千島</b> <br> ちしま <br> Kurile Islands
+[sound:4c-k-選考.mp3]	<b>選考</b> <br> せんこう <br> selection, screening
+[sound:4c-k-考える.mp3]	<b>考える</b> <br> かんがえる <br> to consider, to think about
+[sound:4c-k-思考.mp3]	<b>思考</b> <br> しこう <br> thought, consideration, thinking
+[sound:4c-k-考古学.mp3]	<b>考古学</b> <br> こうこがく <br> archaeology, archeology
+[sound:4c-k-批判.mp3]	<b>批判</b> <br> ひはん <br> criticism, judgement, judgment, comment
+[sound:4c-k-公判.mp3]	<b>公判</b> <br> こうはん <br> public hearing, trial
+[sound:4c-k-裁判所.mp3]	<b>裁判所</b> <br> さいばんしょ <br> court, courthouse
+[sound:4c-k-審判.mp3]	<b>審判</b> <br> しんぱん, しんばん <br> refereeing, trial, judgement, judgment, umpire, referee
+[sound:4c-k-公認.mp3]	<b>公認</b> <br> こうにん <br> official recognition, authorization, authorisation, licence, license, accreditation
+[sound:4c-k-認定.mp3]	<b>認定</b> <br> にんてい <br> authorization, authorisation, acknowledgment, acknowledgement, certification, recognition
+[sound:4c-k-認可.mp3]	<b>認可</b> <br> にんか <br> approval, license, licence, permission
+[sound:4c-k-容認.mp3]	<b>容認</b> <br> ようにん <br> approval
+[sound:4c-k-企画.mp3]	<b>企画</b> <br> きかく <br> planning, project, plan, design
+[sound:4c-k-絵画.mp3]	<b>絵画</b> <br> かいが <br> picture, painting
+[sound:4c-k-画面.mp3]	<b>画面</b> <br> がめん <br> terminal screen, scene, picture, the field (in TV), photo
+[sound:4c-k-画家.mp3]	<b>画家</b> <br> がか <br> painter, artist
+[sound:4c-k-東海.mp3]	<b>東海</b> <br> とうかい <br> region south of Tokyo on Pacific Ocean side of Japan, eastern sea
+[sound:4c-k-海軍.mp3]	<b>海軍</b> <br> かいぐん <br> navy
+[sound:4c-k-海上.mp3]	<b>海上</b> <br> かいじょう <br> (by, at, on) sea, maritime, marine
+[sound:4c-k-海岸.mp3]	<b>海岸</b> <br> かいがん <br> coast, beach
+[sound:4c-k-参加.mp3]	<b>参加</b> <br> さんか <br> participation
+[sound:4c-k-参照.mp3]	<b>参照</b> <br> さんしょう <br> reference, bibliographical reference, consultation, browsing (e.g. when selecting a file to upload on a computer), checking out
+[sound:4c-k-参事官.mp3]	<b>参事官</b> <br> さんじかん <br> councillor, councilor
+[sound:4c-k-販売.mp3]	<b>販売</b> <br> はんばい <br> sales, selling, marketing
+[sound:4c-k-売り.mp3]	<b>売り</b> <br> うり <br> sale, selling; selling point, gimmick
+[sound:4c-k-商売.mp3]	<b>商売</b> <br> しょうばい <br> trade, business, commerce, transaction, occupation
+[sound:4c-k-売り場.mp3]	<b>売り場</b> <br> うりば <br> place where things are sold, point of sale, POS, sales floor, counter (in shop)
+[sound:4c-k-利.mp3]	<b>利</b> <br> り <br> advantage, benefit, profit, interest
+[sound:4c-k-金利.mp3]	<b>金利</b> <br> きんり <br> interest rates
+[sound:4c-k-経常利益.mp3]	<b>経常利益</b> <br> けいじょうりえき <br> current profits, ordinary profit, income before income taxes
+[sound:4c-k-利下げ.mp3]	<b>利下げ</b> <br> りさげ <br> decrease in interest rates
+[sound:4c-k-組.mp3]	<b>組</b> <br> くみ <br> set (of items); group (of people), class (of students), company (esp. construction), family (i.e. mafia), team; typesetting, composition
+[sound:4c-k-組織.mp3]	<b>組織</b> <br> そしき <br> organization, organisation; structure, construction; tissue; system
+[sound:4c-k-労働組合.mp3]	<b>労働組合</b> <br> ろうどうくみあい <br> labor union, labour union
+[sound:4c-k-組長.mp3]	<b>組長</b> <br> くみちょう <br> boss (yakuza)
+[sound:4c-k-知る.mp3]	<b>知る</b> <br> しる <br> to know, to understand, to be acquainted with, to feel
+[sound:4c-k-知事.mp3]	<b>知事</b> <br> ちじ <br> prefectural governor
+[sound:4c-k-通知.mp3]	<b>通知</b> <br> つうち <br> notice, notification, report, posting
+[sound:4c-k-副知事.mp3]	<b>副知事</b> <br> ふくちじ <br> lieutenant governor
+[sound:4c-k-法案.mp3]	<b>法案</b> <br> ほうあん <br> bill (law)
+[sound:4c-k-提案.mp3]	<b>提案</b> <br> ていあん <br> proposal, proposition, suggestion
+[sound:4c-k-試案.mp3]	<b>試案</b> <br> しあん <br> tentative
+[sound:4c-k-立案.mp3]	<b>立案</b> <br> りつあん <br> draft, draught, (rough) design
+[sound:4c-k-道.mp3]	<b>道</b> <br> みち <br> road, street, way, path, course, route, lane; distance, ways (e.g. "a long ways"); the way (of proper conduct, etc.), one's way, morals; teachings (esp. Confucian or Buddhist), dogma; field (of medicine, etc.), subject; way, method, means
+[sound:4c-k-報道.mp3]	<b>報道</b> <br> ほうどう <br> information, report, journalism
+[sound:4c-k-報道陣.mp3]	<b>報道陣</b> <br> ほうどうじん <br> press corps
+[sound:4c-k-高速道路.mp3]	<b>高速道路</b> <br> こうそくどうろ <br> highway, freeway, expressway, motorway
+[sound:4c-k-信.mp3]	<b>信</b> <br> しん <br> honesty, fidelity; trust, reliance; (religious) faith; counter for received messages
+[sound:4c-k-通信.mp3]	<b>通信</b> <br> つうしん <br> correspondence, communication, transmission, news, signal
+[sound:4c-k-信号.mp3]	<b>信号</b> <br> しんごう <br> traffic lights, signal, semaphore
+[sound:4c-k-受信.mp3]	<b>受信</b> <br> じゅしん <br> reception (e.g. radio), receipt
+[sound:4c-k-政策.mp3]	<b>政策</b> <br> せいさく <br> political measures, policy
+[sound:4c-k-対策.mp3]	<b>対策</b> <br> たいさく <br> counter-plan, counter-measure
+[sound:4c-k-苦肉の策.mp3]	<b>苦肉の策</b> <br> くにくのさく <br> last resort, desperate measure taken under pressure of necessity
+[sound:4c-k-国策.mp3]	<b>国策</b> <br> こくさく <br> national policy
+[sound:4c-k-集める.mp3]	<b>集める</b> <br> あつめる <br> to collect, to assemble, to gather
+[sound:4c-k-集会.mp3]	<b>集会</b> <br> しゅうかい <br> meeting, assembly
+[sound:4c-k-集.mp3]	<b>集</b> <br> しゅう <br> collection, compilation
+[sound:4c-k-特集.mp3]	<b>特集</b> <br> とくしゅう <br> feature (e.g. newspaper), special edition, report
+[sound:4c-k-在る.mp3]	<b>在る</b> <br> ある <br> to be (usu. of inanimate objects), to exist, to live; to have; to be located; to be equipped with; to happen, to come about
+[sound:4c-k-現在.mp3]	<b>現在</b> <br> げんざい <br> now, current, present, present time, as of
+[sound:4c-k-在宅.mp3]	<b>在宅</b> <br> ざいたく <br> being in, being at home
+[sound:4c-k-不在.mp3]	<b>不在</b> <br> ふざい <br> absence
+[sound:4c-k-件.mp3]	<b>件</b> <br> けん <br> matter, case, item
+[sound:4c-k-事件.mp3]	<b>事件</b> <br> じけん <br> event, affair, incident, case, plot, trouble, scandal
+[sound:4c-k-要件.mp3]	<b>要件</b> <br> ようけん <br> requirement, important matter
+[sound:4c-k-案件.mp3]	<b>案件</b> <br> あんけん <br> matter in question, subject
+[sound:4c-k-団体.mp3]	<b>団体</b> <br> だんたい <br> organization, organisation, association
+[sound:4c-k-集団.mp3]	<b>集団</b> <br> しゅうだん <br> group, mass
+[sound:4c-k-財団法人.mp3]	<b>財団法人</b> <br> ざいだんほうじん <br> incorporated foundation, juridical foundation
+[sound:4c-k-公団.mp3]	<b>公団</b> <br> こうだん <br> public corporation
+[sound:4c-k-別に.mp3]	<b>別に</b> <br> べつに <br> (not) particularly, nothing; separately, apart
+[sound:4c-k-告別.mp3]	<b>告別</b> <br> こくべつ <br> farewell, leave-taking
+[sound:4c-k-性別.mp3]	<b>性別</b> <br> せいべつ <br> distinction by sex, sex, gender
+[sound:4c-k-区別.mp3]	<b>区別</b> <br> くべつ <br> distinction, differentiation, classification
+[sound:4c-k-人物.mp3]	<b>人物</b> <br> じんぶつ <br> character, personality, person, man, personage, talented man
+[sound:4c-k-動物.mp3]	<b>動物</b> <br> どうぶつ <br> animal
+[sound:4c-k-博物館.mp3]	<b>博物館</b> <br> はくぶつかん <br> museum
+[sound:4c-k-物資.mp3]	<b>物資</b> <br> ぶっし <br> goods, materials
+[sound:4c-k-側.mp3]	<b>側</b> <br> そば, そく, はた <br> near, close, beside, vicinity, proximity, besides, while; third person
+[sound:4c-k-西側.mp3]	<b>西側</b> <br> にしがわ <br> west side, west bank
+[sound:4c-k-裏側.mp3]	<b>裏側</b> <br> うらがわ <br> the reverse, other side, lining
+[sound:4c-k-外側.mp3]	<b>外側</b> <br> そとがわ, がいそく <br> exterior, outside
+[sound:4c-k-責任.mp3]	<b>責任</b> <br> せきにん <br> duty, responsibility; liability, onus
+[sound:4c-k-辞任.mp3]	<b>辞任</b> <br> じにん <br> to resign; resignation
+[sound:4c-k-主任.mp3]	<b>主任</b> <br> しゅにん <br> person in charge, responsible official
+[sound:4c-k-任務.mp3]	<b>任務</b> <br> にんむ <br> duty, function, office, mission, task
+[sound:4c-k-取引.mp3]	<b>取引</b> <br> とりひき <br> transactions, dealings, business
+[sound:4c-k-引き下げ.mp3]	<b>引き下げ</b> <br> ひきさげ <br> reduction, cut
+[sound:4c-k-引き続き.mp3]	<b>引き続き</b> <br> ひきつづき <br> continuing for a long time, in succession, without a break
+[sound:4c-k-割引.mp3]	<b>割引</b> <br> わりびき <br> discount, reduction, rebate, tenths discounted
+[sound:4c-k-使わす.mp3]	<b>使わす</b> <br> つかわす <br> to send, to dispatch, to despatch
+[sound:4c-k-使う.mp3]	<b>使う</b> <br> つかう <br> to use (a thing, method, etc.), to make use of, to put to use; to use (a person, animal, puppet, etc.), to employ, to handle, to manage, to manipulate; to use (time, money, etc.), to spend, to consume; to use (language), to speak; to take (one's lunch), to circulate (bad money)
+[sound:4c-k-特使.mp3]	<b>特使</b> <br> とくし <br> special envoy
+[sound:4c-k-労使.mp3]	<b>労使</b> <br> ろうし <br> labour and management, labor and management
+[sound:4c-k-要求.mp3]	<b>要求</b> <br> ようきゅう <br> demand, firm request, requisition, requirement, desire
+[sound:4c-k-請求.mp3]	<b>請求</b> <br> せいきゅう <br> claim, demand, charge, application, request, billing (for a service)
+[sound:4c-k-追求.mp3]	<b>追求</b> <br> ついきゅう <br> pursuing (goal), pursuit, seeking, search; to pursue (e.g. goal), to seek
+[sound:4c-k-求職.mp3]	<b>求職</b> <br> きゅうしょく <br> job hunting, seeking employment
+[sound:4c-k-事務所.mp3]	<b>事務所</b> <br> じむしょ <br> office
+[sound:4c-k-場所.mp3]	<b>場所</b> <br> ばしょ <br> place, location
+[sound:4c-k-所属.mp3]	<b>所属</b> <br> しょぞく <br> attached to, belong to, member
+[sound:4c-k-無所属.mp3]	<b>無所属</b> <br> むしょぞく <br> independent
+[sound:4c-k-次官.mp3]	<b>次官</b> <br> じかん <br> vice-minister, undersecretary
+[sound:4c-k-事務次官.mp3]	<b>事務次官</b> <br> じむじかん <br> permanent vice-president, undersecretary, vice-minister
+[sound:4c-k-政務次官.mp3]	<b>政務次官</b> <br> せいむじかん <br> parliamentary vice-minister
+[sound:4c-k-五十三次.mp3]	<b>五十三次</b> <br> ごじゅうさんつぎ <br> the 53 Toukaidou stages
+[sound:4c-k-水.mp3]	<b>水</b> <br> みず <br> water (cold, fresh)
+[sound:4c-k-水準.mp3]	<b>水準</b> <br> すいじゅん <br> level, standard; water level
+[sound:4c-k-水質.mp3]	<b>水質</b> <br> すいしつ <br> water quality
+[sound:4c-k-下水道.mp3]	<b>下水道</b> <br> げすいどう <br> drain, sewer, drainage system
+[sound:4c-k-半.mp3]	<b>半</b> <br> はん <br> half
+[sound:4c-k-時半.mp3]	<b>時半</b> <br> じはん <br> about an hour, short time; half past (the hour)
+[sound:4c-k-朝鮮半島.mp3]	<b>朝鮮半島</b> <br> ちょうせんはんとう <br> Korean peninsula
+[sound:4c-k-半数.mp3]	<b>半数</b> <br> はんすう <br> half the number; haploid
+[sound:4c-k-作品.mp3]	<b>作品</b> <br> さくひん <br> work (e.g. book, film, composition, etc.), opus, performance, production
+[sound:4c-k-商品.mp3]	<b>商品</b> <br> しょうひん <br> commodity, article of commerce, goods, stock, merchandise
+[sound:4c-k-品種.mp3]	<b>品種</b> <br> ひんしゅ <br> kind (of goods), brand; (taxonomical) form; breed, cultivar
+[sound:4c-k-品目.mp3]	<b>品目</b> <br> ひんもく <br> list of articles
+[sound:4c-k-昨年.mp3]	<b>昨年</b> <br> さくねん <br> last year
+[sound:4c-k-一昨年.mp3]	<b>一昨年</b> <br> いっさくねん, おととし <br> year before last
+[sound:4c-k-昨夜.mp3]	<b>昨夜</b> <br> ゆう, ゆうべ, さくや <br> evening; last night
+[sound:4c-k-昨冬.mp3]	<b>昨冬</b> <br> さくとう <br> last winter
+[sound:4c-k-論議.mp3]	<b>論議</b> <br> ろんぎ <br> discussion, argument, debate
+[sound:4c-k-議論.mp3]	<b>議論</b> <br> ぎろん <br> argument, discussion, dispute, controversy
+[sound:4c-k-論争.mp3]	<b>論争</b> <br> ろんそう <br> controversy, dispute
+[sound:4c-k-論理.mp3]	<b>論理</b> <br> ろんり <br> logic; logical
+[sound:4c-k-計.mp3]	<b>計</b> <br> けい <br> plan; meter, measuring device; (in) total, total (of)
+[sound:4c-k-計画.mp3]	<b>計画</b> <br> けいかく <br> plan, project, schedule, scheme, program, programme
+[sound:4c-k-集計.mp3]	<b>集計</b> <br> しゅうけい <br> totalization, totalisation, aggregate
+[sound:4c-k-家計.mp3]	<b>家計</b> <br> かけい <br> household economy, family finances
+[sound:4c-k-死.mp3]	<b>死</b> <br> し <br> death, decease; death penalty (by strangulation or decapitation)
+[sound:4c-k-死者.mp3]	<b>死者</b> <br> ししゃ <br> casualty, deceased
+[sound:4c-k-死後.mp3]	<b>死後</b> <br> しご <br> after death
+[sound:4c-k-死体.mp3]	<b>死体</b> <br> したい <br> dead body, corpse, cadaver
+[sound:4c-k-長官.mp3]	<b>長官</b> <br> ちょうかん <br> secretary (government), director, chief
+[sound:4c-k-官邸.mp3]	<b>官邸</b> <br> かんてい <br> official residence
+[sound:4c-k-官房.mp3]	<b>官房</b> <br> かんぼう <br> government secretariat
+[sound:4c-k-国務長官.mp3]	<b>国務長官</b> <br> こくむちょうかん <br> Secretary of State
+[sound:4c-k-増加.mp3]	<b>増加</b> <br> ぞうか <br> increase, increment, addition
+[sound:4c-k-増税.mp3]	<b>増税</b> <br> ぞうぜい <br> tax increase
+[sound:4c-k-増益.mp3]	<b>増益</b> <br> ぞうえき <br> increased (profit)
+[sound:4c-k-増額.mp3]	<b>増額</b> <br> ぞうがく <br> increased amount
+[sound:4c-k-係.mp3]	<b>係</b> <br> かかり <br> official, duty, person in charge
+[sound:4c-k-関係.mp3]	<b>関係</b> <br> かんけい <br> relation, connection
+[sound:4c-k-係争.mp3]	<b>係争</b> <br> けいそう <br> contention, dispute
+[sound:4c-k-連係プレー.mp3]	<b>連係プレー</b> <br> れんけいプレー <br> good teamwork play (baseball)
+[sound:4c-k-感じ.mp3]	<b>感じ</b> <br> かんじ <br> feeling, sense, impression
+[sound:4c-k-感覚.mp3]	<b>感覚</b> <br> かんかく <br> sense, sensation, feeling
+[sound:4c-k-感性.mp3]	<b>感性</b> <br> かんせい <br> sensitivity, sensitiveness, sense
+[sound:4c-k-実感.mp3]	<b>実感</b> <br> じっかん <br> feelings (actual, true)
+[sound:4c-k-特に.mp3]	<b>特に</b> <br> とくに <br> particularly, especially
+[sound:4c-k-特別.mp3]	<b>特別</b> <br> とくべつ <br> special
+[sound:4c-k-特使.mp3]	<b>特使</b> <br> とくし <br> special envoy
+[sound:4c-k-特集.mp3]	<b>特集</b> <br> とくしゅう <br> feature (e.g. newspaper), special edition, report
+[sound:4c-k-情.mp3]	<b>情</b> <br> じょう <br> feelings, emotion, passion
+[sound:4c-k-事情.mp3]	<b>事情</b> <br> じじょう <br> circumstances, consideration, conditions, situation, reasons
+[sound:4c-k-情熱.mp3]	<b>情熱</b> <br> じょうねつ <br> passion, enthusiasm, zeal
+[sound:4c-k-愛情.mp3]	<b>愛情</b> <br> あいじょう <br> love, affection
+[sound:4c-k-投資.mp3]	<b>投資</b> <br> とうし <br> investment
+[sound:4c-k-投手.mp3]	<b>投手</b> <br> とうしゅ <br> (baseball) pitcher
+[sound:4c-k-投機.mp3]	<b>投機</b> <br> とうき <br> speculation, venture, stockjobbing, gambling (on stocks)
+[sound:4c-k-投棄.mp3]	<b>投棄</b> <br> とうき <br> abandonment, giving up, throwing away
+[sound:4c-k-示す.mp3]	<b>示す</b> <br> しめす <br> to denote, to show, to point out, to indicate, to exemplify
+[sound:4c-k-指示.mp3]	<b>指示</b> <br> しじ <br> indication, instruction, designation, directions
+[sound:4c-k-提示.mp3]	<b>提示</b> <br> ていじ <br> presentation, exhibit, suggest, citation
+[sound:4c-k-意思表示.mp3]	<b>意思表示</b> <br> いしひょうじ <br> declaration of intention
+[sound:4c-k-変わった.mp3]	<b>変わった</b> <br> かわった <br> another, different, various, particular, unusual, novel, peculiar
+[sound:4c-k-変わらない.mp3]	<b>変わらない</b> <br> かわらない <br> constant, invariant
+[sound:4c-k-変.mp3]	<b>変</b> <br> へん <br> strange, odd, peculiar, weird, curious, queer, eccentric, funny, suspicious, fishy; unexpected; change; incident, disturbance, disaster, accident; flat (music)
+[sound:4c-k-変革.mp3]	<b>変革</b> <br> へんかく <br> change, reform, revolution, upheaval; Reformation
+[sound:4c-k-打つ.mp3]	<b>打つ</b> <br> うつ <br> to hit (something inanimate), to strike, to beat (on something); to type, to tap (e.g. a key); to inject; to indulge in gambling; to visit (on a pilgrimage)
+[sound:4c-k-本塁打.mp3]	<b>本塁打</b> <br> ほんるいだ <br> home run (baseball)
+[sound:4c-k-打ち上げ.mp3]	<b>打ち上げ</b> <br> うちあげ <br> launch
+[sound:4c-k-打開.mp3]	<b>打開</b> <br> だかい <br> break in the deadlock
+[sound:4c-k-男.mp3]	<b>男</b> <br> おとこ <br> man
+[sound:4c-k-男子.mp3]	<b>男子</b> <br> だんし <br> youth, young man
+[sound:4c-k-一男.mp3]	<b>一男</b> <br> いちなん <br> boy, eldest son
+[sound:4c-k-男優.mp3]	<b>男優</b> <br> だんゆう <br> actor
+[sound:4c-k-基本.mp3]	<b>基本</b> <br> きほん <br> foundation, basis, standard
+[sound:4c-k-基準.mp3]	<b>基準</b> <br> きじゅん <br> standard, basis, criterion, norm, reference, datum
+[sound:4c-k-基幹.mp3]	<b>基幹</b> <br> きかん <br> mainstay, nucleus, key
+[sound:4c-k-基軸.mp3]	<b>基軸</b> <br> きじく <br> key, yardstick, criterion, standard
+[sound:4c-k-私.mp3]	<b>私</b> <br> わたし, わたくし <br> I, me; private affairs, personal matter, secrecy; selfishness
+[sound:4c-k-私立.mp3]	<b>私立</b> <br> しりつ, わたくしりつ <br> private (establishment)
+[sound:4c-k-私文書.mp3]	<b>私文書</b> <br> しぶんしょ <br> private document
+[sound:4c-k-私設.mp3]	<b>私設</b> <br> しせつ <br> private
+[sound:4c-k-各自.mp3]	<b>各自</b> <br> かくじ <br> individual, each
+[sound:4c-k-各種学校.mp3]	<b>各種学校</b> <br> かくしゅがっこう <br> vocational school
+[sound:4c-k-各員.mp3]	<b>各員</b> <br> かくいん <br> each one
+[sound:4c-k-各駅.mp3]	<b>各駅</b> <br> かくえき <br> every station
+[sound:4c-k-開始.mp3]	<b>開始</b> <br> かいし <br> start, commencement, beginning, initiation
+[sound:4c-k-始まり.mp3]	<b>始まり</b> <br> はじまり <br> origin, beginning
+[sound:4c-k-始発.mp3]	<b>始発</b> <br> しはつ <br> first train
+[sound:4c-k-手始め.mp3]	<b>手始め</b> <br> てはじめ <br> outset
+[sound:4c-k-島.mp3]	<b>島</b> <br> しま <br> island; territory (of a prostitute, organized crime gang, etc.), turf
+[sound:4c-k-朝鮮半島.mp3]	<b>朝鮮半島</b> <br> ちょうせんはんとう <br> Korean peninsula
+[sound:4c-k-島国.mp3]	<b>島国</b> <br> しまぐに, とうごく <br> island country (sometimes used as a metaphor for Japan)
+[sound:4c-k-離島.mp3]	<b>離島</b> <br> りとう <br> isolated (outlying) island, departure from an island
+[sound:4c-k-直.mp3]	<b>直</b> <br> じき <br> soon, in a moment, before long, shortly; nearby, close; direct; spot transaction, cash transaction
+[sound:4c-k-直ちに.mp3]	<b>直ちに</b> <br> ただちに <br> at once, immediately, directly, in person
+[sound:4c-k-正直.mp3]	<b>正直</b> <br> しょうじき <br> honesty, integrity, frankness; honestly, frankly
+[sound:4c-k-素直.mp3]	<b>素直</b> <br> すなお <br> obedient, meek, docile, unaffected; honest, frank
+[sound:4c-k-両国.mp3]	<b>両国</b> <br> りょうこく, りょうごく <br> both countries
+[sound:4c-k-両党.mp3]	<b>両党</b> <br> りょうとう <br> both political parties
+[sound:4c-k-両方.mp3]	<b>両方</b> <br> りょうほう <br> both sides, both parties
+[sound:4c-k-両面.mp3]	<b>両面</b> <br> りょうめん <br> both sides, two sides, double-sided
+[sound:4c-k-朝.mp3]	<b>朝</b> <br> あさ, あした <br> morning
+[sound:4c-k-北朝鮮.mp3]	<b>北朝鮮</b> <br> きたちょうせん <br> North Korea
+[sound:4c-k-朝食.mp3]	<b>朝食</b> <br> ちょうしょく <br> breakfast
+[sound:4c-k-毎朝.mp3]	<b>毎朝</b> <br> まいあさ, まいちょう <br> every morning
+[sound:4c-k-革.mp3]	<b>革</b> <br> かわ <br> skin, hide, leather, fur, pelt, bark, shell
+[sound:4c-k-改革.mp3]	<b>改革</b> <br> かいかく <br> reform, reformation, innovation
+[sound:4c-k-農地改革.mp3]	<b>農地改革</b> <br> のうちかいかく <br> agrarian reform
+[sound:4c-k-革靴.mp3]	<b>革靴</b> <br> かわぐつ <br> leather shoes
+[sound:4c-k-価格.mp3]	<b>価格</b> <br> かかく <br> price, value, cost
+[sound:4c-k-株価.mp3]	<b>株価</b> <br> かぶか <br> stock prices
+[sound:4c-k-米価.mp3]	<b>米価</b> <br> べいか <br> rice price
+[sound:4c-k-時価.mp3]	<b>時価</b> <br> じか <br> current value, price, market value
+[sound:4c-k-株式.mp3]	<b>株式</b> <br> かぶしき <br> stock (company)
+[sound:4c-k-公式.mp3]	<b>公式</b> <br> こうしき <br> formality, formal, official; formula
+[sound:4c-k-株式会社.mp3]	<b>株式会社</b> <br> かぶしきがいしゃ <br> public company, corporation, KK, formula for an incorporated public company
+[sound:4c-k-儀式.mp3]	<b>儀式</b> <br> ぎしき <br> ceremony, rite, ritual, service
+[sound:4c-k-確か.mp3]	<b>確か</b> <br> たしか <br> certain, sure, definite; if I'm not mistaken, if I remember correctly
+[sound:4c-k-確実.mp3]	<b>確実</b> <br> かくじつ <br> certainty, reliability, soundness
+[sound:4c-k-確率.mp3]	<b>確率</b> <br> かくりつ <br> probability, likelihood, chances
+[sound:4c-k-確執.mp3]	<b>確執</b> <br> かくしつ <br> discord, antagonism
+[sound:4c-k-村.mp3]	<b>村</b> <br> むら <br> village
+[sound:4c-k-市町村.mp3]	<b>市町村</b> <br> しちょうそん <br> cities, towns and villages, municipalities
+[sound:4c-k-村民.mp3]	<b>村民</b> <br> そんみん <br> villager
+[sound:4c-k-村議会.mp3]	<b>村議会</b> <br> そんぎかい <br> village assembly
+[sound:4c-k-前提.mp3]	<b>前提</b> <br> ぜんてい <br> preamble, premise, reason, prerequisite, condition, assumption, hypothesis
+[sound:4c-k-提案.mp3]	<b>提案</b> <br> ていあん <br> proposal, proposition, suggestion
+[sound:4c-k-提供者.mp3]	<b>提供者</b> <br> ていきょうしゃ <br> donor, contributer, provider
+[sound:4c-k-提起.mp3]	<b>提起</b> <br> ていき <br> bring suit, file a claim, raise a question
+[sound:4c-k-運.mp3]	<b>運</b> <br> うん <br> fortune, luck
+[sound:4c-k-運ぶ.mp3]	<b>運ぶ</b> <br> はこぶ <br> to carry, to transport, to move, to convey; to come, to go; to wield (a tool, etc.), to use; to go (well, etc.), to proceed, to progress
+[sound:4c-k-運び.mp3]	<b>運び</b> <br> はこび <br> progress, pace, carriage, step, stage
+[sound:4c-k-運転手.mp3]	<b>運転手</b> <br> うんてんしゅ <br> driver, chauffeur
+[sound:4c-k-終わり.mp3]	<b>終わり</b> <br> おわり <br> the end
+[sound:4c-k-最終.mp3]	<b>最終</b> <br> さいしゅう <br> last, final, closing
+[sound:4c-k-終日.mp3]	<b>終日</b> <br> しゅうじつ, ひねもす, ひめもす, ひもすがら <br> all day, for a whole day
+[sound:4c-k-終盤.mp3]	<b>終盤</b> <br> しゅうばん <br> endgame, final stage
+[sound:4c-k-挙げる.mp3]	<b>挙げる</b> <br> あげる <br> to raise, to elevate; to do up (one's hair); to fly (a kite, etc.), to launch (fireworks, etc.), to surface (a submarine, etc.); to land (a boat); to deep-fry; to show someone (into a room); (uk) to summon (for geishas, etc.); to send someone (away); to enrol (one's child in school) (enroll); to increase (price, quality, status, etc.); to make (a loud sound), to raise (one's voice); to earn (something desirable); to praise; to give (an example, etc.), to cite; to summon up (all of one's energy, etc.); to arrest; to nominate; to give; to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.); to bear (a child); to conduct (a ceremony, esp. a wedding); (of the tide) to come in; to vomit; (after the -te form of a verb) to do for (the sake of someone else); (after the -masu stem of a verb) to complete; used after the -masu stem of a humble verb to increase the level of humility
+[sound:4c-k-選挙.mp3]	<b>選挙</b> <br> せんきょ <br> election
+[sound:4c-k-快挙.mp3]	<b>快挙</b> <br> かいきょ <br> brilliant achievement
+[sound:4c-k-選挙権.mp3]	<b>選挙権</b> <br> せんきょけん <br> suffrage
+[sound:4c-k-結果.mp3]	<b>結果</b> <br> けっか <br> result, consequence
+[sound:4c-k-効果.mp3]	<b>効果</b> <br> こうか <br> effect, effectiveness, efficacy, result
+[sound:4c-k-果実.mp3]	<b>果実</b> <br> かじつ <br> fruit, nut, berry
+[sound:4c-k-果敢.mp3]	<b>果敢</b> <br> かかん <br> resolute, determined, bold
+[sound:4c-k-西.mp3]	<b>西</b> <br> にし <br> west
+[sound:4c-k-関西.mp3]	<b>関西</b> <br> かんさい, かんせい <br> Kansai (south-western half of Japan, including Osaka)
+[sound:4c-k-西日本.mp3]	<b>西日本</b> <br> にしにほん, にしにっぽん <br> western Japan
+[sound:4c-k-西洋.mp3]	<b>西洋</b> <br> せいよう <br> the west, Western countries
+[sound:4c-k-勢い.mp3]	<b>勢い</b> <br> いきおい <br> force, vigor, vigour, energy, spirit, life; influence, authority, power, might; impetus, momentum, course (of events); naturally, necessarily
+[sound:4c-k-勢み.mp3]	<b>勢み</b> <br> はずみ <br> bounce, spring, rebound; momentum, inertia; spur of the moment, impulse
+[sound:4c-k-伊勢丹.mp3]	<b>伊勢丹</b> <br> いせたん <br> Isetan (department store)
+[sound:4c-k-優勢.mp3]	<b>優勢</b> <br> ゆうせい <br> superiority, superior power, predominance, preponderance
+[sound:4c-k-削減.mp3]	<b>削減</b> <br> さくげん <br> cut, reduction, curtailment
+[sound:4c-k-減税.mp3]	<b>減税</b> <br> げんぜい <br> tax reduction
+[sound:4c-k-減額.mp3]	<b>減額</b> <br> げんがく <br> reduction, diminution, abatement
+[sound:4c-k-減産.mp3]	<b>減産</b> <br> げんさん <br> reduction in production
+[sound:4c-k-台.mp3]	<b>台</b> <br> だい <br> stand, rack, table; support; belt; counter for machines, incl. vehicles; setting (e.g. in jewellery)
+[sound:4c-k-台湾.mp3]	<b>台湾</b> <br> たいわん <br> Taiwan
+[sound:4c-k-土台.mp3]	<b>土台</b> <br> どだい <br> foundation, base, basis
+[sound:4c-k-屋台.mp3]	<b>屋台</b> <br> やたい <br> cart, esp. food cart; (festival) float
+[sound:4c-k-広い.mp3]	<b>広い</b> <br> ひろい <br> spacious, vast, wide
+[sound:4c-k-広がり.mp3]	<b>広がり</b> <br> ひろがり <br> spread, span
+[sound:4c-k-幅広い.mp3]	<b>幅広い</b> <br> はばひろい <br> extensive, wide, broad
+[sound:4c-k-広大.mp3]	<b>広大</b> <br> こうだい <br> huge, very large, vast, extensive, magnificent, grand
+[sound:4c-k-内容.mp3]	<b>内容</b> <br> ないよう <br> subject, contents, matter, substance, detail, import
+[sound:4c-k-容疑者.mp3]	<b>容疑者</b> <br> ようぎしゃ <br> suspect (person)
+[sound:4c-k-全容.mp3]	<b>全容</b> <br> ぜんよう <br> full portrait, whole aspect, full story
+[sound:4c-k-容量.mp3]	<b>容量</b> <br> ようりょう <br> capacity, electrical capacitance
+[sound:4c-k-必ず.mp3]	<b>必ず</b> <br> かならず <br> necessarily, certainly, without fail, positively, invariably
+[sound:4c-k-必ずしも.mp3]	<b>必ずしも</b> <br> かならずしも <br> (not) always, (not) necessarily, (not) all, (not) entirely
+[sound:4c-k-必勝.mp3]	<b>必勝</b> <br> ひっしょう <br> certain victory
+[sound:4c-k-必然的.mp3]	<b>必然的</b> <br> ひつぜんてき <br> inevitable, necessary
+[sound:4c-k-応じる.mp3]	<b>応じる</b> <br> おうじる <br> to respond, to satisfy, to accept, to comply with, to apply for
+[sound:4c-k-対応.mp3]	<b>対応</b> <br> たいおう <br> interaction, correspondence, coping with, dealing with, support
+[sound:4c-k-適応.mp3]	<b>適応</b> <br> てきおう <br> adaptation, accommodation, conformity
+[sound:4c-k-応答.mp3]	<b>応答</b> <br> おうとう <br> reply, answer, response
+[sound:4c-k-演説.mp3]	<b>演説</b> <br> えんぜつ <br> speech, address
+[sound:4c-k-公演.mp3]	<b>公演</b> <br> こうえん <br> public performance; sumo exhibition in a foreign country
+[sound:4c-k-演習.mp3]	<b>演習</b> <br> えんしゅう <br> practice, practise, exercises, manoeuvres, maneuvers, practicum
+[sound:4c-k-主演.mp3]	<b>主演</b> <br> しゅえん <br> starring, playing the leading part
+[sound:4c-k-電話.mp3]	<b>電話</b> <br> でんわ <br> telephone
+[sound:4c-k-電気.mp3]	<b>電気</b> <br> でんき <br> electricity; (electric) light
+[sound:4c-k-発電.mp3]	<b>発電</b> <br> はつでん <br> generation (e.g. power)
+[sound:4c-k-発電所.mp3]	<b>発電所</b> <br> はつでんしょ <br> power plant, power station
+[sound:4c-k-歳出.mp3]	<b>歳出</b> <br> さいしゅつ <br> annual expenditure
+[sound:4c-k-歳入.mp3]	<b>歳入</b> <br> さいにゅう <br> annual revenue or income
+[sound:4c-k-歳末.mp3]	<b>歳末</b> <br> さいまつ <br> year end
+[sound:4c-k-歳時記.mp3]	<b>歳時記</b> <br> さいじき <br> almanac of seasonal words (for haiku poets)
+[sound:4c-k-住.mp3]	<b>住</b> <br> じゅう <br> dwelling, living
+[sound:4c-k-住宅.mp3]	<b>住宅</b> <br> じゅうたく <br> residence, housing, residential building
+[sound:4c-k-住宅地.mp3]	<b>住宅地</b> <br> じゅうたくち <br> housing district, residential district
+[sound:4c-k-住友.mp3]	<b>住友</b> <br> すみとも <br> Sumitomo (company)
+[sound:4c-k-争い.mp3]	<b>争い</b> <br> あらそい <br> dispute, strife, quarrel, dissension, conflict, rivalry, contest
+[sound:4c-k-戦争.mp3]	<b>戦争</b> <br> せんそう <br> war
+[sound:4c-k-争う.mp3]	<b>争う</b> <br> あらそう <br> to compete, to contest, to contend; to quarrel, to argue, to dispute, to be at variance, to oppose; (usu. in negative form) to deny (e.g. evidence)
+[sound:4c-k-太平洋戦争.mp3]	<b>太平洋戦争</b> <br> たいへいようせんそう <br> the Pacific War
+[sound:4c-k-会談.mp3]	<b>会談</b> <br> かいだん <br> conversation, conference, discussion, interview
+[sound:4c-k-相談.mp3]	<b>相談</b> <br> そうだん <br> consultation, discussion
+[sound:4c-k-対談.mp3]	<b>対談</b> <br> たいだん <br> talk, dialogue, conversation
+[sound:4c-k-座談会.mp3]	<b>座談会</b> <br> ざだんかい <br> symposium, round-table discussion
+[sound:4c-k-能.mp3]	<b>能</b> <br> のう <br> talent, gift, function; noh (theatre)
+[sound:4c-k-可能.mp3]	<b>可能</b> <br> かのう <br> possible, practicable, feasible
+[sound:4c-k-才能.mp3]	<b>才能</b> <br> さいのう <br> talent, ability
+[sound:4c-k-性能.mp3]	<b>性能</b> <br> せいのう <br> ability, performance, efficiency
+[sound:4c-k-無料.mp3]	<b>無料</b> <br> むりょう <br> free, no charge
+[sound:4c-k-無職.mp3]	<b>無職</b> <br> むしょく <br> without an occupation
+[sound:4c-k-有無.mp3]	<b>有無</b> <br> うむ, ゆうむ <br> existence or nonexistence, presence or absence; consent or refusal, yes or no; flag indicator, presence or absence marker
+[sound:4c-k-無死.mp3]	<b>無死</b> <br> むし <br> baseball with no outs
+[sound:4c-k-再び.mp3]	<b>再び</b> <br> ふたたび <br> again, once more, a second time
+[sound:4c-k-再開.mp3]	<b>再開</b> <br> さいかい <br> reopening, resumption, restarting
+[sound:4c-k-再検討.mp3]	<b>再検討</b> <br> さいけんとう <br> re-examination, review, reappraisal
+[sound:4c-k-再度.mp3]	<b>再度</b> <br> さいど <br> twice, again, second time
+[sound:4c-k-上位.mp3]	<b>上位</b> <br> じょうい <br> superior (rank not class); higher order (e.g. byte); host computer (of connected device)
+[sound:4c-k-単位.mp3]	<b>単位</b> <br> たんい <br> unit, denomination; credit (in school)
+[sound:4c-k-本位.mp3]	<b>本位</b> <br> ほんい <br> standard, basis, principle
+[sound:4c-k-優位.mp3]	<b>優位</b> <br> ゆうい <br> predominance, ascendancy, superiority
+[sound:4c-k-措置.mp3]	<b>措置</b> <br> そち <br> measure, step
+[sound:4c-k-設置.mp3]	<b>設置</b> <br> せっち <br> establishment, institution
+[sound:4c-k-据え置き.mp3]	<b>据え置き</b> <br> すえおき <br> deferment (e.g. of savings), leaving (a thing) as it stands
+[sound:4c-k-位置付け.mp3]	<b>位置付け</b> <br> いちづけ, いちつけ <br> placement, fixed position, mapping out, location
+[sound:4c-k-企業.mp3]	<b>企業</b> <br> きぎょう <br> enterprise, undertaking, corporation, business
+[sound:4c-k-企画.mp3]	<b>企画</b> <br> きかく <br> planning, project, plan, design
+[sound:4c-k-私企業.mp3]	<b>私企業</b> <br> しきぎょう <br> private enterprise
+[sound:4c-k-中小企業庁.mp3]	<b>中小企業庁</b> <br> ちゅうしょうきぎょうちょう <br> (Japanese) Small and Medium Enterprise Agency
+[sound:4c-k-写真.mp3]	<b>写真</b> <br> しゃしん <br> photograph, photo; movie
+[sound:4c-k-真の.mp3]	<b>真の</b> <br> しんの <br> true, real, genuine, proper, utter
+[sound:4c-k-真っ暗.mp3]	<b>真っ暗</b> <br> まっくら <br> total darkness, pitch dark; bleak future, poor prospects
+[sound:4c-k-真珠湾.mp3]	<b>真珠湾</b> <br> しんじゅわん <br> Pearl Harbor
+[sound:4c-k-流れ.mp3]	<b>流れ</b> <br> ながれ <br> stream, current, flow
+[sound:4c-k-交流.mp3]	<b>交流</b> <br> こうりゅう <br> intercourse, (cultural) exchange, intermingling; alternating current, AC
+[sound:4c-k-流動.mp3]	<b>流動</b> <br> りゅうどう <br> flow
+[sound:4c-k-火砕流.mp3]	<b>火砕流</b> <br> かさいりゅう <br> pyroclastic flow (type of volcanic eruption), stone wind
+[sound:4c-k-価格.mp3]	<b>価格</b> <br> かかく <br> price, value, cost
+[sound:4c-k-格差.mp3]	<b>格差</b> <br> かくさ <br> qualitative difference, disparity
+[sound:4c-k-本格化.mp3]	<b>本格化</b> <br> ほんかくか <br> regularization, regularisation, getting up speed, proceeding at full tilt
+[sound:4c-k-規格.mp3]	<b>規格</b> <br> きかく <br> standard, norm
+[sound:4c-k-有.mp3]	<b>有</b> <br> ゆう <br> existence; possession, having; limited company
+[sound:4c-k-有効.mp3]	<b>有効</b> <br> ゆうこう <br> validity, legality, availability, effectiveness
+[sound:4c-k-有罪.mp3]	<b>有罪</b> <br> ゆうざい <br> guilt, culpability
+[sound:4c-k-有価証券.mp3]	<b>有価証券</b> <br> ゆうかしょうけん <br> marketable securities, stocks and bonds
+[sound:4c-k-疑い.mp3]	<b>疑い</b> <br> うたがい <br> doubt, question, uncertainty, skepticism, scepticism, suspicion, distrust
+[sound:4c-k-容疑者.mp3]	<b>容疑者</b> <br> ようぎしゃ <br> suspect (person)
+[sound:4c-k-懐疑.mp3]	<b>懐疑</b> <br> かいぎ <br> doubt, skepticism, scepticism, disbelief
+[sound:4c-k-疑わしい.mp3]	<b>疑わしい</b> <br> うたがわしい <br> doubtful, questionable, uncertain, disputable, suspicious
+[sound:4c-k-口.mp3]	<b>口</b> <br> くち <br> mouth; opening, hole, gap, orifice; mouth (of a bottle), spout, nozzle, mouthpiece; gate, door, entrance, exit; speaking, speech, talk (i.e. gossip); taste, palate; mouth (to feed); opening (i.e. vacancy), available position; invitation, summons; kind, sort, type; opening (i.e. beginning); counter for mouthfuls, shares (of money), and swords
+[sound:4c-k-人口.mp3]	<b>人口</b> <br> じんこう <br> population; common talk
+[sound:4c-k-川口.mp3]	<b>川口</b> <br> かわぐち, かこう <br> mouth of river, estuary
+[sound:4c-k-手口.mp3]	<b>手口</b> <br> てぐち <br> modus operandi, criminal technique, trick
+[sound:4c-k-過ぎ.mp3]	<b>過ぎ</b> <br> すぎ <br> past, after; too (much), over (e.g. eating)
+[sound:4c-k-過去.mp3]	<b>過去</b> <br> かこ <br> the past, bygone days, the previous
+[sound:4c-k-過剰.mp3]	<b>過剰</b> <br> かじょう <br> excess, over-
+[sound:4c-k-過ち.mp3]	<b>過ち</b> <br> あやまち <br> fault, error, indiscretion, faux pas
+[sound:4c-k-局.mp3]	<b>局</b> <br> きょく <br> channel (i.e. TV or radio), station, department; affair, situation
+[sound:4c-k-事務局.mp3]	<b>事務局</b> <br> じむきょく <br> secretariat, executive office
+[sound:4c-k-郵便局.mp3]	<b>郵便局</b> <br> ゆうびんきょく <br> post office
+[sound:4c-k-対局.mp3]	<b>対局</b> <br> たいきょく <br> (playing) a game of go, shogi or chess, etc.
+[sound:4c-k-少し.mp3]	<b>少し</b> <br> すこし <br> small quantity, little, few, something; little while; short distance
+[sound:4c-k-少なくとも.mp3]	<b>少なくとも</b> <br> すくなくとも <br> at least
+[sound:4c-k-少ない.mp3]	<b>少ない</b> <br> すくない <br> few, a little, scarce, insufficient, seldom
+[sound:4c-k-少なからず.mp3]	<b>少なからず</b> <br> すくなからず <br> considerably, not a little, in no small numbers
+[sound:4c-k-放る.mp3]	<b>放る</b> <br> ほうる, ほる <br> to let go, to abandon, to leave undone; to throw, to toss, to fling
+[sound:4c-k-放送.mp3]	<b>放送</b> <br> ほうそう <br> broadcast, broadcasting
+[sound:4c-k-放射能.mp3]	<b>放射能</b> <br> ほうしゃのう <br> radioactivity
+[sound:4c-k-放映.mp3]	<b>放映</b> <br> ほうえい <br> televising
+[sound:4c-k-関税.mp3]	<b>関税</b> <br> かんぜい <br> customs, duty, tariff
+[sound:4c-k-減税.mp3]	<b>減税</b> <br> げんぜい <br> tax reduction
+[sound:4c-k-税金.mp3]	<b>税金</b> <br> ぜいきん <br> tax, duty
+[sound:4c-k-税収.mp3]	<b>税収</b> <br> ぜいしゅう <br> tax yields, revenue
+[sound:4c-k-検査.mp3]	<b>検査</b> <br> けんさ <br> inspection (e.g. customs, factory), examination
+[sound:4c-k-検察.mp3]	<b>検察</b> <br> けんさつ <br> examination, prosecutor
+[sound:4c-k-検診.mp3]	<b>検診</b> <br> けんしん <br> medical examination
+[sound:4c-k-検問.mp3]	<b>検問</b> <br> けんもん <br> inspection, examination
+[sound:4c-k-藤.mp3]	<b>藤</b> <br> ふじ <br> wisteria, Wisteria floribunda
+[sound:4c-k-葛藤.mp3]	<b>葛藤</b> <br> かっとう <br> conflict, complication, troubles, discord
+[sound:4c-k-藤原氏の出.mp3]	<b>藤原氏の出</b> <br> ふじわらしのしゅつ <br> of Fujiwara descent
+[sound:4c-k-藤袴.mp3]	<b>藤袴</b> <br> ふじばかま, フジバカマ <br> thoroughwort, Eupatorium fortunei (species of boneset), Eupatorium japonicum
+[sound:4c-k-町.mp3]	<b>町</b> <br> まち, ちょう <br> town, block, neighbourhood, neighborhood; street, road; 109.09 m; 0.99 hectares
+[sound:4c-k-市町村.mp3]	<b>市町村</b> <br> しちょうそん <br> cities, towns and villages, municipalities
+[sound:4c-k-町並み.mp3]	<b>町並み</b> <br> まちなみ <br> street (of stores and houses), townscape, (look of) stores and houses on street
+[sound:4c-k-室町.mp3]	<b>室町</b> <br> むろまち <br> Muromachi (era 1392-1573, or 1333-1573, or 1336-1573)
+[sound:4c-k-常.mp3]	<b>常</b> <br> とこ <br> ever, endless
+[sound:4c-k-常に.mp3]	<b>常に</b> <br> つねに <br> always, constantly
+[sound:4c-k-経常.mp3]	<b>経常</b> <br> けいじょう <br> ordinary
+[sound:4c-k-異常.mp3]	<b>異常</b> <br> いじょう <br> strangeness, abnormality, disorder
+[sound:4c-k-学校.mp3]	<b>学校</b> <br> がっこう <br> school
+[sound:4c-k-高校.mp3]	<b>高校</b> <br> こうこう <br> senior high school
+[sound:4c-k-同校.mp3]	<b>同校</b> <br> どうこう <br> same school
+[sound:4c-k-専門学校.mp3]	<b>専門学校</b> <br> せんもんがっこう, せんもんガッコウ, せんもんガッコ <br> vocational school, technical school
+[sound:4c-k-資料.mp3]	<b>資料</b> <br> しりょう <br> materials, data, document
+[sound:4c-k-無料.mp3]	<b>無料</b> <br> むりょう <br> free, no charge
+[sound:4c-k-給料.mp3]	<b>給料</b> <br> きゅうりょう <br> salary, wages
+[sound:4c-k-飲料.mp3]	<b>飲料</b> <br> いんりょう <br> (a) drink
+[sound:4c-k-沢.mp3]	<b>沢</b> <br> さわ <br> swamp, marsh; mountain stream, valley, dale
+[sound:4c-k-光沢.mp3]	<b>光沢</b> <br> こうたく <br> brilliance, polish, lustre, luster, glossy finish (of photographs)
+[sound:4c-k-沼沢.mp3]	<b>沼沢</b> <br> しょうたく <br> marsh, swamp
+[sound:4c-k-恩沢.mp3]	<b>恩沢</b> <br> おんたく, おんだく <br> favour, favor, benefit
+[sound:4c-k-裁判.mp3]	<b>裁判</b> <br> さいばん <br> trial, judgement, judgment
+[sound:4c-k-総裁.mp3]	<b>総裁</b> <br> そうさい <br> president
+[sound:4c-k-裁判官.mp3]	<b>裁判官</b> <br> さいばんかん <br> judge
+[sound:4c-k-裁量.mp3]	<b>裁量</b> <br> さいりょう <br> admeasure, discretion
+[sound:4c-k-状況.mp3]	<b>状況</b> <br> じょうきょう <br> state of affairs (around you), situation, circumstances
+[sound:4c-k-状態.mp3]	<b>状態</b> <br> じょうたい <br> current status, condition, situation, circumstances, state
+[sound:4c-k-形状.mp3]	<b>形状</b> <br> けいじょう <br> shape, form
+[sound:4c-k-窮状.mp3]	<b>窮状</b> <br> きゅうじょう <br> distress, wretched condition
+[sound:4c-k-工場.mp3]	<b>工場</b> <br> こうじょう, こうば <br> factory, plant, mill, workshop
+[sound:4c-k-工業.mp3]	<b>工業</b> <br> こうぎょう <br> (manufacturing) industry
+[sound:4c-k-商工.mp3]	<b>商工</b> <br> しょうこう <br> commerce and industry
+[sound:4c-k-大工.mp3]	<b>大工</b> <br> だいく <br> carpenter
+[sound:4c-k-建設.mp3]	<b>建設</b> <br> けんせつ <br> construction, establishment
+[sound:4c-k-建築.mp3]	<b>建築</b> <br> けんちく <br> construction, architecture
+[sound:4c-k-建造物.mp3]	<b>建造物</b> <br> けんぞうぶつ <br> structure
+[sound:4c-k-建つ.mp3]	<b>建つ</b> <br> たつ <br> to be erected, to be built
+[sound:4c-k-語らう.mp3]	<b>語らう</b> <br> かたらう <br> to talk, to tell, to recite, to pledge, to conspire with
+[sound:4c-k-語る.mp3]	<b>語る</b> <br> かたる <br> to talk, to tell, to recite
+[sound:4c-k-言語.mp3]	<b>言語</b> <br> げんご, ごんご <br> language
+[sound:4c-k-語り.mp3]	<b>語り</b> <br> かたり <br> talking
+[sound:4c-k-球場.mp3]	<b>球場</b> <br> きゅうじょう <br> baseball stadium
+[sound:4c-k-球団.mp3]	<b>球団</b> <br> きゅうだん <br> baseball team
+[sound:4c-k-四球.mp3]	<b>四球</b> <br> しきゅう <br> four balls, base on balls (baseball), a walk
+[sound:4c-k-投球.mp3]	<b>投球</b> <br> とうきゅう <br> pitching, throwing a ball, bowling (in cricket), pitched ball
+[sound:4c-k-経営者.mp3]	<b>経営者</b> <br> けいえいしゃ <br> manager, proprietor
+[sound:4c-k-国営.mp3]	<b>国営</b> <br> こくえい <br> state management
+[sound:4c-k-陣営.mp3]	<b>陣営</b> <br> じんえい <br> camp (group of same ideological beliefs)
+[sound:4c-k-民営.mp3]	<b>民営</b> <br> みんえい <br> private management
+[sound:4c-k-空気.mp3]	<b>空気</b> <br> くうき <br> air, atmosphere
+[sound:4c-k-航空機.mp3]	<b>航空機</b> <br> こうくうき <br> aircraft, aeroplane, airplane
+[sound:4c-k-空間.mp3]	<b>空間</b> <br> くうかん <br> space, room, airspace
+[sound:4c-k-空爆.mp3]	<b>空爆</b> <br> くうばく <br> aerial bombing
+[sound:4c-k-現職.mp3]	<b>現職</b> <br> げんしょく <br> present post, current office, (an) incumbent
+[sound:4c-k-就職.mp3]	<b>就職</b> <br> しゅうしょく <br> finding employment, inauguration
+[sound:4c-k-職業.mp3]	<b>職業</b> <br> しょくぎょう <br> occupation, business
+[sound:4c-k-職場.mp3]	<b>職場</b> <br> しょくば <br> one's post, place of work, workplace
+[sound:4c-k-保証.mp3]	<b>保証</b> <br> ほしょう <br> guarantee, security, assurance, pledge, warranty
+[sound:4c-k-証拠.mp3]	<b>証拠</b> <br> しょうこ <br> evidence, proof
+[sound:4c-k-証明.mp3]	<b>証明</b> <br> しょうめい <br> proof, verification
+[sound:4c-k-有価証券.mp3]	<b>有価証券</b> <br> ゆうかしょうけん <br> marketable securities, stocks and bonds
+[sound:4c-k-土曜.mp3]	<b>土曜</b> <br> どよう <br> Saturday
+[sound:4c-k-国土.mp3]	<b>国土</b> <br> こくど <br> country, territory, domain, realm
+[sound:4c-k-土俵.mp3]	<b>土俵</b> <br> どひょう <br> arena, esp. in sumo; forum (e.g. for discussion); sandbag, gabion
+[sound:4c-k-土木.mp3]	<b>土木</b> <br> どぼく <br> public works
+[sound:4c-k-給与.mp3]	<b>給与</b> <br> きゅうよ <br> pay, salary, wages, allowance, grant, supply
+[sound:4c-k-供与.mp3]	<b>供与</b> <br> きょうよ <br> giving, provision, furnishing
+[sound:4c-k-投与.mp3]	<b>投与</b> <br> とうよ <br> prescribing medicine, administering (medicine)
+[sound:4c-k-付与.mp3]	<b>付与</b> <br> ふよ <br> grant, allowance, endowment, bestowal, assignment, conferment
+[sound:4c-k-緊急.mp3]	<b>緊急</b> <br> きんきゅう <br> urgent, pressing, emergency
+[sound:4c-k-急速.mp3]	<b>急速</b> <br> きゅうそく <br> rapid (e.g. progress)
+[sound:4c-k-早急.mp3]	<b>早急</b> <br> さっきゅう, そうきゅう <br> urgent
+[sound:4c-k-急激.mp3]	<b>急激</b> <br> きゅうげき <br> sudden, precipitous, radical
+[sound:4c-k-中止.mp3]	<b>中止</b> <br> ちゅうし <br> suspension, stoppage, discontinuance, interruption
+[sound:4c-k-廃止.mp3]	<b>廃止</b> <br> はいし <br> abolition, repeal
+[sound:4c-k-歯止め.mp3]	<b>歯止め</b> <br> はどめ <br> brake, skid, pawl; restraint, curtailment, self-imposed limit, check
+[sound:4c-k-受け止める.mp3]	<b>受け止める</b> <br> うけとめる <br> to catch, to stop the blow, to react to, to take
+[sound:4c-k-送り.mp3]	<b>送り</b> <br> おくり <br> seeing off, sending off; funeral; escapement
+[sound:4c-k-先送り.mp3]	<b>先送り</b> <br> さきおくり <br> postpone
+[sound:4c-k-見送り.mp3]	<b>見送り</b> <br> みおくり <br> seeing one off, farewell, escort
+[sound:4c-k-見送る.mp3]	<b>見送る</b> <br> みおくる <br> to see off (e.g. to the station, an airport, etc.), to escort (e.g. home), to farewell; to see out, to send off; to let pass, to wait and see, to continue (e.g. in legal contexts); to let a pitch go by (baseball), to watch a batted ball go into the stands
+[sound:4c-k-救援.mp3]	<b>救援</b> <br> きゅうえん <br> relief, rescue, reinforcement
+[sound:4c-k-後援.mp3]	<b>後援</b> <br> こうえん <br> support, backing
+[sound:4c-k-援護.mp3]	<b>援護</b> <br> えんご <br> covering, protection, backing, relief
+[sound:4c-k-声援.mp3]	<b>声援</b> <br> せいえん <br> encouragement, cheering, support
+[sound:4c-k-供与.mp3]	<b>供与</b> <br> きょうよ <br> giving, provision, furnishing
+[sound:4c-k-供述.mp3]	<b>供述</b> <br> きょうじゅつ <br> affidavit, deposition, testimony
+[sound:4c-k-供.mp3]	<b>供</b> <br> とも <br> companion, follower, attendant, retinue
+[sound:4c-k-提供者.mp3]	<b>提供者</b> <br> ていきょうしゃ <br> donor, contributer, provider
+[sound:4c-k-許可.mp3]	<b>許可</b> <br> きょか <br> permission, approval, authorization
+[sound:4c-k-可笑しい.mp3]	<b>可笑しい</b> <br> おかしい <br> strange, funny, amusing, ridiculous
+[sound:4c-k-認可.mp3]	<b>認可</b> <br> にんか <br> approval, license, licence, permission
+[sound:4c-k-不可欠.mp3]	<b>不可欠</b> <br> ふかけつ <br> indispensable, essential
+[sound:4c-k-取締役.mp3]	<b>取締役</b> <br> とりしまりやく <br> company director, board member
+[sound:4c-k-懲役.mp3]	<b>懲役</b> <br> ちょうえき <br> penal servitude, imprisonment with hard labor (hard labour)
+[sound:4c-k-現役.mp3]	<b>現役</b> <br> げんえき <br> active duty, active service
+[sound:4c-k-三役.mp3]	<b>三役</b> <br> さんやく <br> three highest ranks (wrestling, unions, etc.)
+[sound:4c-k-構成.mp3]	<b>構成</b> <br> こうせい <br> organization, organisation, configuration, composition
+[sound:4c-k-構築.mp3]	<b>構築</b> <br> こうちく <br> construction
+[sound:4c-k-構図.mp3]	<b>構図</b> <br> こうず <br> composition
+[sound:4c-k-結構.mp3]	<b>結構</b> <br> けっこう <br> splendid, nice, wonderful, delicious, sweet; sufficient, fine (in the sense of "I'm fine"), (by implication) no thank you; well enough, OK, tolerable; reasonably, fairly, tolerably; construction, architecture
+[sound:4c-k-土木.mp3]	<b>土木</b> <br> どぼく <br> public works
+[sound:4c-k-木材.mp3]	<b>木材</b> <br> もくざい <br> lumber, timber, wood
+[sound:4c-k-荒木.mp3]	<b>荒木</b> <br> あらき <br> logs in bark, rough wood
+[sound:4c-k-樹木.mp3]	<b>樹木</b> <br> じゅもく <br> trees and shrubs, arbour, arbor
+[sound:4c-k-分割.mp3]	<b>分割</b> <br> ぶんかつ <br> partition, division, separation, segmenting, splitting
+[sound:4c-k-割引.mp3]	<b>割引</b> <br> わりびき <br> discount, reduction, rebate, tenths discounted
+[sound:4c-k-割高.mp3]	<b>割高</b> <br> わりだか <br> comparatively high, fairly expensive
+[sound:4c-k-割安.mp3]	<b>割安</b> <br> わりやす <br> economical, comparatively cheap
+[sound:4c-k-聞き手.mp3]	<b>聞き手</b> <br> ききて <br> hearer, listener, audience; interviewer, questioner
+[sound:4c-k-新聞紙.mp3]	<b>新聞紙</b> <br> しんぶんし <br> newsprint, newspaper
+[sound:4c-k-前代未聞.mp3]	<b>前代未聞</b> <br> ぜんだいみもん <br> unheard-of, unprecedented, unparalleled in history (unparallelled), record-breaking
+[sound:4c-k-新聞記事.mp3]	<b>新聞記事</b> <br> しんぶんきじ <br> newspaper story (article, account)
+[sound:4c-k-中身.mp3]	<b>中身</b> <br> なかみ <br> contents, interior, substance, filling, (sword) blade
+[sound:4c-k-身長.mp3]	<b>身長</b> <br> しんちょう <br> height (of body), stature
+[sound:4c-k-全身.mp3]	<b>全身</b> <br> ぜんしん <br> whole (body), full-length (e.g. portrait); systemic
+[sound:4c-k-出身者.mp3]	<b>出身者</b> <br> しゅっしんしゃ <br> alumnus (alumnae), graduate, old boy (girl); former member of an organization; former inhabitant (country, region, etc.)
+[sound:4c-k-費用.mp3]	<b>費用</b> <br> ひよう <br> cost, expense
+[sound:4c-k-経費.mp3]	<b>経費</b> <br> けいひ <br> expenses, cost, outlay
+[sound:4c-k-人件費.mp3]	<b>人件費</b> <br> じんけんひ <br> personnel expenses, labor cost, labour cost; indirect labour costs, indirect labor costs
+[sound:4c-k-会費.mp3]	<b>会費</b> <br> かいひ <br> membership fee
+[sound:4c-k-交付.mp3]	<b>交付</b> <br> こうふ <br> delivering, handing over, furnishing (e.g. with copies), issuance, issuing
+[sound:4c-k-付き合い.mp3]	<b>付き合い</b> <br> つきあい <br> association, socializing, socialising, fellowship
+[sound:4c-k-貸付.mp3]	<b>貸付</b> <br> かしつけ <br> loan
+[sound:4c-k-日付.mp3]	<b>日付</b> <br> ひづけ <br> date, dating
+[sound:4c-k-施策.mp3]	<b>施策</b> <br> しさく <br> policy, measure
+[sound:4c-k-施行.mp3]	<b>施行</b> <br> しこう, せぎょう, せこう, しぎょう <br> execution, enforcing, carrying out; giving alms, giving food to the poor or monks
+[sound:4c-k-施政.mp3]	<b>施政</b> <br> しせい <br> government, administration, statesmanship
+[sound:4c-k-施工.mp3]	<b>施工</b> <br> せこう, しこう <br> execution (building contract), carrying out
+[sound:4c-k-適切.mp3]	<b>適切</b> <br> てきせつ <br> pertinent, appropriate, adequate, relevance
+[sound:4c-k-切り.mp3]	<b>切り</b> <br> きり <br> limits, end, bounds, period, place to leave off, closing sentence, all there is, only, since
+[sound:4c-k-思い切って.mp3]	<b>思い切って</b> <br> おもいきって <br> resolutely, boldly, daringly
+[sound:4c-k-切らす.mp3]	<b>切らす</b> <br> きらす <br> to be out of, to run out of, to be short of, to be out of stock
+[sound:4c-k-経由.mp3]	<b>経由</b> <br> けいゆ <br> go by the way, via
+[sound:4c-k-不自由.mp3]	<b>不自由</b> <br> ふじゆう <br> discomfort, inconvenience; poverty, want, destitution; disability, impairment (physical, mental, etc.)
+[sound:4c-k-自由化.mp3]	<b>自由化</b> <br> じゆうか <br> liberalization, liberalisation, freeing
+[sound:4c-k-自由形.mp3]	<b>自由形</b> <br> じゆうがた <br> freestyle (e.g. swimming event)
+[sound:4c-k-解説.mp3]	<b>解説</b> <br> かいせつ <br> explanation, commentary, exposition, elucidation
+[sound:4c-k-説得.mp3]	<b>説得</b> <br> せっとく <br> persuasion
+[sound:4c-k-伝説.mp3]	<b>伝説</b> <br> でんせつ <br> tradition, legend, folklore
+[sound:4c-k-遊説.mp3]	<b>遊説</b> <br> ゆうぜい <br> election tour, election campaign, stumping
+[sound:4c-k-移転.mp3]	<b>移転</b> <br> いてん <br> moving, transfer, demise
+[sound:4c-k-運転手.mp3]	<b>運転手</b> <br> うんてんしゅ <br> driver, chauffeur
+[sound:4c-k-自転車.mp3]	<b>自転車</b> <br> じてんしゃ, じでんしゃ <br> bicycle
+[sound:4c-k-回転.mp3]	<b>回転</b> <br> かいてん <br> rotation (usu. around something), revolution, turning
+[sound:4c-k-食料.mp3]	<b>食料</b> <br> しょくりょう <br> food
+[sound:4c-k-食糧.mp3]	<b>食糧</b> <br> しょくりょう <br> provisions, rations, food supply
+[sound:4c-k-昼食.mp3]	<b>昼食</b> <br> ちゅうしょく, ちゅうじき, ひるげ <br> lunch, midday meal; food served at a tea party (tea ceremony)
+[sound:4c-k-飲食.mp3]	<b>飲食</b> <br> いんしょく <br> food and drink, eating and drinking
+[sound:4c-k-比較.mp3]	<b>比較</b> <br> ひかく <br> comparison
+[sound:4c-k-比べ.mp3]	<b>比べ</b> <br> くらべ <br> contest, comparison, competition
+[sound:4c-k-比.mp3]	<b>比</b> <br> ひ <br> ratio, proportion; match, equal; explicit comparison (style of the Shi Jing); Philippines
+[sound:4c-k-比重.mp3]	<b>比重</b> <br> ひじゅう <br> specific gravity, weight, part; relative weight, relative importance
+[sound:4c-k-困難.mp3]	<b>困難</b> <br> こんなん <br> difficulty, distress
+[sound:4c-k-避難.mp3]	<b>避難</b> <br> ひなん <br> taking refuge, finding shelter, evacuation, escape
+[sound:4c-k-非難.mp3]	<b>非難</b> <br> ひなん <br> blame, attack, criticism
+[sound:4c-k-難色.mp3]	<b>難色</b> <br> なんしょく <br> disapproval
+[sound:4c-k-防衛庁.mp3]	<b>防衛庁</b> <br> ぼうえいちょう <br> Japan Defense Agency (Defence) (became Japanese Ministry of Defense in Jan. 2007)
+[sound:4c-k-予防.mp3]	<b>予防</b> <br> よぼう <br> prevention, precaution, protection against
+[sound:4c-k-攻防.mp3]	<b>攻防</b> <br> こうぼう <br> offense and defense, offence and defence
+[sound:4c-k-消防.mp3]	<b>消防</b> <br> しょうぼう <br> fire fighting, fire department
+[sound:4c-k-立候補.mp3]	<b>立候補</b> <br> りっこうほ <br> announcing candidacy
+[sound:4c-k-補正予算.mp3]	<b>補正予算</b> <br> ほせいよさん <br> revised or supplementary budget
+[sound:4c-k-補佐.mp3]	<b>補佐</b> <br> ほさ <br> aid, help, assistance, assistant, counselor, counsellor, adviser, advisor
+[sound:4c-k-補給.mp3]	<b>補給</b> <br> ほきゅう <br> supply, supplying, replenishment
+[sound:4c-k-乗用車.mp3]	<b>乗用車</b> <br> じょうようしゃ <br> passenger vehicle, automobile
+[sound:4c-k-自転車.mp3]	<b>自転車</b> <br> じてんしゃ, じでんしゃ <br> bicycle
+[sound:4c-k-車両.mp3]	<b>車両</b> <br> しゃりょう <br> rolling stock, railroad cars, vehicles
+[sound:4c-k-電車.mp3]	<b>電車</b> <br> でんしゃ <br> (electric) train
+[sound:4c-k-女優.mp3]	<b>女優</b> <br> じょゆう <br> actress
+[sound:4c-k-優秀.mp3]	<b>優秀</b> <br> ゆうしゅう <br> superiority, excellence
+[sound:4c-k-優遇.mp3]	<b>優遇</b> <br> ゆうぐう <br> favorable treatment, favourable treatment, hospitality, warm reception, good treatment, hearty welcome
+[sound:4c-k-優しい.mp3]	<b>優しい</b> <br> やさしい <br> tender, kind, gentle, graceful, affectionate, amiable, suave
+[sound:4c-k-夫妻.mp3]	<b>夫妻</b> <br> ふさい <br> man and wife, married couple
+[sound:4c-k-工夫.mp3]	<b>工夫</b> <br> くふう <br> scheme, device, scheming, devising, figuring out, coming up with, solving ingeniously; dedication to spiritual improvement (esp. through Zen meditation)
+[sound:4c-k-大丈夫.mp3]	<b>大丈夫</b> <br> だいじょうぶ <br> safe, all right, OK, okay
+[sound:4c-k-丈夫.mp3]	<b>丈夫</b> <br> じょうぶ <br> healthy, robust, strong, solid, durable
+[sound:4c-k-研究者.mp3]	<b>研究者</b> <br> けんきゅうしゃ <br> researcher
+[sound:4c-k-研究員.mp3]	<b>研究員</b> <br> けんきゅういん <br> researcher
+[sound:4c-k-研究室.mp3]	<b>研究室</b> <br> けんきゅうしつ <br> laboratory; seminar room; professor's office
+[sound:4c-k-研究家.mp3]	<b>研究家</b> <br> けんきゅうか <br> researcher, student (of)
+[sound:4c-k-収益.mp3]	<b>収益</b> <br> しゅうえき <br> earnings, proceeds, returns
+[sound:4c-k-収賄.mp3]	<b>収賄</b> <br> しゅうわい <br> accepting bribes, corruption, graft
+[sound:4c-k-税収.mp3]	<b>税収</b> <br> ぜいしゅう <br> tax yields, revenue
+[sound:4c-k-買収.mp3]	<b>買収</b> <br> ばいしゅう <br> buying, purchase; corruption, bribery
+[sound:4c-k-診断.mp3]	<b>診断</b> <br> しんだん <br> diagnosis
+[sound:4c-k-断る.mp3]	<b>断る</b> <br> ことわる <br> to refuse, to reject, to dismiss, to turn down, to decline; to inform, to give notice; to ask leave, to excuse oneself (from)
+[sound:4c-k-断らず.mp3]	<b>断らず</b> <br> ことわらず <br> without permission
+[sound:4c-k-断念.mp3]	<b>断念</b> <br> だんねん <br> abandoning (hope, plans), giving up
+[sound:4c-k-油井.mp3]	<b>油井</b> <br> ゆせい <br> oil well
+[sound:4c-k-筒井.mp3]	<b>筒井</b> <br> つつい <br> round well
+[sound:4c-k-井戸掘り.mp3]	<b>井戸掘り</b> <br> いどほり <br> well digging, well digger
+[sound:4c-k-井筒.mp3]	<b>井筒</b> <br> いづつ <br> well crib
+[sound:4c-k-何とか.mp3]	<b>何とか</b> <br> なんとか <br> something, something or other, so-and-so; somehow, anyhow, one way or another
+[sound:4c-k-何の.mp3]	<b>何の</b> <br> どの <br> which, what (way)
+[sound:4c-k-何より.mp3]	<b>何より</b> <br> なにより <br> most, best, above all
+[sound:4c-k-何でも.mp3]	<b>何でも</b> <br> なんでも <br> any, whatever one likes, by all means, anything, everything
+[sound:4c-k-東南.mp3]	<b>東南</b> <br> とうなん, ひがしみなみ <br> south-east
+[sound:4c-k-南部.mp3]	<b>南部</b> <br> なんぶ <br> southern part
+[sound:4c-k-南西.mp3]	<b>南西</b> <br> なんせい, みなみにし <br> southwest
+[sound:4c-k-中南米.mp3]	<b>中南米</b> <br> ちゅうなんべい <br> Central and South America
+[sound:4c-k-石炭.mp3]	<b>石炭</b> <br> せきたん <br> coal
+[sound:4c-k-石橋.mp3]	<b>石橋</b> <br> いしばし, せっきょう <br> stone bridge
+[sound:4c-k-宝石.mp3]	<b>宝石</b> <br> ほうせき <br> gem, jewel
+[sound:4c-k-石垣.mp3]	<b>石垣</b> <br> いしがき <br> stone wall
+[sound:4c-k-満足.mp3]	<b>満足</b> <br> まんぞく <br> satisfaction; sufficiency
+[sound:4c-k-足並み.mp3]	<b>足並み</b> <br> あしなみ <br> pace, step
+[sound:4c-k-足元.mp3]	<b>足元</b> <br> あしもと, そっか <br> at one's feet, underfoot; gait, pace, step; you, thou
+[sound:4c-k-手足.mp3]	<b>手足</b> <br> てあし <br> one's hands and feet, limbs
+[sound:4c-k-違法.mp3]	<b>違法</b> <br> いほう <br> illegal, illegality, invalid, unlawfulness
+[sound:4c-k-間違い.mp3]	<b>間違い</b> <br> まちがい <br> mistake
+[sound:4c-k-相違.mp3]	<b>相違</b> <br> そうい <br> difference, discrepancy, variation
+[sound:4c-k-違和感.mp3]	<b>違和感</b> <br> いわかん <br> uncomfortable feeling, feeling out of place, sense of discomfort; malaise, physical unease
+[sound:4c-k-解消.mp3]	<b>解消</b> <br> かいしょう <br> cancellation, liquidation, resolution, reduction (e.g. of stress)
+[sound:4c-k-消極的.mp3]	<b>消極的</b> <br> しょうきょくてき <br> negative, half-hearted, passive, unmotivated
+[sound:4c-k-消防.mp3]	<b>消防</b> <br> しょうぼう <br> fire fighting, fire department
+[sound:4c-k-消しゴム.mp3]	<b>消しゴム</b> <br> けしゴム <br> eraser, India rubber
+[sound:4c-k-環境庁.mp3]	<b>環境庁</b> <br> かんきょうちょう <br> Environment Agency
+[sound:4c-k-心境.mp3]	<b>心境</b> <br> しんきょう <br> mental state
+[sound:4c-k-境界.mp3]	<b>境界</b> <br> きょうかい <br> boundary
+[sound:4c-k-苦境.mp3]	<b>苦境</b> <br> くきょう <br> trouble, crisis, predicament, squeeze, pinch
+[sound:4c-k-神経.mp3]	<b>神経</b> <br> しんけい <br> nerve, sensitivity
+[sound:4c-k-神社.mp3]	<b>神社</b> <br> じんじゃ <br> Shinto shrine
+[sound:4c-k-精神的.mp3]	<b>精神的</b> <br> せいしんてき <br> mental, emotional
+[sound:4c-k-神宮.mp3]	<b>神宮</b> <br> じんぐう <br> Shinto shrine
+[sound:4c-k-本番.mp3]	<b>本番</b> <br> ほんばん <br> performance, take, going before an audience or on-air; game, season, crucial moment; actual sexual intercourse (i.e. not simulated)
+[sound:4c-k-番手.mp3]	<b>番手</b> <br> ばんて <br> (yarn) count; n-th place (e.g. in a race), n-th in position (e.g. a starting lineup)
+[sound:4c-k-出番.mp3]	<b>出番</b> <br> でばん <br> one's turn
+[sound:4c-k-二番.mp3]	<b>二番</b> <br> にばん <br> second, number two, runner-up
+[sound:4c-k-大規模.mp3]	<b>大規模</b> <br> だいきぼ <br> large-scale
+[sound:4c-k-新規.mp3]	<b>新規</b> <br> しんき <br> new, fresh; new customer; new rules or regulations
+[sound:4c-k-規則.mp3]	<b>規則</b> <br> きそく <br> rules, regulations, conventions
+[sound:4c-k-規格.mp3]	<b>規格</b> <br> きかく <br> standard, norm
+[sound:4c-k-手術.mp3]	<b>手術</b> <br> しゅじゅつ <br> surgical operation
+[sound:4c-k-美術館.mp3]	<b>美術館</b> <br> びじゅつかん <br> art gallery, art museum
+[sound:4c-k-戦術.mp3]	<b>戦術</b> <br> せんじゅつ <br> tactics
+[sound:4c-k-技術者.mp3]	<b>技術者</b> <br> ぎじゅつしゃ <br> engineer, technical expert, technician, crafts-person
+[sound:4c-k-介護.mp3]	<b>介護</b> <br> かいご <br> nursing
+[sound:4c-k-看護.mp3]	<b>看護</b> <br> かんご <br> nursing, (army) nurse
+[sound:4c-k-弁護.mp3]	<b>弁護</b> <br> べんご <br> defense, defence, pleading, advocacy
+[sound:4c-k-護憲.mp3]	<b>護憲</b> <br> ごけん <br> protecting the constitution
+[sound:4c-k-展示.mp3]	<b>展示</b> <br> てんじ <br> exhibition, display
+[sound:4c-k-展望.mp3]	<b>展望</b> <br> てんぼう <br> view, outlook, prospect
+[sound:4c-k-展覧会.mp3]	<b>展覧会</b> <br> てんらんかい <br> exhibition
+[sound:4c-k-個展.mp3]	<b>個展</b> <br> こてん <br> one-man exhibition, one-woman exhibition
+[sound:4c-k-態度.mp3]	<b>態度</b> <br> たいど <br> attitude, manner, behaviour
+[sound:4c-k-態.mp3]	<b>態</b> <br> ざま <br> mess, sorry state, plight, sad sight; way, manner
+[sound:4c-k-態勢.mp3]	<b>態勢</b> <br> たいせい <br> attitude, conditions, preparations
+[sound:4c-k-形態.mp3]	<b>形態</b> <br> けいたい <br> form, shape, figure
+[sound:4c-k-半導体.mp3]	<b>半導体</b> <br> はんどうたい <br> semiconductor, solid-state
+[sound:4c-k-主導権.mp3]	<b>主導権</b> <br> しゅどうけん <br> hegemony, leadership, initiative
+[sound:4c-k-誘導.mp3]	<b>誘導</b> <br> ゆうどう <br> guidance, leading, induction, introduction, incitement, inducement
+[sound:4c-k-超電導.mp3]	<b>超電導</b> <br> ちょうでんどう <br> superconductivity
+[sound:4c-k-朝鮮民主主義人民共和国.mp3]	<b>朝鮮民主主義人民共和国</b> <br> ちょうせんみんしゅしゅぎじんみんきょうわこく <br> Democratic People's Republic of Korea (North Korea), DPRK
+[sound:4c-k-朝鮮半島.mp3]	<b>朝鮮半島</b> <br> ちょうせんはんとう <br> Korean peninsula
+[sound:4c-k-鮮明.mp3]	<b>鮮明</b> <br> せんめい <br> vivid, clear, distinct
+[sound:4c-k-新鮮.mp3]	<b>新鮮</b> <br> しんせん <br> fresh
+[sound:4c-k-備える.mp3]	<b>備える</b> <br> そなえる <br> to furnish, to provide for, to equip, to install; to have ready, to prepare for; to possess, to have, to be endowed with, to be armed with
+[sound:4c-k-警備.mp3]	<b>警備</b> <br> けいび <br> defense, defence, guard, policing, security
+[sound:4c-k-守備.mp3]	<b>守備</b> <br> しゅび <br> defense, defence
+[sound:4c-k-予備.mp3]	<b>予備</b> <br> よび <br> preparation, preliminaries, reserve, spare
+[sound:4c-k-在宅.mp3]	<b>在宅</b> <br> ざいたく <br> being in, being at home
+[sound:4c-k-家宅.mp3]	<b>家宅</b> <br> かたく <br> domicile, premises
+[sound:4c-k-住宅地.mp3]	<b>住宅地</b> <br> じゅうたくち <br> housing district, residential district
+[sound:4c-k-宅地.mp3]	<b>宅地</b> <br> たくち <br> building lot, residential land
+[sound:4c-k-損害.mp3]	<b>損害</b> <br> そんがい <br> damage, injury, loss
+[sound:4c-k-障害者.mp3]	<b>障害者</b> <br> しょうがいしゃ <br> (physically) handicapped person, disabled person
+[sound:4c-k-公害.mp3]	<b>公害</b> <br> こうがい <br> pollution, public nuisance, contamination
+[sound:4c-k-被害者.mp3]	<b>被害者</b> <br> ひがいしゃ <br> victim, injured party, sufferer
+[sound:4c-k-配慮.mp3]	<b>配慮</b> <br> はいりょ <br> consideration, concern, forethought
+[sound:4c-k-配当.mp3]	<b>配当</b> <br> はいとう <br> dividend, share
+[sound:4c-k-気配.mp3]	<b>気配</b> <br> けはい, きはい <br> indication, sign, hint, presence, trend; quotation (esp. stock market)
+[sound:4c-k-配置.mp3]	<b>配置</b> <br> はいち <br> arrangement (of resources), deployment, stationing, posting, disposition
+[sound:4c-k-副賞.mp3]	<b>副賞</b> <br> ふくしょう <br> extra prize
+[sound:4c-k-副題.mp3]	<b>副題</b> <br> ふくだい <br> subtitle, subheading
+[sound:4c-k-副産物.mp3]	<b>副産物</b> <br> ふくさんぶつ <br> byproduct, side line
+[sound:4c-k-副葬品.mp3]	<b>副葬品</b> <br> ふくそうひん <br> burial accessories
+[sound:4c-k-計算.mp3]	<b>計算</b> <br> けいさん <br> calculation, reckoning, count; forecast
+[sound:4c-k-補正予算.mp3]	<b>補正予算</b> <br> ほせいよさん <br> revised or supplementary budget
+[sound:4c-k-公算.mp3]	<b>公算</b> <br> こうさん <br> probability, likelihood
+[sound:4c-k-概算.mp3]	<b>概算</b> <br> がいさん <br> approximation, rough estimate
+[sound:4c-k-重視.mp3]	<b>重視</b> <br> じゅうし <br> importance, stress, serious consideration
+[sound:4c-k-視聴率.mp3]	<b>視聴率</b> <br> しちょうりつ <br> ratings (of a television program) (programme)
+[sound:4c-k-視野.mp3]	<b>視野</b> <br> しや <br> field of vision, outlook
+[sound:4c-k-視察.mp3]	<b>視察</b> <br> しさつ <br> inspection, observation
+[sound:4c-k-条例.mp3]	<b>条例</b> <br> じょうれい <br> regulations, rules, laws, acts, ordinance
+[sound:4c-k-条件付き.mp3]	<b>条件付き</b> <br> じょうけんつき <br> conditionally, with conditions attached
+[sound:4c-k-無条件.mp3]	<b>無条件</b> <br> むじょうけん <br> unconditional
+[sound:4c-k-労働条件.mp3]	<b>労働条件</b> <br> ろうどうじょうけん <br> working conditions
+[sound:4c-k-新幹線.mp3]	<b>新幹線</b> <br> しんかんせん <br> bullet train (very high speed), Shinkansen
+[sound:4c-k-根幹.mp3]	<b>根幹</b> <br> こんかん <br> basis, nucleus, root and branch
+[sound:4c-k-幹線.mp3]	<b>幹線</b> <br> かんせん <br> main line, trunk line
+[sound:4c-k-主幹.mp3]	<b>主幹</b> <br> しゅかん <br> chief editor, managing editor; manager, person in charge
+[sound:4c-k-独特.mp3]	<b>独特</b> <br> どくとく <br> peculiarity, uniqueness, characteristic
+[sound:4c-k-独立国.mp3]	<b>独立国</b> <br> どくりつこく <br> independent state or nation
+[sound:4c-k-東独.mp3]	<b>東独</b> <br> とうどく <br> East Germany
+[sound:4c-k-独裁.mp3]	<b>独裁</b> <br> どくさい <br> dictatorship, despotism
+[sound:4c-k-警戒.mp3]	<b>警戒</b> <br> けいかい <br> vigilance, precaution, watch, lookout, altertness; to be vigilant, to be cautious, to guard (against)
+[sound:4c-k-警察庁.mp3]	<b>警察庁</b> <br> けいさつちょう <br> National Police Agency
+[sound:4c-k-警備.mp3]	<b>警備</b> <br> けいび <br> defense, defence, guard, policing, security
+[sound:4c-k-警官.mp3]	<b>警官</b> <br> けいかん <br> policeman
+[sound:4c-k-宮殿.mp3]	<b>宮殿</b> <br> きゅうでん <br> palace
+[sound:4c-k-子宮.mp3]	<b>子宮</b> <br> しきゅう <br> womb, uterus
+[sound:4c-k-宮中.mp3]	<b>宮中</b> <br> きゅうちゅう <br> imperial court
+[sound:4c-k-東宮.mp3]	<b>東宮</b> <br> とうぐう <br> crown prince
+[sound:4c-k-究明.mp3]	<b>究明</b> <br> きゅうめい <br> investigation (esp. in academic and scientific contexts)
+[sound:4c-k-研究員.mp3]	<b>研究員</b> <br> けんきゅういん <br> researcher
+[sound:4c-k-研究室.mp3]	<b>研究室</b> <br> けんきゅうしつ <br> laboratory; seminar room; professor's office
+[sound:4c-k-研究家.mp3]	<b>研究家</b> <br> けんきゅうか <br> researcher, student (of)
+[sound:4c-k-保育.mp3]	<b>保育</b> <br> ほいく <br> nursing, nurturing, rearing, lactation, suckling
+[sound:4c-k-育成.mp3]	<b>育成</b> <br> いくせい <br> rearing, training, nurture, cultivation, promotion
+[sound:4c-k-育ち.mp3]	<b>育ち</b> <br> そだち <br> breeding, growth
+[sound:4c-k-飼育.mp3]	<b>飼育</b> <br> しいく <br> breeding, raising, rearing
+[sound:4c-k-出席.mp3]	<b>出席</b> <br> しゅっせき <br> attendance, presence, appearance; to attend, to be present, to appear
+[sound:4c-k-打席.mp3]	<b>打席</b> <br> だせき <br> batter's box (baseball), one's turn at bat
+[sound:4c-k-席上.mp3]	<b>席上</b> <br> せきじょう <br> at the meeting
+[sound:4c-k-同席.mp3]	<b>同席</b> <br> どうせき <br> presence, sitting with, being with
+[sound:4c-k-運輸.mp3]	<b>運輸</b> <br> うんゆ <br> transportation
+[sound:4c-k-運輸省.mp3]	<b>運輸省</b> <br> うんゆしょう <br> Ministry of Transport
+[sound:4c-k-禁輸.mp3]	<b>禁輸</b> <br> きんゆ <br> embargo
+[sound:4c-k-密輸.mp3]	<b>密輸</b> <br> みつゆ <br> smuggling, contraband trade
+[sound:4c-k-訪中.mp3]	<b>訪中</b> <br> ほうちゅう <br> visit to China
+[sound:4c-k-訪米.mp3]	<b>訪米</b> <br> ほうべい <br> visit to America
+[sound:4c-k-歴訪.mp3]	<b>歴訪</b> <br> れきほう <br> round of calls, tour of visitation
+[sound:4c-k-訪れ.mp3]	<b>訪れ</b> <br> おとずれ <br> visit, call, advent, arrival
+[sound:4c-k-楽器.mp3]	<b>楽器</b> <br> がっき <br> musical instrument
+[sound:4c-k-倶楽部.mp3]	<b>倶楽部</b> <br> くらぶ, クラブ <br> club, fraternity, sorority, clubhouse
+[sound:4c-k-娯楽.mp3]	<b>娯楽</b> <br> ごらく <br> pleasure, amusement
+[sound:4c-k-能楽.mp3]	<b>能楽</b> <br> のうがく <br> Noh play
+[sound:4c-k-起こる.mp3]	<b>起こる</b> <br> おこる <br> to occur, to happen
+[sound:4c-k-提起.mp3]	<b>提起</b> <br> ていき <br> bring suit, file a claim, raise a question
+[sound:4c-k-躍起.mp3]	<b>躍起</b> <br> やっき <br> desperation, eagerness
+[sound:4c-k-決起.mp3]	<b>決起</b> <br> けっき <br> jump to one's feet, stand up against, rising to action
+[sound:4c-k-数万.mp3]	<b>数万</b> <br> すうまん <br> tens of thousands
+[sound:4c-k-万里.mp3]	<b>万里</b> <br> ばんり <br> thousands of miles
+[sound:4c-k-万能.mp3]	<b>万能</b> <br> ばんのう, まんのう <br> all-purpose, utility; almighty, omnipotent
+[sound:4c-k-万一.mp3]	<b>万一</b> <br> まんいち, まんいつ <br> by some chance, by some possibility, if by any chance, 10,000 to 1 odds
+[sound:4c-k-癒着.mp3]	<b>癒着</b> <br> ゆちゃく <br> adhesion
+[sound:4c-k-着る.mp3]	<b>着る</b> <br> きる <br> to wear (in modern Japanese, from the shoulders down), to put on; to bear (guilt, etc.)
+[sound:4c-k-着工.mp3]	<b>着工</b> <br> ちゃっこう <br> start of (construction) work
+[sound:4c-k-着陸.mp3]	<b>着陸</b> <br> ちゃくりく <br> landing, alighting, touch down
+[sound:4c-k-乗せる.mp3]	<b>乗せる</b> <br> のせる <br> to place on (something), to take on board, to give a ride, to let (one) take part, to impose on, to record, to mention, to load (luggage), to publish, to run (an ad)
+[sound:4c-k-乗員.mp3]	<b>乗員</b> <br> じょういん <br> crew
+[sound:4c-k-乗組員.mp3]	<b>乗組員</b> <br> のりくみいん <br> crew
+[sound:4c-k-相乗り.mp3]	<b>相乗り</b> <br> あいのり <br> riding together
+[sound:4c-k-店舗.mp3]	<b>店舗</b> <br> てんぽ <br> shop, store
+[sound:4c-k-商店.mp3]	<b>商店</b> <br> しょうてん <br> shop, small store, business, firm
+[sound:4c-k-店頭.mp3]	<b>店頭</b> <br> てんとう <br> shop front, counter, shop, over-the-counter (financial)
+[sound:4c-k-本店.mp3]	<b>本店</b> <br> ほんてん <br> head office
+[sound:4c-k-公述.mp3]	<b>公述</b> <br> こうじゅつ <br> speaking at a public hearing
+[sound:4c-k-著述.mp3]	<b>著述</b> <br> ちょじゅつ <br> writing, literary work
+[sound:4c-k-前述.mp3]	<b>前述</b> <br> ぜんじゅつ <br> aforementioned, above-mentioned
+[sound:4c-k-詳述.mp3]	<b>詳述</b> <br> しょうじゅつ <br> detailed explanation
+[sound:4c-k-残念.mp3]	<b>残念</b> <br> ざんねん <br> deplorable, bad luck, regret, disappointment
+[sound:4c-k-残留.mp3]	<b>残留</b> <br> ざんりゅう <br> residual, residue; stay behind, stay back
+[sound:4c-k-残高.mp3]	<b>残高</b> <br> ざんだか <br> (bank) balance, remainder
+[sound:4c-k-残業.mp3]	<b>残業</b> <br> ざんぎょう <br> overtime (work)
+[sound:4c-k-感想.mp3]	<b>感想</b> <br> かんそう <br> impressions, thoughts
+[sound:4c-k-発想.mp3]	<b>発想</b> <br> はっそう <br> expression (e.g. in music), idea, conception
+[sound:4c-k-理想.mp3]	<b>理想</b> <br> りそう <br> ideal, dream
+[sound:4c-k-想像.mp3]	<b>想像</b> <br> そうぞう <br> imagination, guess
+[sound:4c-k-打線.mp3]	<b>打線</b> <br> だせん <br> baseball lineup
+[sound:4c-k-戦線.mp3]	<b>戦線</b> <br> せんせん <br> (war) front
+[sound:4c-k-三十八度線.mp3]	<b>三十八度線</b> <br> さんじゅうはちどせん <br> the Thirty-eighth Parallel
+[sound:4c-k-無線.mp3]	<b>無線</b> <br> むせん <br> wireless, radio
+[sound:4c-k-視聴率.mp3]	<b>視聴率</b> <br> しちょうりつ <br> ratings (of a television program) (programme)
+[sound:4c-k-伸び率.mp3]	<b>伸び率</b> <br> のびりつ <br> growth rate, coefficient of extension
+[sound:4c-k-率直.mp3]	<b>率直</b> <br> そっちょく <br> frankness, candour, candor, openheartedness
+[sound:4c-k-打率.mp3]	<b>打率</b> <br> だりつ <br> batting average
+[sound:4c-k-糖尿病.mp3]	<b>糖尿病</b> <br> とうにょうびょう <br> diabetes mellitus, sugar diabetes
+[sound:4c-k-白血病.mp3]	<b>白血病</b> <br> はっけつびょう <br> leukemia
+[sound:4c-k-病状.mp3]	<b>病状</b> <br> びょうじょう <br> condition of a disease (patient)
+[sound:4c-k-病棟.mp3]	<b>病棟</b> <br> びょうとう <br> (hospital) ward
+[sound:4c-k-農協.mp3]	<b>農協</b> <br> のうきょう <br> agricultural cooperative
+[sound:4c-k-農村.mp3]	<b>農村</b> <br> のうそん <br> agricultural community, farm village, rural
+[sound:4c-k-農民.mp3]	<b>農民</b> <br> のうみん <br> farmers, peasants
+[sound:4c-k-農薬.mp3]	<b>農薬</b> <br> のうやく <br> agricultural chemical (i.e. pesticide, herbicide, fungicide, etc.), agrochemical, agrichemical
+[sound:4c-k-州都.mp3]	<b>州都</b> <br> しゅうと <br> capital (city) of a state
+[sound:4c-k-州政府.mp3]	<b>州政府</b> <br> しゅうせいふ <br> state government
+[sound:4c-k-広州.mp3]	<b>広州</b> <br> こうしゅう <br> Guangzhou (China), Canton
+[sound:4c-k-沿海州.mp3]	<b>沿海州</b> <br> えんかいしゅう <br> (Russian) maritime provinces
+[sound:4c-k-武道.mp3]	<b>武道</b> <br> ぶどう <br> martial arts, military arts, Bushido
+[sound:4c-k-武士.mp3]	<b>武士</b> <br> ぶし, ぶふ, もののふ <br> warrior, samurai
+[sound:4c-k-核武装.mp3]	<b>核武装</b> <br> かくぶそう <br> nuclear arms
+[sound:4c-k-武者.mp3]	<b>武者</b> <br> むしゃ <br> warrior
+[sound:4c-k-歓声.mp3]	<b>歓声</b> <br> かんせい <br> cheer, shout of joy
+[sound:4c-k-声援.mp3]	<b>声援</b> <br> せいえん <br> encouragement, cheering, support
+[sound:4c-k-声楽.mp3]	<b>声楽</b> <br> せいがく <br> vocal music
+[sound:4c-k-第一声.mp3]	<b>第一声</b> <br> だいいっせい <br> first tone, first speech
+[sound:4c-k-物質.mp3]	<b>物質</b> <br> ぶっしつ <br> material, substance
+[sound:4c-k-実質的.mp3]	<b>実質的</b> <br> じっしつてき <br> substantial
+[sound:4c-k-体質.mp3]	<b>体質</b> <br> たいしつ <br> constitution (physical), genetic make-up, predisposition (to disease)
+[sound:4c-k-質疑.mp3]	<b>質疑</b> <br> しつぎ <br> question; interpellation
+[sound:4c-k-残念.mp3]	<b>残念</b> <br> ざんねん <br> deplorable, bad luck, regret, disappointment
+[sound:4c-k-理念.mp3]	<b>理念</b> <br> りねん <br> idea
+[sound:4c-k-念頭.mp3]	<b>念頭</b> <br> ねんとう <br> mind
+[sound:4c-k-概念.mp3]	<b>概念</b> <br> がいねん <br> general idea, concept, notion
+[sound:4c-k-待ち.mp3]	<b>待ち</b> <br> まち <br> waiting, waiting time
+[sound:4c-k-接待.mp3]	<b>接待</b> <br> せったい <br> reception, welcome, serving (food); business entertainment
+[sound:4c-k-期待感.mp3]	<b>期待感</b> <br> きたいかん <br> feeling of expectation
+[sound:4c-k-虐待.mp3]	<b>虐待</b> <br> ぎゃくたい <br> ill-treatment, oppression
+[sound:4c-k-入試.mp3]	<b>入試</b> <br> にゅうし <br> entrance examination
+[sound:4c-k-試算.mp3]	<b>試算</b> <br> しさん <br> trial calculation, preliminary calculation
+[sound:4c-k-試案.mp3]	<b>試案</b> <br> しあん <br> tentative
+[sound:4c-k-試練.mp3]	<b>試練</b> <br> しれん <br> test, trial, probation, ordeal, tribulation
+[sound:4c-k-遺族.mp3]	<b>遺族</b> <br> いぞく <br> bereaved family
+[sound:4c-k-民族主義.mp3]	<b>民族主義</b> <br> みんぞくしゅぎ <br> nationalism
+[sound:4c-k-親族.mp3]	<b>親族</b> <br> しんぞく <br> relatives
+[sound:4c-k-一族.mp3]	<b>一族</b> <br> いちぞく <br> family, relatives, dependents; household
+[sound:4c-k-象.mp3]	<b>象</b> <br> しょう <br> phenomenon
+[sound:4c-k-気象庁.mp3]	<b>気象庁</b> <br> きしょうちょう <br> Meteorological Agency
+[sound:4c-k-気象.mp3]	<b>気象</b> <br> きしょう <br> weather, climate
+[sound:4c-k-象徴.mp3]	<b>象徴</b> <br> しょうちょう <br> symbol
+4c-k-住友銀行.mp3	住友銀行	すみともぎんこう	Sumitomo Bank

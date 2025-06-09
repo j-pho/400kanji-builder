@@ -19,15 +19,16 @@ func main() {
 
 func splitter() {
 	const (
-		F1  = "merge1.txt"
-		F2  = "merge2.txt"
-		F3  = "merge3.txt"
-		F4  = "merge4.txt"
-		F5  = "merge5.txt"
+		F1  = "vocab-ake.txt"
+		F2  = "vocab-khe.txt"
+		F3  = "vocab-ekh.txt"
+		F4  = "sent-ake.txt"
+		F5  = "sent-khe.txt"
+		F6  = "sent-ekh.txt"
 		OUT = "merged-kanji-cards.txt"
 	)
 
-	files := []string{F1, F2, F3, F4, F5}
+	files := []string{F1, F2, F3, F4, F5, F6}
 	ss := make([][]string, len(files))
 
 	for i := range files {

@@ -1,0 +1,1000 @@
+[sound:4c-k-同日.mp3]	<b>同日</b> <br> どうじつ <br> the same day
+同日	<b>どうじつ</b> <br> the same day <br> [sound:4c-k-同日.mp3]
+the same day	<b>同日</b> <br> どうじつ <br> [sound:4c-k-同日.mp3]
+[sound:4c-s-同日に会議があります。.mp3]	<b>同日に会議があります。</b> <br> どうじつにかいぎがあります。 <br><br> (同日) <br> There is a meeting on the same day.
+同日に会議があります。 <br><br> (同日)	<b>どうじつにかいぎがあります。</b> <br> There is a meeting on the same day. <br> [sound:4c-s-同日に会議があります。.mp3]
+There is a meeting on the same day.	<b>同日に会議があります。</b> <br> どうじつにかいぎがあります。 <br><br> (同日) <br> [sound:4c-s-同日に会議があります。.mp3]
+[sound:4c-k-日米.mp3]	<b>日米</b> <br> にちべい <br> Japan-America
+日米	<b>にちべい</b> <br> Japan-America <br> [sound:4c-k-日米.mp3]
+Japan-America	<b>日米</b> <br> にちべい <br> [sound:4c-k-日米.mp3]
+[sound:4c-s-日米の関係は重要です。.mp3]	<b>日米の関係は重要です。</b> <br> にちべいのかんけいはじゅうようです。 <br><br> (日米) <br> The relationship between Japan and the U.S. is important.
+日米の関係は重要です。 <br><br> (日米)	<b>にちべいのかんけいはじゅうようです。</b> <br> The relationship between Japan and the U.S. is important. <br> [sound:4c-s-日米の関係は重要です。.mp3]
+The relationship between Japan and the U.S. is important.	<b>日米の関係は重要です。</b> <br> にちべいのかんけいはじゅうようです。 <br><br> (日米) <br> [sound:4c-s-日米の関係は重要です。.mp3]
+[sound:4c-k-日本人.mp3]	<b>日本人</b> <br> にほんじん, にっぽんじん <br> Japanese person, Japanese people
+日本人	<b>にほんじん, にっぽんじん</b> <br> Japanese person, Japanese people <br> [sound:4c-k-日本人.mp3]
+Japanese person, Japanese people	<b>日本人</b> <br> にほんじん, にっぽんじん <br> [sound:4c-k-日本人.mp3]
+[sound:4c-s-彼は日本人です。.mp3]	<b>彼は日本人です。</b> <br> かれはにほんじんです。 <br><br> (日本人) <br> He is Japanese.
+彼は日本人です。 <br><br> (日本人)	<b>かれはにほんじんです。</b> <br> He is Japanese. <br> [sound:4c-s-彼は日本人です。.mp3]
+He is Japanese.	<b>彼は日本人です。</b> <br> かれはにほんじんです。 <br><br> (日本人) <br> [sound:4c-s-彼は日本人です。.mp3]
+[sound:4c-k-一つ.mp3]	<b>一つ</b> <br> ひとつ <br> one; for one thing (often used in itemized lists); (after a noun) only; (with a verb in negative form) (not) even; just (i.e. "just try it")
+一つ	<b>ひとつ</b> <br> one; for one thing (often used in itemized lists); (after a noun) only; (with a verb in negative form) (not) even; just (i.e. "just try it") <br> [sound:4c-k-一つ.mp3]
+one; for one thing (often used in itemized lists); (after a noun) only; (with a verb in negative form) (not) even; just (i.e. "just try it")	<b>一つ</b> <br> ひとつ <br> [sound:4c-k-一つ.mp3]
+[sound:4c-s-一つのりんごを食べました。.mp3]	<b>一つのりんごを食べました。</b> <br> ひとつのりんごをたべました。 <br><br> (一つ) <br> I ate one apple.
+一つのりんごを食べました。 <br><br> (一つ)	<b>ひとつのりんごをたべました。</b> <br> I ate one apple. <br> [sound:4c-s-一つのりんごを食べました。.mp3]
+I ate one apple.	<b>一つのりんごを食べました。</b> <br> ひとつのりんごをたべました。 <br><br> (一つ) <br> [sound:4c-s-一つのりんごを食べました。.mp3]
+[sound:4c-k-一月.mp3]	<b>一月</b> <br> いちがつ <br> January
+一月	<b>いちがつ</b> <br> January <br> [sound:4c-k-一月.mp3]
+January	<b>一月</b> <br> いちがつ <br> [sound:4c-k-一月.mp3]
+[sound:4c-s-一月に新しい年が始まります。.mp3]	<b>一月に新しい年が始まります。</b> <br> いちがつにあたらしいとしがはじまります。 <br><br> (一月) <br> A new year begins in January.
+一月に新しい年が始まります。 <br><br> (一月)	<b>いちがつにあたらしいとしがはじまります。</b> <br> A new year begins in January. <br> [sound:4c-s-一月に新しい年が始まります。.mp3]
+A new year begins in January.	<b>一月に新しい年が始まります。</b> <br> いちがつにあたらしいとしがはじまります。 <br><br> (一月) <br> [sound:4c-s-一月に新しい年が始まります。.mp3]
+[sound:4c-k-一般.mp3]	<b>一般</b> <br> いっぱん <br> general, liberal, universal, ordinary, average
+一般	<b>いっぱん</b> <br> general, liberal, universal, ordinary, average <br> [sound:4c-k-一般.mp3]
+general, liberal, universal, ordinary, average	<b>一般</b> <br> いっぱん <br> [sound:4c-k-一般.mp3]
+[sound:4c-s-一般の人々が集まりました。.mp3]	<b>一般の人々が集まりました。</b> <br> いっぱんのひとびとがあつまりました。 <br><br> (一般) <br> General people gathered.
+一般の人々が集まりました。 <br><br> (一般)	<b>いっぱんのひとびとがあつまりました。</b> <br> General people gathered. <br> [sound:4c-s-一般の人々が集まりました。.mp3]
+General people gathered.	<b>一般の人々が集まりました。</b> <br> いっぱんのひとびとがあつまりました。 <br><br> (一般) <br> [sound:4c-s-一般の人々が集まりました。.mp3]
+[sound:4c-k-一番.mp3]	<b>一番</b> <br> いちばん <br> best, first, number one; game, round, bout, fall, event (in a meet)
+一番	<b>いちばん</b> <br> best, first, number one; game, round, bout, fall, event (in a meet) <br> [sound:4c-k-一番.mp3]
+best, first, number one; game, round, bout, fall, event (in a meet)	<b>一番</b> <br> いちばん <br> [sound:4c-k-一番.mp3]
+[sound:4c-s-彼が一番速いです。.mp3]	<b>彼が一番速いです。</b> <br> かれがいちばんはやいです。 <br><br> (一番) <br> He is the fastest.
+彼が一番速いです。 <br><br> (一番)	<b>かれがいちばんはやいです。</b> <br> He is the fastest. <br> [sound:4c-s-彼が一番速いです。.mp3]
+He is the fastest.	<b>彼が一番速いです。</b> <br> かれがいちばんはやいです。 <br><br> (一番) <br> [sound:4c-s-彼が一番速いです。.mp3]
+[sound:4c-k-国.mp3]	<b>国</b> <br> くに <br> country, (the) state; region; province (of Japan); home (i.e. hometown, home country); land, earth
+国	<b>くに</b> <br> country, (the) state; region; province (of Japan); home (i.e. hometown, home country); land, earth <br> [sound:4c-k-国.mp3]
+country, (the) state; region; province (of Japan); home (i.e. hometown, home country); land, earth	<b>国</b> <br> くに <br> [sound:4c-k-国.mp3]
+[sound:4c-s-この国は美しいです。.mp3]	<b>この国は美しいです。</b> <br> このくにはうつくしいです。 <br><br> (国) <br> This country is beautiful.
+この国は美しいです。 <br><br> (国)	<b>このくにはうつくしいです。</b> <br> This country is beautiful. <br> [sound:4c-s-この国は美しいです。.mp3]
+This country is beautiful.	<b>この国は美しいです。</b> <br> このくにはうつくしいです。 <br><br> (国) <br> [sound:4c-s-この国は美しいです。.mp3]
+[sound:4c-k-外国.mp3]	<b>外国</b> <br> がいこく <br> foreign country
+外国	<b>がいこく</b> <br> foreign country <br> [sound:4c-k-外国.mp3]
+foreign country	<b>外国</b> <br> がいこく <br> [sound:4c-k-外国.mp3]
+[sound:4c-s-外国に旅行したいです。.mp3]	<b>外国に旅行したいです。</b> <br> がいこくにりょこうしたいです。 <br><br> (外国) <br> I want to travel abroad.
+外国に旅行したいです。 <br><br> (外国)	<b>がいこくにりょこうしたいです。</b> <br> I want to travel abroad. <br> [sound:4c-s-外国に旅行したいです。.mp3]
+I want to travel abroad.	<b>外国に旅行したいです。</b> <br> がいこくにりょこうしたいです。 <br><br> (外国) <br> [sound:4c-s-外国に旅行したいです。.mp3]
+[sound:4c-k-外国人.mp3]	<b>外国人</b> <br> がいこくじん <br> foreigner
+外国人	<b>がいこくじん</b> <br> foreigner <br> [sound:4c-k-外国人.mp3]
+foreigner	<b>外国人</b> <br> がいこくじん <br> [sound:4c-k-外国人.mp3]
+[sound:4c-s-外国人が日本の文化を学んでいます。.mp3]	<b>外国人が日本の文化を学んでいます。</b> <br> がいこくじんがにほんのぶんかをまなんでいます。 <br><br> (外国人) <br> Foreigners are learning about Japanese culture.
+外国人が日本の文化を学んでいます。 <br><br> (外国人)	<b>がいこくじんがにほんのぶんかをまなんでいます。</b> <br> Foreigners are learning about Japanese culture. <br> [sound:4c-s-外国人が日本の文化を学んでいます。.mp3]
+Foreigners are learning about Japanese culture.	<b>外国人が日本の文化を学んでいます。</b> <br> がいこくじんがにほんのぶんかをまなんでいます。 <br><br> (外国人) <br> [sound:4c-s-外国人が日本の文化を学んでいます。.mp3]
+[sound:4c-k-韓国.mp3]	<b>韓国</b> <br> かんこく <br> (South) Korea
+韓国	<b>かんこく</b> <br> (South) Korea <br> [sound:4c-k-韓国.mp3]
+(South) Korea	<b>韓国</b> <br> かんこく <br> [sound:4c-k-韓国.mp3]
+[sound:4c-s-韓国料理が好きです。.mp3]	<b>韓国料理が好きです。</b> <br> かんこくりょうりがすきです。 <br><br> (韓国) <br> I like Korean food.
+韓国料理が好きです。 <br><br> (韓国)	<b>かんこくりょうりがすきです。</b> <br> I like Korean food. <br> [sound:4c-s-韓国料理が好きです。.mp3]
+I like Korean food.	<b>韓国料理が好きです。</b> <br> かんこくりょうりがすきです。 <br><br> (韓国) <br> [sound:4c-s-韓国料理が好きです。.mp3]
+[sound:4c-k-委員会.mp3]	<b>委員会</b> <br> いいんかい <br> committee, commission, board, panel, committee meeting
+委員会	<b>いいんかい</b> <br> committee, commission, board, panel, committee meeting <br> [sound:4c-k-委員会.mp3]
+committee, commission, board, panel, committee meeting	<b>委員会</b> <br> いいんかい <br> [sound:4c-k-委員会.mp3]
+[sound:4c-s-委員会が新しい規則を決めました。.mp3]	<b>委員会が新しい規則を決めました。</b> <br> いいんかいがあたらしいきそくをきめました。 <br><br> (委員会) <br> The committee decided on new rules.
+委員会が新しい規則を決めました。 <br><br> (委員会)	<b>いいんかいがあたらしいきそくをきめました。</b> <br> The committee decided on new rules. <br> [sound:4c-s-委員会が新しい規則を決めました。.mp3]
+The committee decided on new rules.	<b>委員会が新しい規則を決めました。</b> <br> いいんかいがあたらしいきそくをきめました。 <br><br> (委員会) <br> [sound:4c-s-委員会が新しい規則を決めました。.mp3]
+[sound:4c-k-会員.mp3]	<b>会員</b> <br> かいいん <br> member, the membership
+会員	<b>かいいん</b> <br> member, the membership <br> [sound:4c-k-会員.mp3]
+member, the membership	<b>会員</b> <br> かいいん <br> [sound:4c-k-会員.mp3]
+[sound:4c-s-会員限定のイベントがあります。.mp3]	<b>会員限定のイベントがあります。</b> <br> かいいんげんていのイベントがあります。 <br><br> (会員) <br> There is a members-only event.
+会員限定のイベントがあります。 <br><br> (会員)	<b>かいいんげんていのイベントがあります。</b> <br> There is a members-only event. <br> [sound:4c-s-会員限定のイベントがあります。.mp3]
+There is a members-only event.	<b>会員限定のイベントがあります。</b> <br> かいいんげんていのイベントがあります。 <br><br> (会員) <br> [sound:4c-s-会員限定のイベントがあります。.mp3]
+[sound:4c-k-会議.mp3]	<b>会議</b> <br> かいぎ <br> meeting, conference, session, assembly, council, convention, congress
+会議	<b>かいぎ</b> <br> meeting, conference, session, assembly, council, convention, congress <br> [sound:4c-k-会議.mp3]
+meeting, conference, session, assembly, council, convention, congress	<b>会議</b> <br> かいぎ <br> [sound:4c-k-会議.mp3]
+[sound:4c-s-来週の会議に参加します。.mp3]	<b>来週の会議に参加します。</b> <br> らいしゅうのかいぎにさんかします。 <br><br> (会議) <br> I will attend next week’s meeting.
+来週の会議に参加します。 <br><br> (会議)	<b>らいしゅうのかいぎにさんかします。</b> <br> I will attend next week’s meeting. <br> [sound:4c-s-来週の会議に参加します。.mp3]
+I will attend next week’s meeting.	<b>来週の会議に参加します。</b> <br> らいしゅうのかいぎにさんかします。 <br><br> (会議) <br> [sound:4c-s-来週の会議に参加します。.mp3]
+[sound:4c-k-会見.mp3]	<b>会見</b> <br> かいけん <br> interview, audience
+会見	<b>かいけん</b> <br> interview, audience <br> [sound:4c-k-会見.mp3]
+interview, audience	<b>会見</b> <br> かいけん <br> [sound:4c-k-会見.mp3]
+[sound:4c-s-首相が記者会見をしました。.mp3]	<b>首相が記者会見をしました。</b> <br> しゅしょうがきしゃかいけんをしました。 <br><br> (会見) <br> The Prime Minister held a press conference.
+首相が記者会見をしました。 <br><br> (会見)	<b>しゅしょうがきしゃかいけんをしました。</b> <br> The Prime Minister held a press conference. <br> [sound:4c-s-首相が記者会見をしました。.mp3]
+The Prime Minister held a press conference.	<b>首相が記者会見をしました。</b> <br> しゅしょうがきしゃかいけんをしました。 <br><br> (会見) <br> [sound:4c-s-首相が記者会見をしました。.mp3]
+[sound:4c-k-外国人.mp3]	<b>外国人</b> <br> がいこくじん <br> foreigner
+外国人	<b>がいこくじん</b> <br> foreigner <br> [sound:4c-k-外国人.mp3]
+foreigner	<b>外国人</b> <br> がいこくじん <br> [sound:4c-k-外国人.mp3]
+4c-s-外国人の観光客が増えています。.mp3	[sound:外国人の観光客が増えています。 ]	<b>がいこくじんのかんこうきゃくがふえています。</b> <br> 外国人 <br><br> () <br> The number of foreign tourists is increasing.
+外国人	外国人の観光客が増えています。  <br><br> ()	<b>がいこくじんのかんこうきゃくがふえています。</b> <br> The number of foreign tourists is increasing. <br> [sound:4c-s-外国人の観光客が増えています。.mp3]
+The number of foreign tourists is increasing.	外国人の観光客が増えています。 	<b>がいこくじんのかんこうきゃくがふえています。</b> <br> 外国人 <br><br> () <br> [sound:4c-s-外国人の観光客が増えています。.mp3]
+[sound:4c-k-個人.mp3]	<b>個人</b> <br> こじん <br> individual, private person, personal, private
+個人	<b>こじん</b> <br> individual, private person, personal, private <br> [sound:4c-k-個人.mp3]
+individual, private person, personal, private	<b>個人</b> <br> こじん <br> [sound:4c-k-個人.mp3]
+[sound:4c-s-個人の意見を大切にしてください。.mp3]	<b>個人の意見を大切にしてください。</b> <br> こじんのいけんをたいせつにしてください。 <br><br> (個人) <br> Please respect individual opinions.
+個人の意見を大切にしてください。 <br><br> (個人)	<b>こじんのいけんをたいせつにしてください。</b> <br> Please respect individual opinions. <br> [sound:4c-s-個人の意見を大切にしてください。.mp3]
+Please respect individual opinions.	<b>個人の意見を大切にしてください。</b> <br> こじんのいけんをたいせつにしてください。 <br><br> (個人) <br> [sound:4c-s-個人の意見を大切にしてください。.mp3]
+[sound:4c-k-三人.mp3]	<b>三人</b> <br> さんにん, みたり <br> three people
+三人	<b>さんにん, みたり</b> <br> three people <br> [sound:4c-k-三人.mp3]
+three people	<b>三人</b> <br> さんにん, みたり <br> [sound:4c-k-三人.mp3]
+[sound:4c-s-三人で旅行に行きます。.mp3]	<b>三人で旅行に行きます。</b> <br> さんにんでりょこうにいきます。 <br><br> (三人) <br> Three people are going on a trip.
+三人で旅行に行きます。 <br><br> (三人)	<b>さんにんでりょこうにいきます。</b> <br> Three people are going on a trip. <br> [sound:4c-s-三人で旅行に行きます。.mp3]
+Three people are going on a trip.	<b>三人で旅行に行きます。</b> <br> さんにんでりょこうにいきます。 <br><br> (三人) <br> [sound:4c-s-三人で旅行に行きます。.mp3]
+[sound:4c-k-人間.mp3]	<b>人間</b> <br> にんげん <br> human being, man, person; character (of a person)
+人間	<b>にんげん</b> <br> human being, man, person; character (of a person) <br> [sound:4c-k-人間.mp3]
+human being, man, person; character (of a person)	<b>人間</b> <br> にんげん <br> [sound:4c-k-人間.mp3]
+[sound:4c-s-人間は社会的な生き物です。.mp3]	<b>人間は社会的な生き物です。</b> <br> にんげんはしゃかいてきないきものです。 <br><br> (人間) <br> Humans are social creatures.
+人間は社会的な生き物です。 <br><br> (人間)	<b>にんげんはしゃかいてきないきものです。</b> <br> Humans are social creatures. <br> [sound:4c-s-人間は社会的な生き物です。.mp3]
+Humans are social creatures.	<b>人間は社会的な生き物です。</b> <br> にんげんはしゃかいてきないきものです。 <br><br> (人間) <br> [sound:4c-s-人間は社会的な生き物です。.mp3]
+[sound:4c-k-年.mp3]	<b>年</b> <br> とし <br> year; age
+年	<b>とし</b> <br> year; age <br> [sound:4c-k-年.mp3]
+year; age	<b>年</b> <br> とし <br> [sound:4c-k-年.mp3]
+[sound:4c-s-今年は良い年になりますように。.mp3]	<b>今年は良い年になりますように。</b> <br> ことしはよいとしになりますように。 <br><br> (年) <br> I hope this year will be a good one.
+今年は良い年になりますように。 <br><br> (年)	<b>ことしはよいとしになりますように。</b> <br> I hope this year will be a good one. <br> [sound:4c-s-今年は良い年になりますように。.mp3]
+I hope this year will be a good one.	<b>今年は良い年になりますように。</b> <br> ことしはよいとしになりますように。 <br><br> (年) <br> [sound:4c-s-今年は良い年になりますように。.mp3]
+[sound:4c-k-昨年.mp3]	<b>昨年</b> <br> さくねん <br> last year
+昨年	<b>さくねん</b> <br> last year <br> [sound:4c-k-昨年.mp3]
+last year	<b>昨年</b> <br> さくねん <br> [sound:4c-k-昨年.mp3]
+[sound:4c-s-昨年、新しい仕事を始めました。.mp3]	<b>昨年、新しい仕事を始めました。</b> <br> さくねん、あたらしいしごとをはじめました。 <br><br> (昨年) <br> Last year, I started a new job.
+昨年、新しい仕事を始めました。 <br><br> (昨年)	<b>さくねん、あたらしいしごとをはじめました。</b> <br> Last year, I started a new job. <br> [sound:4c-s-昨年、新しい仕事を始めました。.mp3]
+Last year, I started a new job.	<b>昨年、新しい仕事を始めました。</b> <br> さくねん、あたらしいしごとをはじめました。 <br><br> (昨年) <br> [sound:4c-s-昨年、新しい仕事を始めました。.mp3]
+[sound:4c-k-前年.mp3]	<b>前年</b> <br> ぜんねん <br> the preceding year, the previous year, last year
+前年	<b>ぜんねん</b> <br> the preceding year, the previous year, last year <br> [sound:4c-k-前年.mp3]
+the preceding year, the previous year, last year	<b>前年</b> <br> ぜんねん <br> [sound:4c-k-前年.mp3]
+[sound:4c-s-前年より売上が増えました。.mp3]	<b>前年より売上が増えました。</b> <br> ぜんねんよりうりあげがふえました。 <br><br> (前年) <br> Sales increased compared to the previous year.
+前年より売上が増えました。 <br><br> (前年)	<b>ぜんねんよりうりあげがふえました。</b> <br> Sales increased compared to the previous year. <br> [sound:4c-s-前年より売上が増えました。.mp3]
+Sales increased compared to the previous year.	<b>前年より売上が増えました。</b> <br> ぜんねんよりうりあげがふえました。 <br><br> (前年) <br> [sound:4c-s-前年より売上が増えました。.mp3]
+[sound:4c-k-年間.mp3]	<b>年間</b> <br> ねんかん <br> year (period of)
+年間	<b>ねんかん</b> <br> year (period of) <br> [sound:4c-k-年間.mp3]
+year (period of)	<b>年間</b> <br> ねんかん <br> [sound:4c-k-年間.mp3]
+[sound:4c-s-この博物館は年間100万人が訪れます。.mp3]	<b>この博物館は年間100万人が訪れます。</b> <br> このはくぶつかんはねんかんひゃくまんにんがおとずれます。 <br><br> (年間) <br> This museum is visited by one million people annually.
+この博物館は年間100万人が訪れます。 <br><br> (年間)	<b>このはくぶつかんはねんかんひゃくまんにんがおとずれます。</b> <br> This museum is visited by one million people annually. <br> [sound:4c-s-この博物館は年間100万人が訪れます。.mp3]
+This museum is visited by one million people annually.	<b>この博物館は年間100万人が訪れます。</b> <br> このはくぶつかんはねんかんひゃくまんにんがおとずれます。 <br><br> (年間) <br> [sound:4c-s-この博物館は年間100万人が訪れます。.mp3]
+[sound:4c-k-大きな.mp3]	<b>大きな</b> <br> おおきな <br> big, large, great
+大きな	<b>おおきな</b> <br> big, large, great <br> [sound:4c-k-大きな.mp3]
+big, large, great	<b>大きな</b> <br> おおきな <br> [sound:4c-k-大きな.mp3]
+[sound:4c-s-大きな木の下で休みました。.mp3]	<b>大きな木の下で休みました。</b> <br> おおきなきのしたでやすみました。 <br><br> (大きな) <br> I rested under a big tree.
+大きな木の下で休みました。 <br><br> (大きな)	<b>おおきなきのしたでやすみました。</b> <br> I rested under a big tree. <br> [sound:4c-s-大きな木の下で休みました。.mp3]
+I rested under a big tree.	<b>大きな木の下で休みました。</b> <br> おおきなきのしたでやすみました。 <br><br> (大きな) <br> [sound:4c-s-大きな木の下で休みました。.mp3]
+[sound:4c-k-拡大.mp3]	<b>拡大</b> <br> かくだい <br> magnification, enlargement, expansion
+拡大	<b>かくだい</b> <br> magnification, enlargement, expansion <br> [sound:4c-k-拡大.mp3]
+magnification, enlargement, expansion	<b>拡大</b> <br> かくだい <br> [sound:4c-k-拡大.mp3]
+[sound:4c-s-市場が拡大しています。.mp3]	<b>市場が拡大しています。</b> <br> しじょうがかくだいしています。 <br><br> (拡大) <br> The market is expanding.
+市場が拡大しています。 <br><br> (拡大)	<b>しじょうがかくだいしています。</b> <br> The market is expanding. <br> [sound:4c-s-市場が拡大しています。.mp3]
+The market is expanding.	<b>市場が拡大しています。</b> <br> しじょうがかくだいしています。 <br><br> (拡大) <br> [sound:4c-s-市場が拡大しています。.mp3]
+[sound:4c-k-最大.mp3]	<b>最大</b> <br> さいだい <br> greatest, largest, maximum
+最大	<b>さいだい</b> <br> greatest, largest, maximum <br> [sound:4c-k-最大.mp3]
+greatest, largest, maximum	<b>最大</b> <br> さいだい <br> [sound:4c-k-最大.mp3]
+[sound:4c-s-この都市の最大の公園です。.mp3]	<b>この都市の最大の公園です。</b> <br> このとしのさいだいのこうえんです。 <br><br> (最大) <br> This is the largest park in the city.
+この都市の最大の公園です。 <br><br> (最大)	<b>このとしのさいだいのこうえんです。</b> <br> This is the largest park in the city. <br> [sound:4c-s-この都市の最大の公園です。.mp3]
+This is the largest park in the city.	<b>この都市の最大の公園です。</b> <br> このとしのさいだいのこうえんです。 <br><br> (最大) <br> [sound:4c-s-この都市の最大の公園です。.mp3]
+[sound:4c-k-大いに.mp3]	<b>大いに</b> <br> おおいに <br> very, much, greatly, a lot of
+大いに	<b>おおいに</b> <br> very, much, greatly, a lot of <br> [sound:4c-k-大いに.mp3]
+very, much, greatly, a lot of	<b>大いに</b> <br> おおいに <br> [sound:4c-k-大いに.mp3]
+[sound:4c-s-彼の成功を大いに祝いました。.mp3]	<b>彼の成功を大いに祝いました。</b> <br> かれのせいこうをおおいにいわいました。 <br><br> (大いに) <br> We celebrated his success greatly.
+彼の成功を大いに祝いました。 <br><br> (大いに)	<b>かれのせいこうをおおいにいわいました。</b> <br> We celebrated his success greatly. <br> [sound:4c-s-彼の成功を大いに祝いました。.mp3]
+We celebrated his success greatly.	<b>彼の成功を大いに祝いました。</b> <br> かれのせいこうをおおいにいわいました。 <br><br> (大いに) <br> [sound:4c-s-彼の成功を大いに祝いました。.mp3]
+[sound:4c-k-十.mp3]	<b>十</b> <br> じゅう, と, とお <br> 10, ten
+十	<b>じゅう, と, とお</b> <br> 10, ten <br> [sound:4c-k-十.mp3]
+10, ten	<b>十</b> <br> じゅう, と, とお <br> [sound:4c-k-十.mp3]
+[sound:4c-s-十匹の猫がいます。.mp3]	<b>十匹の猫がいます。</b> <br> じゅっぴきのねこがいます。 <br><br> (十) <br> There are ten cats.
+十匹の猫がいます。 <br><br> (十)	<b>じゅっぴきのねこがいます。</b> <br> There are ten cats. <br> [sound:4c-s-十匹の猫がいます。.mp3]
+There are ten cats.	<b>十匹の猫がいます。</b> <br> じゅっぴきのねこがいます。 <br><br> (十) <br> [sound:4c-s-十匹の猫がいます。.mp3]
+[sound:4c-k-十一.mp3]	<b>十一</b> <br> じゅういち, ジュウイチ <br> 11, eleven; Hodgson's hawk-cuckoo (Cuculus fugax)
+十一	<b>じゅういち, ジュウイチ</b> <br> 11, eleven; Hodgson's hawk-cuckoo (Cuculus fugax) <br> [sound:4c-k-十一.mp3]
+11, eleven; Hodgson's hawk-cuckoo (Cuculus fugax)	<b>十一</b> <br> じゅういち, ジュウイチ <br> [sound:4c-k-十一.mp3]
+[sound:4c-s-十一時に会議があります。.mp3]	<b>十一時に会議があります。</b> <br> じゅういちじにかいぎがあります。 <br><br> (十一) <br> There is a meeting at eleven o’clock.
+十一時に会議があります。 <br><br> (十一)	<b>じゅういちじにかいぎがあります。</b> <br> There is a meeting at eleven o’clock. <br> [sound:4c-s-十一時に会議があります。.mp3]
+There is a meeting at eleven o’clock.	<b>十一時に会議があります。</b> <br> じゅういちじにかいぎがあります。 <br><br> (十一) <br> [sound:4c-s-十一時に会議があります。.mp3]
+[sound:4c-k-十一月.mp3]	<b>十一月</b> <br> じゅういちがつ <br> November
+十一月	<b>じゅういちがつ</b> <br> November <br> [sound:4c-k-十一月.mp3]
+November	<b>十一月</b> <br> じゅういちがつ <br> [sound:4c-k-十一月.mp3]
+[sound:4c-s-十一月は紅葉の季節です。.mp3]	<b>十一月は紅葉の季節です。</b> <br> じゅういちがつはこうようのきせつです。 <br><br> (十一月) <br> November is the season of autumn leaves.
+十一月は紅葉の季節です。 <br><br> (十一月)	<b>じゅういちがつはこうようのきせつです。</b> <br> November is the season of autumn leaves. <br> [sound:4c-s-十一月は紅葉の季節です。.mp3]
+November is the season of autumn leaves.	<b>十一月は紅葉の季節です。</b> <br> じゅういちがつはこうようのきせつです。 <br><br> (十一月) <br> [sound:4c-s-十一月は紅葉の季節です。.mp3]
+[sound:4c-k-十九.mp3]	<b>十九</b> <br> じゅうきゅう <br> 19, nineteen
+十九	<b>じゅうきゅう</b> <br> 19, nineteen <br> [sound:4c-k-十九.mp3]
+19, nineteen	<b>十九</b> <br> じゅうきゅう <br> [sound:4c-k-十九.mp3]
+[sound:4c-s-十九歳になりました。.mp3]	<b>十九歳になりました。</b> <br> じゅうきゅうさいになりました。 <br><br> (十九) <br> I turned nineteen years old.
+十九歳になりました。 <br><br> (十九)	<b>じゅうきゅうさいになりました。</b> <br> I turned nineteen years old. <br> [sound:4c-s-十九歳になりました。.mp3]
+I turned nineteen years old.	<b>十九歳になりました。</b> <br> じゅうきゅうさいになりました。 <br><br> (十九) <br> [sound:4c-s-十九歳になりました。.mp3]
+[sound:4c-k-二.mp3]	<b>二</b> <br> に, ふた, ふ, ふう <br> two
+二	<b>に, ふた, ふ, ふう</b> <br> two <br> [sound:4c-k-二.mp3]
+two	<b>二</b> <br> に, ふた, ふ, ふう <br> [sound:4c-k-二.mp3]
+[sound:4c-s-二つの選択肢があります。.mp3]	<b>二つの選択肢があります。</b> <br> ふたつのせんたくしがあります。 <br><br> (二) <br> There are two options.
+二つの選択肢があります。 <br><br> (二)	<b>ふたつのせんたくしがあります。</b> <br> There are two options. <br> [sound:4c-s-二つの選択肢があります。.mp3]
+There are two options.	<b>二つの選択肢があります。</b> <br> ふたつのせんたくしがあります。 <br><br> (二) <br> [sound:4c-s-二つの選択肢があります。.mp3]
+[sound:4c-k-二つ.mp3]	<b>二つ</b> <br> ふたつ <br> two
+二つ	<b>ふたつ</b> <br> two <br> [sound:4c-k-二つ.mp3]
+two	<b>二つ</b> <br> ふたつ <br> [sound:4c-k-二つ.mp3]
+[sound:4c-s-彼に二つの質問をしました。.mp3]	<b>彼に二つの質問をしました。</b> <br> かれにふたつのしつもんをしました。 <br><br> (二つ) <br> I asked him two questions.
+彼に二つの質問をしました。 <br><br> (二つ)	<b>かれにふたつのしつもんをしました。</b> <br> I asked him two questions. <br> [sound:4c-s-彼に二つの質問をしました。.mp3]
+I asked him two questions.	<b>彼に二つの質問をしました。</b> <br> かれにふたつのしつもんをしました。 <br><br> (二つ) <br> [sound:4c-s-彼に二つの質問をしました。.mp3]
+[sound:4c-k-十二.mp3]	<b>十二</b> <br> じゅうに <br> 12, twelve
+十二	<b>じゅうに</b> <br> 12, twelve <br> [sound:4c-k-十二.mp3]
+12, twelve	<b>十二</b> <br> じゅうに <br> [sound:4c-k-十二.mp3]
+[sound:4c-s-十二時に昼ごはんを食べます。.mp3]	<b>十二時に昼ごはんを食べます。</b> <br> じゅうにじにひるごはんをたべます。 <br><br> (十二) <br> I eat lunch at twelve o’clock.
+十二時に昼ごはんを食べます。 <br><br> (十二)	<b>じゅうにじにひるごはんをたべます。</b> <br> I eat lunch at twelve o’clock. <br> [sound:4c-s-十二時に昼ごはんを食べます。.mp3]
+I eat lunch at twelve o’clock.	<b>十二時に昼ごはんを食べます。</b> <br> じゅうにじにひるごはんをたべます。 <br><br> (十二) <br> [sound:4c-s-十二時に昼ごはんを食べます。.mp3]
+[sound:4c-k-十二月.mp3]	<b>十二月</b> <br> じゅうにがつ <br> December
+十二月	<b>じゅうにがつ</b> <br> December <br> [sound:4c-k-十二月.mp3]
+December	<b>十二月</b> <br> じゅうにがつ <br> [sound:4c-k-十二月.mp3]
+[sound:4c-s-十二月はクリスマスの月です。.mp3]	<b>十二月はクリスマスの月です。</b> <br> じゅうにがつはクリスマスのつきです。 <br><br> (十二月) <br> December is the month of Christmas.
+十二月はクリスマスの月です。 <br><br> (十二月)	<b>じゅうにがつはクリスマスのつきです。</b> <br> December is the month of Christmas. <br> [sound:4c-s-十二月はクリスマスの月です。.mp3]
+December is the month of Christmas.	<b>十二月はクリスマスの月です。</b> <br> じゅうにがつはクリスマスのつきです。 <br><br> (十二月) <br> [sound:4c-s-十二月はクリスマスの月です。.mp3]
+[sound:4c-k-基本.mp3]	<b>基本</b> <br> きほん <br> foundation, basis, standard
+基本	<b>きほん</b> <br> foundation, basis, standard <br> [sound:4c-k-基本.mp3]
+foundation, basis, standard	<b>基本</b> <br> きほん <br> [sound:4c-k-基本.mp3]
+[sound:4c-s-このプランの基本を説明します。.mp3]	<b>このプランの基本を説明します。</b> <br> このプランのきほんをせつめいします。 <br><br> (基本) <br> I will explain the basics of this plan.
+このプランの基本を説明します。 <br><br> (基本)	<b>このプランのきほんをせつめいします。</b> <br> I will explain the basics of this plan. <br> [sound:4c-s-このプランの基本を説明します。.mp3]
+I will explain the basics of this plan.	<b>このプランの基本を説明します。</b> <br> このプランのきほんをせつめいします。 <br><br> (基本) <br> [sound:4c-s-このプランの基本を説明します。.mp3]
+[sound:4c-k-日本人.mp3]	<b>日本人</b> <br> にほんじん, にっぽんじん <br> Japanese person, Japanese people
+日本人	<b>にほんじん, にっぽんじん</b> <br> Japanese person, Japanese people <br> [sound:4c-k-日本人.mp3]
+Japanese person, Japanese people	<b>日本人</b> <br> にほんじん, にっぽんじん <br> [sound:4c-k-日本人.mp3]
+[sound:4c-s-彼女は日本人の友達です。.mp3]	<b>彼女は日本人の友達です。</b> <br> かのじょはにほんじんのともだちです。 <br><br> (日本人) <br> She is a Japanese friend.
+彼女は日本人の友達です。 <br><br> (日本人)	<b>かのじょはにほんじんのともだちです。</b> <br> She is a Japanese friend. <br> [sound:4c-s-彼女は日本人の友達です。.mp3]
+She is a Japanese friend.	<b>彼女は日本人の友達です。</b> <br> かのじょはにほんじんのともだちです。 <br><br> (日本人) <br> [sound:4c-s-彼女は日本人の友達です。.mp3]
+[sound:4c-k-本社.mp3]	<b>本社</b> <br> ほんしゃ, ほんじゃ <br> head office, main office, headquarters; main shrine; this company, this shrine
+本社	<b>ほんしゃ, ほんじゃ</b> <br> head office, main office, headquarters; main shrine; this company, this shrine <br> [sound:4c-k-本社.mp3]
+head office, main office, headquarters; main shrine; this company, this shrine	<b>本社</b> <br> ほんしゃ, ほんじゃ <br> [sound:4c-k-本社.mp3]
+[sound:4c-s-本社は東京にあります。.mp3]	<b>本社は東京にあります。</b> <br> ほんしゃはとうきょうにあります。 <br><br> (本社) <br> The headquarters is in Tokyo.
+本社は東京にあります。 <br><br> (本社)	<b>ほんしゃはとうきょうにあります。</b> <br> The headquarters is in Tokyo. <br> [sound:4c-s-本社は東京にあります。.mp3]
+The headquarters is in Tokyo.	<b>本社は東京にあります。</b> <br> ほんしゃはとうきょうにあります。 <br><br> (本社) <br> [sound:4c-s-本社は東京にあります。.mp3]
+[sound:4c-k-本部.mp3]	<b>本部</b> <br> ほんぶ <br> headquarters
+本部	<b>ほんぶ</b> <br> headquarters <br> [sound:4c-k-本部.mp3]
+headquarters	<b>本部</b> <br> ほんぶ <br> [sound:4c-k-本部.mp3]
+[sound:4c-s-本部の指示に従ってください。.mp3]	<b>本部の指示に従ってください。</b> <br> ほんぶのしじにしたがってください。 <br><br> (本部) <br> Please follow the headquarters' instructions.
+本部の指示に従ってください。 <br><br> (本部)	<b>ほんぶのしじにしたがってください。</b> <br> Please follow the headquarters' instructions. <br> [sound:4c-s-本部の指示に従ってください。.mp3]
+Please follow the headquarters' instructions.	<b>本部の指示に従ってください。</b> <br> ほんぶのしじにしたがってください。 <br><br> (本部) <br> [sound:4c-s-本部の指示に従ってください。.mp3]
+[sound:4c-k-中央.mp3]	<b>中央</b> <br> ちゅうおう <br> centre, central, center, middle
+中央	<b>ちゅうおう</b> <br> centre, central, center, middle <br> [sound:4c-k-中央.mp3]
+centre, central, center, middle	<b>中央</b> <br> ちゅうおう <br> [sound:4c-k-中央.mp3]
+[sound:4c-s-中央駅で待ち合わせしましょう。.mp3]	<b>中央駅で待ち合わせしましょう。</b> <br> ちゅうおうえきでまちあわせしましょう。 <br><br> (中央) <br> Let's meet at the central station.
+中央駅で待ち合わせしましょう。 <br><br> (中央)	<b>ちゅうおうえきでまちあわせしましょう。</b> <br> Let's meet at the central station. <br> [sound:4c-s-中央駅で待ち合わせしましょう。.mp3]
+Let's meet at the central station.	<b>中央駅で待ち合わせしましょう。</b> <br> ちゅうおうえきでまちあわせしましょう。 <br><br> (中央) <br> [sound:4c-s-中央駅で待ち合わせしましょう。.mp3]
+[sound:4c-k-中国.mp3]	<b>中国</b> <br> ちゅうごく <br> China; South-west most region of Honshu, middle of a country, the Hiroshima area
+中国	<b>ちゅうごく</b> <br> China; South-west most region of Honshu, middle of a country, the Hiroshima area <br> [sound:4c-k-中国.mp3]
+China; South-west most region of Honshu, middle of a country, the Hiroshima area	<b>中国</b> <br> ちゅうごく <br> [sound:4c-k-中国.mp3]
+[sound:4c-s-中国の歴史はとても長いです。.mp3]	<b>中国の歴史はとても長いです。</b> <br> ちゅうごくのれきしはとてもながいです。 <br><br> (中国) <br> China’s history is very long.
+中国の歴史はとても長いです。 <br><br> (中国)	<b>ちゅうごくのれきしはとてもながいです。</b> <br> China’s history is very long. <br> [sound:4c-s-中国の歴史はとても長いです。.mp3]
+China’s history is very long.	<b>中国の歴史はとても長いです。</b> <br> ちゅうごくのれきしはとてもながいです。 <br><br> (中国) <br> [sound:4c-s-中国の歴史はとても長いです。.mp3]
+[sound:4c-k-中心.mp3]	<b>中心</b> <br> ちゅうしん <br> center, centre, middle, heart, core, focus, pivot, emphasis, balance
+中心	<b>ちゅうしん</b> <br> center, centre, middle, heart, core, focus, pivot, emphasis, balance <br> [sound:4c-k-中心.mp3]
+center, centre, middle, heart, core, focus, pivot, emphasis, balance	<b>中心</b> <br> ちゅうしん <br> [sound:4c-k-中心.mp3]
+[sound:4c-s-彼はグループの中心人物です。.mp3]	<b>彼はグループの中心人物です。</b> <br> かれはグループのちゅうしんじんぶつです。 <br><br> (中心) <br> He is the central figure of the group.
+彼はグループの中心人物です。 <br><br> (中心)	<b>かれはグループのちゅうしんじんぶつです。</b> <br> He is the central figure of the group. <br> [sound:4c-s-彼はグループの中心人物です。.mp3]
+He is the central figure of the group.	<b>彼はグループの中心人物です。</b> <br> かれはグループのちゅうしんじんぶつです。 <br><br> (中心) <br> [sound:4c-s-彼はグループの中心人物です。.mp3]
+[sound:4c-k-中でも.mp3]	<b>中でも</b> <br> なかでも <br> among (other things), inter alia; above all (else)
+中でも	<b>なかでも</b> <br> among (other things), inter alia; above all (else) <br> [sound:4c-k-中でも.mp3]
+among (other things), inter alia; above all (else)	<b>中でも</b> <br> なかでも <br> [sound:4c-k-中でも.mp3]
+[sound:4c-s-中でもこの映画が一番好きです。.mp3]	<b>中でもこの映画が一番好きです。</b> <br> なかでもこのえいががいちばんすきです。 <br><br> (中でも) <br> Among them, I like this movie the most.
+中でもこの映画が一番好きです。 <br><br> (中でも)	<b>なかでもこのえいががいちばんすきです。</b> <br> Among them, I like this movie the most. <br> [sound:4c-s-中でもこの映画が一番好きです。.mp3]
+Among them, I like this movie the most.	<b>中でもこの映画が一番好きです。</b> <br> なかでもこのえいががいちばんすきです。 <br><br> (中でも) <br> [sound:4c-s-中でもこの映画が一番好きです。.mp3]
+[sound:4c-k-長.mp3]	<b>長</b> <br> ちょう, おさ <br> chief, head
+長	<b>ちょう, おさ</b> <br> chief, head <br> [sound:4c-k-長.mp3]
+chief, head	<b>長</b> <br> ちょう, おさ <br> [sound:4c-k-長.mp3]
+[sound:4c-s-彼は会社の長です。.mp3]	<b>彼は会社の長です。</b> <br> かれはかいしゃのちょうです。 <br><br> (長) <br> He is the head of the company.
+彼は会社の長です。 <br><br> (長)	<b>かれはかいしゃのちょうです。</b> <br> He is the head of the company. <br> [sound:4c-s-彼は会社の長です。.mp3]
+He is the head of the company.	<b>彼は会社の長です。</b> <br> かれはかいしゃのちょうです。 <br><br> (長) <br> [sound:4c-s-彼は会社の長です。.mp3]
+[sound:4c-k-委員長.mp3]	<b>委員長</b> <br> いいんちょう <br> committee chairman
+委員長	<b>いいんちょう</b> <br> committee chairman <br> [sound:4c-k-委員長.mp3]
+committee chairman	<b>委員長</b> <br> いいんちょう <br> [sound:4c-k-委員長.mp3]
+[sound:4c-s-委員長が会議を開きました。.mp3]	<b>委員長が会議を開きました。</b> <br> いいんちょうがかいぎをひらきました。 <br><br> (委員長) <br> The committee chair held a meeting.
+委員長が会議を開きました。 <br><br> (委員長)	<b>いいんちょうがかいぎをひらきました。</b> <br> The committee chair held a meeting. <br> [sound:4c-s-委員長が会議を開きました。.mp3]
+The committee chair held a meeting.	<b>委員長が会議を開きました。</b> <br> いいんちょうがかいぎをひらきました。 <br><br> (委員長) <br> [sound:4c-s-委員長が会議を開きました。.mp3]
+[sound:4c-k-会長.mp3]	<b>会長</b> <br> かいちょう <br> president (of a society), chairman
+会長	<b>かいちょう</b> <br> president (of a society), chairman <br> [sound:4c-k-会長.mp3]
+president (of a society), chairman	<b>会長</b> <br> かいちょう <br> [sound:4c-k-会長.mp3]
+[sound:4c-s-会社の会長がスピーチをしました。.mp3]	<b>会社の会長がスピーチをしました。</b> <br> かいしゃのかいちょうがスピーチをしました。 <br><br> (会長) <br> The company president gave a speech.
+会社の会長がスピーチをしました。 <br><br> (会長)	<b>かいしゃのかいちょうがスピーチをしました。</b> <br> The company president gave a speech. <br> [sound:4c-s-会社の会長がスピーチをしました。.mp3]
+The company president gave a speech.	<b>会社の会長がスピーチをしました。</b> <br> かいしゃのかいちょうがスピーチをしました。 <br><br> (会長) <br> [sound:4c-s-会社の会長がスピーチをしました。.mp3]
+[sound:4c-k-議長.mp3]	<b>議長</b> <br> ぎちょう <br> chairman, speaker (e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup)
+議長	<b>ぎちょう</b> <br> chairman, speaker (e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup) <br> [sound:4c-k-議長.mp3]
+chairman, speaker (e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup)	<b>議長</b> <br> ぎちょう <br> [sound:4c-k-議長.mp3]
+[sound:4c-s-議長は議論をまとめました。.mp3]	<b>議長は議論をまとめました。</b> <br> ぎちょうはぎろんをまとめました。 <br><br> (議長) <br> The chairman summarized the discussion.
+議長は議論をまとめました。 <br><br> (議長)	<b>ぎちょうはぎろんをまとめました。</b> <br> The chairman summarized the discussion. <br> [sound:4c-s-議長は議論をまとめました。.mp3]
+The chairman summarized the discussion.	<b>議長は議論をまとめました。</b> <br> ぎちょうはぎろんをまとめました。 <br><br> (議長) <br> [sound:4c-s-議長は議論をまとめました。.mp3]
+[sound:4c-k-出す.mp3]	<b>出す</b> <br> だす <br> to take out, to get out; to put out, to reveal, to show; to submit (e.g. thesis), to turn in; to publish, to make public; to send (e.g. letter); to produce (a sound), to start (fire); to serve (food); to begin
+出す	<b>だす</b> <br> to take out, to get out; to put out, to reveal, to show; to submit (e.g. thesis), to turn in; to publish, to make public; to send (e.g. letter); to produce (a sound), to start (fire); to serve (food); to begin <br> [sound:4c-k-出す.mp3]
+to take out, to get out; to put out, to reveal, to show; to submit (e.g. thesis), to turn in; to publish, to make public; to send (e.g. letter); to produce (a sound), to start (fire); to serve (food); to begin	<b>出す</b> <br> だす <br> [sound:4c-k-出す.mp3]
+[sound:4c-s-彼は新しいアイデアを出しました。.mp3]	<b>彼は新しいアイデアを出しました。</b> <br> かれはあたらしいアイデアをだしました。 <br><br> (出す) <br> He came up with a new idea.
+彼は新しいアイデアを出しました。 <br><br> (出す)	<b>かれはあたらしいアイデアをだしました。</b> <br> He came up with a new idea. <br> [sound:4c-s-彼は新しいアイデアを出しました。.mp3]
+He came up with a new idea.	<b>彼は新しいアイデアを出しました。</b> <br> かれはあたらしいアイデアをだしました。 <br><br> (出す) <br> [sound:4c-s-彼は新しいアイデアを出しました。.mp3]
+[sound:4c-k-出身.mp3]	<b>出身</b> <br> しゅっしん <br> person's origin (town, city, country, etc.); institution from which one graduated; director in charge of employee relations
+出身	<b>しゅっしん</b> <br> person's origin (town, city, country, etc.); institution from which one graduated; director in charge of employee relations <br> [sound:4c-k-出身.mp3]
+person's origin (town, city, country, etc.); institution from which one graduated; director in charge of employee relations	<b>出身</b> <br> しゅっしん <br> [sound:4c-k-出身.mp3]
+[sound:4c-s-彼は東京出身です。.mp3]	<b>彼は東京出身です。</b> <br> かれはとうきょうしゅっしんです。 <br><br> (出身) <br> He is from Tokyo.
+彼は東京出身です。 <br><br> (出身)	<b>かれはとうきょうしゅっしんです。</b> <br> He is from Tokyo. <br> [sound:4c-s-彼は東京出身です。.mp3]
+He is from Tokyo.	<b>彼は東京出身です。</b> <br> かれはとうきょうしゅっしんです。 <br><br> (出身) <br> [sound:4c-s-彼は東京出身です。.mp3]
+[sound:4c-k-輸出.mp3]	<b>輸出</b> <br> ゆしゅつ, しゅしゅつ <br> export; efferent (medical)
+輸出	<b>ゆしゅつ, しゅしゅつ</b> <br> export; efferent (medical) <br> [sound:4c-k-輸出.mp3]
+export; efferent (medical)	<b>輸出</b> <br> ゆしゅつ, しゅしゅつ <br> [sound:4c-k-輸出.mp3]
+[sound:4c-s-この国は多くの商品を輸出しています。.mp3]	<b>この国は多くの商品を輸出しています。</b> <br> このくにはおおくのしょうひんをゆしゅつしています。 <br><br> (輸出) <br> This country exports many products.
+この国は多くの商品を輸出しています。 <br><br> (輸出)	<b>このくにはおおくのしょうひんをゆしゅつしています。</b> <br> This country exports many products. <br> [sound:4c-s-この国は多くの商品を輸出しています。.mp3]
+This country exports many products.	<b>この国は多くの商品を輸出しています。</b> <br> このくにはおおくのしょうひんをゆしゅつしています。 <br><br> (輸出) <br> [sound:4c-s-この国は多くの商品を輸出しています。.mp3]
+[sound:4c-k-出場.mp3]	<b>出場</b> <br> しゅつじょう <br> (stage) appearance, participation, performance
+出場	<b>しゅつじょう</b> <br> (stage) appearance, participation, performance <br> [sound:4c-k-出場.mp3]
+(stage) appearance, participation, performance	<b>出場</b> <br> しゅつじょう <br> [sound:4c-k-出場.mp3]
+[sound:4c-s-彼は大会に出場します。.mp3]	<b>彼は大会に出場します。</b> <br> かれはたいかいにしゅつじょうします。 <br><br> (出場) <br> He will participate in the tournament.
+彼は大会に出場します。 <br><br> (出場)	<b>かれはたいかいにしゅつじょうします。</b> <br> He will participate in the tournament. <br> [sound:4c-s-彼は大会に出場します。.mp3]
+He will participate in the tournament.	<b>彼は大会に出場します。</b> <br> かれはたいかいにしゅつじょうします。 <br><br> (出場) <br> [sound:4c-s-彼は大会に出場します。.mp3]
+[sound:4c-k-三.mp3]	<b>三</b> <br> さん, み <br> three
+三	<b>さん, み</b> <br> three <br> [sound:4c-k-三.mp3]
+three	<b>三</b> <br> さん, み <br> [sound:4c-k-三.mp3]
+[sound:4c-s-三人で映画を見に行きました。.mp3]	<b>三人で映画を見に行きました。</b> <br> さんにんでえいがをみにいきました。 <br><br> (三) <br> Three people went to watch a movie.
+三人で映画を見に行きました。 <br><br> (三)	<b>さんにんでえいがをみにいきました。</b> <br> Three people went to watch a movie. <br> [sound:4c-s-三人で映画を見に行きました。.mp3]
+Three people went to watch a movie.	<b>三人で映画を見に行きました。</b> <br> さんにんでえいがをみにいきました。 <br><br> (三) <br> [sound:4c-s-三人で映画を見に行きました。.mp3]
+[sound:4c-k-三つ.mp3]	<b>三つ</b> <br> みっつ <br> three
+三つ	<b>みっつ</b> <br> three <br> [sound:4c-k-三つ.mp3]
+three	<b>三つ</b> <br> みっつ <br> [sound:4c-k-三つ.mp3]
+[sound:4c-s-テーブルの上に三つのリンゴがあります。.mp3]	<b>テーブルの上に三つのリンゴがあります。</b> <br> テーブルのうえにみっつのりんごがあります。 <br><br> (三つ) <br> There are three apples on the table.
+テーブルの上に三つのリンゴがあります。 <br><br> (三つ)	<b>テーブルのうえにみっつのりんごがあります。</b> <br> There are three apples on the table. <br> [sound:4c-s-テーブルの上に三つのリンゴがあります。.mp3]
+There are three apples on the table.	<b>テーブルの上に三つのリンゴがあります。</b> <br> テーブルのうえにみっつのりんごがあります。 <br><br> (三つ) <br> [sound:4c-s-テーブルの上に三つのリンゴがあります。.mp3]
+[sound:4c-k-三月.mp3]	<b>三月</b> <br> さんがつ <br> March
+三月	<b>さんがつ</b> <br> March <br> [sound:4c-k-三月.mp3]
+March	<b>三月</b> <br> さんがつ <br> [sound:4c-k-三月.mp3]
+[sound:4c-s-三月は春の始まりです。.mp3]	<b>三月は春の始まりです。</b> <br> さんがつははるのはじまりです。 <br><br> (三月) <br> March is the beginning of spring.
+三月は春の始まりです。 <br><br> (三月)	<b>さんがつははるのはじまりです。</b> <br> March is the beginning of spring. <br> [sound:4c-s-三月は春の始まりです。.mp3]
+March is the beginning of spring.	<b>三月は春の始まりです。</b> <br> さんがつははるのはじまりです。 <br><br> (三月) <br> [sound:4c-s-三月は春の始まりです。.mp3]
+[sound:4c-k-三人.mp3]	<b>三人</b> <br> さんにん, みたり <br> three people
+三人	<b>さんにん, みたり</b> <br> three people <br> [sound:4c-k-三人.mp3]
+three people	<b>三人</b> <br> さんにん, みたり <br> [sound:4c-k-三人.mp3]
+[sound:4c-s-三人とも日本語を話せます。.mp3]	<b>三人とも日本語を話せます。</b> <br> さんにんともにほんごをはなせます。 <br><br> (三人) <br> All three people can speak Japanese.
+三人とも日本語を話せます。 <br><br> (三人)	<b>さんにんともにほんごをはなせます。</b> <br> All three people can speak Japanese. <br> [sound:4c-s-三人とも日本語を話せます。.mp3]
+All three people can speak Japanese.	<b>三人とも日本語を話せます。</b> <br> さんにんともにほんごをはなせます。 <br><br> (三人) <br> [sound:4c-s-三人とも日本語を話せます。.mp3]
+[sound:4c-k-同時.mp3]	<b>同時</b> <br> どうじ <br> simultaneous(ly), concurrent, same time, synchronous, together
+同時	<b>どうじ</b> <br> simultaneous(ly), concurrent, same time, synchronous, together <br> [sound:4c-k-同時.mp3]
+simultaneous(ly), concurrent, same time, synchronous, together	<b>同時</b> <br> どうじ <br> [sound:4c-k-同時.mp3]
+[sound:4c-s-会議とパーティーが同時に行われます。.mp3]	<b>会議とパーティーが同時に行われます。</b> <br> かいぎとパーティーがどうじにおこなわれます。 <br><br> (同時) <br> The meeting and party will be held at the same time.
+会議とパーティーが同時に行われます。 <br><br> (同時)	<b>かいぎとパーティーがどうじにおこなわれます。</b> <br> The meeting and party will be held at the same time. <br> [sound:4c-s-会議とパーティーが同時に行われます。.mp3]
+The meeting and party will be held at the same time.	<b>会議とパーティーが同時に行われます。</b> <br> かいぎとパーティーがどうじにおこなわれます。 <br><br> (同時) <br> [sound:4c-s-会議とパーティーが同時に行われます。.mp3]
+[sound:4c-k-同社.mp3]	<b>同社</b> <br> どうしゃ <br> the same firm
+同社	<b>どうしゃ</b> <br> the same firm <br> [sound:4c-k-同社.mp3]
+the same firm	<b>同社</b> <br> どうしゃ <br> [sound:4c-k-同社.mp3]
+[sound:4c-s-彼は同社の社員です。.mp3]	<b>彼は同社の社員です。</b> <br> かれはどうしゃのしゃいんです。 <br><br> (同社) <br> He is an employee of the same company.
+彼は同社の社員です。 <br><br> (同社)	<b>かれはどうしゃのしゃいんです。</b> <br> He is an employee of the same company. <br> [sound:4c-s-彼は同社の社員です。.mp3]
+He is an employee of the same company.	<b>彼は同社の社員です。</b> <br> かれはどうしゃのしゃいんです。 <br><br> (同社) <br> [sound:4c-s-彼は同社の社員です。.mp3]
+[sound:4c-k-同日.mp3]	<b>同日</b> <br> どうじつ <br> the same day
+同日	<b>どうじつ</b> <br> the same day <br> [sound:4c-k-同日.mp3]
+the same day	<b>同日</b> <br> どうじつ <br> [sound:4c-k-同日.mp3]
+[sound:4c-s-会議は同日に行われます。.mp3]	<b>会議は同日に行われます。</b> <br> かいぎはどうじつにおこなわれます。 <br><br> (同日) <br> The meeting will be held on the same day.
+会議は同日に行われます。 <br><br> (同日)	<b>かいぎはどうじつにおこなわれます。</b> <br> The meeting will be held on the same day. <br> [sound:4c-s-会議は同日に行われます。.mp3]
+The meeting will be held on the same day.	<b>会議は同日に行われます。</b> <br> かいぎはどうじつにおこなわれます。 <br><br> (同日) <br> [sound:4c-s-会議は同日に行われます。.mp3]
+[sound:4c-k-共同.mp3]	<b>共同</b> <br> きょうどう <br> doing together (as equals), sharing, common (land, etc.), joint (statement, etc.), cooperation, co-operation, collaboration, association
+共同	<b>きょうどう</b> <br> doing together (as equals), sharing, common (land, etc.), joint (statement, etc.), cooperation, co-operation, collaboration, association <br> [sound:4c-k-共同.mp3]
+doing together (as equals), sharing, common (land, etc.), joint (statement, etc.), cooperation, co-operation, collaboration, association	<b>共同</b> <br> きょうどう <br> [sound:4c-k-共同.mp3]
+[sound:4c-s-共同で新しいプロジェクトを始めました。.mp3]	<b>共同で新しいプロジェクトを始めました。</b> <br> きょうどうであたらしいプロジェクトをはじめました。 <br><br> (共同) <br> We started a new project together.
+共同で新しいプロジェクトを始めました。 <br><br> (共同)	<b>きょうどうであたらしいプロジェクトをはじめました。</b> <br> We started a new project together. <br> [sound:4c-s-共同で新しいプロジェクトを始めました。.mp3]
+We started a new project together.	<b>共同で新しいプロジェクトを始めました。</b> <br> きょうどうであたらしいプロジェクトをはじめました。 <br><br> (共同) <br> [sound:4c-s-共同で新しいプロジェクトを始めました。.mp3]
+[sound:4c-k-時.mp3]	<b>時</b> <br> とき <br> time, hour; occasion, moment
+時	<b>とき</b> <br> time, hour; occasion, moment <br> [sound:4c-k-時.mp3]
+time, hour; occasion, moment	<b>時</b> <br> とき <br> [sound:4c-k-時.mp3]
+[sound:4c-s-時間があるときに読書をします。.mp3]	<b>時間があるときに読書をします。</b> <br> じかんがあるときにどくしょをします。 <br><br> (時) <br> I read books when I have time.
+時間があるときに読書をします。 <br><br> (時)	<b>じかんがあるときにどくしょをします。</b> <br> I read books when I have time. <br> [sound:4c-s-時間があるときに読書をします。.mp3]
+I read books when I have time.	<b>時間があるときに読書をします。</b> <br> じかんがあるときにどくしょをします。 <br><br> (時) <br> [sound:4c-s-時間があるときに読書をします。.mp3]
+[sound:4c-k-時間.mp3]	<b>時間</b> <br> じかん <br> time; hours
+時間	<b>じかん</b> <br> time; hours <br> [sound:4c-k-時間.mp3]
+time; hours	<b>時間</b> <br> じかん <br> [sound:4c-k-時間.mp3]
+[sound:4c-s-仕事に多くの時間を使います。.mp3]	<b>仕事に多くの時間を使います。</b> <br> しごとにおおくのじかんをつかいます。 <br><br> (時間) <br> I spend a lot of time on work.
+仕事に多くの時間を使います。 <br><br> (時間)	<b>しごとにおおくのじかんをつかいます。</b> <br> I spend a lot of time on work. <br> [sound:4c-s-仕事に多くの時間を使います。.mp3]
+I spend a lot of time on work.	<b>仕事に多くの時間を使います。</b> <br> しごとにおおくのじかんをつかいます。 <br><br> (時間) <br> [sound:4c-s-仕事に多くの時間を使います。.mp3]
+[sound:4c-k-時期.mp3]	<b>時期</b> <br> じき <br> time, season, period; soon, shortly
+時期	<b>じき</b> <br> time, season, period; soon, shortly <br> [sound:4c-k-時期.mp3]
+time, season, period; soon, shortly	<b>時期</b> <br> じき <br> [sound:4c-k-時期.mp3]
+[sound:4c-s-旅行の時期を決めるのが難しいです。.mp3]	<b>旅行の時期を決めるのが難しいです。</b> <br> りょこうのじきをきめるのがむずかしいです。 <br><br> (時期) <br> It's difficult to decide the timing for travel.
+旅行の時期を決めるのが難しいです。 <br><br> (時期)	<b>りょこうのじきをきめるのがむずかしいです。</b> <br> It's difficult to decide the timing for travel. <br> [sound:4c-s-旅行の時期を決めるのが難しいです。.mp3]
+It's difficult to decide the timing for travel.	<b>旅行の時期を決めるのが難しいです。</b> <br> りょこうのじきをきめるのがむずかしいです。 <br><br> (時期) <br> [sound:4c-s-旅行の時期を決めるのが難しいです。.mp3]
+[sound:4c-k-時代.mp3]	<b>時代</b> <br> じだい <br> period, epoch, era, age; the times, those days; oldness, ancientness, antiquity; antique, period piece
+時代	<b>じだい</b> <br> period, epoch, era, age; the times, those days; oldness, ancientness, antiquity; antique, period piece <br> [sound:4c-k-時代.mp3]
+period, epoch, era, age; the times, those days; oldness, ancientness, antiquity; antique, period piece	<b>時代</b> <br> じだい <br> [sound:4c-k-時代.mp3]
+[sound:4c-s-彼は江戸時代の歴史が好きです。.mp3]	<b>彼は江戸時代の歴史が好きです。</b> <br> かれはえどじだいのれきしがすきです。 <br><br> (時代) <br> He likes the history of the Edo period.
+彼は江戸時代の歴史が好きです。 <br><br> (時代)	<b>かれはえどじだいのれきしがすきです。</b> <br> He likes the history of the Edo period. <br> [sound:4c-s-彼は江戸時代の歴史が好きです。.mp3]
+He likes the history of the Edo period.	<b>彼は江戸時代の歴史が好きです。</b> <br> かれはえどじだいのれきしがすきです。 <br><br> (時代) <br> [sound:4c-s-彼は江戸時代の歴史が好きです。.mp3]
+[sound:4c-k-政.mp3]	<b>政</b> <br> まつりごと <br> rule, government
+政	<b>まつりごと</b> <br> rule, government <br> [sound:4c-k-政.mp3]
+rule, government	<b>政</b> <br> まつりごと <br> [sound:4c-k-政.mp3]
+[sound:4c-s-政界の変化が注目されています。.mp3]	<b>政界の変化が注目されています。</b> <br> せいかいのへんかがちゅうもくされています。 <br><br> (政) <br> Changes in the political world are being noticed.
+政界の変化が注目されています。 <br><br> (政)	<b>せいかいのへんかがちゅうもくされています。</b> <br> Changes in the political world are being noticed. <br> [sound:4c-s-政界の変化が注目されています。.mp3]
+Changes in the political world are being noticed.	<b>政界の変化が注目されています。</b> <br> せいかいのへんかがちゅうもくされています。 <br><br> (政) <br> [sound:4c-s-政界の変化が注目されています。.mp3]
+[sound:4c-k-行政.mp3]	<b>行政</b> <br> ぎょうせい <br> administration
+行政	<b>ぎょうせい</b> <br> administration <br> [sound:4c-k-行政.mp3]
+administration	<b>行政</b> <br> ぎょうせい <br> [sound:4c-k-行政.mp3]
+[sound:4c-s-行政の役割は重要です。.mp3]	<b>行政の役割は重要です。</b> <br> ぎょうせいのやくわりはじゅうようです。 <br><br> (行政) <br> The role of administration is important.
+行政の役割は重要です。 <br><br> (行政)	<b>ぎょうせいのやくわりはじゅうようです。</b> <br> The role of administration is important. <br> [sound:4c-s-行政の役割は重要です。.mp3]
+The role of administration is important.	<b>行政の役割は重要です。</b> <br> ぎょうせいのやくわりはじゅうようです。 <br><br> (行政) <br> [sound:4c-s-行政の役割は重要です。.mp3]
+[sound:4c-k-財政.mp3]	<b>財政</b> <br> ざいせい <br> financial affairs, public finance
+財政	<b>ざいせい</b> <br> financial affairs, public finance <br> [sound:4c-k-財政.mp3]
+financial affairs, public finance	<b>財政</b> <br> ざいせい <br> [sound:4c-k-財政.mp3]
+[sound:4c-s-財政の改革が必要です。.mp3]	<b>財政の改革が必要です。</b> <br> ざいせいのかいかくがひつようです。 <br><br> (財政) <br> Fiscal reform is necessary.
+財政の改革が必要です。 <br><br> (財政)	<b>ざいせいのかいかくがひつようです。</b> <br> Fiscal reform is necessary. <br> [sound:4c-s-財政の改革が必要です。.mp3]
+Fiscal reform is necessary.	<b>財政の改革が必要です。</b> <br> ざいせいのかいかくがひつようです。 <br><br> (財政) <br> [sound:4c-s-財政の改革が必要です。.mp3]
+[sound:4c-k-政界.mp3]	<b>政界</b> <br> せいかい <br> political world
+政界	<b>せいかい</b> <br> political world <br> [sound:4c-k-政界.mp3]
+political world	<b>政界</b> <br> せいかい <br> [sound:4c-k-政界.mp3]
+[sound:4c-s-政界のニュースに興味があります。.mp3]	<b>政界のニュースに興味があります。</b> <br> せいかいのニュースにきょうみがあります。 <br><br> (政界) <br> I'm interested in political news.
+政界のニュースに興味があります。 <br><br> (政界)	<b>せいかいのニュースにきょうみがあります。</b> <br> I'm interested in political news. <br> [sound:4c-s-政界のニュースに興味があります。.mp3]
+I'm interested in political news.	<b>政界のニュースに興味があります。</b> <br> せいかいのニュースにきょうみがあります。 <br><br> (政界) <br> [sound:4c-s-政界のニュースに興味があります。.mp3]
+[sound:4c-k-事.mp3]	<b>事</b> <br> こと <br> thing, matter, fact, circumstances, business, reason, experience
+事	<b>こと</b> <br> thing, matter, fact, circumstances, business, reason, experience <br> [sound:4c-k-事.mp3]
+thing, matter, fact, circumstances, business, reason, experience	<b>事</b> <br> こと <br> [sound:4c-k-事.mp3]
+[sound:4c-s-その事について詳しく話しましょう。.mp3]	<b>その事について詳しく話しましょう。</b> <br> そのことについてくわしくはなしましょう。 <br><br> (事) <br> Let's talk about that matter in detail.
+その事について詳しく話しましょう。 <br><br> (事)	<b>そのことについてくわしくはなしましょう。</b> <br> Let's talk about that matter in detail. <br> [sound:4c-s-その事について詳しく話しましょう。.mp3]
+Let's talk about that matter in detail.	<b>その事について詳しく話しましょう。</b> <br> そのことについてくわしくはなしましょう。 <br><br> (事) <br> [sound:4c-s-その事について詳しく話しましょう。.mp3]
+[sound:4c-k-幹事.mp3]	<b>幹事</b> <br> かんじ <br> executive secretary, coordinator, organizer, person in charge of making arrangements
+幹事	<b>かんじ</b> <br> executive secretary, coordinator, organizer, person in charge of making arrangements <br> [sound:4c-k-幹事.mp3]
+executive secretary, coordinator, organizer, person in charge of making arrangements	<b>幹事</b> <br> かんじ <br> [sound:4c-k-幹事.mp3]
+[sound:4c-s-幹事が会を準備しています。.mp3]	<b>幹事が会を準備しています。</b> <br> かんじがかいをじゅんびしています。 <br><br> (幹事) <br> The organizer is preparing the event.
+幹事が会を準備しています。 <br><br> (幹事)	<b>かんじがかいをじゅんびしています。</b> <br> The organizer is preparing the event. <br> [sound:4c-s-幹事が会を準備しています。.mp3]
+The organizer is preparing the event.	<b>幹事が会を準備しています。</b> <br> かんじがかいをじゅんびしています。 <br><br> (幹事) <br> [sound:4c-s-幹事が会を準備しています。.mp3]
+[sound:4c-k-記事.mp3]	<b>記事</b> <br> きじ <br> article, news story, report, account
+記事	<b>きじ</b> <br> article, news story, report, account <br> [sound:4c-k-記事.mp3]
+article, news story, report, account	<b>記事</b> <br> きじ <br> [sound:4c-k-記事.mp3]
+[sound:4c-s-新聞の記事を読みました。.mp3]	<b>新聞の記事を読みました。</b> <br> しんぶんのきじをよみました。 <br><br> (記事) <br> I read the newspaper article.
+新聞の記事を読みました。 <br><br> (記事)	<b>しんぶんのきじをよみました。</b> <br> I read the newspaper article. <br> [sound:4c-s-新聞の記事を読みました。.mp3]
+I read the newspaper article.	<b>新聞の記事を読みました。</b> <br> しんぶんのきじをよみました。 <br><br> (記事) <br> [sound:4c-s-新聞の記事を読みました。.mp3]
+[sound:4c-k-軍事.mp3]	<b>軍事</b> <br> ぐんじ <br> military affairs
+軍事	<b>ぐんじ</b> <br> military affairs <br> [sound:4c-k-軍事.mp3]
+military affairs	<b>軍事</b> <br> ぐんじ <br> [sound:4c-k-軍事.mp3]
+[sound:4c-s-軍事についての議論が続いています。.mp3]	<b>軍事についての議論が続いています。</b> <br> ぐんじについてのぎろんがつづいています。 <br><br> (軍事) <br> Discussions on military affairs are ongoing.
+軍事についての議論が続いています。 <br><br> (軍事)	<b>ぐんじについてのぎろんがつづいています。</b> <br> Discussions on military affairs are ongoing. <br> [sound:4c-s-軍事についての議論が続いています。.mp3]
+Discussions on military affairs are ongoing.	<b>軍事についての議論が続いています。</b> <br> ぐんじについてのぎろんがつづいています。 <br><br> (軍事) <br> [sound:4c-s-軍事についての議論が続いています。.mp3]
+[sound:4c-k-自ら.mp3]	<b>自ら</b> <br> みずから <br> for one's self, personally
+自ら	<b>みずから</b> <br> for one's self, personally <br> [sound:4c-k-自ら.mp3]
+for one's self, personally	<b>自ら</b> <br> みずから <br> [sound:4c-k-自ら.mp3]
+[sound:4c-s-彼が自ら計画を立てました。.mp3]	<b>彼が自ら計画を立てました。</b> <br> かれがみずからけいかくをたてました。 <br><br> (自ら) <br> He made the plan himself.
+彼が自ら計画を立てました。 <br><br> (自ら)	<b>かれがみずからけいかくをたてました。</b> <br> He made the plan himself. <br> [sound:4c-s-彼が自ら計画を立てました。.mp3]
+He made the plan himself.	<b>彼が自ら計画を立てました。</b> <br> かれがみずからけいかくをたてました。 <br><br> (自ら) <br> [sound:4c-s-彼が自ら計画を立てました。.mp3]
+[sound:4c-k-自衛隊.mp3]	<b>自衛隊</b> <br> じえいたい <br> self-defence force, self-defense force; Japan Self-Defence Force, JSDF
+自衛隊	<b>じえいたい</b> <br> self-defence force, self-defense force; Japan Self-Defence Force, JSDF <br> [sound:4c-k-自衛隊.mp3]
+self-defence force, self-defense force; Japan Self-Defence Force, JSDF	<b>自衛隊</b> <br> じえいたい <br> [sound:4c-k-自衛隊.mp3]
+[sound:4c-s-自衛隊が救援活動を行っています。.mp3]	<b>自衛隊が救援活動を行っています。</b> <br> じえいたいがきゅうえんかつどうをおこなっています。 <br><br> (自衛隊) <br> The Self-Defense Forces are conducting rescue operations.
+自衛隊が救援活動を行っています。 <br><br> (自衛隊)	<b>じえいたいがきゅうえんかつどうをおこなっています。</b> <br> The Self-Defense Forces are conducting rescue operations. <br> [sound:4c-s-自衛隊が救援活動を行っています。.mp3]
+The Self-Defense Forces are conducting rescue operations.	<b>自衛隊が救援活動を行っています。</b> <br> じえいたいがきゅうえんかつどうをおこなっています。 <br><br> (自衛隊) <br> [sound:4c-s-自衛隊が救援活動を行っています。.mp3]
+[sound:4c-k-自身.mp3]	<b>自身</b> <br> じしん <br> by oneself, personally
+自身	<b>じしん</b> <br> by oneself, personally <br> [sound:4c-k-自身.mp3]
+by oneself, personally	<b>自身</b> <br> じしん <br> [sound:4c-k-自身.mp3]
+[sound:4c-s-自分自身を信じることが大切です。.mp3]	<b>自分自身を信じることが大切です。</b> <br> じぶんじしんをしんじることがたいせつです。 <br><br> (自身) <br> It's important to believe in yourself.
+自分自身を信じることが大切です。 <br><br> (自身)	<b>じぶんじしんをしんじることがたいせつです。</b> <br> It's important to believe in yourself. <br> [sound:4c-s-自分自身を信じることが大切です。.mp3]
+It's important to believe in yourself.	<b>自分自身を信じることが大切です。</b> <br> じぶんじしんをしんじることがたいせつです。 <br><br> (自身) <br> [sound:4c-s-自分自身を信じることが大切です。.mp3]
+[sound:4c-k-自然.mp3]	<b>自然</b> <br> しぜん <br> nature, spontaneity; naturally, spontaneously
+自然	<b>しぜん</b> <br> nature, spontaneity; naturally, spontaneously <br> [sound:4c-k-自然.mp3]
+nature, spontaneity; naturally, spontaneously	<b>自然</b> <br> しぜん <br> [sound:4c-k-自然.mp3]
+[sound:4c-s-自然の美しさを楽しんでいます。.mp3]	<b>自然の美しさを楽しんでいます。</b> <br> しぜんのうつくしさをたのしんでいます。 <br><br> (自然) <br> I'm enjoying the beauty of nature.
+自然の美しさを楽しんでいます。 <br><br> (自然)	<b>しぜんのうつくしさをたのしんでいます。</b> <br> I'm enjoying the beauty of nature. <br> [sound:4c-s-自然の美しさを楽しんでいます。.mp3]
+I'm enjoying the beauty of nature.	<b>自然の美しさを楽しんでいます。</b> <br> しぜんのうつくしさをたのしんでいます。 <br><br> (自然) <br> [sound:4c-s-自然の美しさを楽しんでいます。.mp3]
+[sound:4c-k-行う.mp3]	<b>行う</b> <br> おこなう <br> to perform, to do, to conduct oneself, to carry out
+行う	<b>おこなう</b> <br> to perform, to do, to conduct oneself, to carry out <br> [sound:4c-k-行う.mp3]
+to perform, to do, to conduct oneself, to carry out	<b>行う</b> <br> おこなう <br> [sound:4c-k-行う.mp3]
+[sound:4c-s-彼はプロジェクトを行うことを決めました。.mp3]	<b>彼はプロジェクトを行うことを決めました。</b> <br> かれはプロジェクトをおこなうことをきめました。 <br><br> (行う) <br> He decided to carry out the project.
+彼はプロジェクトを行うことを決めました。 <br><br> (行う)	<b>かれはプロジェクトをおこなうことをきめました。</b> <br> He decided to carry out the project. <br> [sound:4c-s-彼はプロジェクトを行うことを決めました。.mp3]
+He decided to carry out the project.	<b>彼はプロジェクトを行うことを決めました。</b> <br> かれはプロジェクトをおこなうことをきめました。 <br><br> (行う) <br> [sound:4c-s-彼はプロジェクトを行うことを決めました。.mp3]
+[sound:4c-k-行.mp3]	<b>行</b> <br> ぎょう <br> line (i.e. of text), row, verse; carya (austerities); samskara (formations); running script (a semi-cursive style of kanji)
+行	<b>ぎょう</b> <br> line (i.e. of text), row, verse; carya (austerities); samskara (formations); running script (a semi-cursive style of kanji) <br> [sound:4c-k-行.mp3]
+line (i.e. of text), row, verse; carya (austerities); samskara (formations); running script (a semi-cursive style of kanji)	<b>行</b> <br> ぎょう <br> [sound:4c-k-行.mp3]
+[sound:4c-s-彼は新しい事業を行っています。.mp3]	<b>彼は新しい事業を行っています。</b> <br> かれはあたらしいじぎょうをおこなっています。 <br><br> (行) <br> He is running a new business.
+彼は新しい事業を行っています。 <br><br> (行)	<b>かれはあたらしいじぎょうをおこなっています。</b> <br> He is running a new business. <br> [sound:4c-s-彼は新しい事業を行っています。.mp3]
+He is running a new business.	<b>彼は新しい事業を行っています。</b> <br> かれはあたらしいじぎょうをおこなっています。 <br><br> (行) <br> [sound:4c-s-彼は新しい事業を行っています。.mp3]
+[sound:4c-k-銀行.mp3]	<b>銀行</b> <br> ぎんこう <br> bank
+銀行	<b>ぎんこう</b> <br> bank <br> [sound:4c-k-銀行.mp3]
+bank	<b>銀行</b> <br> ぎんこう <br> [sound:4c-k-銀行.mp3]
+[sound:4c-s-銀行でお金を引き出しました。.mp3]	<b>銀行でお金を引き出しました。</b> <br> ぎんこうでおかねをひきだしました。 <br><br> (銀行) <br> I withdrew money at the bank.
+銀行でお金を引き出しました。 <br><br> (銀行)	<b>ぎんこうでおかねをひきだしました。</b> <br> I withdrew money at the bank. <br> [sound:4c-s-銀行でお金を引き出しました。.mp3]
+I withdrew money at the bank.	<b>銀行でお金を引き出しました。</b> <br> ぎんこうでおかねをひきだしました。 <br><br> (銀行) <br> [sound:4c-s-銀行でお金を引き出しました。.mp3]
+[sound:4c-k-行政.mp3]	<b>行政</b> <br> ぎょうせい <br> administration
+行政	<b>ぎょうせい</b> <br> administration <br> [sound:4c-k-行政.mp3]
+administration	<b>行政</b> <br> ぎょうせい <br> [sound:4c-k-行政.mp3]
+[sound:4c-s-行政の決定が市民に影響します。.mp3]	<b>行政の決定が市民に影響します。</b> <br> ぎょうせいのけっていがしみんにえいきょうします。 <br><br> (行政) <br> Administrative decisions affect citizens.
+行政の決定が市民に影響します。 <br><br> (行政)	<b>ぎょうせいのけっていがしみんにえいきょうします。</b> <br> Administrative decisions affect citizens. <br> [sound:4c-s-行政の決定が市民に影響します。.mp3]
+Administrative decisions affect citizens.	<b>行政の決定が市民に影響します。</b> <br> ぎょうせいのけっていがしみんにえいきょうします。 <br><br> (行政) <br> [sound:4c-s-行政の決定が市民に影響します。.mp3]
+[sound:4c-k-会社.mp3]	<b>会社</b> <br> かいしゃ <br> company, corporation; workplace
+会社	<b>かいしゃ</b> <br> company, corporation; workplace <br> [sound:4c-k-会社.mp3]
+company, corporation; workplace	<b>会社</b> <br> かいしゃ <br> [sound:4c-k-会社.mp3]
+[sound:4c-s-彼は新しい会社を設立しました。.mp3]	<b>彼は新しい会社を設立しました。</b> <br> かれはあたらしいかいしゃをせつりつしました。 <br><br> (会社) <br> He established a new company.
+彼は新しい会社を設立しました。 <br><br> (会社)	<b>かれはあたらしいかいしゃをせつりつしました。</b> <br> He established a new company. <br> [sound:4c-s-彼は新しい会社を設立しました。.mp3]
+He established a new company.	<b>彼は新しい会社を設立しました。</b> <br> かれはあたらしいかいしゃをせつりつしました。 <br><br> (会社) <br> [sound:4c-s-彼は新しい会社を設立しました。.mp3]
+[sound:4c-k-社会.mp3]	<b>社会</b> <br> しゃかい <br> society, public
+社会	<b>しゃかい</b> <br> society, public <br> [sound:4c-k-社会.mp3]
+society, public	<b>社会</b> <br> しゃかい <br> [sound:4c-k-社会.mp3]
+[sound:4c-s-社会の問題について考えました。.mp3]	<b>社会の問題について考えました。</b> <br> しゃかいのもんだいについてかんがえました。 <br><br> (社会) <br> I thought about social issues.
+社会の問題について考えました。 <br><br> (社会)	<b>しゃかいのもんだいについてかんがえました。</b> <br> I thought about social issues. <br> [sound:4c-s-社会の問題について考えました。.mp3]
+I thought about social issues.	<b>社会の問題について考えました。</b> <br> しゃかいのもんだいについてかんがえました。 <br><br> (社会) <br> [sound:4c-s-社会の問題について考えました。.mp3]
+[sound:4c-k-社会党.mp3]	<b>社会党</b> <br> しゃかいとう <br> Socialist Party
+社会党	<b>しゃかいとう</b> <br> Socialist Party <br> [sound:4c-k-社会党.mp3]
+Socialist Party	<b>社会党</b> <br> しゃかいとう <br> [sound:4c-k-社会党.mp3]
+[sound:4c-s-社会党が政策を発表しました。.mp3]	<b>社会党が政策を発表しました。</b> <br> しゃかいとうがせいさくをはっぴょうしました。 <br><br> (社会党) <br> The Socialist Party announced its policies.
+社会党が政策を発表しました。 <br><br> (社会党)	<b>しゃかいとうがせいさくをはっぴょうしました。</b> <br> The Socialist Party announced its policies. <br> [sound:4c-s-社会党が政策を発表しました。.mp3]
+The Socialist Party announced its policies.	<b>社会党が政策を発表しました。</b> <br> しゃかいとうがせいさくをはっぴょうしました。 <br><br> (社会党) <br> [sound:4c-s-社会党が政策を発表しました。.mp3]
+[sound:4c-k-社長.mp3]	<b>社長</b> <br> しゃちょう <br> company president, manager, director
+社長	<b>しゃちょう</b> <br> company president, manager, director <br> [sound:4c-k-社長.mp3]
+company president, manager, director	<b>社長</b> <br> しゃちょう <br> [sound:4c-k-社長.mp3]
+[sound:4c-s-社長が新しい戦略を考えています。.mp3]	<b>社長が新しい戦略を考えています。</b> <br> しゃちょうがあたらしいせんりゃくをかんがえています。 <br><br> (社長) <br> The president is considering a new strategy.
+社長が新しい戦略を考えています。 <br><br> (社長)	<b>しゃちょうがあたらしいせんりゃくをかんがえています。</b> <br> The president is considering a new strategy. <br> [sound:4c-s-社長が新しい戦略を考えています。.mp3]
+The president is considering a new strategy.	<b>社長が新しい戦略を考えています。</b> <br> しゃちょうがあたらしいせんりゃくをかんがえています。 <br><br> (社長) <br> [sound:4c-s-社長が新しい戦略を考えています。.mp3]
+[sound:4c-k-意見.mp3]	<b>意見</b> <br> いけん <br> opinion, view
+意見	<b>いけん</b> <br> opinion, view <br> [sound:4c-k-意見.mp3]
+opinion, view	<b>意見</b> <br> いけん <br> [sound:4c-k-意見.mp3]
+[sound:4c-s-彼の意見はとても興味深いです。.mp3]	<b>彼の意見はとても興味深いです。</b> <br> かれのいけんはとてもきょうみぶかいです。 <br><br> (意見) <br> His opinion is very interesting.
+彼の意見はとても興味深いです。 <br><br> (意見)	<b>かれのいけんはとてもきょうみぶかいです。</b> <br> His opinion is very interesting. <br> [sound:4c-s-彼の意見はとても興味深いです。.mp3]
+His opinion is very interesting.	<b>彼の意見はとても興味深いです。</b> <br> かれのいけんはとてもきょうみぶかいです。 <br><br> (意見) <br> [sound:4c-s-彼の意見はとても興味深いです。.mp3]
+[sound:4c-k-会見.mp3]	<b>会見</b> <br> かいけん <br> interview, audience
+会見	<b>かいけん</b> <br> interview, audience <br> [sound:4c-k-会見.mp3]
+interview, audience	<b>会見</b> <br> かいけん <br> [sound:4c-k-会見.mp3]
+[sound:4c-s-会見で新しい方針が発表されました。.mp3]	<b>会見で新しい方針が発表されました。</b> <br> かいけんであたらしいほうしんがはっぴょうされました。 <br><br> (会見) <br> A new policy was announced at the press conference.
+会見で新しい方針が発表されました。 <br><br> (会見)	<b>かいけんであたらしいほうしんがはっぴょうされました。</b> <br> A new policy was announced at the press conference. <br> [sound:4c-s-会見で新しい方針が発表されました。.mp3]
+A new policy was announced at the press conference.	<b>会見で新しい方針が発表されました。</b> <br> かいけんであたらしいほうしんがはっぴょうされました。 <br><br> (会見) <br> [sound:4c-s-会見で新しい方針が発表されました。.mp3]
+[sound:4c-k-見直し.mp3]	<b>見直し</b> <br> みなおし <br> review, reconsideration, revision
+見直し	<b>みなおし</b> <br> review, reconsideration, revision <br> [sound:4c-k-見直し.mp3]
+review, reconsideration, revision	<b>見直し</b> <br> みなおし <br> [sound:4c-k-見直し.mp3]
+[sound:4c-s-この計画を見直す必要があります。.mp3]	<b>この計画を見直す必要があります。</b> <br> このけいかくをみなおすひつようがあります。 <br><br> (見直し) <br> We need to revise this plan.
+この計画を見直す必要があります。 <br><br> (見直し)	<b>このけいかくをみなおすひつようがあります。</b> <br> We need to revise this plan. <br> [sound:4c-s-この計画を見直す必要があります。.mp3]
+We need to revise this plan.	<b>この計画を見直す必要があります。</b> <br> このけいかくをみなおすひつようがあります。 <br><br> (見直し) <br> [sound:4c-s-この計画を見直す必要があります。.mp3]
+[sound:4c-k-見方.mp3]	<b>見方</b> <br> みかた <br> viewpoint
+見方	<b>みかた</b> <br> viewpoint <br> [sound:4c-k-見方.mp3]
+viewpoint	<b>見方</b> <br> みかた <br> [sound:4c-k-見方.mp3]
+[sound:4c-s-歴史の見方は人それぞれです。.mp3]	<b>歴史の見方は人それぞれです。</b> <br> れきしのみかたはひとそれぞれです。 <br><br> (見方) <br> Everyone has their own perspective on history.
+歴史の見方は人それぞれです。 <br><br> (見方)	<b>れきしのみかたはひとそれぞれです。</b> <br> Everyone has their own perspective on history. <br> [sound:4c-s-歴史の見方は人それぞれです。.mp3]
+Everyone has their own perspective on history.	<b>歴史の見方は人それぞれです。</b> <br> れきしのみかたはひとそれぞれです。 <br><br> (見方) <br> [sound:4c-s-歴史の見方は人それぞれです。.mp3]
+[sound:4c-k-一月.mp3]	<b>一月</b> <br> いちがつ <br> January
+一月	<b>いちがつ</b> <br> January <br> [sound:4c-k-一月.mp3]
+January	<b>一月</b> <br> いちがつ <br> [sound:4c-k-一月.mp3]
+[sound:4c-s-一月は寒いです。.mp3]	<b>一月は寒いです。</b> <br> いちがつはさむいです。 <br><br> (一月) <br> January is cold.
+一月は寒いです。 <br><br> (一月)	<b>いちがつはさむいです。</b> <br> January is cold. <br> [sound:4c-s-一月は寒いです。.mp3]
+January is cold.	<b>一月は寒いです。</b> <br> いちがつはさむいです。 <br><br> (一月) <br> [sound:4c-s-一月は寒いです。.mp3]
+[sound:4c-k-九月.mp3]	<b>九月</b> <br> くがつ <br> September
+九月	<b>くがつ</b> <br> September <br> [sound:4c-k-九月.mp3]
+September	<b>九月</b> <br> くがつ <br> [sound:4c-k-九月.mp3]
+[sound:4c-s-九月には新学期が始まります。.mp3]	<b>九月には新学期が始まります。</b> <br> くがつにはしんがっきがはじまります。 <br><br> (九月) <br> A new school term begins in September.
+九月には新学期が始まります。 <br><br> (九月)	<b>くがつにはしんがっきがはじまります。</b> <br> A new school term begins in September. <br> [sound:4c-s-九月には新学期が始まります。.mp3]
+A new school term begins in September.	<b>九月には新学期が始まります。</b> <br> くがつにはしんがっきがはじまります。 <br><br> (九月) <br> [sound:4c-s-九月には新学期が始まります。.mp3]
+[sound:4c-k-五月.mp3]	<b>五月</b> <br> ごがつ <br> May
+五月	<b>ごがつ</b> <br> May <br> [sound:4c-k-五月.mp3]
+May	<b>五月</b> <br> ごがつ <br> [sound:4c-k-五月.mp3]
+[sound:4c-s-五月は気候が快適です。.mp3]	<b>五月は気候が快適です。</b> <br> ごがつはきこうがかいてきです。 <br><br> (五月) <br> May has pleasant weather.
+五月は気候が快適です。 <br><br> (五月)	<b>ごがつはきこうがかいてきです。</b> <br> May has pleasant weather. <br> [sound:4c-s-五月は気候が快適です。.mp3]
+May has pleasant weather.	<b>五月は気候が快適です。</b> <br> ごがつはきこうがかいてきです。 <br><br> (五月) <br> [sound:4c-s-五月は気候が快適です。.mp3]
+[sound:4c-k-今月.mp3]	<b>今月</b> <br> こんげつ <br> this month
+今月	<b>こんげつ</b> <br> this month <br> [sound:4c-k-今月.mp3]
+this month	<b>今月</b> <br> こんげつ <br> [sound:4c-k-今月.mp3]
+[sound:4c-s-今月の売上が増えました。.mp3]	<b>今月の売上が増えました。</b> <br> こんげつのうりあげがふえました。 <br><br> (今月) <br> This month’s sales have increased.
+今月の売上が増えました。 <br><br> (今月)	<b>こんげつのうりあげがふえました。</b> <br> This month’s sales have increased. <br> [sound:4c-s-今月の売上が増えました。.mp3]
+This month’s sales have increased.	<b>今月の売上が増えました。</b> <br> こんげつのうりあげがふえました。 <br><br> (今月) <br> [sound:4c-s-今月の売上が増えました。.mp3]
+[sound:4c-k-分け.mp3]	<b>分け</b> <br> わけ <br> sharing, division; draw, tie
+分け	<b>わけ</b> <br> sharing, division; draw, tie <br> [sound:4c-k-分け.mp3]
+sharing, division; draw, tie	<b>分け</b> <br> わけ <br> [sound:4c-k-分け.mp3]
+[sound:4c-s-仕事を効率的に分けましょう。.mp3]	<b>仕事を効率的に分けましょう。</b> <br> しごとをこうりつてきにわけましょう。 <br><br> (分け) <br> Let's divide the work efficiently.
+仕事を効率的に分けましょう。 <br><br> (分け)	<b>しごとをこうりつてきにわけましょう。</b> <br> Let's divide the work efficiently. <br> [sound:4c-s-仕事を効率的に分けましょう。.mp3]
+Let's divide the work efficiently.	<b>仕事を効率的に分けましょう。</b> <br> しごとをこうりつてきにわけましょう。 <br><br> (分け) <br> [sound:4c-s-仕事を効率的に分けましょう。.mp3]
+[sound:4c-k-分ける.mp3]	<b>分ける</b> <br> わける <br> to divide, to separate, to make distinctions, to differentiate (between)
+分ける	<b>わける</b> <br> to divide, to separate, to make distinctions, to differentiate (between) <br> [sound:4c-k-分ける.mp3]
+to divide, to separate, to make distinctions, to differentiate (between)	<b>分ける</b> <br> わける <br> [sound:4c-k-分ける.mp3]
+[sound:4c-s-チームを二つに分けました。.mp3]	<b>チームを二つに分けました。</b> <br> チームをふたつにわけました。 <br><br> (分ける) <br> I divided the team into two.
+チームを二つに分けました。 <br><br> (分ける)	<b>チームをふたつにわけました。</b> <br> I divided the team into two. <br> [sound:4c-s-チームを二つに分けました。.mp3]
+I divided the team into two.	<b>チームを二つに分けました。</b> <br> チームをふたつにわけました。 <br><br> (分ける) <br> [sound:4c-s-チームを二つに分けました。.mp3]
+[sound:4c-k-自分.mp3]	<b>自分</b> <br> じぶん <br> myself, yourself, oneself, himself, herself; I, me
+自分	<b>じぶん</b> <br> myself, yourself, oneself, himself, herself; I, me <br> [sound:4c-k-自分.mp3]
+myself, yourself, oneself, himself, herself; I, me	<b>自分</b> <br> じぶん <br> [sound:4c-k-自分.mp3]
+[sound:4c-s-自分の夢を追い続けています。.mp3]	<b>自分の夢を追い続けています。</b> <br> じぶんのゆめをおいつづけています。 <br><br> (自分) <br> I am chasing my own dreams.
+自分の夢を追い続けています。 <br><br> (自分)	<b>じぶんのゆめをおいつづけています。</b> <br> I am chasing my own dreams. <br> [sound:4c-s-自分の夢を追い続けています。.mp3]
+I am chasing my own dreams.	<b>自分の夢を追い続けています。</b> <br> じぶんのゆめをおいつづけています。 <br><br> (自分) <br> [sound:4c-s-自分の夢を追い続けています。.mp3]
+[sound:4c-k-部分.mp3]	<b>部分</b> <br> ぶぶん <br> portion, section, part
+部分	<b>ぶぶん</b> <br> portion, section, part <br> [sound:4c-k-部分.mp3]
+portion, section, part	<b>部分</b> <br> ぶぶん <br> [sound:4c-k-部分.mp3]
+[sound:4c-s-この本の重要な部分を読みました。.mp3]	<b>この本の重要な部分を読みました。</b> <br> このほんのじゅうようなぶぶんをよみました。 <br><br> (部分) <br> I read the important parts of this book.
+この本の重要な部分を読みました。 <br><br> (部分)	<b>このほんのじゅうようなぶぶんをよみました。</b> <br> I read the important parts of this book. <br> [sound:4c-s-この本の重要な部分を読みました。.mp3]
+I read the important parts of this book.	<b>この本の重要な部分を読みました。</b> <br> このほんのじゅうようなぶぶんをよみました。 <br><br> (部分) <br> [sound:4c-s-この本の重要な部分を読みました。.mp3]
+[sound:4c-k-会議.mp3]	<b>会議</b> <br> かいぎ <br> meeting, conference, session, assembly, council, convention, congress
+会議	<b>かいぎ</b> <br> meeting, conference, session, assembly, council, convention, congress <br> [sound:4c-k-会議.mp3]
+meeting, conference, session, assembly, council, convention, congress	<b>会議</b> <br> かいぎ <br> [sound:4c-k-会議.mp3]
+[sound:4c-s-来週の会議に出席します。.mp3]	<b>来週の会議に出席します。</b> <br> らいしゅうのかいぎにしゅっせきします。 <br><br> (会議) <br> I will attend next week's meeting.
+来週の会議に出席します。 <br><br> (会議)	<b>らいしゅうのかいぎにしゅっせきします。</b> <br> I will attend next week's meeting. <br> [sound:4c-s-来週の会議に出席します。.mp3]
+I will attend next week's meeting.	<b>来週の会議に出席します。</b> <br> らいしゅうのかいぎにしゅっせきします。 <br><br> (会議) <br> [sound:4c-s-来週の会議に出席します。.mp3]
+[sound:4c-k-議員.mp3]	<b>議員</b> <br> ぎいん <br> member of the Diet, congress or parliament
+議員	<b>ぎいん</b> <br> member of the Diet, congress or parliament <br> [sound:4c-k-議員.mp3]
+member of the Diet, congress or parliament	<b>議員</b> <br> ぎいん <br> [sound:4c-k-議員.mp3]
+[sound:4c-s-議員が法律を議論しています。.mp3]	<b>議員が法律を議論しています。</b> <br> ぎいんがほうりつをぎろんしています。 <br><br> (議員) <br> Members of parliament are discussing the law.
+議員が法律を議論しています。 <br><br> (議員)	<b>ぎいんがほうりつをぎろんしています。</b> <br> Members of parliament are discussing the law. <br> [sound:4c-s-議員が法律を議論しています。.mp3]
+Members of parliament are discussing the law.	<b>議員が法律を議論しています。</b> <br> ぎいんがほうりつをぎろんしています。 <br><br> (議員) <br> [sound:4c-s-議員が法律を議論しています。.mp3]
+[sound:4c-k-議会.mp3]	<b>議会</b> <br> ぎかい <br> Diet, congress, parliament
+議会	<b>ぎかい</b> <br> Diet, congress, parliament <br> [sound:4c-k-議会.mp3]
+Diet, congress, parliament	<b>議会</b> <br> ぎかい <br> [sound:4c-k-議会.mp3]
+[sound:4c-s-議会で新しい法案が審議されました。.mp3]	<b>議会で新しい法案が審議されました。</b> <br> ぎかいであたらしいほうあんがしんぎされました。 <br><br> (議会) <br> The new bill was discussed in the parliament.
+議会で新しい法案が審議されました。 <br><br> (議会)	<b>ぎかいであたらしいほうあんがしんぎされました。</b> <br> The new bill was discussed in the parliament. <br> [sound:4c-s-議会で新しい法案が審議されました。.mp3]
+The new bill was discussed in the parliament.	<b>議会で新しい法案が審議されました。</b> <br> ぎかいであたらしいほうあんがしんぎされました。 <br><br> (議会) <br> [sound:4c-s-議会で新しい法案が審議されました。.mp3]
+[sound:4c-k-議長.mp3]	<b>議長</b> <br> ぎちょう <br> chairman, speaker (e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup)
+議長	<b>ぎちょう</b> <br> chairman, speaker (e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup) <br> [sound:4c-k-議長.mp3]
+chairman, speaker (e.g. of assembly), president (e.g. of council, senate, etc.), moderator (e.g. of a newsgroup)	<b>議長</b> <br> ぎちょう <br> [sound:4c-k-議長.mp3]
+[sound:4c-s-議長が会議を進めました。.mp3]	<b>議長が会議を進めました。</b> <br> ぎちょうがかいぎをすすめました。 <br><br> (議長) <br> The chairperson led the meeting.
+議長が会議を進めました。 <br><br> (議長)	<b>ぎちょうがかいぎをすすめました。</b> <br> The chairperson led the meeting. <br> [sound:4c-s-議長が会議を進めました。.mp3]
+The chairperson led the meeting.	<b>議長が会議を進めました。</b> <br> ぎちょうがかいぎをすすめました。 <br><br> (議長) <br> [sound:4c-s-議長が会議を進めました。.mp3]
+[sound:4c-k-後.mp3]	<b>後</b> <br> あと <br> behind, rear; after, later; after one's death; remainder, the rest; descendant, successor, heir; past/previous; more (i.e. five more minutes)
+後	<b>あと</b> <br> behind, rear; after, later; after one's death; remainder, the rest; descendant, successor, heir; past/previous; more (i.e. five more minutes) <br> [sound:4c-k-後.mp3]
+behind, rear; after, later; after one's death; remainder, the rest; descendant, successor, heir; past/previous; more (i.e. five more minutes)	<b>後</b> <br> あと <br> [sound:4c-k-後.mp3]
+[sound:4c-s-会議の後で話しましょう。.mp3]	<b>会議の後で話しましょう。</b> <br> かいぎのあとではなしましょう。 <br><br> (後) <br> Let's talk after the meeting.
+会議の後で話しましょう。 <br><br> (後)	<b>かいぎのあとではなしましょう。</b> <br> Let's talk after the meeting. <br> [sound:4c-s-会議の後で話しましょう。.mp3]
+Let's talk after the meeting.	<b>会議の後で話しましょう。</b> <br> かいぎのあとではなしましょう。 <br><br> (後) <br> [sound:4c-s-会議の後で話しましょう。.mp3]
+[sound:4c-k-午後.mp3]	<b>午後</b> <br> ごご <br> afternoon, p.m.
+午後	<b>ごご</b> <br> afternoon, p.m. <br> [sound:4c-k-午後.mp3]
+afternoon, p.m.	<b>午後</b> <br> ごご <br> [sound:4c-k-午後.mp3]
+[sound:4c-s-午後には天気が良くなります。.mp3]	<b>午後には天気が良くなります。</b> <br> ごごにはてんきがよくなります。 <br><br> (午後) <br> The weather will improve in the afternoon.
+午後には天気が良くなります。 <br><br> (午後)	<b>ごごにはてんきがよくなります。</b> <br> The weather will improve in the afternoon. <br> [sound:4c-s-午後には天気が良くなります。.mp3]
+The weather will improve in the afternoon.	<b>午後には天気が良くなります。</b> <br> ごごにはてんきがよくなります。 <br><br> (午後) <br> [sound:4c-s-午後には天気が良くなります。.mp3]
+[sound:4c-k-後ろ.mp3]	<b>後ろ</b> <br> うしろ <br> back, behind, rear
+後ろ	<b>うしろ</b> <br> back, behind, rear <br> [sound:4c-k-後ろ.mp3]
+back, behind, rear	<b>後ろ</b> <br> うしろ <br> [sound:4c-k-後ろ.mp3]
+[sound:4c-s-彼の後ろに誰かがいます。.mp3]	<b>彼の後ろに誰かがいます。</b> <br> かれのうしろにだれかがいます。 <br><br> (後ろ) <br> There is someone behind him.
+彼の後ろに誰かがいます。 <br><br> (後ろ)	<b>かれのうしろにだれかがいます。</b> <br> There is someone behind him. <br> [sound:4c-s-彼の後ろに誰かがいます。.mp3]
+There is someone behind him.	<b>彼の後ろに誰かがいます。</b> <br> かれのうしろにだれかがいます。 <br><br> (後ろ) <br> [sound:4c-s-彼の後ろに誰かがいます。.mp3]
+[sound:4c-k-今後.mp3]	<b>今後</b> <br> こんご <br> from now on, hereafter
+今後	<b>こんご</b> <br> from now on, hereafter <br> [sound:4c-k-今後.mp3]
+from now on, hereafter	<b>今後</b> <br> こんご <br> [sound:4c-k-今後.mp3]
+[sound:4c-s-今後の計画について話し合いましょう。.mp3]	<b>今後の計画について話し合いましょう。</b> <br> こんごのけいかくについてはなしあいましょう。 <br><br> (今後) <br> Let's discuss future plans.
+今後の計画について話し合いましょう。 <br><br> (今後)	<b>こんごのけいかくについてはなしあいましょう。</b> <br> Let's discuss future plans. <br> [sound:4c-s-今後の計画について話し合いましょう。.mp3]
+Let's discuss future plans.	<b>今後の計画について話し合いましょう。</b> <br> こんごのけいかくについてはなしあいましょう。 <br><br> (今後) <br> [sound:4c-s-今後の計画について話し合いましょう。.mp3]
+[sound:4c-k-午前.mp3]	<b>午前</b> <br> ごぜん <br> morning, a.m.
+午前	<b>ごぜん</b> <br> morning, a.m. <br> [sound:4c-k-午前.mp3]
+morning, a.m.	<b>午前</b> <br> ごぜん <br> [sound:4c-k-午前.mp3]
+[sound:4c-s-午前中に会議があります。.mp3]	<b>午前中に会議があります。</b> <br> ごぜんちゅうにかいぎがあります。 <br><br> (午前) <br> There is a meeting in the morning.
+午前中に会議があります。 <br><br> (午前)	<b>ごぜんちゅうにかいぎがあります。</b> <br> There is a meeting in the morning. <br> [sound:4c-s-午前中に会議があります。.mp3]
+There is a meeting in the morning.	<b>午前中に会議があります。</b> <br> ごぜんちゅうにかいぎがあります。 <br><br> (午前) <br> [sound:4c-s-午前中に会議があります。.mp3]
+[sound:4c-k-前年.mp3]	<b>前年</b> <br> ぜんねん <br> the preceding year, the previous year, last year
+前年	<b>ぜんねん</b> <br> the preceding year, the previous year, last year <br> [sound:4c-k-前年.mp3]
+the preceding year, the previous year, last year	<b>前年</b> <br> ぜんねん <br> [sound:4c-k-前年.mp3]
+[sound:4c-s-前年より売上が増えました。.mp3]	<b>前年より売上が増えました。</b> <br> ぜんねんよりうりあげがふえました。 <br><br> (前年) <br> Sales increased compared to the previous year.
+前年より売上が増えました。 <br><br> (前年)	<b>ぜんねんよりうりあげがふえました。</b> <br> Sales increased compared to the previous year. <br> [sound:4c-s-前年より売上が増えました。.mp3]
+Sales increased compared to the previous year.	<b>前年より売上が増えました。</b> <br> ぜんねんよりうりあげがふえました。 <br><br> (前年) <br> [sound:4c-s-前年より売上が増えました。.mp3]
+[sound:4c-k-前回.mp3]	<b>前回</b> <br> ぜんかい <br> last time, last installment, last instalment, last session
+前回	<b>ぜんかい</b> <br> last time, last installment, last instalment, last session <br> [sound:4c-k-前回.mp3]
+last time, last installment, last instalment, last session	<b>前回</b> <br> ぜんかい <br> [sound:4c-k-前回.mp3]
+[sound:4c-s-前回の試験は難しかったです。.mp3]	<b>前回の試験は難しかったです。</b> <br> ぜんかいのしけんはむずかしかったです。 <br><br> (前回) <br> The previous exam was difficult.
+前回の試験は難しかったです。 <br><br> (前回)	<b>ぜんかいのしけんはむずかしかったです。</b> <br> The previous exam was difficult. <br> [sound:4c-s-前回の試験は難しかったです。.mp3]
+The previous exam was difficult.	<b>前回の試験は難しかったです。</b> <br> ぜんかいのしけんはむずかしかったです。 <br><br> (前回) <br> [sound:4c-s-前回の試験は難しかったです。.mp3]
+[sound:4c-k-前提.mp3]	<b>前提</b> <br> ぜんてい <br> preamble, premise, reason, prerequisite, condition, assumption, hypothesis
+前提	<b>ぜんてい</b> <br> preamble, premise, reason, prerequisite, condition, assumption, hypothesis <br> [sound:4c-k-前提.mp3]
+preamble, premise, reason, prerequisite, condition, assumption, hypothesis	<b>前提</b> <br> ぜんてい <br> [sound:4c-k-前提.mp3]
+[sound:4c-s-成功の前提は努力です。.mp3]	<b>成功の前提は努力です。</b> <br> せいこうのぜんていはどりょくです。 <br><br> (前提) <br> The premise of success is effort.
+成功の前提は努力です。 <br><br> (前提)	<b>せいこうのぜんていはどりょくです。</b> <br> The premise of success is effort. <br> [sound:4c-s-成功の前提は努力です。.mp3]
+The premise of success is effort.	<b>成功の前提は努力です。</b> <br> せいこうのぜんていはどりょくです。 <br><br> (前提) <br> [sound:4c-s-成功の前提は努力です。.mp3]
+[sound:4c-k-民.mp3]	<b>民</b> <br> たみ <br> nation, people
+民	<b>たみ</b> <br> nation, people <br> [sound:4c-k-民.mp3]
+nation, people	<b>民</b> <br> たみ <br> [sound:4c-k-民.mp3]
+[sound:4c-s-民の意見を尊重すべきです。.mp3]	<b>民の意見を尊重すべきです。</b> <br> たみのいけんをそんちょうすべきです。 <br><br> (民) <br> The people's opinions should be respected.
+民の意見を尊重すべきです。 <br><br> (民)	<b>たみのいけんをそんちょうすべきです。</b> <br> The people's opinions should be respected. <br> [sound:4c-s-民の意見を尊重すべきです。.mp3]
+The people's opinions should be respected.	<b>民の意見を尊重すべきです。</b> <br> たみのいけんをそんちょうすべきです。 <br><br> (民) <br> [sound:4c-s-民の意見を尊重すべきです。.mp3]
+[sound:4c-k-国民.mp3]	<b>国民</b> <br> こくみん <br> nation, nationality, people, citizen
+国民	<b>こくみん</b> <br> nation, nationality, people, citizen <br> [sound:4c-k-国民.mp3]
+nation, nationality, people, citizen	<b>国民</b> <br> こくみん <br> [sound:4c-k-国民.mp3]
+[sound:4c-s-国民は自由を求めています。.mp3]	<b>国民は自由を求めています。</b> <br> こくみんはじゆうをもとめています。 <br><br> (国民) <br> The citizens are seeking freedom.
+国民は自由を求めています。 <br><br> (国民)	<b>こくみんはじゆうをもとめています。</b> <br> The citizens are seeking freedom. <br> [sound:4c-s-国民は自由を求めています。.mp3]
+The citizens are seeking freedom.	<b>国民は自由を求めています。</b> <br> こくみんはじゆうをもとめています。 <br><br> (国民) <br> [sound:4c-s-国民は自由を求めています。.mp3]
+[sound:4c-k-市民.mp3]	<b>市民</b> <br> しみん <br> citizen, townspeople
+市民	<b>しみん</b> <br> citizen, townspeople <br> [sound:4c-k-市民.mp3]
+citizen, townspeople	<b>市民</b> <br> しみん <br> [sound:4c-k-市民.mp3]
+[sound:4c-s-市民が公園の清掃活動を行いました。.mp3]	<b>市民が公園の清掃活動を行いました。</b> <br> しみんがこうえんのせいそうかつどうをおこないました。 <br><br> (市民) <br> The citizens carried out a park cleanup.
+市民が公園の清掃活動を行いました。 <br><br> (市民)	<b>しみんがこうえんのせいそうかつどうをおこないました。</b> <br> The citizens carried out a park cleanup. <br> [sound:4c-s-市民が公園の清掃活動を行いました。.mp3]
+The citizens carried out a park cleanup.	<b>市民が公園の清掃活動を行いました。</b> <br> しみんがこうえんのせいそうかつどうをおこないました。 <br><br> (市民) <br> [sound:4c-s-市民が公園の清掃活動を行いました。.mp3]
+[sound:4c-k-住民.mp3]	<b>住民</b> <br> じゅうみん <br> citizens, inhabitants, residents, population
+住民	<b>じゅうみん</b> <br> citizens, inhabitants, residents, population <br> [sound:4c-k-住民.mp3]
+citizens, inhabitants, residents, population	<b>住民</b> <br> じゅうみん <br> [sound:4c-k-住民.mp3]
+[sound:4c-s-住民が新しい規則について話し合いました。.mp3]	<b>住民が新しい規則について話し合いました。</b> <br> じゅうみんがあたらしいきそくについてはなしあいました。 <br><br> (住民) <br> Residents discussed new regulations.
+住民が新しい規則について話し合いました。 <br><br> (住民)	<b>じゅうみんがあたらしいきそくについてはなしあいました。</b> <br> Residents discussed new regulations. <br> [sound:4c-s-住民が新しい規則について話し合いました。.mp3]
+Residents discussed new regulations.	<b>住民が新しい規則について話し合いました。</b> <br> じゅうみんがあたらしいきそくについてはなしあいました。 <br><br> (住民) <br> [sound:4c-s-住民が新しい規則について話し合いました。.mp3]
+[sound:4c-k-生きる.mp3]	<b>生きる</b> <br> いきる <br> to live, to exist
+生きる	<b>いきる</b> <br> to live, to exist <br> [sound:4c-k-生きる.mp3]
+to live, to exist	<b>生きる</b> <br> いきる <br> [sound:4c-k-生きる.mp3]
+[sound:4c-s-人生を楽しく生きましょう。.mp3]	<b>人生を楽しく生きましょう。</b> <br> じんせいをたのしくいきましょう。 <br><br> (生きる) <br> Let's live life happily.
+人生を楽しく生きましょう。 <br><br> (生きる)	<b>じんせいをたのしくいきましょう。</b> <br> Let's live life happily. <br> [sound:4c-s-人生を楽しく生きましょう。.mp3]
+Let's live life happily.	<b>人生を楽しく生きましょう。</b> <br> じんせいをたのしくいきましょう。 <br><br> (生きる) <br> [sound:4c-s-人生を楽しく生きましょう。.mp3]
+[sound:4c-k-学生.mp3]	<b>学生</b> <br> がくせい <br> student (esp. a university student)
+学生	<b>がくせい</b> <br> student (esp. a university student) <br> [sound:4c-k-学生.mp3]
+student (esp. a university student)	<b>学生</b> <br> がくせい <br> [sound:4c-k-学生.mp3]
+[sound:4c-s-学生たちは図書館で勉強しています。.mp3]	<b>学生たちは図書館で勉強しています。</b> <br> がくせいたちはとしょかんでべんきょうしています。 <br><br> (学生) <br> Students are studying in the library.
+学生たちは図書館で勉強しています。 <br><br> (学生)	<b>がくせいたちはとしょかんでべんきょうしています。</b> <br> Students are studying in the library. <br> [sound:4c-s-学生たちは図書館で勉強しています。.mp3]
+Students are studying in the library.	<b>学生たちは図書館で勉強しています。</b> <br> がくせいたちはとしょかんでべんきょうしています。 <br><br> (学生) <br> [sound:4c-s-学生たちは図書館で勉強しています。.mp3]
+[sound:4c-k-生活.mp3]	<b>生活</b> <br> せいかつ <br> living, life (one's daily existence), livelihood
+生活	<b>せいかつ</b> <br> living, life (one's daily existence), livelihood <br> [sound:4c-k-生活.mp3]
+living, life (one's daily existence), livelihood	<b>生活</b> <br> せいかつ <br> [sound:4c-k-生活.mp3]
+[sound:4c-s-健康的な生活を送りたいです。.mp3]	<b>健康的な生活を送りたいです。</b> <br> けんこうてきなせいかつをおくりたいです。 <br><br> (生活) <br> I want to lead a healthy life.
+健康的な生活を送りたいです。 <br><br> (生活)	<b>けんこうてきなせいかつをおくりたいです。</b> <br> I want to lead a healthy life. <br> [sound:4c-s-健康的な生活を送りたいです。.mp3]
+I want to lead a healthy life.	<b>健康的な生活を送りたいです。</b> <br> けんこうてきなせいかつをおくりたいです。 <br><br> (生活) <br> [sound:4c-s-健康的な生活を送りたいです。.mp3]
+[sound:4c-k-生産.mp3]	<b>生産</b> <br> せいさん <br> production, manufacture
+生産	<b>せいさん</b> <br> production, manufacture <br> [sound:4c-k-生産.mp3]
+production, manufacture	<b>生産</b> <br> せいさん <br> [sound:4c-k-生産.mp3]
+[sound:4c-s-工場で新しい製品を生産しています。.mp3]	<b>工場で新しい製品を生産しています。</b> <br> こうじょうであたらしいせいひんをせいさんしています。 <br><br> (生産) <br> The factory is producing new products.
+工場で新しい製品を生産しています。 <br><br> (生産)	<b>こうじょうであたらしいせいひんをせいさんしています。</b> <br> The factory is producing new products. <br> [sound:4c-s-工場で新しい製品を生産しています。.mp3]
+The factory is producing new products.	<b>工場で新しい製品を生産しています。</b> <br> こうじょうであたらしいせいひんをせいさんしています。 <br><br> (生産) <br> [sound:4c-s-工場で新しい製品を生産しています。.mp3]
+[sound:4c-k-連.mp3]	<b>連</b> <br> れん <br> (taxonomical) tribe; quinella (quiniela); party, company, group; two reams (i.e. 1000 sheets of paper)
+連	<b>れん</b> <br> (taxonomical) tribe; quinella (quiniela); party, company, group; two reams (i.e. 1000 sheets of paper) <br> [sound:4c-k-連.mp3]
+(taxonomical) tribe; quinella (quiniela); party, company, group; two reams (i.e. 1000 sheets of paper)	<b>連</b> <br> れん <br> [sound:4c-k-連.mp3]
+[sound:4c-s-連絡をください。.mp3]	<b>連絡をください。</b> <br> れんらくをください。 <br><br> (連) <br> Please contact me.
+連絡をください。 <br><br> (連)	<b>れんらくをください。</b> <br> Please contact me. <br> [sound:4c-s-連絡をください。.mp3]
+Please contact me.	<b>連絡をください。</b> <br> れんらくをください。 <br><br> (連) <br> [sound:4c-s-連絡をください。.mp3]
+[sound:4c-k-関連.mp3]	<b>関連</b> <br> かんれん <br> relation, connection, relevance
+関連	<b>かんれん</b> <br> relation, connection, relevance <br> [sound:4c-k-関連.mp3]
+relation, connection, relevance	<b>関連</b> <br> かんれん <br> [sound:4c-k-関連.mp3]
+[sound:4c-s-この話は環境問題に関連しています。.mp3]	<b>この話は環境問題に関連しています。</b> <br> このはなしはかんきょうもんだいにかんれんしています。 <br><br> (関連) <br> This story is related to environmental issues.
+この話は環境問題に関連しています。 <br><br> (関連)	<b>このはなしはかんきょうもんだいにかんれんしています。</b> <br> This story is related to environmental issues. <br> [sound:4c-s-この話は環境問題に関連しています。.mp3]
+This story is related to environmental issues.	<b>この話は環境問題に関連しています。</b> <br> このはなしはかんきょうもんだいにかんれんしています。 <br><br> (関連) <br> [sound:4c-s-この話は環境問題に関連しています。.mp3]
+[sound:4c-k-国連.mp3]	<b>国連</b> <br> こくれん <br> UN, United Nations
+国連	<b>こくれん</b> <br> UN, United Nations <br> [sound:4c-k-国連.mp3]
+UN, United Nations	<b>国連</b> <br> こくれん <br> [sound:4c-k-国連.mp3]
+[sound:4c-s-国連は国際問題を解決するために活動しています。.mp3]	<b>国連は国際問題を解決するために活動しています。</b> <br> こくれんはこくさいもんだいをかいけつするためにかつどうしています。 <br><br> (国連) <br> The UN is working to resolve international issues.
+国連は国際問題を解決するために活動しています。 <br><br> (国連)	<b>こくれんはこくさいもんだいをかいけつするためにかつどうしています。</b> <br> The UN is working to resolve international issues. <br> [sound:4c-s-国連は国際問題を解決するために活動しています。.mp3]
+The UN is working to resolve international issues.	<b>国連は国際問題を解決するために活動しています。</b> <br> こくれんはこくさいもんだいをかいけつするためにかつどうしています。 <br><br> (国連) <br> [sound:4c-s-国連は国際問題を解決するために活動しています。.mp3]
+[sound:4c-k-連合.mp3]	<b>連合</b> <br> れんごう <br> union, alliance, combination
+連合	<b>れんごう</b> <br> union, alliance, combination <br> [sound:4c-k-連合.mp3]
+union, alliance, combination	<b>連合</b> <br> れんごう <br> [sound:4c-k-連合.mp3]
+[sound:4c-s-連合軍が作戦を開始しました。.mp3]	<b>連合軍が作戦を開始しました。</b> <br> れんごうぐんがさくせんをかいししました。 <br><br> (連合) <br> The allied forces began their operation.
+連合軍が作戦を開始しました。 <br><br> (連合)	<b>れんごうぐんがさくせんをかいししました。</b> <br> The allied forces began their operation. <br> [sound:4c-s-連合軍が作戦を開始しました。.mp3]
+The allied forces began their operation.	<b>連合軍が作戦を開始しました。</b> <br> れんごうぐんがさくせんをかいししました。 <br><br> (連合) <br> [sound:4c-s-連合軍が作戦を開始しました。.mp3]
+[sound:4c-k-五.mp3]	<b>五</b> <br> ご, いつ, い <br> five
+五	<b>ご, いつ, い</b> <br> five <br> [sound:4c-k-五.mp3]
+five	<b>五</b> <br> ご, いつ, い <br> [sound:4c-k-五.mp3]
+[sound:4c-s-五つの質問があります。.mp3]	<b>五つの質問があります。</b> <br> いつつのしつもんがあります。 <br><br> (五) <br> There are five questions.
+五つの質問があります。 <br><br> (五)	<b>いつつのしつもんがあります。</b> <br> There are five questions. <br> [sound:4c-s-五つの質問があります。.mp3]
+There are five questions.	<b>五つの質問があります。</b> <br> いつつのしつもんがあります。 <br><br> (五) <br> [sound:4c-s-五つの質問があります。.mp3]
+[sound:4c-k-五月.mp3]	<b>五月</b> <br> ごがつ <br> May
+五月	<b>ごがつ</b> <br> May <br> [sound:4c-k-五月.mp3]
+May	<b>五月</b> <br> ごがつ <br> [sound:4c-k-五月.mp3]
+[sound:4c-s-五月は気持ちの良い季節です。.mp3]	<b>五月は気持ちの良い季節です。</b> <br> ごがつはきもちのよいきせつです。 <br><br> (五月) <br> May is a pleasant season.
+五月は気持ちの良い季節です。 <br><br> (五月)	<b>ごがつはきもちのよいきせつです。</b> <br> May is a pleasant season. <br> [sound:4c-s-五月は気持ちの良い季節です。.mp3]
+May is a pleasant season.	<b>五月は気持ちの良い季節です。</b> <br> ごがつはきもちのよいきせつです。 <br><br> (五月) <br> [sound:4c-s-五月は気持ちの良い季節です。.mp3]
+[sound:4c-k-十五.mp3]	<b>十五</b> <br> じゅうご <br> 15, fifteen
+十五	<b>じゅうご</b> <br> 15, fifteen <br> [sound:4c-k-十五.mp3]
+15, fifteen	<b>十五</b> <br> じゅうご <br> [sound:4c-k-十五.mp3]
+[sound:4c-s-十五分後に会議が始まります。.mp3]	<b>十五分後に会議が始まります。</b> <br> じゅうごふんごにかいぎがはじまります。 <br><br> (十五) <br> The meeting starts in fifteen minutes.
+十五分後に会議が始まります。 <br><br> (十五)	<b>じゅうごふんごにかいぎがはじまります。</b> <br> The meeting starts in fifteen minutes. <br> [sound:4c-s-十五分後に会議が始まります。.mp3]
+The meeting starts in fifteen minutes.	<b>十五分後に会議が始まります。</b> <br> じゅうごふんごにかいぎがはじまります。 <br><br> (十五) <br> [sound:4c-s-十五分後に会議が始まります。.mp3]
+[sound:4c-k-五輪.mp3]	<b>五輪</b> <br> ごりん <br> the Olympics
+五輪	<b>ごりん</b> <br> the Olympics <br> [sound:4c-k-五輪.mp3]
+the Olympics	<b>五輪</b> <br> ごりん <br> [sound:4c-k-五輪.mp3]
+[sound:4c-s-五輪大会が開催されます。.mp3]	<b>五輪大会が開催されます。</b> <br> ごりんたいかいがかいさいされます。 <br><br> (五輪) <br> The Olympic Games will be held.
+五輪大会が開催されます。 <br><br> (五輪)	<b>ごりんたいかいがかいさいされます。</b> <br> The Olympic Games will be held. <br> [sound:4c-s-五輪大会が開催されます。.mp3]
+The Olympic Games will be held.	<b>五輪大会が開催されます。</b> <br> ごりんたいかいがかいさいされます。 <br><br> (五輪) <br> [sound:4c-s-五輪大会が開催されます。.mp3]
+[sound:4c-k-発.mp3]	<b>発</b> <br> はつ <br> departure, departing (from ...), departing (at time ...); beginning; issued by (e.g. document); counter for gunshots, counter for blows (punches)
+発	<b>はつ</b> <br> departure, departing (from ...), departing (at time ...); beginning; issued by (e.g. document); counter for gunshots, counter for blows (punches) <br> [sound:4c-k-発.mp3]
+departure, departing (from ...), departing (at time ...); beginning; issued by (e.g. document); counter for gunshots, counter for blows (punches)	<b>発</b> <br> はつ <br> [sound:4c-k-発.mp3]
+[sound:4c-s-新しいアイデアを発表しました。.mp3]	<b>新しいアイデアを発表しました。</b> <br> あたらしいアイデアをはっぴょうしました。 <br><br> (発) <br> I announced a new idea.
+新しいアイデアを発表しました。 <br><br> (発)	<b>あたらしいアイデアをはっぴょうしました。</b> <br> I announced a new idea. <br> [sound:4c-s-新しいアイデアを発表しました。.mp3]
+I announced a new idea.	<b>新しいアイデアを発表しました。</b> <br> あたらしいアイデアをはっぴょうしました。 <br><br> (発) <br> [sound:4c-s-新しいアイデアを発表しました。.mp3]
+[sound:4c-k-開発.mp3]	<b>開発</b> <br> かいはつ <br> development, exploitation
+開発	<b>かいはつ</b> <br> development, exploitation <br> [sound:4c-k-開発.mp3]
+development, exploitation	<b>開発</b> <br> かいはつ <br> [sound:4c-k-開発.mp3]
+[sound:4c-s-この地域で新しい技術が開発されています。.mp3]	<b>この地域で新しい技術が開発されています。</b> <br> このちいきであたらしいぎじゅつがかいはつされています。 <br><br> (開発) <br> New technologies are being developed in this area.
+この地域で新しい技術が開発されています。 <br><br> (開発)	<b>このちいきであたらしいぎじゅつがかいはつされています。</b> <br> New technologies are being developed in this area. <br> [sound:4c-s-この地域で新しい技術が開発されています。.mp3]
+New technologies are being developed in this area.	<b>この地域で新しい技術が開発されています。</b> <br> このちいきであたらしいぎじゅつがかいはつされています。 <br><br> (開発) <br> [sound:4c-s-この地域で新しい技術が開発されています。.mp3]
+[sound:4c-k-発言.mp3]	<b>発言</b> <br> はつげん <br> utterance, speech, proposal
+発言	<b>はつげん</b> <br> utterance, speech, proposal <br> [sound:4c-k-発言.mp3]
+utterance, speech, proposal	<b>発言</b> <br> はつげん <br> [sound:4c-k-発言.mp3]
+[sound:4c-s-会議で重要な発言がありました。.mp3]	<b>会議で重要な発言がありました。</b> <br> かいぎでじゅうようなはつげんがありました。 <br><br> (発言) <br> There was an important statement in the meeting.
+会議で重要な発言がありました。 <br><br> (発言)	<b>かいぎでじゅうようなはつげんがありました。</b> <br> There was an important statement in the meeting. <br> [sound:4c-s-会議で重要な発言がありました。.mp3]
+There was an important statement in the meeting.	<b>会議で重要な発言がありました。</b> <br> かいぎでじゅうようなはつげんがありました。 <br><br> (発言) <br> [sound:4c-s-会議で重要な発言がありました。.mp3]
+[sound:4c-k-発行.mp3]	<b>発行</b> <br> はっこう <br> issue (publications), publishing; raising an event (software)
+発行	<b>はっこう</b> <br> issue (publications), publishing; raising an event (software) <br> [sound:4c-k-発行.mp3]
+issue (publications), publishing; raising an event (software)	<b>発行</b> <br> はっこう <br> [sound:4c-k-発行.mp3]
+[sound:4c-s-この雑誌は毎月発行されます。.mp3]	<b>この雑誌は毎月発行されます。</b> <br> このざっしはまいつきはっこうされます。 <br><br> (発行) <br> This magazine is published every month.
+この雑誌は毎月発行されます。 <br><br> (発行)	<b>このざっしはまいつきはっこうされます。</b> <br> This magazine is published every month. <br> [sound:4c-s-この雑誌は毎月発行されます。.mp3]
+This magazine is published every month.	<b>この雑誌は毎月発行されます。</b> <br> このざっしはまいつきはっこうされます。 <br><br> (発行) <br> [sound:4c-s-この雑誌は毎月発行されます。.mp3]
+[sound:4c-k-間.mp3]	<b>間</b> <br> あいだ <br> space (between), gap, interval, distance; time (between), pause, break; span (temporal or spatial), stretch, period (while); relationship (between, among); members (within, among); due to, because of
+間	<b>あいだ</b> <br> space (between), gap, interval, distance; time (between), pause, break; span (temporal or spatial), stretch, period (while); relationship (between, among); members (within, among); due to, because of <br> [sound:4c-k-間.mp3]
+space (between), gap, interval, distance; time (between), pause, break; span (temporal or spatial), stretch, period (while); relationship (between, among); members (within, among); due to, because of	<b>間</b> <br> あいだ <br> [sound:4c-k-間.mp3]
+[sound:4c-s-二つの駅の間に公園があります。.mp3]	<b>二つの駅の間に公園があります。</b> <br> ふたつのえきのあいだにこうえんがあります。 <br><br> (間) <br> There is a park between the two stations.
+二つの駅の間に公園があります。 <br><br> (間)	<b>ふたつのえきのあいだにこうえんがあります。</b> <br> There is a park between the two stations. <br> [sound:4c-s-二つの駅の間に公園があります。.mp3]
+There is a park between the two stations.	<b>二つの駅の間に公園があります。</b> <br> ふたつのえきのあいだにこうえんがあります。 <br><br> (間) <br> [sound:4c-s-二つの駅の間に公園があります。.mp3]
+[sound:4c-k-間もなく.mp3]	<b>間もなく</b> <br> まもなく <br> soon, before long, in a short time; (after verb) lacking time to ..., without time to ...
+間もなく	<b>まもなく</b> <br> soon, before long, in a short time; (after verb) lacking time to ..., without time to ... <br> [sound:4c-k-間もなく.mp3]
+soon, before long, in a short time; (after verb) lacking time to ..., without time to ...	<b>間もなく</b> <br> まもなく <br> [sound:4c-k-間もなく.mp3]
+[sound:4c-s-間もなく電車が到着します。.mp3]	<b>間もなく電車が到着します。</b> <br> まもなくでんしゃがとうちゃくします。 <br><br> (間もなく) <br> The train will arrive soon.
+間もなく電車が到着します。 <br><br> (間もなく)	<b>まもなくでんしゃがとうちゃくします。</b> <br> The train will arrive soon. <br> [sound:4c-s-間もなく電車が到着します。.mp3]
+The train will arrive soon.	<b>間もなく電車が到着します。</b> <br> まもなくでんしゃがとうちゃくします。 <br><br> (間もなく) <br> [sound:4c-s-間もなく電車が到着します。.mp3]
+[sound:4c-k-期間.mp3]	<b>期間</b> <br> きかん <br> period, term, interval
+期間	<b>きかん</b> <br> period, term, interval <br> [sound:4c-k-期間.mp3]
+period, term, interval	<b>期間</b> <br> きかん <br> [sound:4c-k-期間.mp3]
+[sound:4c-s-試験期間中は忙しいです。.mp3]	<b>試験期間中は忙しいです。</b> <br> しけんきかんちゅうはいそがしいです。 <br><br> (期間) <br> The exam period is busy.
+試験期間中は忙しいです。 <br><br> (期間)	<b>しけんきかんちゅうはいそがしいです。</b> <br> The exam period is busy. <br> [sound:4c-s-試験期間中は忙しいです。.mp3]
+The exam period is busy.	<b>試験期間中は忙しいです。</b> <br> しけんきかんちゅうはいそがしいです。 <br><br> (期間) <br> [sound:4c-s-試験期間中は忙しいです。.mp3]
+[sound:4c-k-時間.mp3]	<b>時間</b> <br> じかん <br> time; hours
+時間	<b>じかん</b> <br> time; hours <br> [sound:4c-k-時間.mp3]
+time; hours	<b>時間</b> <br> じかん <br> [sound:4c-k-時間.mp3]
+[sound:4c-s-自由な時間を楽しんでいます。.mp3]	<b>自由な時間を楽しんでいます。</b> <br> じゆうなじかんをたのしんでいます。 <br><br> (時間) <br> I'm enjoying my free time.
+自由な時間を楽しんでいます。 <br><br> (時間)	<b>じゆうなじかんをたのしんでいます。</b> <br> I'm enjoying my free time. <br> [sound:4c-s-自由な時間を楽しんでいます。.mp3]
+I'm enjoying my free time.	<b>自由な時間を楽しんでいます。</b> <br> じゆうなじかんをたのしんでいます。 <br><br> (時間) <br> [sound:4c-s-自由な時間を楽しんでいます。.mp3]
+[sound:4c-k-対応.mp3]	<b>対応</b> <br> たいおう <br> interaction, correspondence, coping with, dealing with, support
+対応	<b>たいおう</b> <br> interaction, correspondence, coping with, dealing with, support <br> [sound:4c-k-対応.mp3]
+interaction, correspondence, coping with, dealing with, support	<b>対応</b> <br> たいおう <br> [sound:4c-k-対応.mp3]
+[sound:4c-s-この問題に早く対応する必要があります。.mp3]	<b>この問題に早く対応する必要があります。</b> <br> このもんだいにはやくたいおうするひつようがあります。 <br><br> (対応) <br> We need to respond quickly to this problem.
+この問題に早く対応する必要があります。 <br><br> (対応)	<b>このもんだいにはやくたいおうするひつようがあります。</b> <br> We need to respond quickly to this problem. <br> [sound:4c-s-この問題に早く対応する必要があります。.mp3]
+We need to respond quickly to this problem.	<b>この問題に早く対応する必要があります。</b> <br> このもんだいにはやくたいおうするひつようがあります。 <br><br> (対応) <br> [sound:4c-s-この問題に早く対応する必要があります。.mp3]
+[sound:4c-k-対策.mp3]	<b>対策</b> <br> たいさく <br> counter-plan, counter-measure
+対策	<b>たいさく</b> <br> counter-plan, counter-measure <br> [sound:4c-k-対策.mp3]
+counter-plan, counter-measure	<b>対策</b> <br> たいさく <br> [sound:4c-k-対策.mp3]
+[sound:4c-s-新しい環境対策が必要です。.mp3]	<b>新しい環境対策が必要です。</b> <br> あたらしいかんきょうたいさくがひつようです。 <br><br> (対策) <br> New environmental measures are needed.
+新しい環境対策が必要です。 <br><br> (対策)	<b>あたらしいかんきょうたいさくがひつようです。</b> <br> New environmental measures are needed. <br> [sound:4c-s-新しい環境対策が必要です。.mp3]
+New environmental measures are needed.	<b>新しい環境対策が必要です。</b> <br> あたらしいかんきょうたいさくがひつようです。 <br><br> (対策) <br> [sound:4c-s-新しい環境対策が必要です。.mp3]
+[sound:4c-k-対象.mp3]	<b>対象</b> <br> たいしょう <br> target, object (of worship, study, etc.), subject (of taxation, etc.)
+対象	<b>たいしょう</b> <br> target, object (of worship, study, etc.), subject (of taxation, etc.) <br> [sound:4c-k-対象.mp3]
+target, object (of worship, study, etc.), subject (of taxation, etc.)	<b>対象</b> <br> たいしょう <br> [sound:4c-k-対象.mp3]
+[sound:4c-s-この研究の対象は学生です。.mp3]	<b>この研究の対象は学生です。</b> <br> このけんきゅうのたいしょうはがくせいです。 <br><br> (対象) <br> The subject of this research is students.
+この研究の対象は学生です。 <br><br> (対象)	<b>このけんきゅうのたいしょうはがくせいです。</b> <br> The subject of this research is students. <br> [sound:4c-s-この研究の対象は学生です。.mp3]
+The subject of this research is students.	<b>この研究の対象は学生です。</b> <br> このけんきゅうのたいしょうはがくせいです。 <br><br> (対象) <br> [sound:4c-s-この研究の対象は学生です。.mp3]
+[sound:4c-k-反対.mp3]	<b>反対</b> <br> はんたい <br> opposition, resistance, antagonism, hostility, contrast, objection, dissension, reverse, opposite, vice versa
+反対	<b>はんたい</b> <br> opposition, resistance, antagonism, hostility, contrast, objection, dissension, reverse, opposite, vice versa <br> [sound:4c-k-反対.mp3]
+opposition, resistance, antagonism, hostility, contrast, objection, dissension, reverse, opposite, vice versa	<b>反対</b> <br> はんたい <br> [sound:4c-k-反対.mp3]
+[sound:4c-s-私はその意見に反対です。.mp3]	<b>私はその意見に反対です。</b> <br> わたしはそのいけんにはんたいです。 <br><br> (反対) <br> I am opposed to that opinion.
+私はその意見に反対です。 <br><br> (反対)	<b>わたしはそのいけんにはんたいです。</b> <br> I am opposed to that opinion. <br> [sound:4c-s-私はその意見に反対です。.mp3]
+I am opposed to that opinion.	<b>私はその意見に反対です。</b> <br> わたしはそのいけんにはんたいです。 <br><br> (反対) <br> [sound:4c-s-私はその意見に反対です。.mp3]
+[sound:4c-k-上がったり.mp3]	<b>上がったり</b> <br> あがったり <br> doomed, in a bad state, poor (e.g. business)
+上がったり	<b>あがったり</b> <br> doomed, in a bad state, poor (e.g. business) <br> [sound:4c-k-上がったり.mp3]
+doomed, in a bad state, poor (e.g. business)	<b>上がったり</b> <br> あがったり <br> [sound:4c-k-上がったり.mp3]
+[sound:4c-s-彼の成績が上がったり下がったりします。.mp3]	<b>彼の成績が上がったり下がったりします。</b> <br> かれのせいせきがあがったりさがったりします。 <br><br> (上がったり) <br> His grades go up and down.
+彼の成績が上がったり下がったりします。 <br><br> (上がったり)	<b>かれのせいせきがあがったりさがったりします。</b> <br> His grades go up and down. <br> [sound:4c-s-彼の成績が上がったり下がったりします。.mp3]
+His grades go up and down.	<b>彼の成績が上がったり下がったりします。</b> <br> かれのせいせきがあがったりさがったりします。 <br><br> (上がったり) <br> [sound:4c-s-彼の成績が上がったり下がったりします。.mp3]
+[sound:4c-k-史上.mp3]	<b>史上</b> <br> しじょう <br> historical
+史上	<b>しじょう</b> <br> historical <br> [sound:4c-k-史上.mp3]
+historical	<b>史上</b> <br> しじょう <br> [sound:4c-k-史上.mp3]
+[sound:4c-s-これは史上最高の記録です。.mp3]	<b>これは史上最高の記録です。</b> <br> これはしじょうさいこうのきろくです。 <br><br> (史上) <br> This is the best record in history.
+これは史上最高の記録です。 <br><br> (史上)	<b>これはしじょうさいこうのきろくです。</b> <br> This is the best record in history. <br> [sound:4c-s-これは史上最高の記録です。.mp3]
+This is the best record in history.	<b>これは史上最高の記録です。</b> <br> これはしじょうさいこうのきろくです。 <br><br> (史上) <br> [sound:4c-s-これは史上最高の記録です。.mp3]
+[sound:4c-k-事実上.mp3]	<b>事実上</b> <br> じじつじょう <br> (as a) matter of fact, actually, in reality
+事実上	<b>じじつじょう</b> <br> (as a) matter of fact, actually, in reality <br> [sound:4c-k-事実上.mp3]
+(as a) matter of fact, actually, in reality	<b>事実上</b> <br> じじつじょう <br> [sound:4c-k-事実上.mp3]
+[sound:4c-s-このルールは事実上、廃止されています。.mp3]	<b>このルールは事実上、廃止されています。</b> <br> このルールはじじつじょう、はいしされています。 <br><br> (事実上) <br> This rule is effectively abolished.
+このルールは事実上、廃止されています。 <br><br> (事実上)	<b>このルールはじじつじょう、はいしされています。</b> <br> This rule is effectively abolished. <br> [sound:4c-s-このルールは事実上、廃止されています。.mp3]
+This rule is effectively abolished.	<b>このルールは事実上、廃止されています。</b> <br> このルールはじじつじょう、はいしされています。 <br><br> (事実上) <br> [sound:4c-s-このルールは事実上、廃止されています。.mp3]
+[sound:4c-k-上げ.mp3]	<b>上げ</b> <br> あげ <br> rise in price, making a tuck
+上げ	<b>あげ</b> <br> rise in price, making a tuck <br> [sound:4c-k-上げ.mp3]
+rise in price, making a tuck	<b>上げ</b> <br> あげ <br> [sound:4c-k-上げ.mp3]
+[sound:4c-s-価格を上げました。.mp3]	<b>価格を上げました。</b> <br> かかくをあげました。 <br><br> (上げ) <br> I raised the price.
+価格を上げました。 <br><br> (上げ)	<b>かかくをあげました。</b> <br> I raised the price. <br> [sound:4c-s-価格を上げました。.mp3]
+I raised the price.	<b>価格を上げました。</b> <br> かかくをあげました。 <br><br> (上げ) <br> [sound:4c-s-価格を上げました。.mp3]
+[sound:4c-k-一部.mp3]	<b>一部</b> <br> いちぶ <br> one part, one portion, one section, some; one copy (e.g. of a document)
+一部	<b>いちぶ</b> <br> one part, one portion, one section, some; one copy (e.g. of a document) <br> [sound:4c-k-一部.mp3]
+one part, one portion, one section, some; one copy (e.g. of a document)	<b>一部</b> <br> いちぶ <br> [sound:4c-k-一部.mp3]
+[sound:4c-s-報告の一部を修正しました。.mp3]	<b>報告の一部を修正しました。</b> <br> ほうこくのいちぶをしゅうせいしました。 <br><br> (一部) <br> I revised part of the report.
+報告の一部を修正しました。 <br><br> (一部)	<b>ほうこくのいちぶをしゅうせいしました。</b> <br> I revised part of the report. <br> [sound:4c-s-報告の一部を修正しました。.mp3]
+I revised part of the report.	<b>報告の一部を修正しました。</b> <br> ほうこくのいちぶをしゅうせいしました。 <br><br> (一部) <br> [sound:4c-s-報告の一部を修正しました。.mp3]
+[sound:4c-k-幹部.mp3]	<b>幹部</b> <br> かんぶ <br> management, (executive) staff, leaders, leadership, top brass, upper echelons
+幹部	<b>かんぶ</b> <br> management, (executive) staff, leaders, leadership, top brass, upper echelons <br> [sound:4c-k-幹部.mp3]
+management, (executive) staff, leaders, leadership, top brass, upper echelons	<b>幹部</b> <br> かんぶ <br> [sound:4c-k-幹部.mp3]
+[sound:4c-s-幹部が会議に出席しました。.mp3]	<b>幹部が会議に出席しました。</b> <br> かんぶがかいぎにしゅっせきしました。 <br><br> (幹部) <br> Executives attended the meeting.
+幹部が会議に出席しました。 <br><br> (幹部)	<b>かんぶがかいぎにしゅっせきしました。</b> <br> Executives attended the meeting. <br> [sound:4c-s-幹部が会議に出席しました。.mp3]
+Executives attended the meeting.	<b>幹部が会議に出席しました。</b> <br> かんぶがかいぎにしゅっせきしました。 <br><br> (幹部) <br> [sound:4c-s-幹部が会議に出席しました。.mp3]
+[sound:4c-k-部長.mp3]	<b>部長</b> <br> ぶちょう <br> head (chief, director) of a section or department; head of a (school) club, head of a (school) team
+部長	<b>ぶちょう</b> <br> head (chief, director) of a section or department; head of a (school) club, head of a (school) team <br> [sound:4c-k-部長.mp3]
+head (chief, director) of a section or department; head of a (school) club, head of a (school) team	<b>部長</b> <br> ぶちょう <br> [sound:4c-k-部長.mp3]
+[sound:4c-s-部長が新しいプロジェクトを発表しました。.mp3]	<b>部長が新しいプロジェクトを発表しました。</b> <br> ぶちょうがあたらしいプロジェクトをはっぴょうしました。 <br><br> (部長) <br> The department head announced a new project.
+部長が新しいプロジェクトを発表しました。 <br><br> (部長)	<b>ぶちょうがあたらしいプロジェクトをはっぴょうしました。</b> <br> The department head announced a new project. <br> [sound:4c-s-部長が新しいプロジェクトを発表しました。.mp3]
+The department head announced a new project.	<b>部長が新しいプロジェクトを発表しました。</b> <br> ぶちょうがあたらしいプロジェクトをはっぴょうしました。 <br><br> (部長) <br> [sound:4c-s-部長が新しいプロジェクトを発表しました。.mp3]
+[sound:4c-k-部分.mp3]	<b>部分</b> <br> ぶぶん <br> portion, section, part
+部分	<b>ぶぶん</b> <br> portion, section, part <br> [sound:4c-k-部分.mp3]
+portion, section, part	<b>部分</b> <br> ぶぶん <br> [sound:4c-k-部分.mp3]
+[sound:4c-s-この計画の重要な部分を説明します。.mp3]	<b>この計画の重要な部分を説明します。</b> <br> このけいかくのじゅうようなぶぶんをせつめいします。 <br><br> (部分) <br> I will explain the important parts of this plan.
+この計画の重要な部分を説明します。 <br><br> (部分)	<b>このけいかくのじゅうようなぶぶんをせつめいします。</b> <br> I will explain the important parts of this plan. <br> [sound:4c-s-この計画の重要な部分を説明します。.mp3]
+I will explain the important parts of this plan.	<b>この計画の重要な部分を説明します。</b> <br> このけいかくのじゅうようなぶぶんをせつめいします。 <br><br> (部分) <br> [sound:4c-s-この計画の重要な部分を説明します。.mp3]
+[sound:4c-k-東.mp3]	<b>東</b> <br> ひがし, ひむかし, ひんがし <br> east
+東	<b>ひがし, ひむかし, ひんがし</b> <br> east <br> [sound:4c-k-東.mp3]
+east	<b>東</b> <br> ひがし, ひむかし, ひんがし <br> [sound:4c-k-東.mp3]
+[sound:4c-s-東の空が明るくなってきました。.mp3]	<b>東の空が明るくなってきました。</b> <br> ひがしのそらがあかるくなってきました。 <br><br> (東) <br> The eastern sky is getting brighter.
+東の空が明るくなってきました。 <br><br> (東)	<b>ひがしのそらがあかるくなってきました。</b> <br> The eastern sky is getting brighter. <br> [sound:4c-s-東の空が明るくなってきました。.mp3]
+The eastern sky is getting brighter.	<b>東の空が明るくなってきました。</b> <br> ひがしのそらがあかるくなってきました。 <br><br> (東) <br> [sound:4c-s-東の空が明るくなってきました。.mp3]
+[sound:4c-k-東京.mp3]	<b>東京</b> <br> とうきょう <br> Tokyo (current capital of Japan)
+東京	<b>とうきょう</b> <br> Tokyo (current capital of Japan) <br> [sound:4c-k-東京.mp3]
+Tokyo (current capital of Japan)	<b>東京</b> <br> とうきょう <br> [sound:4c-k-東京.mp3]
+[sound:4c-s-東京は日本の首都です。.mp3]	<b>東京は日本の首都です。</b> <br> とうきょうはにほんのしゅとです。 <br><br> (東京) <br> Tokyo is the capital of Japan.
+東京は日本の首都です。 <br><br> (東京)	<b>とうきょうはにほんのしゅとです。</b> <br> Tokyo is the capital of Japan. <br> [sound:4c-s-東京は日本の首都です。.mp3]
+Tokyo is the capital of Japan.	<b>東京は日本の首都です。</b> <br> とうきょうはにほんのしゅとです。 <br><br> (東京) <br> [sound:4c-s-東京は日本の首都です。.mp3]
+[sound:4c-k-中東.mp3]	<b>中東</b> <br> ちゅうとう <br> Middle East
+中東	<b>ちゅうとう</b> <br> Middle East <br> [sound:4c-k-中東.mp3]
+Middle East	<b>中東</b> <br> ちゅうとう <br> [sound:4c-k-中東.mp3]
+[sound:4c-s-中東のニュースを読んでいます。.mp3]	<b>中東のニュースを読んでいます。</b> <br> ちゅうとうのニュースをよんでいます。 <br><br> (中東) <br> I'm reading Middle East news.
+中東のニュースを読んでいます。 <br><br> (中東)	<b>ちゅうとうのニュースをよんでいます。</b> <br> I'm reading Middle East news. <br> [sound:4c-s-中東のニュースを読んでいます。.mp3]
+I'm reading Middle East news.	<b>中東のニュースを読んでいます。</b> <br> ちゅうとうのニュースをよんでいます。 <br><br> (中東) <br> [sound:4c-s-中東のニュースを読んでいます。.mp3]
+[sound:4c-k-東海.mp3]	<b>東海</b> <br> とうかい <br> region south of Tokyo on Pacific Ocean side of Japan, eastern sea
+東海	<b>とうかい</b> <br> region south of Tokyo on Pacific Ocean side of Japan, eastern sea <br> [sound:4c-k-東海.mp3]
+region south of Tokyo on Pacific Ocean side of Japan, eastern sea	<b>東海</b> <br> とうかい <br> [sound:4c-k-東海.mp3]
+[sound:4c-s-東海地方は美しい海があります。.mp3]	<b>東海地方は美しい海があります。</b> <br> とうかいちほうはうつくしいうみがあります。 <br><br> (東海) <br> The Tokai region has beautiful seas.
+東海地方は美しい海があります。 <br><br> (東海)	<b>とうかいちほうはうつくしいうみがあります。</b> <br> The Tokai region has beautiful seas. <br> [sound:4c-s-東海地方は美しい海があります。.mp3]
+The Tokai region has beautiful seas.	<b>東海地方は美しい海があります。</b> <br> とうかいちほうはうつくしいうみがあります。 <br><br> (東海) <br> [sound:4c-s-東海地方は美しい海があります。.mp3]
+[sound:4c-k-患者.mp3]	<b>患者</b> <br> かんじゃ <br> (a) patient
+患者	<b>かんじゃ</b> <br> (a) patient <br> [sound:4c-k-患者.mp3]
+(a) patient	<b>患者</b> <br> かんじゃ <br> [sound:4c-k-患者.mp3]
+[sound:4c-s-病院には多くの患者がいます。.mp3]	<b>病院には多くの患者がいます。</b> <br> びょういんにはおおくのかんじゃがいます。 <br><br> (患者) <br> There are many patients in the hospital.
+病院には多くの患者がいます。 <br><br> (患者)	<b>びょういんにはおおくのかんじゃがいます。</b> <br> There are many patients in the hospital. <br> [sound:4c-s-病院には多くの患者がいます。.mp3]
+There are many patients in the hospital.	<b>病院には多くの患者がいます。</b> <br> びょういんにはおおくのかんじゃがいます。 <br><br> (患者) <br> [sound:4c-s-病院には多くの患者がいます。.mp3]
+[sound:4c-k-関係者.mp3]	<b>関係者</b> <br> かんけいしゃ <br> authorized people, authorised people, person(s) concerned
+関係者	<b>かんけいしゃ</b> <br> authorized people, authorised people, person(s) concerned <br> [sound:4c-k-関係者.mp3]
+authorized people, authorised people, person(s) concerned	<b>関係者</b> <br> かんけいしゃ <br> [sound:4c-k-関係者.mp3]
+[sound:4c-s-関係者が会議に出席しました。.mp3]	<b>関係者が会議に出席しました。</b> <br> かんけいしゃがかいぎにしゅっせきしました。 <br><br> (関係者) <br> Stakeholders attended the meeting.
+関係者が会議に出席しました。 <br><br> (関係者)	<b>かんけいしゃがかいぎにしゅっせきしました。</b> <br> Stakeholders attended the meeting. <br> [sound:4c-s-関係者が会議に出席しました。.mp3]
+Stakeholders attended the meeting.	<b>関係者が会議に出席しました。</b> <br> かんけいしゃがかいぎにしゅっせきしました。 <br><br> (関係者) <br> [sound:4c-s-関係者が会議に出席しました。.mp3]
+[sound:4c-k-記者.mp3]	<b>記者</b> <br> きしゃ <br> reporter
+記者	<b>きしゃ</b> <br> reporter <br> [sound:4c-k-記者.mp3]
+reporter	<b>記者</b> <br> きしゃ <br> [sound:4c-k-記者.mp3]
+[sound:4c-s-記者が事件を報道しました。.mp3]	<b>記者が事件を報道しました。</b> <br> きしゃがじけんをほうどうしました。 <br><br> (記者) <br> The journalist reported the incident.
+記者が事件を報道しました。 <br><br> (記者)	<b>きしゃがじけんをほうどうしました。</b> <br> The journalist reported the incident. <br> [sound:4c-s-記者が事件を報道しました。.mp3]
+The journalist reported the incident.	<b>記者が事件を報道しました。</b> <br> きしゃがじけんをほうどうしました。 <br><br> (記者) <br> [sound:4c-s-記者が事件を報道しました。.mp3]
+[sound:4c-k-業者.mp3]	<b>業者</b> <br> ぎょうしゃ <br> trader, merchant
+業者	<b>ぎょうしゃ</b> <br> trader, merchant <br> [sound:4c-k-業者.mp3]
+trader, merchant	<b>業者</b> <br> ぎょうしゃ <br> [sound:4c-k-業者.mp3]
+[sound:4c-s-業者と契約を結びました。.mp3]	<b>業者と契約を結びました。</b> <br> ぎょうしゃとけいやくをむすびました。 <br><br> (業者) <br> I signed a contract with the vendor.
+業者と契約を結びました。 <br><br> (業者)	<b>ぎょうしゃとけいやくをむすびました。</b> <br> I signed a contract with the vendor. <br> [sound:4c-s-業者と契約を結びました。.mp3]
+I signed a contract with the vendor.	<b>業者と契約を結びました。</b> <br> ぎょうしゃとけいやくをむすびました。 <br><br> (業者) <br> [sound:4c-s-業者と契約を結びました。.mp3]
+[sound:4c-k-党.mp3]	<b>党</b> <br> とう <br> party (political); faction, -ite
+党	<b>とう</b> <br> party (political); faction, -ite <br> [sound:4c-k-党.mp3]
+party (political); faction, -ite	<b>党</b> <br> とう <br> [sound:4c-k-党.mp3]
+[sound:4c-s-党の新しい方針が発表されました。.mp3]	<b>党の新しい方針が発表されました。</b> <br> とうのあたらしいほうしんがはっぴょうされました。 <br><br> (党) <br> The party’s new policy was announced.
+党の新しい方針が発表されました。 <br><br> (党)	<b>とうのあたらしいほうしんがはっぴょうされました。</b> <br> The party’s new policy was announced. <br> [sound:4c-s-党の新しい方針が発表されました。.mp3]
+The party’s new policy was announced.	<b>党の新しい方針が発表されました。</b> <br> とうのあたらしいほうしんがはっぴょうされました。 <br><br> (党) <br> [sound:4c-s-党の新しい方針が発表されました。.mp3]
+[sound:4c-k-共産党.mp3]	<b>共産党</b> <br> きょうさんとう <br> Communist Party
+共産党	<b>きょうさんとう</b> <br> Communist Party <br> [sound:4c-k-共産党.mp3]
+Communist Party	<b>共産党</b> <br> きょうさんとう <br> [sound:4c-k-共産党.mp3]
+[sound:4c-s-共産党の活動について調べました。.mp3]	<b>共産党の活動について調べました。</b> <br> きょうさんとうのかつどうについてしらべました。 <br><br> (共産党) <br> I researched the Communist Party’s activities.
+共産党の活動について調べました。 <br><br> (共産党)	<b>きょうさんとうのかつどうについてしらべました。</b> <br> I researched the Communist Party’s activities. <br> [sound:4c-s-共産党の活動について調べました。.mp3]
+I researched the Communist Party’s activities.	<b>共産党の活動について調べました。</b> <br> きょうさんとうのかつどうについてしらべました。 <br><br> (共産党) <br> [sound:4c-s-共産党の活動について調べました。.mp3]
+[sound:4c-k-社会党.mp3]	<b>社会党</b> <br> しゃかいとう <br> Socialist Party
+社会党	<b>しゃかいとう</b> <br> Socialist Party <br> [sound:4c-k-社会党.mp3]
+Socialist Party	<b>社会党</b> <br> しゃかいとう <br> [sound:4c-k-社会党.mp3]
+[sound:4c-s-社会党が政策を提案しました。.mp3]	<b>社会党が政策を提案しました。</b> <br> しゃかいとうがせいさくをていあんしました。 <br><br> (社会党) <br> The Socialist Party proposed policies.
+社会党が政策を提案しました。 <br><br> (社会党)	<b>しゃかいとうがせいさくをていあんしました。</b> <br> The Socialist Party proposed policies. <br> [sound:4c-s-社会党が政策を提案しました。.mp3]
+The Socialist Party proposed policies.	<b>社会党が政策を提案しました。</b> <br> しゃかいとうがせいさくをていあんしました。 <br><br> (社会党) <br> [sound:4c-s-社会党が政策を提案しました。.mp3]
+[sound:4c-k-新党.mp3]	<b>新党</b> <br> しんとう <br> new (political) party
+新党	<b>しんとう</b> <br> new (political) party <br> [sound:4c-k-新党.mp3]
+new (political) party	<b>新党</b> <br> しんとう <br> [sound:4c-k-新党.mp3]
+[sound:4c-s-新党が結成されました。.mp3]	<b>新党が結成されました。</b> <br> しんとうがけっせいされました。 <br><br> (新党) <br> A new political party was formed.
+新党が結成されました。 <br><br> (新党)	<b>しんとうがけっせいされました。</b> <br> A new political party was formed. <br> [sound:4c-s-新党が結成されました。.mp3]
+A new political party was formed.	<b>新党が結成されました。</b> <br> しんとうがけっせいされました。 <br><br> (新党) <br> [sound:4c-s-新党が結成されました。.mp3]
+[sound:4c-k-地.mp3]	<b>地</b> <br> ち <br> earth, ground, land, soil; place; territory; bottom (of a package, book, etc.)
+地	<b>ち</b> <br> earth, ground, land, soil; place; territory; bottom (of a package, book, etc.) <br> [sound:4c-k-地.mp3]
+earth, ground, land, soil; place; territory; bottom (of a package, book, etc.)	<b>地</b> <br> ち <br> [sound:4c-k-地.mp3]
+[sound:4c-s-地図で場所を確認しました。.mp3]	<b>地図で場所を確認しました。</b> <br> ちずでばしょをかくにんしました。 <br><br> (地) <br> I checked the location on the map.
+地図で場所を確認しました。 <br><br> (地)	<b>ちずでばしょをかくにんしました。</b> <br> I checked the location on the map. <br> [sound:4c-s-地図で場所を確認しました。.mp3]
+I checked the location on the map.	<b>地図で場所を確認しました。</b> <br> ちずでばしょをかくにんしました。 <br><br> (地) <br> [sound:4c-s-地図で場所を確認しました。.mp3]
+[sound:4c-k-現地.mp3]	<b>現地</b> <br> げんち <br> actual place, local
+現地	<b>げんち</b> <br> actual place, local <br> [sound:4c-k-現地.mp3]
+actual place, local	<b>現地</b> <br> げんち <br> [sound:4c-k-現地.mp3]
+[sound:4c-s-現地の状況を調査しました。.mp3]	<b>現地の状況を調査しました。</b> <br> げんちのじょうきょうをちょうさしました。 <br><br> (現地) <br> I investigated the local situation.
+現地の状況を調査しました。 <br><br> (現地)	<b>げんちのじょうきょうをちょうさしました。</b> <br> I investigated the local situation. <br> [sound:4c-s-現地の状況を調査しました。.mp3]
+I investigated the local situation.	<b>現地の状況を調査しました。</b> <br> げんちのじょうきょうをちょうさしました。 <br><br> (現地) <br> [sound:4c-s-現地の状況を調査しました。.mp3]
+[sound:4c-k-地域.mp3]	<b>地域</b> <br> ちいき <br> area, region
+地域	<b>ちいき</b> <br> area, region <br> [sound:4c-k-地域.mp3]
+area, region	<b>地域</b> <br> ちいき <br> [sound:4c-k-地域.mp3]
+[sound:4c-s-この地域には美しい自然があります。.mp3]	<b>この地域には美しい自然があります。</b> <br> このちいきにはうつくしいしぜんがあります。 <br><br> (地域) <br> This region has beautiful nature.
+この地域には美しい自然があります。 <br><br> (地域)	<b>このちいきにはうつくしいしぜんがあります。</b> <br> This region has beautiful nature. <br> [sound:4c-s-この地域には美しい自然があります。.mp3]
+This region has beautiful nature.	<b>この地域には美しい自然があります。</b> <br> このちいきにはうつくしいしぜんがあります。 <br><br> (地域) <br> [sound:4c-s-この地域には美しい自然があります。.mp3]
+[sound:4c-k-地球.mp3]	<b>地球</b> <br> ちきゅう <br> the earth
+地球	<b>ちきゅう</b> <br> the earth <br> [sound:4c-k-地球.mp3]
+the earth	<b>地球</b> <br> ちきゅう <br> [sound:4c-k-地球.mp3]
+[sound:4c-s-地球の環境を守ることが重要です。.mp3]	<b>地球の環境を守ることが重要です。</b> <br> ちきゅうのかんきょうをまもることがじゅうようです。 <br><br> (地球) <br> Protecting the Earth's environment is important.
+地球の環境を守ることが重要です。 <br><br> (地球)	<b>ちきゅうのかんきょうをまもることがじゅうようです。</b> <br> Protecting the Earth's environment is important. <br> [sound:4c-s-地球の環境を守ることが重要です。.mp3]
+Protecting the Earth's environment is important.	<b>地球の環境を守ることが重要です。</b> <br> ちきゅうのかんきょうをまもることがじゅうようです。 <br><br> (地球) <br> [sound:4c-s-地球の環境を守ることが重要です。.mp3]
+[sound:4c-k-合.mp3]	<b>合</b> <br> ごう <br> 0.18039 litres (liters); 0.3306 metres square (meters); one-tenth of the way from the base to the summit of a mountain; (astronomical) conjunction; counter for covered containers; counter for matches, battles, etc.
+合	<b>ごう</b> <br> 0.18039 litres (liters); 0.3306 metres square (meters); one-tenth of the way from the base to the summit of a mountain; (astronomical) conjunction; counter for covered containers; counter for matches, battles, etc. <br> [sound:4c-k-合.mp3]
+0.18039 litres (liters); 0.3306 metres square (meters); one-tenth of the way from the base to the summit of a mountain; (astronomical) conjunction; counter for covered containers; counter for matches, battles, etc.	<b>合</b> <br> ごう <br> [sound:4c-k-合.mp3]
+[sound:4c-s-二社が合併しました。.mp3]	<b>二社が合併しました。</b> <br> にしゃががっぺいしました。 <br><br> (合) <br> Two companies merged.
+二社が合併しました。 <br><br> (合)	<b>にしゃががっぺいしました。</b> <br> Two companies merged. <br> [sound:4c-s-二社が合併しました。.mp3]
+Two companies merged.	<b>二社が合併しました。</b> <br> にしゃががっぺいしました。 <br><br> (合) <br> [sound:4c-s-二社が合併しました。.mp3]
+[sound:4c-k-合意.mp3]	<b>合意</b> <br> ごうい <br> agreement, consent, mutual understanding
+合意	<b>ごうい</b> <br> agreement, consent, mutual understanding <br> [sound:4c-k-合意.mp3]
+agreement, consent, mutual understanding	<b>合意</b> <br> ごうい <br> [sound:4c-k-合意.mp3]
+[sound:4c-s-両国は新しい合意を結びました。.mp3]	<b>両国は新しい合意を結びました。</b> <br> りょうこくはあたらしいごういをむすびました。 <br><br> (合意) <br> Both countries reached a new agreement.
+両国は新しい合意を結びました。 <br><br> (合意)	<b>りょうこくはあたらしいごういをむすびました。</b> <br> Both countries reached a new agreement. <br> [sound:4c-s-両国は新しい合意を結びました。.mp3]
+Both countries reached a new agreement.	<b>両国は新しい合意を結びました。</b> <br> りょうこくはあたらしいごういをむすびました。 <br><br> (合意) <br> [sound:4c-s-両国は新しい合意を結びました。.mp3]
+[sound:4c-k-試合.mp3]	<b>試合</b> <br> しあい <br> match, game, bout, contest
+試合	<b>しあい</b> <br> match, game, bout, contest <br> [sound:4c-k-試合.mp3]
+match, game, bout, contest	<b>試合</b> <br> しあい <br> [sound:4c-k-試合.mp3]
+[sound:4c-s-サッカーの試合を観戦しました。.mp3]	<b>サッカーの試合を観戦しました。</b> <br> サッカーのしあいをかんせんしました。 <br><br> (試合) <br> I watched a soccer match.
+サッカーの試合を観戦しました。 <br><br> (試合)	<b>サッカーのしあいをかんせんしました。</b> <br> I watched a soccer match. <br> [sound:4c-s-サッカーの試合を観戦しました。.mp3]
+I watched a soccer match.	<b>サッカーの試合を観戦しました。</b> <br> サッカーのしあいをかんせんしました。 <br><br> (試合) <br> [sound:4c-s-サッカーの試合を観戦しました。.mp3]
+[sound:4c-k-連合.mp3]	<b>連合</b> <br> れんごう <br> union, alliance, combination
+連合	<b>れんごう</b> <br> union, alliance, combination <br> [sound:4c-k-連合.mp3]
+union, alliance, combination	<b>連合</b> <br> れんごう <br> [sound:4c-k-連合.mp3]
+[sound:4c-s-連合軍が作戦を開始しました。.mp3]	<b>連合軍が作戦を開始しました。</b> <br> れんごうぐんがさくせんをかいししました。 <br><br> (連合) <br> The allied forces began their operation.
+連合軍が作戦を開始しました。 <br><br> (連合)	<b>れんごうぐんがさくせんをかいししました。</b> <br> The allied forces began their operation. <br> [sound:4c-s-連合軍が作戦を開始しました。.mp3]
+The allied forces began their operation.	<b>連合軍が作戦を開始しました。</b> <br> れんごうぐんがさくせんをかいししました。 <br><br> (連合) <br> [sound:4c-s-連合軍が作戦を開始しました。.mp3]
+[sound:4c-k-市場.mp3]	<b>市場</b> <br> いちば <br> (town) market; (the) marketplace
+市場	<b>いちば</b> <br> (town) market; (the) marketplace <br> [sound:4c-k-市場.mp3]
+(town) market; (the) marketplace	<b>市場</b> <br> いちば <br> [sound:4c-k-市場.mp3]
+[sound:4c-s-市場で新鮮な野菜を買いました。.mp3]	<b>市場で新鮮な野菜を買いました。</b> <br> しじょうでしんせんなやさいをかいました。 <br><br> (市場) <br> I bought fresh vegetables at the market.
+市場で新鮮な野菜を買いました。 <br><br> (市場)	<b>しじょうでしんせんなやさいをかいました。</b> <br> I bought fresh vegetables at the market. <br> [sound:4c-s-市場で新鮮な野菜を買いました。.mp3]
+I bought fresh vegetables at the market.	<b>市場で新鮮な野菜を買いました。</b> <br> しじょうでしんせんなやさいをかいました。 <br><br> (市場) <br> [sound:4c-s-市場で新鮮な野菜を買いました。.mp3]
+[sound:4c-k-市内.mp3]	<b>市内</b> <br> しない <br> (within a) city, local
+市内	<b>しない</b> <br> (within a) city, local <br> [sound:4c-k-市内.mp3]
+(within a) city, local	<b>市内</b> <br> しない <br> [sound:4c-k-市内.mp3]
+[sound:4c-s-市内には多くの観光スポットがあります。.mp3]	<b>市内には多くの観光スポットがあります。</b> <br> しないにはおおくのかんこうスポットがあります。 <br><br> (市内) <br> There are many tourist spots within the city.
+市内には多くの観光スポットがあります。 <br><br> (市内)	<b>しないにはおおくのかんこうスポットがあります。</b> <br> There are many tourist spots within the city. <br> [sound:4c-s-市内には多くの観光スポットがあります。.mp3]
+There are many tourist spots within the city.	<b>市内には多くの観光スポットがあります。</b> <br> しないにはおおくのかんこうスポットがあります。 <br><br> (市内) <br> [sound:4c-s-市内には多くの観光スポットがあります。.mp3]
+[sound:4c-k-市民.mp3]	<b>市民</b> <br> しみん <br> citizen, townspeople
+市民	<b>しみん</b> <br> citizen, townspeople <br> [sound:4c-k-市民.mp3]
+citizen, townspeople	<b>市民</b> <br> しみん <br> [sound:4c-k-市民.mp3]
+[sound:4c-s-市民が清掃活動を行いました。.mp3]	<b>市民が清掃活動を行いました。</b> <br> しみんがせいそうかつどうをおこないました。 <br><br> (市民) <br> Citizens carried out a cleaning campaign.
+市民が清掃活動を行いました。 <br><br> (市民)	<b>しみんがせいそうかつどうをおこないました。</b> <br> Citizens carried out a cleaning campaign. <br> [sound:4c-s-市民が清掃活動を行いました。.mp3]
+Citizens carried out a cleaning campaign.	<b>市民が清掃活動を行いました。</b> <br> しみんがせいそうかつどうをおこないました。 <br><br> (市民) <br> [sound:4c-s-市民が清掃活動を行いました。.mp3]
+[sound:4c-k-都市.mp3]	<b>都市</b> <br> とし <br> town, city, municipal, urban
+都市	<b>とし</b> <br> town, city, municipal, urban <br> [sound:4c-k-都市.mp3]
+town, city, municipal, urban	<b>都市</b> <br> とし <br> [sound:4c-k-都市.mp3]
+[sound:4c-s-この都市は活気があります。.mp3]	<b>この都市は活気があります。</b> <br> このとしはかっきがあります。 <br><br> (都市) <br> This city is vibrant.
